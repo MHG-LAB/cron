@@ -1,0 +1,1 @@
+document.write("Rocks in the Verzasca River near the hamlet of Lavertezzo in the Valle Verzasca of Switzerland (© Robert Seitz/Offset by Shutterstock)")

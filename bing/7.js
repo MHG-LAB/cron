@@ -1,0 +1,1 @@
+document.write("Eastern bluebirds in Charlotte, North Carolina (© Elizabeth W. Kearley/Getty Images)")

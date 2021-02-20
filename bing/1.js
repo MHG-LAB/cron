@@ -1,0 +1,1 @@
+document.write("Parrotfish off the coast of Negros Oriental province in the Philippines (© Tim Fitzharris/Minden Pictures)")

@@ -1,0 +1,1 @@
+document.write("Perito Moreno Glacier in Patagonia's Los Glaciares National Park, Argentina (© Juergen Schonnop/Getty Images)")
