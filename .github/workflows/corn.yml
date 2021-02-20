@@ -1,0 +1,70 @@
+name: cron
+on: 
+  schedule:
+    - cron: '0 21 * * *'
+  push:
+    branches: 
+      - master
+
+jobs:
+  download:
+    runs-on: Ubuntu-20.04
+
+    steps:
+    - name: Download
+      run: |
+        mkdir ./bing
+        cd ./bing
+        curl https://api.mhuig.top/bing?day=0 -o bing.jpg
+        curl https://api.mhuig.top/bing?day=1 -o 1.jpg
+        curl https://api.mhuig.top/bing?day=2 -o 2.jpg
+        curl https://api.mhuig.top/bing?day=3 -o 3.jpg
+        curl https://api.mhuig.top/bing?day=4 -o 4.jpg
+        curl https://api.mhuig.top/bing?day=5 -o 5.jpg
+        curl https://api.mhuig.top/bing?day=6 -o 6.jpg
+        curl https://api.mhuig.top/bing?day=7 -o 7.jpg
+        curl https://api.mhuig.top/bingcopyright/w?day=0 -o bing.js
+        curl https://api.mhuig.top/bingcopyright/w?day=1 -o 1.js
+        curl https://api.mhuig.top/bingcopyright/w?day=2 -o 2.js
+        curl https://api.mhuig.top/bingcopyright/w?day=3 -o 3.js
+        curl https://api.mhuig.top/bingcopyright/w?day=4 -o 4.js
+        curl https://api.mhuig.top/bingcopyright/w?day=5 -o 5.js
+        curl https://api.mhuig.top/bingcopyright/w?day=6 -o 6.js
+        curl https://api.mhuig.top/bingcopyright/w?day=7 -o 7.js
+        curl https://api.mhuig.top/binginfo?day=0 -o bing.json
+        curl https://api.mhuig.top/binginfo?day=1 -o 1.json
+        curl https://api.mhuig.top/binginfo?day=2 -o 2.json
+        curl https://api.mhuig.top/binginfo?day=3 -o 3.json
+        curl https://api.mhuig.top/binginfo?day=4 -o 4.json
+        curl https://api.mhuig.top/binginfo?day=5 -o 5.json
+        curl https://api.mhuig.top/binginfo?day=6 -o 6.json
+        curl https://api.mhuig.top/binginfo?day=7 -o 7.json
+        cd ..
+        mkdir ./soul
+        cd ./soul
+        curl https://api.mhuig.top/soul -o soul.json
+        curl https://api.mhuig.top/soul/w -o soul.js
+        cd ..
+        mkdir ./hitokoto
+        cd ./hitokoto
+        curl https://api.mhuig.top/hitokoto -o hitokoto.json
+        curl https://api.mhuig.top/hitokoto/w -o hitokoto.js
+        cd ..
+        mkdir ./unsplash
+        cd ./unsplash
+        curl https://api.mhuig.top/unsplash -o 0.jpg
+        curl https://api.mhuig.top/unsplash -o 1.jpg
+        curl https://api.mhuig.top/unsplash -o 2.jpg
+        curl https://api.mhuig.top/unsplash -o 3.jpg
+        curl https://api.mhuig.top/unsplash -o 4.jpg
+        curl https://api.mhuig.top/unsplash -o 5.jpg
+        curl https://api.mhuig.top/unsplash -o 6.jpg
+        curl https://api.mhuig.top/unsplash -o 7.jpg
+        curl https://api.mhuig.top/unsplash -o 8.jpg
+        curl https://api.mhuig.top/unsplash -o 9.jpg
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./
