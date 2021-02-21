@@ -1,1 +1,1 @@
-document.write("Eastern bluebirds in Charlotte, North Carolina (© Elizabeth W. Kearley/Getty Images)")
+document.write("Ocean waves crashing over a heart-shaped rock island off the coast of Sydney, Australia (© Kristian Bell/Getty Images)")
