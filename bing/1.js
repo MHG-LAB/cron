@@ -1,1 +1,1 @@
-document.write("Clearing snowstorm, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)")
+document.write("Porto, Portugal (© Kanuman/Shutterstock)")

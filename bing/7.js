@@ -1,1 +1,1 @@
-document.write("Ocean waves crashing over a heart-shaped rock island off the coast of Sydney, Australia (© Kristian Bell/Getty Images)")
+document.write("Lincoln Memorial in Washington, DC (© White House Photo/Alamy)")

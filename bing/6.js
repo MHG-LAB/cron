@@ -1,1 +1,1 @@
-document.write("Lincoln Memorial in Washington, DC (© White House Photo/Alamy)")
+document.write("Flowers and an ironwork fence in front of a house in New Orleans, Louisiana (© Lauren Mitchell/Offset by Shutterstock)")
