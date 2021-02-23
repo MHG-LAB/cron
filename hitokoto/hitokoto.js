@@ -1,1 +1,1 @@
-document.write('学无前后，达者为师')
+document.write('自己永远是孤单的，但你可以让其他人变得不孤单。')

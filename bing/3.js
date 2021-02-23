@@ -1,1 +1,1 @@
-document.write("Parrotfish off the coast of Negros Oriental province in the Philippines (© Tim Fitzharris/Minden Pictures)")
+document.write("Clearing snowstorm, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)")
