@@ -1,1 +1,1 @@
-document.write("Flowers and an ironwork fence in front of a house in New Orleans, Louisiana (© Lauren Mitchell/Offset by Shutterstock)")
+document.write("Perito Moreno Glacier in Patagonia's Los Glaciares National Park, Argentina (© Juergen Schonnop/Getty Images)")
