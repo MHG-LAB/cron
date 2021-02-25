@@ -1,1 +1,1 @@
-document.write("'Invisible Man,' a memorial to Ralph Ellison in Riverside Park, New York City (© Randy Duchaine/Alamy)")
+document.write("Dalmatian pelicans on ice, Lake Kerkini, Greece (© Guy Edwardes/Minden Pictures)")
