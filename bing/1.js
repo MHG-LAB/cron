@@ -1,1 +1,1 @@
-document.write("Almond blossoms overlooking Trevi, Umbria, Italy (© Maurizio Rellini/eStock Photo)")
+document.write("Red lanterns hanging in Jinli Street, Chengdu, China (© Philippe LEJEANVRE/Getty Images)")
