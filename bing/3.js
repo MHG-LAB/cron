@@ -1,1 +1,1 @@
-document.write("Le Morne Brabant, Mauritius (© Hemis/Alamy)")
+document.write("Almond blossoms overlooking Trevi, Umbria, Italy (© Maurizio Rellini/eStock Photo)")
