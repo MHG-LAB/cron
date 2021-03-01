@@ -1,1 +1,1 @@
-document.write("Red lanterns hanging in Jinli Street, Chengdu, China (© Philippe LEJEANVRE/Getty Images)")
+document.write("Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)")
