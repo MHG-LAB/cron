@@ -1,1 +1,1 @@
-document.write("Dalmatian pelicans on ice, Lake Kerkini, Greece (© Guy Edwardes/Minden Pictures)")
+document.write("Le Morne Brabant, Mauritius (© Hemis/Alamy)")
