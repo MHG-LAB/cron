@@ -1,1 +1,1 @@
-document.write("Twin polar bear cubs asleep in a snow den in Wapusk National Park, Manitoba, Canada (© AF archive/Alamy)")
+document.write("Turf farmhouses at Skaftafell, Vatnajökull National Park, Iceland (© Jarcosa/Getty Images)")
