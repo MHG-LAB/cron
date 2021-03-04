@@ -1,1 +1,1 @@
-document.write('世界上脑残那么多，你却成了佼佼者。')
+document.write('这世上如果有什么真理，那就是活该！')

@@ -1,1 +1,1 @@
-document.write("A section of a large mosaic of Ida B. Wells displayed at Union Station in Washington, DC, in August 2020 (© Manuel Balce Ceneta/AP Photo)")
+document.write("Volcano Llaima with Araucaria trees in the foreground, Conguillío National Park, Chile (© Fotografías Jorge León Cabello/Getty Images)")
