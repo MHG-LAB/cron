@@ -1,1 +1,1 @@
-document.write('这世上如果有什么真理，那就是活该！')
+document.write('既已背影倾天下，何必转身乱芳华。')

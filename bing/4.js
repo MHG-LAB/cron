@@ -1,1 +1,1 @@
-document.write("Turf farmhouses at Skaftafell, Vatnajökull National Park, Iceland (© Jarcosa/Getty Images)")
+document.write("A section of a large mosaic of Ida B. Wells displayed at Union Station in Washington, DC, in August 2020 (© Manuel Balce Ceneta/AP Photo)")
