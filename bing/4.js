@@ -1,1 +1,1 @@
-document.write("Volcano Llaima with Araucaria trees in the foreground, Conguillío National Park, Chile (© Fotografías Jorge León Cabello/Getty Images)")
+document.write("Female lions in the forest surrounding Lake Nakuru, Kenya (© Scott Davis/Tandem Stills + Motion)")

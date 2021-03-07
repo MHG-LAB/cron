@@ -1,1 +1,1 @@
-document.write('怀着理想溺死在现实中吧！')
+document.write('我把眼泪送出去了……')
