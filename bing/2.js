@@ -1,1 +1,1 @@
-document.write("Mineral-laden water in the Rio Tinto, Minas de Riotinto mining area, Huelva province, Andalusia, Spain (© David Santiago Garcia/Getty Images)")
+document.write("Komodo National Park, Indonesia (© Thrithot/Adobe Stock)")

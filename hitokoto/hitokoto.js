@@ -1,1 +1,1 @@
-document.write('我把眼泪送出去了……')
+document.write('一天一苹果，疾病远离我')
