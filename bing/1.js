@@ -1,1 +1,1 @@
-document.write("Great blue herons in the Wakodahatchee Wetlands, Delray Beach, Florida (© Marie Hickman/Getty Images)")
+document.write("View of the Notorious RBG mural by the street artist Elle in New York City (© lev radin/Alamy)")

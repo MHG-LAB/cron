@@ -1,1 +1,1 @@
-document.write('失败乃成功之母，可失败连男朋友都没有。')
+document.write('叫起你的不是阳光，是那只饿了的猫')
