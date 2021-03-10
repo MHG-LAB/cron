@@ -1,1 +1,1 @@
-document.write("Komodo National Park, Indonesia (© Thrithot/Adobe Stock)")
+document.write("Great blue herons in the Wakodahatchee Wetlands, Delray Beach, Florida (© Marie Hickman/Getty Images)")

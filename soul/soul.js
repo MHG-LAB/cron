@@ -1,1 +1,1 @@
-document.write('叫起你的不是阳光，是那只饿了的猫')
+document.write('你就像仙女一样，但我讨厌仙女')
