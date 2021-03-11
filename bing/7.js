@@ -1,1 +1,1 @@
-document.write("Female lions in the forest surrounding Lake Nakuru, Kenya (© Scott Davis/Tandem Stills + Motion)")
+document.write("Nusa Dua coast with breakwater, Bali, Indonesia (© Dkart/Getty Images)")
