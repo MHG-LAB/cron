@@ -1,1 +1,1 @@
-document.write("Thor's Well at Cape Perpetua on the Oregon coast (© Cavan Images/Offset by Shutterstock)")
+document.write("A balloon flies over the Pyramid of the Sun at sunrise in Teotihuacan, Mexico (© Marco Ugarte/AP Photo)")
