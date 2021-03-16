@@ -1,1 +1,1 @@
-document.write("View of the Notorious RBG mural by the street artist Elle in New York City (© lev radin/Alamy)")
+document.write("Foothills of the Diablo Range in the East Bay region of Northern California (© Jeff Lewis/Tandem Stills + Motion)")

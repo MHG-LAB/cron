@@ -1,1 +1,1 @@
-document.write("'Step on Board,' the Harriet Tubman Memorial, sculpted by Fern Cunningham, in Boston, Massachusetts (© Anthony Pleva/Alamy)")
+document.write("Thor's Well at Cape Perpetua on the Oregon coast (© Cavan Images/Offset by Shutterstock)")
