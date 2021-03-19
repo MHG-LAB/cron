@@ -1,1 +1,1 @@
-document.write("Astronomical clock, Lyon, France (© kyolshin/Alamy)")
+document.write("Screech owl resting in a tree cavity, Massapequa Preserve, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")

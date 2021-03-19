@@ -1,1 +1,1 @@
-document.write("Inishmore, the largest of the Aran Islands in Galway Bay, Ireland (© Chris Hill/Minden Pictures)")
+document.write("Mount Etna erupting in 2013, Sicily, Italy (© Wead/Alamy Live News)")
