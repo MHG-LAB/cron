@@ -1,1 +1,1 @@
-document.write("Aerial view of the City of Adelaide shipwreck with trees growing on it, Magnetic Island, Queensland, Australia (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("Sundial on Parnidis Dune, Curonian Spit, Lithuania (© amoklv/Getty Images)")

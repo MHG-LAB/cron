@@ -1,1 +1,1 @@
-document.write("Screech owl resting in a tree cavity, Massapequa Preserve, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
+document.write("Giant panda cub at Bifengxia Panda Base, Sichuan, China (© Suzi Eszterhas/Minden Pictures)")

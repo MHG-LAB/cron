@@ -1,1 +1,1 @@
-document.write("Giant panda cub at Bifengxia Panda Base, Sichuan, China (© Suzi Eszterhas/Minden Pictures)")
+document.write("Inishmore, the largest of the Aran Islands in Galway Bay, Ireland (© Chris Hill/Minden Pictures)")
