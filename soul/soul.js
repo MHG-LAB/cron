@@ -1,1 +1,1 @@
-document.write('爱笑的姑娘，总是比别人，长更多的鱼尾纹。')
+document.write('突破瓶颈之后，发现还有瓶盖。')

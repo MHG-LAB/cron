@@ -1,1 +1,1 @@
-document.write('早上的五分钟等于白天的三十分钟。')
+document.write('三军可夺帅也，匹夫不可夺志也')
