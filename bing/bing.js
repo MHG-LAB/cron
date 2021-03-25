@@ -1,1 +1,1 @@
-document.write("Humpback whale mother pushes her sleeping calf to the surface, Maui, Hawaii (© Ralph Pace/Minden Pictures)")
+document.write("Ancient Roman gold mining site of Las Médulas, León province, Spain (© David Santiago Garcia/Getty Images)")
