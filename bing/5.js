@@ -1,1 +1,1 @@
-document.write("Sundial on Parnidis Dune, Curonian Spit, Lithuania (© amoklv/Getty Images)")
+document.write("Bluebell flowers carpet the Hallerbos forest floor, Flanders, Belgium (© Jason Langley/plainpicture)")

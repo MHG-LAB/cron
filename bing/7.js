@@ -1,1 +1,1 @@
-document.write("Mount Etna erupting in 2013, Sicily, Italy (© Wead/Alamy Live News)")
+document.write("Aerial view of the City of Adelaide shipwreck with trees growing on it, Magnetic Island, Queensland, Australia (© Amazing Aerial Agency/Offset by Shutterstock)")

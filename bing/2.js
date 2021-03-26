@@ -1,1 +1,1 @@
-document.write("Satellite image of the Mania River in Madagascar (© NASA Earth Observatory image by Joshua Stevens, using Landsat data from the US Geological Survey)")
+document.write("Humpback whale mother pushes her sleeping calf to the surface, Maui, Hawaii (© Ralph Pace/Minden Pictures)")

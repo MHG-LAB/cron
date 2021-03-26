@@ -1,1 +1,1 @@
-document.write('这是为了培养独自一人，振翅高飞的勇气。')
+document.write('年青人求知欲很旺，而忍耐性不足。 ')
