@@ -1,1 +1,1 @@
-document.write("Bluebell flowers carpet the Hallerbos forest floor, Flanders, Belgium (© Jason Langley/plainpicture)")
+document.write("Tuskegee Airmen reading a map (© Bettmann/Getty Images)")

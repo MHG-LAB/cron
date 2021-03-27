@@ -1,1 +1,1 @@
-document.write('年青人求知欲很旺，而忍耐性不足。 ')
+document.write('不是事业为了思想，而是思想为了事业')
