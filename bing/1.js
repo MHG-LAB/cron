@@ -1,1 +1,1 @@
-document.write("Mountain hare running across snow-covered upland, Scotland (© SCOTLAND: The Big Picture/Minden Pictures)")
+document.write("The Jefferson Memorial during the National Cherry Blossom Festival in Washington, DC (© Rae Gabrielle/Alamy)")
