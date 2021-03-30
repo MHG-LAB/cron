@@ -1,1 +1,1 @@
-document.write("Tuskegee Airmen reading a map (© Bettmann/Getty Images)")
+document.write("Satellite image of the Mania River in Madagascar (© NASA Earth Observatory image by Joshua Stevens, using Landsat data from the US Geological Survey)")
