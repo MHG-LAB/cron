@@ -1,1 +1,1 @@
-document.write("Ancient Roman gold mining site of Las Médulas, León province, Spain (© David Santiago Garcia/Getty Images)")
+document.write("Cradle Mountain-Lake St Clair National Park, Tasmania, Australia (© Paparwin Tanupatarachai/Getty Images)")
