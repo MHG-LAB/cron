@@ -1,1 +1,1 @@
-document.write("Cradle Mountain-Lake St Clair National Park, Tasmania, Australia (© Paparwin Tanupatarachai/Getty Images)")
+document.write("Mountain hare running across snow-covered upland, Scotland (© SCOTLAND: The Big Picture/Minden Pictures)")

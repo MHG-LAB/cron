@@ -1,1 +1,1 @@
-document.write("Astronomische Uhr in der Kathedrale von Lyon, Frankreich (© kyolshin/Alamy)")
+document.write("Reynisdrangar (basalt rock formations) on Reynisfjara Beach, Iceland (© Cavan Images/Getty Images)")
