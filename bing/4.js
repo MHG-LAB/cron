@@ -1,1 +1,1 @@
-document.write("The Jefferson Memorial during the National Cherry Blossom Festival in Washington, DC (© Rae Gabrielle/Alamy)")
+document.write("Reynisdrangar (basalt rock formations) on Reynisfjara Beach, Iceland (© Cavan Images/Getty Images)")
