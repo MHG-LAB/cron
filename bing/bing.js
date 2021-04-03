@@ -1,1 +1,1 @@
-document.write("Lençóis Maranhenses National Park in the state of Maranhão, Brazil (© WIN-Initiative/Getty Images)")
+document.write("Lighthouse at Cape Aniva, Sakhalin Island, Russia (© Amazing Aerial Agency/Offset by Shutterstock)")

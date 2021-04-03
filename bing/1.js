@@ -1,1 +1,1 @@
-document.write("Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)")
+document.write("Lençóis Maranhenses National Park in the state of Maranhão, Brazil (© WIN-Initiative/Getty Images)")
