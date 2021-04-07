@@ -1,1 +1,1 @@
-document.write('绝不能和梦中的人说话,那是与黑暗的国度对话。')
+document.write('我是要成为海贼王的男人！')

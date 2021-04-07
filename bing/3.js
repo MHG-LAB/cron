@@ -1,1 +1,1 @@
-document.write("Lighthouse at Cape Aniva, Sakhalin Island, Russia (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("Ostereierbaum (Easter egg tree) in Saalfeld, Germany (© Rudi Sebastian/Alamy)")
