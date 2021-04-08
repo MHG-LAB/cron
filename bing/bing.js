@@ -1,1 +1,1 @@
-document.write("Willow tree in early spring, Minnesota (© Jim Brandenburg/Minden Pictures)")
+document.write("Black grouse male calling at a lek site in Kuusamo, Finland (© Oliver Smart/Alamy)")

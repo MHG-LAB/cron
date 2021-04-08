@@ -1,1 +1,1 @@
-document.write("Wayag Island, Raja Ampat, Indonesia (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)")

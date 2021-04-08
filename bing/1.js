@@ -1,1 +1,1 @@
-document.write("Parthenon temple, Acropolis of Athens, Greece (© Lucky-photographer/Shutterstock)")
+document.write("Willow tree in early spring, Minnesota (© Jim Brandenburg/Minden Pictures)")
