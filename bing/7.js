@@ -1,1 +1,1 @@
-document.write("Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)")
+document.write("Mount Snowdon and the Llanberis Pass from Dinorwic Slate Quarry, Snowdonia National Park, Gwynedd (© Alan Novelli/Alamy)")
