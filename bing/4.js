@@ -1,1 +1,1 @@
-document.write("Saut du Brot stone bridge in the Areuse Gorge, Neuchâtel, Switzerland (© Andreas Gerth/eStock Photo)")
+document.write("The Parthenon temple in the Acropolis of Athens, Greece (© Lucky-photographer/Shutterstock)")

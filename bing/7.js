@@ -1,1 +1,1 @@
-document.write("Mount Snowdon and the Llanberis Pass from Dinorwic Slate Quarry, Snowdonia National Park, Gwynedd (© Alan Novelli/Alamy)")
+document.write("Lighthouse at Cape Aniva, Sakhalin Island, Russia (© Amazing Aerial Agency/Offset by Shutterstock)")

@@ -1,1 +1,1 @@
-document.write('你以为他给你点赞，是喜欢你？只是手滑罢了。')
+document.write('咸鱼翻了身，也还是咸鱼。')
