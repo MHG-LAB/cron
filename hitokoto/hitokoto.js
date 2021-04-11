@@ -1,1 +1,1 @@
-document.write('这无关经验和立场。')
+document.write('时间带着明显的恶意，缓缓在我的头顶流逝。')
