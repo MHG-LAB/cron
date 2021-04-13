@@ -1,1 +1,1 @@
-document.write("Shetland Sheep, a traditional, hardy breed of the Northern Isles in Scotland (© Martin Zwick/DanitaDelimont.com)")
+document.write("Grizzly bear cub siblings playing in Denali National Park, Alaska, USA (© Ron Niebrugge/Alamy)")

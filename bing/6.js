@@ -1,1 +1,1 @@
-document.write("The Parthenon temple in the Acropolis of Athens, Greece (© Lucky-photographer/Shutterstock)")
+document.write("Hartland Point Lighthouse and Lundy Island beneath a colourful sunset, North Devon (© Adam Burton/Alamy Stock Photo)")
