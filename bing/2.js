@@ -1,1 +1,1 @@
-document.write("Mount Yoshino, Nara Prefecture, Japan (© Sean Pavone/iStock/Getty Images Plus)")
+document.write("Earth from the International Space Station, photographed by astronaut Jeff Williams (© Jeff Williams/Nasa)")
