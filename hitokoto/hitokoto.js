@@ -1,1 +1,1 @@
-document.write('</html>')
+document.write('让你陪我疯了这么久，真是抱歉，这是我最后一次的任性。')
