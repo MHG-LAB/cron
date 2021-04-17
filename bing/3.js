@@ -1,1 +1,1 @@
-document.write("Wat Phra Si Sanphet, Ayutthaya Historical Park, Unesco World Heritage Site, Ayutthaya, Thailand (© travelstock44/Alamy)")
+document.write("Basalt rock formations on Reynisfjara Beach, Iceland (© Cavan Images/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Dalí Theatre-Museum in Figueres, Spain (© Valerija Polakovska/Shutterstock)")
+document.write("View of the rocky gritstone edge of The Roaches looking over the patchwork landscape, Peak District, Staffordshire. (© George W Johnson/Getty Images)")
