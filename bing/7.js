@@ -1,1 +1,1 @@
-document.write("Grizzly bear cub siblings playing in Denali National Park, Alaska, USA (© Ron Niebrugge/Alamy)")
+document.write("Mount Yoshino, Nara Prefecture, Japan (© Sean Pavone/iStock/Getty Images Plus)")
