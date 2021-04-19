@@ -1,1 +1,1 @@
-document.write("Basalt rock formations on Reynisfjara Beach, Iceland (© Cavan Images/Getty Images)")
+document.write("Lençóis Maranhenses National Park in Barreirinhas, Brazil (© WIN-Initiative/Getty Images)")

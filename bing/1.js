@@ -1,1 +1,1 @@
-document.write("View of the rocky gritstone edge of The Roaches looking over the patchwork landscape, Peak District, Staffordshire. (© George W Johnson/Getty Images)")
+document.write("New River Gorge Bridge in the New River Gorge National Park and Preserve, West Virginia, USA (© EntropyWorkshop/iStock/Getty Images Plus)")

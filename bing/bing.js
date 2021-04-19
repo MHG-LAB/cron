@@ -1,1 +1,1 @@
-document.write("New River Gorge Bridge in the New River Gorge National Park and Preserve, West Virginia, USA (© EntropyWorkshop/iStock/Getty Images Plus)")
+document.write("Large school of Munk's pygmy devil rays from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)")
