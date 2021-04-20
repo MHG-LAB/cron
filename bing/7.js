@@ -1,1 +1,1 @@
-document.write("Earth from the International Space Station, photographed by astronaut Jeff Williams (© Jeff Williams/Nasa)")
+document.write("Wat Phra Si Sanphet, Ayutthaya Historical Park, Ayutthaya, Thailand (© travelstock44/Alamy)")

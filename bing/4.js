@@ -1,1 +1,1 @@
-document.write("Lençóis Maranhenses National Park in Barreirinhas, Brazil (© WIN-Initiative/Getty Images)")
+document.write("Dalí Theatre-Museum in Figueres, Spain (© Valerija Polakovska/Shutterstock)")

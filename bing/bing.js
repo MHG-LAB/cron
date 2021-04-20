@@ -1,1 +1,1 @@
-document.write("Large school of Munk's pygmy devil rays from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)")
+document.write("Tegallalang Rice Terraces, Ubud, Bali, Indonesia (© Michele Falzone/Alamy)")

@@ -1,1 +1,1 @@
-document.write("Basalt rock formations on Reynisfjara Beach, Iceland (© Cavan Images/Getty Images)")
+document.write("Jackie Robinson signs autographs at spring training in Ciudad Trujillo, now Santo Domingo, Dominican Republic, on March 6, 1948 (© Bettmann/Getty Images)")

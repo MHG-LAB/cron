@@ -1,1 +1,1 @@
-document.write("View of the rocky gritstone edge of The Roaches looking over the patchwork landscape, Peak District, Staffordshire. (© George W Johnson/Getty Images)")
+document.write("Montalbano Elicona, Messina, Sicily, Italy (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)")

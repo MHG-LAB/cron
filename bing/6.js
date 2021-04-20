@@ -1,1 +1,1 @@
-document.write("Wat Phra Si Sanphet, Ayutthaya Historical Park, Unesco World Heritage Site, Ayutthaya, Thailand (© travelstock44/Alamy)")
+document.write("Wildflowers in the Carrizo Plain National Monument, California (© Dennis Frates/Alamy)")
