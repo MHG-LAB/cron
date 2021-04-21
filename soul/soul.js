@@ -1,1 +1,1 @@
-document.write('是好久不见，还是，视而不见。')
+document.write('听说你过的没我好，那我就放心了。')

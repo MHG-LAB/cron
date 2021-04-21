@@ -1,1 +1,1 @@
-document.write("Jackie Robinson signs autographs at spring training in Ciudad Trujillo, now Santo Domingo, Dominican Republic, on March 6, 1948 (© Bettmann/Getty Images)")
+document.write("Dalí Theatre-Museum in Figueres, Spain (© Valerija Polakovska/Shutterstock)")

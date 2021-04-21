@@ -1,1 +1,1 @@
-document.write("Wildflowers in the Carrizo Plain National Monument, California (© Dennis Frates/Alamy)")
+document.write("Jackie Robinson signs autographs at spring training in Ciudad Trujillo, now Santo Domingo, Dominican Republic, on March 6, 1948 (© Bettmann/Getty Images)")

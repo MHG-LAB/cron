@@ -1,1 +1,1 @@
-document.write("Dalí Theatre-Museum in Figueres, Spain (© Valerija Polakovska/Shutterstock)")
+document.write("New River Gorge Bridge in the New River Gorge National Park and Preserve, West Virginia (© Entropy Workshop/iStock/Getty Images Plus)")

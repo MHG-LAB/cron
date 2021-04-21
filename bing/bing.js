@@ -1,1 +1,1 @@
-document.write("Tegallalang Rice Terraces, Ubud, Bali, Indonesia (© Michele Falzone/Alamy)")
+document.write("The north coast of Madeira, Portugal (© Hemis/Alamy)")
