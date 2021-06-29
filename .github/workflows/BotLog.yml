@@ -26,7 +26,7 @@ jobs:
         git config --global user.name "$BOT_NAME"
     - name: Bot Log
       run: |
-        Date=`date -d '+8 hours' +'%Y-%m-%d %H:%M:%S'`
+        Date=`date -d '+0 hours' +'%Y-%m-%d %H:%M:%S'`
         echo "* [$Date] Successful *" >> readme.md
 
     - name: Deploy
