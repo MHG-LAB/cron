@@ -1,1 +1,1 @@
-document.write('你的心可以属于耶稣，但你的屁股永远属于陆战队！')
+document.write('你若盛开，清风自来。')
