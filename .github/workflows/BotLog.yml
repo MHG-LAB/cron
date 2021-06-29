@@ -27,11 +27,13 @@ jobs:
     - name: Bot Log
       run: |
         Date=`date -d '+0 hours' +'%Y-%m-%d %H:%M:%S'`
-        echo "* [$Date] Successful *" >> readme.md
+        echo "[$Date] Successful" >> readme.md
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.BOT_DEPLOY_KEY }}
+        user_name: ${{ secrets.BOT_NAME }}
+        user_email: ${{ secrets.BOT_EMAIL }}
         publish_dir: ./
         publish_branch: botlog
