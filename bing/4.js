@@ -1,0 +1,1 @@
+document.write("View of the midnight sun behind Seljalandsfoss waterfall near the south coast of Iceland (© Tom Mackie/plainpicture)")

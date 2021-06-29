@@ -1,0 +1,1 @@
+document.write("Glass sightseeing platform in Shilinxia Scenic Area, Pinggu District of Beijing, China (© STR/AFP via Getty Images)")

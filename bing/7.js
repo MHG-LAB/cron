@@ -1,0 +1,1 @@
+document.write("Reading the news aboard the Empire Windrush on arrival at Tilbury, Essex on 22 June 1948 (© Hulton-Deutsch Collection/CORBIS/Corbis via Getty Images)")

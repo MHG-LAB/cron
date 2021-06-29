@@ -1,0 +1,1 @@
+document.write("Fireflies in Nichinan, Tottori, Japan (© north-tail/Getty Images Plus)")

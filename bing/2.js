@@ -1,0 +1,1 @@
+document.write("Rainbow balloons for Pride Month (© lazyllama/Shutterstock)")
