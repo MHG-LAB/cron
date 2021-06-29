@@ -5,7 +5,7 @@ on:
   push:
     branches: 
       - master
-
+  workflow_dispatch:
 jobs:
   download:
     runs-on: Ubuntu-20.04
