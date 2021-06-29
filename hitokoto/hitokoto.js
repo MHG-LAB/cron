@@ -1,1 +1,1 @@
-document.write('你若盛开，清风自来。')
+document.write('明明只是活着，哀伤却无处不在⋯⋯')
