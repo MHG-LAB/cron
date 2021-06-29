@@ -17,44 +17,44 @@ jobs:
       run: |
         mkdir ./bing
         cd ./bing
-        curl  -H $HEAD https://api.mhuig.top/bing?day=0 -o bing.jpg
-        curl  -H $HEAD https://api.mhuig.top/bing?day=1 -o 1.jpg
-        curl  -H $HEAD https://api.mhuig.top/bing?day=2 -o 2.jpg
-        curl  -H $HEAD https://api.mhuig.top/bing?day=3 -o 3.jpg
-        curl  -H $HEAD https://api.mhuig.top/bing?day=4 -o 4.jpg
-        curl  -H $HEAD https://api.mhuig.top/bing?day=5 -o 5.jpg
-        curl  -H $HEAD https://api.mhuig.top/bing?day=6 -o 6.jpg
-        curl  -H $HEAD https://api.mhuig.top/bing?day=7 -o 7.jpg
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=0 -o bing.js
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=1 -o 1.js
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=2 -o 2.js
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=3 -o 3.js
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=4 -o 4.js
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=5 -o 5.js
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=6 -o 6.js
-        curl  -H $HEAD https://api.mhuig.top/bingcopyright/w?day=7 -o 7.js
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=0 -o bing.json
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=1 -o 1.json
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=2 -o 2.json
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=3 -o 3.json
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=4 -o 4.json
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=5 -o 5.json
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=6 -o 6.json
-        curl  -H $HEAD https://api.mhuig.top/binginfo?day=7 -o 7.json
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=0 -o bing.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=1 -o 1.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=2 -o 2.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=3 -o 3.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=4 -o 4.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=5 -o 5.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=6 -o 6.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bing?day=7 -o 7.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=0 -o bing.js
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=1 -o 1.js
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=2 -o 2.js
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=3 -o 3.js
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=4 -o 4.js
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=5 -o 5.js
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=6 -o 6.js
+        curl  -H "$HEAD" https://api.mhuig.top/bingcopyright/w?day=7 -o 7.js
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=0 -o bing.json
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=1 -o 1.json
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=2 -o 2.json
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=3 -o 3.json
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=4 -o 4.json
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=5 -o 5.json
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=6 -o 6.json
+        curl  -H "$HEAD" https://api.mhuig.top/binginfo?day=7 -o 7.json
         cd ..
         mkdir ./soul
         cd ./soul
-        curl  -H $HEAD https://api.mhuig.top/soul -o soul.json
-        curl  -H $HEAD https://api.mhuig.top/soul/w -o soul.js
+        curl  -H "$HEAD" https://api.mhuig.top/soul -o soul.json
+        curl  -H "$HEAD" https://api.mhuig.top/soul/w -o soul.js
         cd ..
         mkdir ./hitokoto
         cd ./hitokoto
-        curl  -H $HEAD https://api.mhuig.top/hitokoto -o hitokoto.json
-        curl  -H $HEAD https://api.mhuig.top/hitokoto/w -o hitokoto.js
+        curl  -H "$HEAD" https://api.mhuig.top/hitokoto -o hitokoto.json
+        curl  -H "$HEAD" https://api.mhuig.top/hitokoto/w -o hitokoto.js
         cd ..
         mkdir ./unsplash
         cd ./unsplash
-        curl  -H $HEAD https://api.mhuig.top/unsplash -o unsplash.jpg
+        curl  -H "$HEAD" https://api.mhuig.top/unsplash -o unsplash.jpg
 
 
     - name: Deploy
