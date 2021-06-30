@@ -1,1 +1,1 @@
-document.write("Order of Play boards on Centre Court at the All England Lawn Tennis Club, Wimbledon, London (© AELTC/Bob Martin via USA TODAY Sports)")
+document.write("Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)")

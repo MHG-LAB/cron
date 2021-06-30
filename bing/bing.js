@@ -1,1 +1,1 @@
-document.write("Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)")
+document.write("Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)")

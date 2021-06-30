@@ -1,1 +1,1 @@
-document.write("The Dune of Pilat in Arcachon Bay, south-west France (© aluxum/iStock/Getty Images Plus)")
+document.write("View of the midnight sun behind Seljalandsfoss waterfall near the south coast of Iceland (© Tom Mackie/plainpicture)")

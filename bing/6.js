@@ -1,1 +1,1 @@
-document.write("Fireflies in Nichinan, Tottori, Japan (© north-tail/Getty Images Plus)")
+document.write("The Dune of Pilat in Arcachon Bay, south-west France (© aluxum/iStock/Getty Images Plus)")

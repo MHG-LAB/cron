@@ -1,1 +1,1 @@
-document.write('不要担心，一切都是最烂的安排。')
+document.write('吾日三省吾身，吾没钱 吾没车 吾没房。')
