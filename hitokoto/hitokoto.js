@@ -1,1 +1,1 @@
-document.write('能够原谅女人的，才是男人。')
+document.write('只要知道你还活在这个世上，我就可以了无牵挂。')
