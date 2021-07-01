@@ -1,1 +1,1 @@
-document.write("Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)")
+document.write("Small loch in Glen Etive, Highlands (© Oliver Hellowell/Minden Pictures)")

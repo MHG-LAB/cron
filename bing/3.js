@@ -1,1 +1,1 @@
-document.write("Rainbow balloons for Pride Month (© lazyllama/Shutterstock)")
+document.write("Order of Play boards on Centre Court at the All England Lawn Tennis Club, Wimbledon, London (© AELTC/Bob Martin via USA TODAY Sports)")
