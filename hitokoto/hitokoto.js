@@ -1,1 +1,1 @@
-document.write('男人和男人之间的约定不能不遵守。')
+document.write('我们只要做好现在能做好的事情就行了。')

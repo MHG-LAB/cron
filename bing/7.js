@@ -1,1 +1,1 @@
-document.write("The Dune of Pilat in Arcachon Bay, south-west France (© aluxum/iStock/Getty Images Plus)")
+document.write("Kamikōchi, Nagano Prefecture, Japan (© sadao/Shutterstock)")

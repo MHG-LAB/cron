@@ -1,1 +1,1 @@
-document.write("Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)")
+document.write("Ardnamurchan半岛, 苏格兰高地 (© Cavan Images/Offset by Shutterstock)")

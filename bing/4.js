@@ -1,1 +1,1 @@
-document.write("Rainbow balloons for Pride Month (© lazyllama/Shutterstock)")
+document.write("拉迪格岛德阿让海滩上的岩石，塞舌尔 (© Roland Gerth/eStock Photo)")

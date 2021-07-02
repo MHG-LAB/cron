@@ -1,1 +1,1 @@
-document.write("Glass sightseeing platform in Shilinxia Scenic Area, Pinggu District of Beijing, China (© STR/AFP via Getty Images)")
+document.write("戈佐岛上的Cittadella城堡,马耳他 (© Davide Seddio/Getty Images)")

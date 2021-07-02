@@ -1,1 +1,1 @@
-document.write("Small loch in Glen Etive, Highlands (© Oliver Hellowell/Minden Pictures)")
+document.write("瓦卡托比国家公园，印度尼西亚 (© Fabio Lamanna/Alamy)")

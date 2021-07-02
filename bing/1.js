@@ -1,1 +1,1 @@
-document.write("Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)")
+document.write("翘首眺望远方的狐獴，纳米比亚 (© Danita Delimont/Offset by Shutterstock)")
