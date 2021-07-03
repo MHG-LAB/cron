@@ -1,1 +1,1 @@
-document.write('只要是用钱能解决的事情，我一件都解决不了。')
+document.write('常在河边走，谁还会穿鞋。')

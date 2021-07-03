@@ -1,1 +1,1 @@
-document.write("Kamikōchi, Nagano Prefecture, Japan (© sadao/Shutterstock)")
+document.write("大型火烈鸟迁徙到淡水区，印度 (© Amresh Mishra/500px/Getty Images)")
