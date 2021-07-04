@@ -1,1 +1,1 @@
-document.write("翘首眺望远方的狐獴，纳米比亚 (© Danita Delimont/Offset by Shutterstock)")
+document.write("瓦卡托比国家公园，印度尼西亚 (© Fabio Lamanna/Alamy)")

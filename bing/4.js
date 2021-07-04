@@ -1,1 +1,1 @@
-document.write("薰衣草田，英国牛津 (© Peter Greenway/EyeEm/Getty Images)")
+document.write("Ardnamurchan半岛, 苏格兰高地 (© Cavan Images/Offset by Shutterstock)")

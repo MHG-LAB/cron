@@ -1,1 +1,1 @@
-document.write("戈佐岛上的Cittadella城堡,马耳他 (© Davide Seddio/Getty Images)")
+document.write("拉迪格岛德阿让海滩上的岩石，塞舌尔 (© Roland Gerth/eStock Photo)")

@@ -1,1 +1,1 @@
-document.write("拉迪格岛德阿让海滩上的岩石，塞舌尔 (© Roland Gerth/eStock Photo)")
+document.write("薰衣草田，英国牛津 (© Peter Greenway/EyeEm/Getty Images)")

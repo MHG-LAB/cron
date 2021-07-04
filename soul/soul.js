@@ -1,1 +1,1 @@
-document.write('常在河边走，谁还会穿鞋。')
+document.write('饱汉不知饿汉饥，饿汉不知饱汉虚。')
