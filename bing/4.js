@@ -1,1 +1,1 @@
-document.write("Ardnamurchan半岛, 苏格兰高地 (© Cavan Images/Offset by Shutterstock)")
+document.write("翘首眺望远方的狐獴，纳米比亚 (© Danita Delimont/Offset by Shutterstock)")
