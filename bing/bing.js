@@ -1,1 +1,1 @@
-document.write("茶色蟆口鸱雏鸟，澳大利亚 (© SnapRapid/Offset by Shutterstock)")
+document.write("乌鲁米耶湖中的岩层，伊朗 (© Ali/Adobe Stock)")
