@@ -1,1 +1,1 @@
-document.write("乌鲁米耶湖中的岩层，伊朗 (© Ali/Adobe Stock)")
+document.write("阿巴拉契亚国家步道,新泽西州斯托克斯州立森林 (© Frank DeBonis/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("瓦卡托比国家公园，印度尼西亚 (© Fabio Lamanna/Alamy)")
+document.write("阿尔高阿尔卑斯山脉的Schrecksee湖，德国巴伐利亚 (© Andreas Hagspiel/EyeEm/Getty Images)")
