@@ -1,1 +1,1 @@
-document.write("阿尔高阿尔卑斯山脉的Schrecksee湖，德国巴伐利亚 (© Andreas Hagspiel/EyeEm/Getty Images)")
+document.write("Serra da Malagueta山脉，佛得角圣地亚哥岛 (© Samuel Borges Photography/Shutterstock)")
