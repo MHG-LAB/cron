@@ -1,1 +1,1 @@
-document.write('熬夜对身体不好，建议通宵。')
+document.write('有钱人可以选择低调，而你，却只能低调。')

@@ -1,1 +1,1 @@
-document.write("Serra da Malagueta山脉，佛得角圣地亚哥岛 (© Samuel Borges Photography/Shutterstock)")
+document.write("茶色蟆口鸱雏鸟，澳大利亚 (© SnapRapid/Offset by Shutterstock)")
