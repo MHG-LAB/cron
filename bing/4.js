@@ -1,1 +1,1 @@
-document.write("阿巴拉契亚国家步道,新泽西州斯托克斯州立森林 (© Frank DeBonis/Getty Images)")
+document.write("奥提伽，西西里岛锡拉库萨海岸附近的小岛，意大利 (© DaLiu/Shutterstock)")

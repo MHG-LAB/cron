@@ -1,1 +1,1 @@
-document.write('为什么现充们喜欢披露自己的恋爱辛苦谈啊？')
+document.write('知识不会给予人幸福。')
