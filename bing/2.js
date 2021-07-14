@@ -1,1 +1,1 @@
-document.write("海浪撞击费尔盖拉什灯塔，葡萄牙波尔图 (© Stephan Zirwes/Offset by Shutterstock)")
+document.write("驼鹿穿过莫兰山下的池塘，怀俄明州大提顿国家公园 (© Jim Stamates/Minden Pictures)")
