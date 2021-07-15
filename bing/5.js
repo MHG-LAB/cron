@@ -1,1 +1,1 @@
-document.write("塔霍河上空的银河，西班牙蒙弗拉圭国家公园 (© Miguel Angel Muñoz Ruiz/Cavan Images)")
+document.write("螺旋状芦荟 (© David Madison/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Milky Way over the Tagus River in Monfragüe National Park, Spain (© Miguel Angel Muñoz Ruiz/Cavan Images)")
+document.write("海浪撞击费尔盖拉什灯塔，葡萄牙波尔图 (© Stephan Zirwes/Offset by Shutterstock)")

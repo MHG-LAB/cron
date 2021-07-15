@@ -1,1 +1,1 @@
-document.write("奥提伽，西西里岛锡拉库萨海岸附近的小岛，意大利 (© DaLiu/Shutterstock)")
+document.write("塔霍河上空的银河，西班牙蒙弗拉圭国家公园 (© Miguel Angel Muñoz Ruiz/Cavan Images)")
