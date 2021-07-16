@@ -1,1 +1,1 @@
-document.write("驼鹿穿过莫兰山下的池塘，怀俄明州大提顿国家公园 (© Jim Stamates/Minden Pictures)")
+document.write("大溪地海岸附近的乌翅真鲨，法属波利尼西亚 (© Paul Mckenzie/Minden Pictures)")
