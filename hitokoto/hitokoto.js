@@ -1,1 +1,1 @@
-document.write('雨，何时停？')
+document.write('因为没有事要找你，所以没法打电话啊，就算想打也打不了。')
