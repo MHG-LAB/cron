@@ -1,1 +1,1 @@
-document.write("蒙舒瓦西海滩，毛里求斯 (© Robert Harding World Imagery/Offset by Shutterstock)")
+document.write("乌瑟多姆岛上的钦诺维茨码头， 德国波罗的海 (© Robert Thompson/Minden Pictures)")
