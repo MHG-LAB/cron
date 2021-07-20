@@ -1,1 +1,1 @@
-document.write("月球的高清合成影像 (© Prathamesh Jaju)")
+document.write("山脉中的朱砂湖，加拿大落基山脉 (© Glowing Earth Photography/Getty Images)")

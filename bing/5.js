@@ -1,1 +1,1 @@
-document.write("Ngo Dong河两岸的稻田美景，越南宁平省 (© Jeremy Woodhouse/Getty Images)")
+document.write("蒙舒瓦西海滩，毛里求斯 (© Robert Harding World Imagery/Offset by Shutterstock)")
