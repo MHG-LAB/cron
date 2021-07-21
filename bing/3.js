@@ -1,1 +1,1 @@
-document.write("Zinnowitz pier on Usedom island in the Baltic Sea, Germany (© Frank Günther/Getty Images)")
+document.write("Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)")

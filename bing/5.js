@@ -1,1 +1,1 @@
-document.write("蒙舒瓦西海滩，毛里求斯 (© Robert Harding World Imagery/Offset by Shutterstock)")
+document.write("Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)")

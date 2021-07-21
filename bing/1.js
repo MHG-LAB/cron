@@ -1,1 +1,1 @@
-document.write("月球的高清合成影像 (© Prathamesh Jaju)")
+document.write("Composite image of the moon (© Prathamesh Jaju)")

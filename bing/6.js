@@ -1,1 +1,1 @@
-document.write("Ngo Dong河两岸的稻田美景，越南宁平省 (© Jeremy Woodhouse/Getty Images)")
+document.write("Boats float by rice fields on the Ngo Dong River in Ninh Bình province, Vietnam (© Jeremy Woodhouse/Getty Images)")

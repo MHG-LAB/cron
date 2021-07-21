@@ -1,1 +1,1 @@
-document.write("大溪地海岸附近的乌翅真鲨，法属波利尼西亚 (© Paul Mckenzie/Minden Pictures)")
+document.write("Blacktip reef sharks off the coast of Tahiti, French Polynesia (© Paul Mckenzie/Minden Pictures)")

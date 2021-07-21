@@ -1,1 +1,1 @@
-document.write("山脉中的朱砂湖，加拿大落基山脉 (© Glowing Earth Photography/Getty Images)")
+document.write("Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)")
