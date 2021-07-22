@@ -1,1 +1,1 @@
-document.write('希望能成为一个有趣和有钱的人，实在不行，光有钱就行')
+document.write('善良没用，你得漂亮。')

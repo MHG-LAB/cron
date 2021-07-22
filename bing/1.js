@@ -1,1 +1,1 @@
-document.write("Composite image of the moon (© Prathamesh Jaju)")
+document.write("Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)")

@@ -1,1 +1,1 @@
-document.write('人总是会变的，不要害怕改变哦。')
+document.write('我的世界能有你的笑容就足够了！')

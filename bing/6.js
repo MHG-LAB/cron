@@ -1,1 +1,1 @@
-document.write("Boats float by rice fields on the Ngo Dong River in Ninh Bình province, Vietnam (© Jeremy Woodhouse/Getty Images)")
+document.write("Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)")

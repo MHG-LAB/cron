@@ -1,1 +1,1 @@
-document.write("Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)")
+document.write("A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)")
