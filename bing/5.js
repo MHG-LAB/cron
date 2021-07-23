@@ -1,1 +1,1 @@
-document.write("A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)")
+document.write("Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)")

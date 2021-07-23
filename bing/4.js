@@ -1,1 +1,1 @@
-document.write("Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)")
+document.write("Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)")
