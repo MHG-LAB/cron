@@ -1,1 +1,1 @@
-document.write('要么读书，要么旅行，身体和灵魂，必须有一个要去工作。')
+document.write('长得好看真的有用')
