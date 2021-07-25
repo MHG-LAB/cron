@@ -1,1 +1,1 @@
-document.write('长得好看真的有用')
+document.write('一懒众衫小，薪尽自然凉。')
