@@ -1,1 +1,1 @@
-document.write("Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)")
+document.write("Composite image of the moon (© Prathamesh Jaju)")

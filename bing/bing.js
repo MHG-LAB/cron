@@ -1,1 +1,1 @@
-document.write("'Field of Light' by artist Bruce Munro at Uluru, Australia (© Sheralee Stoll/Alamy)")
+document.write("Mangrove trees, Walakiri Beach, Sumba Island, Indonesia (© Tengguo Wu/Getty Images)")

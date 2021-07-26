@@ -1,1 +1,1 @@
-document.write("Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)")
+document.write("The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)")
