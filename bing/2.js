@@ -1,1 +1,1 @@
-document.write("Javan tree frogs sitting together on a stalk in Indonesia (© SnapRapid/Offset by Shutterstock)")
+document.write("'Field of Light' by artist Bruce Munro at Uluru, Australia (© Sheralee Stoll/Alamy)")
