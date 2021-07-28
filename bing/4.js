@@ -1,1 +1,1 @@
-document.write("Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)")
+document.write("Javan tree frogs sitting together on a stalk in Indonesia (© SnapRapid/Offset by Shutterstock)")

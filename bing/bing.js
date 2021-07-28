@@ -1,1 +1,1 @@
-document.write("Adler Planetarium near Lake Michigan, Chicago, Illinois (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("School of sea goldies with feather stars, Great Barrier Reef, Queensland, Australia (© Gary Bell/Minden Pictures)")
