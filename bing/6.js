@@ -1,1 +1,1 @@
-document.write("The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)")
+document.write("Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)")

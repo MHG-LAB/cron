@@ -1,1 +1,1 @@
-document.write("School of sea goldies with feather stars, Great Barrier Reef, Queensland, Australia (© Gary Bell/Minden Pictures)")
+document.write("Tiger camouflaged in tall grass, Assam, India (© Sandesh Kadur/Minden Pictures)")
