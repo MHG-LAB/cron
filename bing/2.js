@@ -1,1 +1,1 @@
-document.write("Tiger camouflaged in tall grass, Assam, India (© Sandesh Kadur/Minden Pictures)")
+document.write("Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)")
