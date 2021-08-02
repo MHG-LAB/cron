@@ -1,1 +1,1 @@
-document.write('自己不信任别人的话，又怎么能让别人来相信自己。')
+document.write('室雅何须大，花香不在多')

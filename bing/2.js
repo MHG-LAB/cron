@@ -1,1 +1,1 @@
-document.write("Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)")
+document.write("Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania (© webguzs/Getty Images)")
