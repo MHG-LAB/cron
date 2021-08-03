@@ -1,1 +1,1 @@
-document.write("Adler Planetarium near Lake Michigan, Chicago, Illinois (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("隐藏在高草丛中的老虎，印度阿萨姆邦 (© Sandesh Kadur/Minden Pictures)")

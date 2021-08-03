@@ -1,1 +1,1 @@
-document.write("Mangrove trees, Walakiri Beach, Sumba Island, Indonesia (© Tengguo Wu/Getty Images)")
+document.write("珊瑚礁周围的丝鳍拟花鮨鱼群，澳大利亚昆士兰大堡礁 (© Gary Bell/Minden Pictures)")

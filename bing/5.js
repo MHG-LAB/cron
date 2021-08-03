@@ -1,1 +1,1 @@
-document.write("School of sea goldies with feather stars, Great Barrier Reef, Queensland, Australia (© Gary Bell/Minden Pictures)")
+document.write("阿卡迪亚国家公园里的水獭悬崖，缅因州 (© dbimages/Alamy)")

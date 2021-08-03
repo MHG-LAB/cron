@@ -1,1 +1,1 @@
-document.write("Barley field in East Lothian, Scotland (© Scott Masterton/plainpicture)")
+document.write("蒙特城堡，意大利普利亚大区 (© Toni Spagone/Alamy)")

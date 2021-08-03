@@ -1,1 +1,1 @@
-document.write("Mesas, Upper Cathedral Valley, Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)")
+document.write("云豹 (© Dhritiman Mukherjee/Alamy)")

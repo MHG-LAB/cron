@@ -1,1 +1,1 @@
-document.write("Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania (© webguzs/Getty Images)")
+document.write("圆顶礁国家公园的大教堂谷，犹他州 (© Tim Fitzharris/Minden Pictures)")

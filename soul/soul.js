@@ -1,1 +1,1 @@
-document.write('最靠得住的是有钱，最靠不住的是人心。')
+document.write('虽然你单身，但是你胖若两人。')
