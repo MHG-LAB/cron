@@ -1,1 +1,1 @@
-document.write("珊瑚礁周围的丝鳍拟花鮨鱼群，澳大利亚昆士兰大堡礁 (© Gary Bell/Minden Pictures)")
+document.write("隐藏在高草丛中的老虎，印度阿萨姆邦 (© Sandesh Kadur/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("圆顶礁国家公园的大教堂谷，犹他州 (© Tim Fitzharris/Minden Pictures)")
+document.write("蒙特城堡，意大利普利亚大区 (© Toni Spagone/Alamy)")
