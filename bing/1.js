@@ -1,1 +1,1 @@
-document.write("云豹 (© Dhritiman Mukherjee/Alamy)")
+document.write("波白克岛的小尖塔岩石，英格兰多塞特 (© James Osmond/Alamy)")

@@ -1,1 +1,1 @@
-document.write("阿卡迪亚国家公园里的水獭悬崖，缅因州 (© dbimages/Alamy)")
+document.write("姆科马齐国家公园的北部胭脂红食蜂鸟和欧洲食蜂鸟，坦桑尼亚 (© webguzs/Getty Images)")

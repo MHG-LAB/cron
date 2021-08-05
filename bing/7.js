@@ -1,1 +1,1 @@
-document.write("隐藏在高草丛中的老虎，印度阿萨姆邦 (© Sandesh Kadur/Minden Pictures)")
+document.write("阿卡迪亚国家公园里的水獭悬崖，缅因州 (© dbimages/Alamy)")
