@@ -1,1 +1,1 @@
-document.write('Where there is a will there is a way.')
+document.write('今天的早餐是：早苗的面包、秋子的果酱和观铃的果汁~')

@@ -1,1 +1,1 @@
-document.write("姆科马齐国家公园的北部胭脂红食蜂鸟和欧洲食蜂鸟，坦桑尼亚 (© webguzs/Getty Images)")
+document.write("东洛锡安的金黄麦田，苏格兰 (© Scott Masterton/plainpicture)")

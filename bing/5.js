@@ -1,1 +1,1 @@
-document.write("东洛锡安的金黄麦田，苏格兰 (© Scott Masterton/plainpicture)")
+document.write("圆顶礁国家公园的大教堂谷，犹他州 (© Tim Fitzharris/Minden Pictures)")
