@@ -1,1 +1,1 @@
-document.write("从索尔兹伯里的峭壁上俯瞰爱丁堡，苏格兰荷里路德公园 (© Andrew Merry/Getty Images)")
+document.write("乌尤尼盐沼上的锥形盐堆，玻利维亚 (© John Shaw/Minden Pictures)")
