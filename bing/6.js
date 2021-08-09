@@ -1,1 +1,1 @@
-document.write("蒙特城堡，意大利普利亚大区 (© Toni Spagone/Alamy)")
+document.write("云豹 (© Dhritiman Mukherjee/Alamy)")
