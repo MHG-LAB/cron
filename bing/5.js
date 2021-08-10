@@ -1,1 +1,1 @@
-document.write("波白克岛的小尖塔岩石，英格兰多塞特 (© James Osmond/Alamy)")
+document.write("从索尔兹伯里的峭壁上俯瞰爱丁堡，苏格兰荷里路德公园 (© Andrew Merry/Getty Images)")

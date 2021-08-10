@@ -1,1 +1,1 @@
-document.write("乌尤尼盐沼上的锥形盐堆，玻利维亚 (© John Shaw/Minden Pictures)")
+document.write("伊丽莎白女皇码头桥，澳大利亚珀斯 (© Amazing Aerial Agency/Offset by Shutterstock)")
