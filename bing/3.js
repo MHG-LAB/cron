@@ -1,1 +1,1 @@
-document.write("雕刻师在矿山湾创作的岩雕作品，新西兰北岛陶波湖 (© Evgueni Zverev/Alamy)")
+document.write("纳汉尼国家公园保护区的鸟瞰图，加拿大西北部 (© Robert Postma/Getty Images)")
