@@ -1,1 +1,1 @@
-document.write("纳汉尼国家公园保护区的鸟瞰图，加拿大西北部 (© Robert Postma/Getty Images)")
+document.write("拍摄于二连浩特恐龙博物馆中的英仙座流星雨，中国内蒙古 (© bjdlzx/Getty Images)")

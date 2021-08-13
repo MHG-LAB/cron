@@ -1,1 +1,1 @@
-document.write("伊丽莎白女皇码头桥，澳大利亚珀斯 (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("雕刻师在矿山湾创作的岩雕作品，新西兰北岛陶波湖 (© Evgueni Zverev/Alamy)")
