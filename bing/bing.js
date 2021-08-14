@@ -1,1 +1,1 @@
-document.write("死亡谷国家公园里的优比喜比火山口，加利福尼亚州 (© Albert Knapp/Alamy)")
+document.write("苏黎世湖岸边的室外游泳池，瑞士 (© Amazing Aerial Agency/Offset by Shutterstock)")
