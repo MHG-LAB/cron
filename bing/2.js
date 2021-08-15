@@ -1,1 +1,1 @@
-document.write("安斯海滩上的角眼沙蟹，塞舌尔普拉兰岛 (© Ingo Schulz/Offset by Shutterstock)")
+document.write("死亡谷国家公园里的优比喜比火山口，加利福尼亚州 (© Albert Knapp/Alamy)")
