@@ -1,1 +1,1 @@
-document.write('就算睡得晚，不会找你的人还是不会找你！')
+document.write('其实你不丑，只是，你美得不明显。')
