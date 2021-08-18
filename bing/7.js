@@ -1,1 +1,1 @@
-document.write("拍摄于二连浩特恐龙博物馆中的英仙座流星雨，中国内蒙古 (© bjdlzx/Getty Images)")
+document.write("奥卡万戈三角洲上的非洲草原象群，博茨瓦纳 (© Juan-Carlos Munoz/Minden Pictures)")

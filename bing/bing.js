@@ -1,1 +1,1 @@
-document.write("杜布罗夫尼克老城，克罗地亚 (© Jeremy Woodhouse/Getty Images)")
+document.write("巨型海洋蝠鲼和摄影师，澳大利亚宁格罗海岸 (© Shutterstock Premier)")
