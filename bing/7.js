@@ -1,1 +1,1 @@
-document.write("奥卡万戈三角洲上的非洲草原象群，博茨瓦纳 (© Juan-Carlos Munoz/Minden Pictures)")
+document.write("安斯海滩上的角眼沙蟹，塞舌尔普拉兰岛 (© Ingo Schulz/Offset by Shutterstock)")

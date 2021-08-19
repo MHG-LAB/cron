@@ -1,1 +1,1 @@
-document.write("苏黎世湖岸边的室外游泳池，瑞士 (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("落日时分的香巴拉过山车剪影，西班牙塔拉戈纳萨洛 (© Joaquim F. P./Getty Images)")
