@@ -1,1 +1,1 @@
-document.write('我也很喜欢,不只是烟火。')
+document.write('无论是丢下还是被丢下，这两者都是一样痛苦的。')
