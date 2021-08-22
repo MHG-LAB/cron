@@ -1,1 +1,1 @@
-document.write("天堂之路，新泽西州瓦瓦安达州立公园 (© Leembe/Getty Images)")
+document.write("杜布罗夫尼克老城，克罗地亚 (© Jeremy Woodhouse/Getty Images)")
