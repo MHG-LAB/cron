@@ -1,1 +1,1 @@
-document.write("落日时分的香巴拉过山车剪影，西班牙塔拉戈纳萨洛 (© Joaquim F. P./Getty Images)")
+document.write("天堂之路，新泽西州瓦瓦安达州立公园 (© Leembe/Getty Images)")
