@@ -1,1 +1,1 @@
-document.write('倘若互不相欠，怎会再次相见。')
+document.write('很能吃苦，大部分人都做得到前三个字')

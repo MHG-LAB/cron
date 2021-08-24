@@ -1,1 +1,1 @@
-document.write('啊啊，还真是，干不下去了啊。')
+document.write('在我们的上方，星星眩目地闪耀着。')
