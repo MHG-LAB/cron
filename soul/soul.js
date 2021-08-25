@@ -1,1 +1,1 @@
-document.write('很能吃苦，大部分人都做得到前三个字')
+document.write('我不是矮，我只是离天空比较远。')
