@@ -1,1 +1,1 @@
-document.write("美国大峡谷北缘的天使之窗，亚利桑那州 (© Tim Fitzharris/Minden Pictures)")
+document.write("一只海蛞蝓正在进食银币水母，澳大利亚新南威尔士州 (© Gary Bell/Minden Pictures)")
