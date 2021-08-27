@@ -1,1 +1,1 @@
-document.write("位于阿曼和迪拜酋长国边界的鲁卜哈利沙漠 (© Daniel Schoenen/Offset by Shutterstock)")
+document.write("港边的小米努灯塔，法国布雷斯特 (© Mathieu Rivrin/Getty Images)")

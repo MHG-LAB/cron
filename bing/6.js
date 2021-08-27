@@ -1,1 +1,1 @@
-document.write("港边的小米努灯塔，法国布雷斯特 (© Mathieu Rivrin/Getty Images)")
+document.write("奥林匹克海岸国家海洋保护区的海岸线，美国华盛顿州 (© Chris Moore/Tandem Stills + Motion)")
