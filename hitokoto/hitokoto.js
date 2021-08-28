@@ -1,1 +1,1 @@
-document.write('就算风吹散了冰雪，想念也会留存下来。')
+document.write('你重视的东西，我也会放在心上。')

@@ -1,1 +1,1 @@
-document.write("一只海蛞蝓正在进食银币水母，澳大利亚新南威尔士州 (© Gary Bell/Minden Pictures)")
+document.write("镶嵌在巨石之间的石屋，葡萄牙 (© Olimpio Fantuz/eStock Photo)")
