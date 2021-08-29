@@ -1,1 +1,1 @@
-document.write("镶嵌在巨石之间的石屋，葡萄牙 (© Olimpio Fantuz/eStock Photo)")
+document.write("红嘴牛椋鸟和高角羚， 南非姆普马兰加省 (© Heini Wehrle/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write('你重视的东西，我也会放在心上。')
+document.write('并不是只有你一个人，所以不要消失。')
