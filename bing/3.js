@@ -1,1 +1,1 @@
-document.write("Ruskeala山地公园的地下湖， 俄罗斯卡累利阿 (© Konstantin Trubavin/Offset by Shutterstock)")
+document.write("菲律宾马荣山的火山口冒烟 (© Per-Andre Hoffmann/Cavan)")
