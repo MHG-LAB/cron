@@ -1,1 +1,1 @@
-document.write('不要把感谢和责任混淆在一起。')
+document.write('除非事态非常严重，否则就不要多管闲事。')

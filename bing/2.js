@@ -1,1 +1,1 @@
-document.write("杜德维卡塔拉大桥，黑山 (© Hike The World/Shutterstock)")
+document.write("一朵牛肝菌 (© vnosokin/Getty Images)")
