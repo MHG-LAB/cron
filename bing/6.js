@@ -1,1 +1,1 @@
-document.write("红嘴牛椋鸟和高角羚， 南非姆普马兰加省 (© Heini Wehrle/Minden Pictures)")
+document.write("Ruskeala山地公园的地下湖， 俄罗斯卡累利阿 (© Konstantin Trubavin/Offset by Shutterstock)")

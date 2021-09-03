@@ -1,1 +1,1 @@
-document.write("菲律宾马荣山的火山口冒烟 (© Per-Andre Hoffmann/Cavan)")
+document.write("杜德维卡塔拉大桥，黑山 (© Hike The World/Shutterstock)")
