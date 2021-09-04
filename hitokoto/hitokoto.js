@@ -1,1 +1,1 @@
-document.write('年轻人，要看清自己，看清世界，才能变得更强')
+document.write('I promise you，if I am still alive，I will wait for you，here。')
