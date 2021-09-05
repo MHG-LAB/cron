@@ -1,1 +1,1 @@
-document.write('I promise you，if I am still alive，I will wait for you，here。')
+document.write('说得好！认识你这么久终于听到你说了一句智商上线的话。')

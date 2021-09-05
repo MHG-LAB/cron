@@ -1,1 +1,1 @@
-document.write("一朵牛肝菌 (© vnosokin/Getty Images)")
+document.write("弗拉维亚港，意大利撒丁岛 (© Visualframing/Adobe Stock)")
