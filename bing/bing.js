@@ -1,1 +1,1 @@
-document.write("约克郡谷地国家公园里的山丘，英格兰 (© davidnmoorhouse/iStock/Getty Images Plus)")
+document.write("出现在马萨诸塞州海岸附近的座头鲸 (© Eric Kulin/plainpicture)")

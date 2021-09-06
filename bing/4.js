@@ -1,1 +1,1 @@
-document.write("弗拉维亚港，意大利撒丁岛 (© Visualframing/Adobe Stock)")
+document.write("比斯蒂荒野上的“外星孵化场”，新墨西哥州 (© Ian Shive/Tandem Stills + Motion)")

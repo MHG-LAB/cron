@@ -1,1 +1,1 @@
-document.write("在大运河上举办的赛船节， 意大利威尼斯 (© Alexander Duffner/Alamy)")
+document.write("约克郡谷地国家公园里的山丘，英格兰 (© davidnmoorhouse/iStock/Getty Images Plus)")
