@@ -1,1 +1,1 @@
-document.write("圣胡安群岛，华盛顿州 (© Stephen Matera/Tandem Stills + Motion)")
+document.write("River Avon in Bath, England (© Robert Harding World Imagery/Offset by Shutterstock)")
