@@ -1,1 +1,1 @@
-document.write("River Avon in Bath, England (© Robert Harding World Imagery/Offset by Shutterstock)")
+document.write("Treetop walkway in Hainich National Park, Thuringia, Germany (© mauritius images GmbH/Alamy)")

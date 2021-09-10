@@ -1,1 +1,1 @@
-document.write('自由的目的是为了为他人创造自由')
+document.write('那孩子在多种意义上都是天然纪念物。')

@@ -1,1 +1,1 @@
-document.write("比斯蒂荒野上的“外星孵化场”，新墨西哥州 (© Ian Shive/Tandem Stills + Motion)")
+document.write("静立枝头的朱红蜂鸟 (© Dee/Getty Images)")

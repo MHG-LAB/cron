@@ -1,1 +1,1 @@
-document.write("静立枝头的朱红蜂鸟 (© Dee/Getty Images)")
+document.write("在大运河上举办的赛船节， 意大利威尼斯 (© Alexander Duffner/Alamy)")
