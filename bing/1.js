@@ -1,1 +1,1 @@
-document.write("英国巴斯的埃文河 (© Robert Harding World Imagery/Offset by Shutterstock)")
+document.write("海尼希国家公园的树顶步道， 德国图林根州 (© mauritius images GmbH/Alamy)")

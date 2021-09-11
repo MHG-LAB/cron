@@ -1,1 +1,1 @@
-document.write("Treetop walkway in Hainich National Park, Thuringia, Germany (© mauritius images GmbH/Alamy)")
+document.write("印度西孟加拉邦的亚洲象 (© Avijan Saha/Minden Pictures)")
