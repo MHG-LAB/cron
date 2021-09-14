@@ -1,1 +1,1 @@
-document.write("出现在马萨诸塞州海岸附近的座头鲸 (© Eric Kulin/plainpicture)")
+document.write("从昂沃峡湾眺望里欧岛，法国马赛 (© Jason Langley/AWL Images/Offset by Shutterstock)")

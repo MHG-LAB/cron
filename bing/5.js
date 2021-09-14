@@ -1,1 +1,1 @@
-document.write("圣胡安群岛，华盛顿州 (© Stephen Matera/Tandem Stills + Motion)")
+document.write("英国巴斯的埃文河 (© Robert Harding World Imagery/Offset by Shutterstock)")
