@@ -1,1 +1,1 @@
-document.write("威尼斯海滩滑板公园鸟瞰图，洛杉矶 (© Ingus Kruklitis/Getty Images)")
+document.write("冰岛北部内陆景观中的Aldeyjarfoss瀑布 (© Jim Patterson/Tandem Stills + Motion)")
