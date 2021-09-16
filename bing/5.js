@@ -1,1 +1,1 @@
-document.write("海尼希国家公园的树顶步道， 德国图林根州 (© mauritius images GmbH/Alamy)")
+document.write("印度西孟加拉邦的亚洲象 (© Avijan Saha/Minden Pictures)")
