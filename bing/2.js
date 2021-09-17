@@ -1,1 +1,1 @@
-document.write("布里斯托尔海峡的伯恩贝克码头，英国滨海韦斯顿北索美塞得 (© Stephen Davies/Adobe Stock)")
+document.write("阿拉普扎的船屋，印度喀拉拉邦 (© Martin Harvey/The Image Bank/Getty Images)")
