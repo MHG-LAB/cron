@@ -1,1 +1,1 @@
-document.write("印度西孟加拉邦的亚洲象 (© Avijan Saha/Minden Pictures)")
+document.write("威尼斯海滩滑板公园鸟瞰图，洛杉矶 (© Ingus Kruklitis/Getty Images)")
