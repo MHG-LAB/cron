@@ -1,1 +1,1 @@
-document.write('不论是过去还是未来，我都会保护你！')
+document.write('嘛，那又怎么样呢？')

@@ -1,1 +1,1 @@
-document.write("秋季在湿地上空迁徙的椋鸟群 (© Viking/Alamy)")
+document.write("【中秋快乐】 （ © shutterstock ）")

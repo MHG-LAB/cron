@@ -1,1 +1,1 @@
-document.write("贝纳吉尔洞穴，葡萄牙阿尔加维 (© Michael Malorny/Offset by Shutterstock)")
+document.write("四川成都熊猫基地的小熊猫 (© Biosphoto/Alamy)")

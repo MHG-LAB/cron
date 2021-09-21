@@ -1,1 +1,1 @@
-document.write("冰岛北部内陆景观中的Aldeyjarfoss瀑布 (© Jim Patterson/Tandem Stills + Motion)")
+document.write("布里斯托尔海峡的伯恩贝克码头，英国滨海韦斯顿北索美塞得 (© Stephen Davies/Adobe Stock)")
