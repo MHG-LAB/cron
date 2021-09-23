@@ -1,1 +1,1 @@
-document.write("白犀牛宝宝和它的妈妈 (© Martin Harvey/Alamy)")
+document.write("蔚蓝色的海王星 (© NASA/JPL)")

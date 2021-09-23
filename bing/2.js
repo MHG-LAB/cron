@@ -1,1 +1,1 @@
-document.write("【中秋快乐】 （ © shutterstock ）")
+document.write("白犀牛宝宝和它的妈妈 (© Martin Harvey/Alamy)")

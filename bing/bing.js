@@ -1,1 +1,1 @@
-document.write("蔚蓝色的海王星 (© NASA/JPL)")
+document.write("阿玛斯广场上的库斯科大教堂，库斯科，秘鲁 (© sharptoyou/Shutterstock)")
