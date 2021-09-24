@@ -1,1 +1,1 @@
-document.write("阿玛斯广场上的库斯科大教堂，库斯科，秘鲁 (© sharptoyou/Shutterstock)")
+document.write("豪猪山荒野国家公园中的小路，美国密歇根州 (© Pat & Chuck Blackley/Alamy)")

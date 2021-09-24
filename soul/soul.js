@@ -1,1 +1,1 @@
-document.write('我的社交恐惧症，主要来自于，收入低。???')
+document.write('别人的钱财，乃我的身外之物。')

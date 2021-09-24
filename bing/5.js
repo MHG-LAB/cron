@@ -1,1 +1,1 @@
-document.write("英国康沃尔郡岸边的日落 (© Andrew Turner/Getty Images)")
+document.write("秋季在湿地上空迁徙的椋鸟群 (© Viking/Alamy)")
