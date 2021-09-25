@@ -1,1 +1,1 @@
-document.write('别人的钱财，乃我的身外之物。')
+document.write('再苦不能苦孩子，再穷也得穷得瑟。')

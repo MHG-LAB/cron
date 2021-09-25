@@ -1,1 +1,1 @@
-document.write("豪猪山荒野国家公园中的小路，美国密歇根州 (© Pat & Chuck Blackley/Alamy)")
+document.write("注入海中的马更些河，加拿大 (© Norman Kuring, GSFC/NASA/USGS Landsat)")

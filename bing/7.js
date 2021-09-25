@@ -1,1 +1,1 @@
-document.write("四川成都熊猫基地的小熊猫 (© Biosphoto/Alamy)")
+document.write("英国康沃尔郡岸边的日落 (© Andrew Turner/Getty Images)")
