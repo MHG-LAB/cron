@@ -1,1 +1,1 @@
-document.write('再苦不能苦孩子，再穷也得穷得瑟。')
+document.write('不要把我对你的宽容当成你放肆的标准')
