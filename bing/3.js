@@ -1,1 +1,1 @@
-document.write("注入海中的马更些河，加拿大 (© Norman Kuring, GSFC/NASA/USGS Landsat)")
+document.write("Pico Bonito国家公园里的刺蛾，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)")
