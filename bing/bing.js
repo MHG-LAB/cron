@@ -1,1 +1,1 @@
-document.write("加利福尼亚州的一艘集装箱船，美国 (© Cameron Venti/Getty Images)")
+document.write("潘塔纳尔湿地的风信子金刚鹦鹉，巴西 (© David Pattyn/Minden Pictures)")

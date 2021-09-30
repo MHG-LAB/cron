@@ -1,1 +1,1 @@
-document.write("加拿大西北部的一头美洲野牛 (© Don Johnston/agefotostock)")
+document.write("加利福尼亚州的一艘集装箱船，美国 (© Cameron Venti/Getty Images)")
