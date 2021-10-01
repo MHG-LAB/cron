@@ -1,1 +1,1 @@
-document.write("潘塔纳尔湿地的风信子金刚鹦鹉，巴西 (© David Pattyn/Minden Pictures)")
+document.write("北坡自治市镇的伊维沙克河，阿拉斯加州 (© Don Paulson/Danita Delimont)")
