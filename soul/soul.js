@@ -1,1 +1,1 @@
-document.write('一路上有你，苦一点也愿意，苦很多免谈。')
+document.write('好好活下去，每天都有新打击')
