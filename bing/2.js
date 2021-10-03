@@ -1,1 +1,1 @@
-document.write("【 国庆快乐 】（ © GettyImages ）")
+document.write("北坡自治市镇的伊维沙克河，阿拉斯加州 (© Don Paulson/Danita Delimont)")

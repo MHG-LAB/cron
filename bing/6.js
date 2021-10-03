@@ -1,1 +1,1 @@
-document.write("Pico Bonito国家公园里的刺蛾，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)")
+document.write("布罗兹湿地国家公园，英国诺福克郡 (© Steven Docwra/Getty Images)")
