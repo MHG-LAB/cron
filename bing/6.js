@@ -1,1 +1,1 @@
-document.write("布罗兹湿地国家公园，英国诺福克郡 (© Steven Docwra/Getty Images)")
+document.write("加拿大西北部的一头美洲野牛 (© Don Johnston/agefotostock)")
