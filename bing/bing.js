@@ -1,1 +1,1 @@
-document.write("爱德华王子岛的森林和树冠，加拿大 (© OliverChilds/Getty Images)")
+document.write("达拉斯分水岭, 科罗拉多州西南部 (© Ronda Kimbrow/Shutterstock)")

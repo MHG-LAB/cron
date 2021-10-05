@@ -1,1 +1,1 @@
-document.write("绚烂的仙女座星系 (© NASA/JPL-Caltech)")
+document.write("爱德华王子岛的森林和树冠，加拿大 (© OliverChilds/Getty Images)")

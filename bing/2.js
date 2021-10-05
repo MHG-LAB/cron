@@ -1,1 +1,1 @@
-document.write("古罗马斗兽场，西班牙桑蒂蓬塞镇的罗马古城遗迹 (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("绚烂的仙女座星系 (© NASA/JPL-Caltech)")
