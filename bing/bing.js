@@ -1,1 +1,1 @@
-document.write("达拉斯分水岭, 科罗拉多州西南部 (© Ronda Kimbrow/Shutterstock)")
+document.write("Khuean Srinagarindra国家公园的Huay Mae Khamin瀑布,泰国 (© Casper1774Studio/Getty Images)")
