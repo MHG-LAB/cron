@@ -1,1 +1,1 @@
-document.write("五彩缤纷的鲍鱼贝壳，新西兰 (© Lynda Harper/Minden Pictures)")
+document.write("拉莫里斯国家公园中的Wapizagonke湖区，加拿大魁北克 (© Instants/Getty Images)")
