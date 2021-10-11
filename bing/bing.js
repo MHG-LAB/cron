@@ -1,1 +1,1 @@
-document.write("拉莫里斯国家公园中的Wapizagonke湖区，加拿大魁北克 (© Instants/Getty Images)")
+document.write("布列塔尼大区的城市圣马洛，法国 (© Mathieu Rivrin/Moment/Getty Images)")

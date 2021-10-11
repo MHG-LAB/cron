@@ -1,1 +1,1 @@
-document.write("海草中的章鱼，法国利翁湾 (© BIOSPHOTO/Alamy)")
+document.write("野生动物保护区中的沙丘鹤和野鸭，美国新墨西哥州 (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")

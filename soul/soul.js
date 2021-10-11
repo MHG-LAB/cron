@@ -1,1 +1,1 @@
-document.write('别和我说对不起，因为我既不能原谅你，也无法捅死你。')
+document.write('人生苦短，我又他妈懒')

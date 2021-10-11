@@ -1,1 +1,1 @@
-document.write("Khuean Srinagarindra国家公园的Huay Mae Khamin瀑布,泰国 (© Casper1774Studio/Getty Images)")
+document.write("海草中的章鱼，法国利翁湾 (© BIOSPHOTO/Alamy)")
