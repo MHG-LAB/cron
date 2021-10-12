@@ -1,1 +1,1 @@
-document.write('人生苦短，我又他妈懒')
+document.write('多照照镜子，很多挫折磨难你就明白个中原因了。')

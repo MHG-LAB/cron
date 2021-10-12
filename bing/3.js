@@ -1,1 +1,1 @@
-document.write("野生动物保护区中的沙丘鹤和野鸭，美国新墨西哥州 (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")
+document.write("五彩缤纷的鲍鱼贝壳，新西兰 (© Lynda Harper/Minden Pictures)")
