@@ -1,1 +1,1 @@
-document.write("海草中的章鱼，法国利翁湾 (© BIOSPHOTO/Alamy)")
+document.write("Common octopus, Gulf of Lion, Mediterranean Sea (© BIOSPHOTO/Alamy)")
