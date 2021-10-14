@@ -1,1 +1,1 @@
-document.write("Ichthyosaur fossil, Dinosaurland Fossil Museum, Lyme Regis, Dorset, England (© Christopher Jones/Alamy)")
+document.write("Saguaro cactuses, Saguaro National Park, Arizona, USA (© Christian Foto Az/Shutterstock)")

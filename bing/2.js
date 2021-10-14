@@ -1,1 +1,1 @@
-document.write("Wapizagonke Lake, La Mauricie National Park, Quebec, Canada (© Instants/Getty Images)")
+document.write("Saint-Malo, Brittany, France (© Mathieu Rivrin/Moment/Getty Images)")

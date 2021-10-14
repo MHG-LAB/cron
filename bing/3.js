@@ -1,1 +1,1 @@
-document.write("Blackfoot paua (rainbow abalone) shell, New Zealand (© Lynda Harper/Minden Pictures)")
+document.write("Wapizagonke Lake, La Mauricie National Park, Quebec, Canada (© Instants/Getty Images)")

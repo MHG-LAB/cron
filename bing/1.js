@@ -1,1 +1,1 @@
-document.write("Saint-Malo, Brittany, France (© Mathieu Rivrin/Moment/Getty Images)")
+document.write("Ichthyosaur fossil, Dinosaurland Fossil Museum, Lyme Regis, Dorset, England (© Christopher Jones/Alamy)")

@@ -1,1 +1,1 @@
-document.write('女票突然变瘦了，多半是漏气了。')
+document.write('人为什么叫人类，因为人活着就是累。')

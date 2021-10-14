@@ -1,1 +1,1 @@
-document.write("Dallas Divide, Colorado, USA (© Ronda Kimbrow/Shutterstock)")
+document.write("Huay Mae Khamin waterfall, Khuean Srinagarindra National Park, Thailand (© Casper1774Studio/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Huay Mae Khamin waterfall, Khuean Srinagarindra National Park, Thailand (© Casper1774Studio/Getty Images)")
+document.write("Common octopus, Gulf of Lion, Mediterranean Sea (© BIOSPHOTO/Alamy)")

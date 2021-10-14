@@ -1,1 +1,1 @@
-document.write("Common octopus, Gulf of Lion, Mediterranean Sea (© BIOSPHOTO/Alamy)")
+document.write("Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")
