@@ -1,1 +1,1 @@
-document.write("Huay Mae Khamin waterfall, Khuean Srinagarindra National Park, Thailand (© Casper1774Studio/Getty Images)")
+document.write("野生动物保护区中的沙丘鹤和野鸭，美国新墨西哥州 (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")

@@ -1,1 +1,1 @@
-document.write("Common octopus, Gulf of Lion, Mediterranean Sea (© BIOSPHOTO/Alamy)")
+document.write("五彩缤纷的鲍鱼贝壳，新西兰 (© Lynda Harper/Minden Pictures)")

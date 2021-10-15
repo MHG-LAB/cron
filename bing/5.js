@@ -1,1 +1,1 @@
-document.write("Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")
+document.write("拉莫里斯国家公园中的Wapizagonke湖区，加拿大魁北克 (© Instants/Getty Images)")

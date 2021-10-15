@@ -1,1 +1,1 @@
-document.write("Saguaro cactuses, Saguaro National Park, Arizona, USA (© Christian Foto Az/Shutterstock)")
+document.write("哈特谢普苏特女王神庙鸟瞰图，埃及卢克索古城 (© Ratnakorn Piyasirisorost/Moment/Getty Images)")

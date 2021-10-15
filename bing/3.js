@@ -1,1 +1,1 @@
-document.write("Wapizagonke Lake, La Mauricie National Park, Quebec, Canada (© Instants/Getty Images)")
+document.write("侏罗纪时期的鱼龙化石，英国多塞特 (© Christopher Jones/Alamy)")
