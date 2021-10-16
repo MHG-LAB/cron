@@ -1,1 +1,1 @@
-document.write("布列塔尼大区的城市圣马洛，法国 (© Mathieu Rivrin/Moment/Getty Images)")
+document.write("Saint-Malo, Brittany, France (© Mathieu Rivrin/Moment/Getty Images)")

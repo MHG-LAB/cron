@@ -1,1 +1,1 @@
-document.write("野生动物保护区中的沙丘鹤和野鸭，美国新墨西哥州 (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")
+document.write("Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")

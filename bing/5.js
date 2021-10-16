@@ -1,1 +1,1 @@
-document.write("拉莫里斯国家公园中的Wapizagonke湖区，加拿大魁北克 (© Instants/Getty Images)")
+document.write("Wapizagonke Lake, La Mauricie National Park, Quebec, Canada (© Instants/Getty Images)")

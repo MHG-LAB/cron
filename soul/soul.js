@@ -1,1 +1,1 @@
-document.write('等到历史考试的时候，历史将会被我改写！')
+document.write('自古情深留不住，总是套路得人心。')

@@ -1,1 +1,1 @@
-document.write("世界著名气泡酒产地普罗塞克山丘,意大利威尼托 (© Olimpio Fantuz/Sime/eStock Photo)")
+document.write("Farra di Soligo, Veneto, Italy (© Olimpio Fantuz/Sime/eStock Photo)")

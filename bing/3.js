@@ -1,1 +1,1 @@
-document.write("侏罗纪时期的鱼龙化石，英国多塞特 (© Christopher Jones/Alamy)")
+document.write("Ichthyosaur fossil, Dinosaurland Fossil Museum, Lyme Regis, Dorset, England (© Christopher Jones/Alamy)")

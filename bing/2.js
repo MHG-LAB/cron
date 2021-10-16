@@ -1,1 +1,1 @@
-document.write("星空下的仙人掌家族，美国萨瓜罗国家公园 (© Christian Foto Az/Shutterstock)")
+document.write("Saguaro cactuses, Saguaro National Park, Arizona, USA (© Christian Foto Az/Shutterstock)")

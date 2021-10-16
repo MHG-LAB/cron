@@ -1,1 +1,1 @@
-document.write("哈特谢普苏特女王神庙鸟瞰图，埃及卢克索古城 (© Ratnakorn Piyasirisorost/Moment/Getty Images)")
+document.write("Temple of Hatshepsut near Luxor, Egypt (© Ratnakorn Piyasirisorost/Moment/Getty Images)")

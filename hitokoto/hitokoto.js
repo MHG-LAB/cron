@@ -1,1 +1,1 @@
-document.write('真正喜欢跑步的人，绝对会跑的很快的！')
+document.write('我能遇到你真是太好了 !')
