@@ -1,1 +1,1 @@
-document.write("Temple of Hatshepsut near Luxor, Egypt (© Ratnakorn Piyasirisorost/Moment/Getty Images)")
+document.write("Redwood Memorial Grove, Whakarewarewa Forest, North Island, New Zealand (© Michael Breitung/Huber/eStock Photo)")

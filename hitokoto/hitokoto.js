@@ -1,1 +1,1 @@
-document.write('我能遇到你真是太好了 !')
+document.write('有伤害人的人存在的话，也会有能抚慰伤痕的人。')

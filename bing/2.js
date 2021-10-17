@@ -1,1 +1,1 @@
-document.write("Saguaro cactuses, Saguaro National Park, Arizona, USA (© Christian Foto Az/Shutterstock)")
+document.write("Farra di Soligo, Veneto, Italy (© Olimpio Fantuz/Sime/eStock Photo)")

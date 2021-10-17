@@ -1,1 +1,1 @@
-document.write("Sandhill cranes and mallard ducks, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Cathy & Gordon Illg/Jaynes Gallery/DanitaDelimont.com)")
+document.write("Blackfoot paua (rainbow abalone) shell, New Zealand (© Lynda Harper/Minden Pictures)")

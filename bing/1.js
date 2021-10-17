@@ -1,1 +1,1 @@
-document.write("Farra di Soligo, Veneto, Italy (© Olimpio Fantuz/Sime/eStock Photo)")
+document.write("Temple of Hatshepsut near Luxor, Egypt (© Ratnakorn Piyasirisorost/Moment/Getty Images)")
