@@ -1,1 +1,1 @@
-document.write("Redwood Memorial Grove, Whakarewarewa Forest, North Island, New Zealand (© Michael Breitung/Huber/eStock Photo)")
+document.write("马德拉岛的法纳尔森林，葡萄牙 (© Val Thoermer/Alamy)")

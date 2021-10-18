@@ -1,1 +1,1 @@
-document.write("Saint-Malo, Brittany, France (© Mathieu Rivrin/Moment/Getty Images)")
+document.write("星空下的仙人掌家族，美国萨瓜罗国家公园 (© Christian Foto Az/Shutterstock)")
