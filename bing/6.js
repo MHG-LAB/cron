@@ -1,1 +1,1 @@
-document.write("侏罗纪时期的鱼龙化石，英国多塞特 (© Christopher Jones/Alamy)")
+document.write("星空下的仙人掌家族，美国萨瓜罗国家公园 (© Christian Foto Az/Shutterstock)")
