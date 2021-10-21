@@ -1,1 +1,1 @@
-document.write('书山有路勤为径，学海无涯苦作舟')
+document.write('不到最后关头，就决不放弃。')

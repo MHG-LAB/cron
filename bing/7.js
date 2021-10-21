@@ -1,1 +1,1 @@
-document.write("星空下的仙人掌家族，美国萨瓜罗国家公园 (© Christian Foto Az/Shutterstock)")
+document.write("世界著名气泡酒产地普罗塞克山丘,意大利威尼托 (© Olimpio Fantuz/Sime/eStock Photo)")

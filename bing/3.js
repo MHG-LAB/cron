@@ -1,1 +1,1 @@
-document.write("史诺多尼亚国家公园的Capel Curig，英国威尔士 (© Sebastian Wasek/Sime/eStock Photo)")
+document.write("马德拉岛的法纳尔森林，葡萄牙 (© Val Thoermer/Alamy)")
