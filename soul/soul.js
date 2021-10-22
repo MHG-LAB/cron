@@ -1,1 +1,1 @@
-document.write('人家不是无趣，而是，懒得对你有趣。')
+document.write('世界上脑残那么多，你却成了佼佼者。')

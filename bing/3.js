@@ -1,1 +1,1 @@
-document.write("马德拉岛的法纳尔森林，葡萄牙 (© Val Thoermer/Alamy)")
+document.write("微笑的树懒,哥斯达黎加 (© Lukas Kovarik/Shutterstock)")
