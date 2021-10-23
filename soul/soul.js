@@ -1,1 +1,1 @@
-document.write('世界上脑残那么多，你却成了佼佼者。')
+document.write('如果不能美得惊人，那就丑得销魂吧！')
