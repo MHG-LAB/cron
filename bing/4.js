@@ -1,1 +1,1 @@
-document.write("阿查法拉亚盆地的秃柏和西班牙苔藓，路易斯安那州 (© Chris Moore/Exploring Light Photography/Tandem Stills + Motion)")
+document.write("划过湖面上空的新智彗星，加拿大贾斯珀国家公园 (© Stocktrek Images, Inc./Alamy)")
