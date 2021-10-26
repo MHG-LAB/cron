@@ -1,1 +1,1 @@
-document.write("阿尔达河上的魔鬼桥，保加利亚 (© Petar Mladenov/Alamy)")
+document.write("黑林山中的赤狐，德国 (© Klaus Echle/Minden Pictures)")
