@@ -1,1 +1,1 @@
-document.write("划过湖面上空的新智彗星，加拿大贾斯珀国家公园 (© Stocktrek Images, Inc./Alamy)")
+document.write("波西米亚瑞士国家公园里的红角鸮，捷克共和国 (© Milan Zygmunt/Alamy)")

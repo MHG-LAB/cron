@@ -1,1 +1,1 @@
-document.write('痛苦，是保持清醒的最好方式。')
+document.write('你不会死的，因为我会保护你.')

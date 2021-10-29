@@ -1,1 +1,1 @@
-document.write("北奥塞梯-阿兰共和国的一片墓地，俄罗斯 (© Yakov Oskanov/Shutterstock)")
+document.write("冷漠的渡鸦们，美国阿拉斯加州 (© Brian Browitt Photo/Adobe Stock)")
