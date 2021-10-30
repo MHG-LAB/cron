@@ -1,1 +1,1 @@
-document.write("薄雾笼罩的松树林，越南 (© Thanh Thuy/Moment/Getty Images)")
+document.write("约克大教堂墙上的怪诞雕塑，英格兰北约克郡 (© John Potter/Alamy)")

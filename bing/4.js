@@ -1,1 +1,1 @@
-document.write("黑林山中的赤狐，德国 (© Klaus Echle/Minden Pictures)")
+document.write("牛顿市的一片南瓜地，美国马萨诸塞州 (© Frank Debonis/EyeEm/Alamy)")

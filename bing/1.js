@@ -1,1 +1,1 @@
-document.write("冷漠的渡鸦们，美国阿拉斯加州 (© Brian Browitt Photo/Adobe Stock)")
+document.write("薄雾笼罩的松树林，越南 (© Thanh Thuy/Moment/Getty Images)")

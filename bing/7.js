@@ -1,1 +1,1 @@
-document.write("波西米亚瑞士国家公园里的红角鸮，捷克共和国 (© Milan Zygmunt/Alamy)")
+document.write("像巨大指纹一样的Bavljenac岛，克罗地亚 (© Julien Duval/Amazing Aerial Agency)")

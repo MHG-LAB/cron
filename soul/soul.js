@@ -1,1 +1,1 @@
-document.write('月亮代表我的心，坑坑洼洼冷冰冰???。')
+document.write('就算是Believe，中间也藏着一个lie。')

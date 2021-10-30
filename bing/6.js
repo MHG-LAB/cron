@@ -1,1 +1,1 @@
-document.write("像巨大指纹一样的Bavljenac岛，克罗地亚 (© Julien Duval/Amazing Aerial Agency)")
+document.write("阿尔达河上的魔鬼桥，保加利亚 (© Petar Mladenov/Alamy)")

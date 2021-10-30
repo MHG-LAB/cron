@@ -1,1 +1,1 @@
-document.write('你不会死的，因为我会保护你.')
+document.write('我曾经也拥有过爱，只是，我放弃了。')
