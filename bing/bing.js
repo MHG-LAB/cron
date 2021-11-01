@@ -1,1 +1,1 @@
-document.write("海滩上的三趾鹬，法国布列塔尼大区 (© Fabrice Cahez/Minden Pictures)")
+document.write("亡灵节上点缀公墓的万寿菊，墨西哥米却肯州 (© Irwin Barrett/Design Pics/Alamy)")
