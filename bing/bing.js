@@ -1,1 +1,1 @@
-document.write("亡灵节上点缀公墓的万寿菊，墨西哥米却肯州 (© Irwin Barrett/Design Pics/Alamy)")
+document.write("海月水母和一群无刺的黄金水母，印度尼西亚 (© Alex Mustard/Minden Pictures)")

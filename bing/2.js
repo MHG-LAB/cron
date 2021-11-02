@@ -1,1 +1,1 @@
-document.write("约克大教堂墙上的怪诞雕塑，英格兰北约克郡 (© John Potter/Alamy)")
+document.write("海滩上的三趾鹬，法国布列塔尼大区 (© Fabrice Cahez/Minden Pictures)")
