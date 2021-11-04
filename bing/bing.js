@@ -1,1 +1,1 @@
-document.write("托利莫尔森林公园的弗利桥，英国北爱尔兰 (© Adrian McGlynn/Alamy)")
+document.write("Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)")

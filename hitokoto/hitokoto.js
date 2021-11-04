@@ -1,1 +1,1 @@
-document.write('无论谁的心中，都有自己的歌。')
+document.write('不相信自己的人 连努力的价值都没有。')
