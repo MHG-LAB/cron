@@ -1,1 +1,1 @@
-document.write('这日子过不下去了，有本事你跟日子离了试试？')
+document.write('范源源就是一个呆逼')

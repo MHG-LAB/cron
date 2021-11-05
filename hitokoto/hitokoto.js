@@ -1,1 +1,1 @@
-document.write('不相信自己的人 连努力的价值都没有。')
+document.write('人老了的好处就是再也不会大惊小怪了。')

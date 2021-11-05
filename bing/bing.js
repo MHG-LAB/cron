@@ -1,1 +1,1 @@
-document.write("Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)")
+document.write("布鲁克顿的一只雌性袋食蚁兽，西澳大利亚州 (© Martin Willis/Minden Pictures)")
