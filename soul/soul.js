@@ -1,1 +1,1 @@
-document.write('范源源就是一个呆逼')
+document.write('一场说走就走的旅行，回来等着你的就是一段吃土的日子')
