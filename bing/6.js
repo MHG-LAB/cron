@@ -1,1 +1,1 @@
-document.write("海滩上的三趾鹬，法国布列塔尼大区 (© Fabrice Cahez/Minden Pictures)")
+document.write("圣玛丽河附近桂皮紫萁草甸，加拿大 (© Irwin Barrett/Design Pics/Alamy)")
