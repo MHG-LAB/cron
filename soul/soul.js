@@ -1,1 +1,1 @@
-document.write('命再苦没怨过政府，点再背不报复社会')
+document.write('人家呢只是胖着玩玩，而你是丑的认真。')
