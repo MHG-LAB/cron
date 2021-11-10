@@ -1,1 +1,1 @@
-document.write("坎伯兰岛国家海岸，美国佐治亚州 (© Wilsilver77/Getty Images Plus)")
+document.write("梅加拉亚邦的七姐妹瀑布，印度 (© Upamanyoo Das/Shutterstock)")

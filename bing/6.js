@@ -1,1 +1,1 @@
-document.write("托利莫尔森林公园的弗利桥，英国北爱尔兰 (© Adrian McGlynn/Alamy)")
+document.write("帕尔默河上的红桥，加拿大魁北克省 (© Jean Surprenant/Getty Images)")

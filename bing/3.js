@@ -1,1 +1,1 @@
-document.write("日出时的麦克拱岩，俄勒冈南海岸 (© Dennis Frates/Alamy)")
+document.write("好奇地看着相机的北极熊，加拿大丘吉尔镇 (© Matthias Breiter/Minden Pictures)")
