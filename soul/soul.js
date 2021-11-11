@@ -1,1 +1,1 @@
-document.write('你的人生跟你的发际线一样，后退的特别快。')
+document.write('你长脑袋是为了看起来更高吗？')
