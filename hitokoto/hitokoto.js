@@ -1,1 +1,1 @@
-document.write('无意义的理想,迟早会在现实面前崩溃。')
+document.write('失去只是一瞬，一瞬的疏忽')

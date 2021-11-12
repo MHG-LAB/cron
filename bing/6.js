@@ -1,1 +1,1 @@
-document.write("布鲁克顿的一只雌性袋食蚁兽，西澳大利亚州 (© Martin Willis/Minden Pictures)")
+document.write("日出时的麦克拱岩，俄勒冈南海岸 (© Dennis Frates/Alamy)")

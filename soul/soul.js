@@ -1,1 +1,1 @@
-document.write('你长脑袋是为了看起来更高吗？')
+document.write('小三是个好东西，她带走了不爱你的狗东西。')
