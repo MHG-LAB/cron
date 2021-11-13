@@ -1,1 +1,1 @@
-document.write('失去只是一瞬，一瞬的疏忽')
+document.write('hhhhhhhhhhhhh')
