@@ -1,1 +1,1 @@
-document.write('hhhhhhhhhhhhh')
+document.write('再没有什么比幸福的回忆更妨碍幸福的了。')

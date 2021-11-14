@@ -1,1 +1,1 @@
-document.write("第一悬崖步道，瑞士格林德瓦 (© Hans-Georg Eiben/eStock Photo)")
+document.write("憨态可掬的海牛, 美国佛罗里达州 (© Paul E Tessier/Cavan Images/Offset by Shutterstock)")
