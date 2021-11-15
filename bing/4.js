@@ -1,1 +1,1 @@
-document.write("梅加拉亚邦的七姐妹瀑布，印度 (© Upamanyoo Das/Shutterstock)")
+document.write("海狸湾度假公园, 美国俄克拉何马州 (© Inge Johnsson/Alamy)")

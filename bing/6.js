@@ -1,1 +1,1 @@
-document.write("悬崖上雕刻的古老岩石墓葬，土耳其达利安附近 (© Reinhard Schmid/eStock Photo)")
+document.write("坎伯兰岛国家海岸，美国佐治亚州 (© Wilsilver77/Getty Images Plus)")

@@ -1,1 +1,1 @@
-document.write("海狸湾度假公园, 美国俄克拉何马州 (© Inge Johnsson/Alamy)")
+document.write("鸟瞰埃尔塔霍峡谷, 西班牙龙达小镇 (© Jude Newkirk/Amazing Aerial Agency)")
