@@ -1,1 +1,1 @@
-document.write("潘塔纳尔湿地的风信子金刚鹦鹉，巴西 (© David Pattyn/Minden Pictures)")
+document.write("The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)")
