@@ -1,1 +1,1 @@
-document.write("潘塔纳尔湿地的风信子金刚鹦鹉，巴西 (© David Pattyn/Minden Pictures)")
+document.write("酷似隧道的峡谷，犹他州锡安国家公园 (© Stan Moniz/Tandem Stills + Motion)")

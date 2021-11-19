@@ -1,1 +1,1 @@
-document.write("The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)")
+document.write("阿西尼博因山公园的秋叶，加拿大不列颠哥伦比亚省 (© Mitch Pittman/TANDEM Stills + Motion)")
