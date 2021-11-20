@@ -1,1 +1,1 @@
-document.write("鸟瞰埃尔塔霍峡谷, 西班牙龙达小镇 (© Jude Newkirk/Amazing Aerial Agency)")
+document.write("第一悬崖步道，瑞士格林德瓦 (© Hans-Georg Eiben/eStock Photo)")

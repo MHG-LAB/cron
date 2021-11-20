@@ -1,1 +1,1 @@
-document.write('天空飘来五个字:怎么都不行。')
+document.write('我是一条酸菜鱼，又酸又菜，还多余。')

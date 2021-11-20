@@ -1,1 +1,1 @@
-document.write('幸运并不是别人给予的，只有自己创造的才叫真正的幸运。')
+document.write('Yesterday is a history, tomorrow is a mystery, but today is a gift.')
