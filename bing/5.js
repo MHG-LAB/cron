@@ -1,1 +1,1 @@
-document.write("穿越格伦菲南高架桥的蒸汽火车，苏格兰因弗内斯郡 (© The Escape of Malee/Shutterstock)")
+document.write("螺旋沼泽鸟兽禁猎区的小径,佛罗里达州 (© Bill Gozansky/Alamy)")

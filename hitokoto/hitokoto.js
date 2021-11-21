@@ -1,1 +1,1 @@
-document.write('Yesterday is a history, tomorrow is a mystery, but today is a gift.')
+document.write('再强的敌人在最后一集的主角面前也是渣渣。')
