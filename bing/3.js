@@ -1,1 +1,1 @@
-document.write("酷似隧道的峡谷，犹他州锡安国家公园 (© Stan Moniz/Tandem Stills + Motion)")
+document.write("The Subway canyon, Zion National Park, Utah, USA (© Stan Moniz/Tandem Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("阿西尼博因山公园的秋叶，加拿大不列颠哥伦比亚省 (© Mitch Pittman/TANDEM Stills + Motion)")
+document.write("Mount Assiniboine Provincial Park, British Columbia, Canada (© Mitch Pittman/TANDEM Stills + Motion)")

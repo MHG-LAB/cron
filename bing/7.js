@@ -1,1 +1,1 @@
-document.write("憨态可掬的海牛, 美国佛罗里达州 (© Paul E Tessier/Cavan Images/Offset by Shutterstock)")
+document.write("Manatee in Florida, USA (© Paul E Tessier/Cavan Images/Offset by Shutterstock)")

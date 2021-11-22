@@ -1,1 +1,1 @@
-document.write("穿越格伦菲南高架桥的蒸汽火车，苏格兰因弗内斯郡 (© The Escape of Malee/Shutterstock)")
+document.write("Jacobite steam train, Glenfinnan Viaduct, Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)")
