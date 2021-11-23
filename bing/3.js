@@ -1,1 +1,1 @@
-document.write("The Subway canyon, Zion National Park, Utah, USA (© Stan Moniz/Tandem Stills + Motion)")
+document.write("Mount Assiniboine Provincial Park, British Columbia, Canada (© Mitch Pittman/TANDEM Stills + Motion)")

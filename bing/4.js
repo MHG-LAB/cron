@@ -1,1 +1,1 @@
-document.write("Rame Head, Cornwall, England (© Cavan Images/Offset)")
+document.write("The Subway canyon, Zion National Park, Utah, USA (© Stan Moniz/Tandem Stills + Motion)")

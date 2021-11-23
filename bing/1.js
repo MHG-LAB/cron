@@ -1,1 +1,1 @@
-document.write("Forest near Invergarry, Scotland (© Matt Anderson Photography/Getty Images)")
+document.write("Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)")

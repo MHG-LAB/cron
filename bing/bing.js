@@ -1,1 +1,1 @@
-document.write("Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)")
+document.write("Fossilised ammonite shell (© Marianna Armata/Getty Images)")

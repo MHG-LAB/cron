@@ -1,1 +1,1 @@
-document.write("Manatee in Florida, USA (© Paul E Tessier/Cavan Images/Offset by Shutterstock)")
+document.write("Jacobite steam train, Glenfinnan Viaduct, Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)")

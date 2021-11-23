@@ -1,1 +1,1 @@
-document.write("Jacobite steam train, Glenfinnan Viaduct, Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)")
+document.write("Corkscrew Swamp Sanctuary, Florida, USA (© Bill Gozansky/Alamy)")

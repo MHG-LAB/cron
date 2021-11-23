@@ -1,1 +1,1 @@
-document.write("Corkscrew Swamp Sanctuary, Florida, USA (© Bill Gozansky/Alamy)")
+document.write("Rame Head, Cornwall, England (© Cavan Images/Offset)")

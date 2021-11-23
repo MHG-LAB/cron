@@ -1,1 +1,1 @@
-document.write("Mount Assiniboine Provincial Park, British Columbia, Canada (© Mitch Pittman/TANDEM Stills + Motion)")
+document.write("Forest near Invergarry, Scotland (© Matt Anderson Photography/Getty Images)")
