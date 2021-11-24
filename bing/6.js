@@ -1,1 +1,1 @@
-document.write("Corkscrew Swamp Sanctuary, Florida, USA (© Bill Gozansky/Alamy)")
+document.write("酷似隧道的峡谷，犹他州锡安国家公园 (© Stan Moniz/Tandem Stills + Motion)")

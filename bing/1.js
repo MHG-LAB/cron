@@ -1,1 +1,1 @@
-document.write("Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)")
+document.write("独特的巧克力山，菲律宾薄荷岛 (© Danita Delimont/Offset by Shutterstock)")

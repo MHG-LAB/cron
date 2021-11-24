@@ -1,1 +1,1 @@
-document.write("Forest near Invergarry, Scotland (© Matt Anderson Photography/Getty Images)")
+document.write("菊石亚纲壳体的横截面 (© Marianna Armata/Getty Images)")

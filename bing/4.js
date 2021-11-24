@@ -1,1 +1,1 @@
-document.write("The Subway canyon, Zion National Park, Utah, USA (© Stan Moniz/Tandem Stills + Motion)")
+document.write("Invergarry村庄附近的森林，苏格兰 (© Matt Anderson Photography/Getty Images)")

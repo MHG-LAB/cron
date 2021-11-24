@@ -1,1 +1,1 @@
-document.write("Fossilised ammonite shell (© Marianna Armata/Getty Images)")
+document.write("凯恩戈姆山国家公园的欧亚红松鼠，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)")

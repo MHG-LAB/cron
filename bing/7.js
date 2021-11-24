@@ -1,1 +1,1 @@
-document.write("Jacobite steam train, Glenfinnan Viaduct, Inverness-shire, Scotland (© The Escape of Malee/Shutterstock)")
+document.write("潘塔纳尔湿地的风信子金刚鹦鹉，巴西 (© David Pattyn/Minden Pictures)")
