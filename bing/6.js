@@ -1,1 +1,1 @@
-document.write("酷似隧道的峡谷，犹他州锡安国家公园 (© Stan Moniz/Tandem Stills + Motion)")
+document.write("阿西尼博因山公园的秋叶，加拿大不列颠哥伦比亚省 (© Mitch Pittman/TANDEM Stills + Motion)")
