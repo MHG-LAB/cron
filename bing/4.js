@@ -1,1 +1,1 @@
-document.write("伊吕波坂山道，日本日光市 (© LightRecords/Shutterstock)")
+document.write("菊石亚纲壳体的横截面 (© Marianna Armata/Getty Images)")

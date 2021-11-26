@@ -1,1 +1,1 @@
-document.write('十多年的单恋修成了正果，是很幸福的事。')
+document.write('Yesterday is a history, tomorrow is a mystery, but today is a gift.')

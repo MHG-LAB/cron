@@ -1,1 +1,1 @@
-document.write("阿西尼博因山公园的秋叶，加拿大不列颠哥伦比亚省 (© Mitch Pittman/TANDEM Stills + Motion)")
+document.write("Invergarry村庄附近的森林，苏格兰 (© Matt Anderson Photography/Getty Images)")

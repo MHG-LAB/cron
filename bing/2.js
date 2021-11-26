@@ -1,1 +1,1 @@
-document.write("独特的巧克力山，菲律宾薄荷岛 (© Danita Delimont/Offset by Shutterstock)")
+document.write("凯恩戈姆山国家公园的欧亚红松鼠，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)")
