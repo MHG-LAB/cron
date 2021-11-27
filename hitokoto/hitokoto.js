@@ -1,1 +1,1 @@
-document.write('Yesterday is a history, tomorrow is a mystery, but today is a gift.')
+document.write('成为我作品中的女主角吧。')
