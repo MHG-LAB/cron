@@ -1,1 +1,1 @@
-document.write('成为我作品中的女主角吧。')
+document.write('看似美好的东西，往往藏着陷阱。')

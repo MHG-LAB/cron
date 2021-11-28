@@ -1,1 +1,1 @@
-document.write("Invergarry村庄附近的森林，苏格兰 (© Matt Anderson Photography/Getty Images)")
+document.write("伊吕波坂山道，日本日光市 (© LightRecords/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("菊石亚纲壳体的横截面 (© Marianna Armata/Getty Images)")
+document.write("独特的巧克力山，菲律宾薄荷岛 (© Danita Delimont/Offset by Shutterstock)")
