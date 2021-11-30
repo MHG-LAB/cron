@@ -1,1 +1,1 @@
-document.write("伊兰谷中的Pen y Garreg水坝，威尔士 (© Joe Daniel Price/Moment Open/Getty Images)")
+document.write("古老的水青冈树，英国北安普顿郡 (© Andrew Baskott/Alamy)")
