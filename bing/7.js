@@ -1,1 +1,1 @@
-document.write("凯恩戈姆山国家公园的欧亚红松鼠，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)")
+document.write("枝头上的太平鸟（北美亚种），加拿大 (© Mircea Costina/Alamy)")
