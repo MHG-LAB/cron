@@ -1,1 +1,1 @@
-document.write("马赛马拉国家保护区中的猎豹母子，肯尼亚 (© gudkovandrey/Adobe Stock)")
+document.write("夜幕下的萨尔察赫河，奥地利萨尔茨堡 (© MacEaton/Alamy)")

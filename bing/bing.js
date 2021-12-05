@@ -1,1 +1,1 @@
-document.write("夜幕下的萨尔察赫河，奥地利萨尔茨堡 (© MacEaton/Alamy)")
+document.write("薄雾中的格拉斯顿伯里托尔，英格兰萨默塞特郡 (© DEEPOL by plainpicture/Adam Burton)")

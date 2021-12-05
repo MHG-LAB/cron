@@ -1,1 +1,1 @@
-document.write("马赛马拉国家保护区中的非洲草原象，肯尼亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)")
+document.write("库佛维尔岛附近的蓝色冰山，南极洲 (© Mike Hill/Getty Images)")

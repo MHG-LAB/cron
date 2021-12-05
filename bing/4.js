@@ -1,1 +1,1 @@
-document.write("库佛维尔岛附近的蓝色冰山，南极洲 (© Mike Hill/Getty Images)")
+document.write("迪纳利国家公园里的白大角羊，阿拉斯加 (© Patrick J. Endres/Getty Images)")
