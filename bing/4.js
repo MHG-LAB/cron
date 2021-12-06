@@ -1,1 +1,1 @@
-document.write("迪纳利国家公园里的白大角羊，阿拉斯加 (© Patrick J. Endres/Getty Images)")
+document.write("披着一层霜花的秋叶 (© sagarmanis/Getty Images)")

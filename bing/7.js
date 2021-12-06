@@ -1,1 +1,1 @@
-document.write("被白雪覆盖的彩虹山，秘鲁 (© Jude Newkirk/Amazing Aerial Agency)")
+document.write("马赛马拉国家保护区中的非洲草原象，肯尼亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)")

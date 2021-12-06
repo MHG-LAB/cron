@@ -1,1 +1,1 @@
-document.write('我要真心的，亲下去咯。')
+document.write('现在的你，就是那时的我。')
