@@ -1,1 +1,1 @@
-document.write("孚日山脉上的国王城堡，法国阿尔萨斯 (© Leonid Andronov/Shutterstock)")
+document.write("有着丰富石化木材的石化林国家公园，美国亚利桑那州 (© Ian Shive/Tandem Stills + Motion)")

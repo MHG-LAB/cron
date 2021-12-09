@@ -1,1 +1,1 @@
-document.write('吾问汝：汝是吾之master否？')
+document.write('大而骨节分明的手，是钢琴家的手呢。 ')
