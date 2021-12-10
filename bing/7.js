@@ -1,1 +1,1 @@
-document.write("披着一层霜花的秋叶 (© sagarmanis/Getty Images)")
+document.write("马赛马拉国家保护区中的猎豹母子，肯尼亚 (© gudkovandrey/Adobe Stock)")

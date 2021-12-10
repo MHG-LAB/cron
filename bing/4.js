@@ -1,1 +1,1 @@
-document.write("薄雾中的格拉斯顿伯里托尔，英格兰萨默塞特郡 (© DEEPOL by plainpicture/Adam Burton)")
+document.write("孚日山脉上的国王城堡，法国阿尔萨斯 (© Leonid Andronov/Shutterstock)")
