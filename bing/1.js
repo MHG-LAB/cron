@@ -1,1 +1,1 @@
-document.write("北极狐，挪威多弗勒山-松达尔国家 (© Andy Trowbridge/Minden Pictures)")
+document.write("珠穆朗玛峰的影子，尼泊尔喜马拉雅西部 (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)")
