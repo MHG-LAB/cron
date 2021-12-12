@@ -1,1 +1,1 @@
-document.write('春节假期，从跳过早午餐开始。')
+document.write('有钱人终成眷属，而你亲眼目睹。')
