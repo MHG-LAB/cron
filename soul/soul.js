@@ -1,1 +1,1 @@
-document.write('有钱人终成眷属，而你亲眼目睹。')
+document.write('猪猪那么可爱你们能不能炖香一点')

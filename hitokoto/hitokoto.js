@@ -1,1 +1,1 @@
-document.write('我敬你是条汉子！')
+document.write('友情，恋爱，神秘，只因为有当初的约定才可以坚持到底……')
