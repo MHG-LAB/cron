@@ -1,1 +1,1 @@
-document.write("蓝山国家公园里的萤火虫，澳大利亚 (© Leelakajonkij/Getty Images)")
+document.write("北极狐，挪威多弗勒山-松达尔国家 (© Andy Trowbridge/Minden Pictures)")

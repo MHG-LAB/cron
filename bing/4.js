@@ -1,1 +1,1 @@
-document.write("珠穆朗玛峰的影子，尼泊尔喜马拉雅西部 (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)")
+document.write("别致的柳条田野，西班牙Cañamares (© David Santiago Garcia/Alamy)")

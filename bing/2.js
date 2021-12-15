@@ -1,1 +1,1 @@
-document.write("暮色中的面包山和老城区，厄瓜多尔基多 (© Karol Kozlowski/plainpicture)")
+document.write("伫立枝头的旅鸫鸟，加拿大 (© marcophotos/Getty Images)")
