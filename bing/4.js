@@ -1,1 +1,1 @@
-document.write("别致的柳条田野，西班牙Cañamares (© David Santiago Garcia/Alamy)")
+document.write("暮色中的面包山和老城区，厄瓜多尔基多 (© Karol Kozlowski/plainpicture)")
