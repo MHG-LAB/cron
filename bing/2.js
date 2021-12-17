@@ -1,1 +1,1 @@
-document.write("坎塔布里亚的小教堂，西班牙 (© Luis Miguel Martin/Getty Images)")
+document.write("韦尼格罗德的圣诞市场，德国萨克森-安哈尔特州 (© Krzysztof Baranowski/Moment/Getty Images)")
