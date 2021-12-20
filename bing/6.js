@@ -1,1 +1,1 @@
-document.write("伫立枝头的旅鸫鸟，加拿大 (© marcophotos/Getty Images)")
+document.write("坎塔布里亚的小教堂，西班牙 (© Luis Miguel Martin/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("圣诞主题的海滩小屋，英国伯恩茅斯 (© Allouphoto/Alamy)")
+document.write("阿尔萨斯的葡萄酒村，法国上莱茵省 (© Walter Bibikow/eStock Photo)")
