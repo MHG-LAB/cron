@@ -1,1 +1,1 @@
-document.write('我的内心就和厕纸一样单纯！')
+document.write('如果没有遇到她，我将会无法前进。')

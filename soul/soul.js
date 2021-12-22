@@ -1,1 +1,1 @@
-document.write('他只是暧昧成瘾、而你却走了心')
+document.write('为什么你能像智障一样活着，而我却不可以。')

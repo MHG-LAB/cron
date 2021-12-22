@@ -1,1 +1,1 @@
-document.write("韦尼格罗德的圣诞市场，德国萨克森-安哈尔特州 (© Krzysztof Baranowski/Moment/Getty Images)")
+document.write("圣诞主题的海滩小屋，英国伯恩茅斯 (© Allouphoto/Alamy)")
