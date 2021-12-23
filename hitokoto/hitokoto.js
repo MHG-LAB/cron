@@ -1,1 +1,1 @@
-document.write('如果没有遇到她，我将会无法前进。')
+document.write('人真的容易和其他人竞争不幸呢。')

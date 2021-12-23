@@ -1,1 +1,1 @@
-document.write('为什么你能像智障一样活着，而我却不可以。')
+document.write('事业缺火，命里缺金')
