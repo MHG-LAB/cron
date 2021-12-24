@@ -1,1 +1,1 @@
-document.write('事业缺火，命里缺金')
+document.write('是好久不见，还是，视而不见。')

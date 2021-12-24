@@ -1,1 +1,1 @@
-document.write("西西伯利亚森林中的阳光，俄罗斯拉杜日内市附近 (© Leonid Ikan/Shutterstock)")
+document.write("投射在安纳西中皇岛墙上的雪景影像，法国上萨瓦省 (© blickwinkel/Alamy)")

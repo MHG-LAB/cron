@@ -1,1 +1,1 @@
-document.write("阿尔萨斯的葡萄酒村，法国上莱茵省 (© Walter Bibikow/eStock Photo)")
+document.write("布鲁克斯山脉上空的极光，美国阿拉斯加州 (© Noppawat Tom Charoensinphon/Getty Images)")
