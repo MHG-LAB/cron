@@ -1,1 +1,1 @@
-document.write("两只玩耍的北极熊，加拿大丘吉尔镇 (© Cheryl Ramalho/Getty Images)")
+document.write("湖畔的一棵小圣诞树，奥地利魏森湖 (© nagelestock/Alamy)")
