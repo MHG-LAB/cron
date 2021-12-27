@@ -1,1 +1,1 @@
-document.write("投射在安纳西中皇岛墙上的雪景影像，法国上萨瓦省 (© blickwinkel/Alamy)")
+document.write("两只玩耍的北极熊，加拿大丘吉尔镇 (© Cheryl Ramalho/Getty Images)")

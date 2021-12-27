@@ -1,1 +1,1 @@
-document.write("Linn of Quoich瀑布旁的碗状岩石洞，苏格兰阿伯丁郡 (© AWL Images/Danita Delimont)")
+document.write("西西伯利亚森林中的阳光，俄罗斯拉杜日内市附近 (© Leonid Ikan/Shutterstock)")
