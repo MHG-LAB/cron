@@ -1,1 +1,1 @@
-document.write("宛如圣诞精灵的树干，乌克兰喀尔巴阡山脉 (© panaramka/Getty Images)")
+document.write("日光下的村落，英格兰东萨塞克斯郡 (© JohnnyPowell/iStock/Getty Images Plus)")
