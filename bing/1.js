@@ -1,1 +1,1 @@
-document.write("星空下的灯塔，德国Westerhever镇 (© Sandra Bartocha/Minden Pictures)")
+document.write("跨年夜的篝火晚会，冰岛雷克雅未克 (© Ragnar Th Sigurdsson/Alamy)")

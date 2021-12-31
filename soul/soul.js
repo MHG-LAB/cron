@@ -1,1 +1,1 @@
-document.write('玩游戏，输赢不重要，重要的是要赢。')
+document.write('我想早恋，但是已经晚了…')

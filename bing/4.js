@@ -1,1 +1,1 @@
-document.write("暴雪中成群的雪鹀，美国纽约 (© Marie Read/Minden Pictures)")
+document.write("半球形的谢尔亨里克森天文台，挪威斯瓦尔巴群岛 (© Vincent Fournier/Gallery Stock)")
