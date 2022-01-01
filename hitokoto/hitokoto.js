@@ -1,1 +1,1 @@
-document.write('人世间 酸甜苦辣 若长良川。')
+document.write('我喜欢的人，如果喜欢我，当然最好。')
