@@ -1,1 +1,1 @@
-document.write("育空地区的落基山羊，加拿大 (© Mark Newman/Getty Images)")
+document.write("星空下的灯塔，德国Westerhever镇 (© Sandra Bartocha/Minden Pictures)")

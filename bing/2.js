@@ -1,1 +1,1 @@
-document.write("跨年夜的篝火晚会，冰岛雷克雅未克 (© Ragnar Th Sigurdsson/Alamy)")
+document.write("睡在海滩上的竖琴海豹，纽约长岛 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")

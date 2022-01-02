@@ -1,1 +1,1 @@
-document.write('我喜欢的人，如果喜欢我，当然最好。')
+document.write('我的终点，与幸福同在。')
