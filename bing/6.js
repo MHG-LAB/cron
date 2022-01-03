@@ -1,1 +1,1 @@
-document.write("半球形的谢尔亨里克森天文台，挪威斯瓦尔巴群岛 (© Vincent Fournier/Gallery Stock)")
+document.write("育空地区的落基山羊，加拿大 (© Mark Newman/Getty Images)")

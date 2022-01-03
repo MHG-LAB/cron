@@ -1,1 +1,1 @@
-document.write('我的终点，与幸福同在。')
+document.write('不论是过去还是未来，我都会保护你！')

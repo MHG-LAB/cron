@@ -1,1 +1,1 @@
-document.write("雪后的布拉格，捷克共和国 (© benkrut/Getty Images)")
+document.write("汉密尔顿山顶的利克天文台，美国加利福尼亚州 (© Jeffrey Lewis/Tandem Stills + Motion)")
