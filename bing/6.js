@@ -1,1 +1,1 @@
-document.write("睡在海滩上的竖琴海豹，纽约长岛 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
+document.write("雪后的布拉格，捷克共和国 (© benkrut/Getty Images)")
