@@ -1,1 +1,1 @@
-document.write("安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Tom Hogan/plainpicture)")
+document.write("树干上的扁嘴山巨嘴鸟，厄瓜多尔 (© Tui De Roy/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("黄石国家公园的美洲野牛，美国怀俄明州 (© Steve Gettle/Minden Pictures)")
+document.write("正在晾晒的大米，孟加拉国达卡 (© Amazing Aerial Agency/Offset by Shutterstock)")
