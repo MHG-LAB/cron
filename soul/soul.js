@@ -1,1 +1,1 @@
-document.write('我不骂人，那是因为我，动手能力比较强。')
+document.write('男追女隔座山，翻过山就好了')

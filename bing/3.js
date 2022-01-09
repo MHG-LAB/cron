@@ -1,1 +1,1 @@
-document.write("冬日里的科赫尔湖，德国巴伐利亚州 (© Reinhard Schmid/eStock Photo)")
+document.write("纳扎雷灯塔，葡萄牙 (© Richard A Lock/Getty Images)")
