@@ -1,1 +1,1 @@
-document.write('男追女隔座山，翻过山就好了')
+document.write('不要借太多钱给一个人，那会让你变得很穷')
