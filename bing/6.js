@@ -1,1 +1,1 @@
-document.write("纳扎雷灯塔，葡萄牙 (© Richard A Lock/Getty Images)")
+document.write("黄石国家公园的美洲野牛，美国怀俄明州 (© Steve Gettle/Minden Pictures)")

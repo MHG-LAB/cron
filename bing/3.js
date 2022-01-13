@@ -1,1 +1,1 @@
-document.write("在高地陶恩山脉的滑雪旅行，奥地利巴德加斯坦 (© RooM the Agency/Alamy)")
+document.write("爬上柳树枝头的豪猪，美国阿拉斯加 (© Design Pics/Danita Delimont)")

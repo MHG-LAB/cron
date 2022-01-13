@@ -1,1 +1,1 @@
-document.write("爬上柳树枝头的豪猪，美国阿拉斯加 (© Design Pics/Danita Delimont)")
+document.write("梵净山，中国西南部 (© zhuxiaophotography/Shutterstock)")

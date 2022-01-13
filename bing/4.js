@@ -1,1 +1,1 @@
-document.write("正在晾晒的大米，孟加拉国达卡 (© Amazing Aerial Agency/Offset by Shutterstock)")
+document.write("在高地陶恩山脉的滑雪旅行，奥地利巴德加斯坦 (© RooM the Agency/Alamy)")
