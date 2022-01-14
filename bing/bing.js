@@ -1,1 +1,1 @@
-document.write("通往萨卡洛布拉湾的路，西班牙马约卡岛 (© Tolo Balaguer/agefotostock)")
+document.write("苏阿海沟，萨摩亚乌波卢岛南海岸 (© Chris McLennan/Alamy)")
