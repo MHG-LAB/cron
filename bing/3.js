@@ -1,1 +1,1 @@
-document.write("搁浅船只上空的极光，格陵兰岛塔西拉克 (© Shane P. White/Minden Pictures)")
+document.write("通往萨卡洛布拉湾的路，西班牙马约卡岛 (© Tolo Balaguer/agefotostock)")
