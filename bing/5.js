@@ -1,1 +1,1 @@
-document.write("梵净山，中国西南部 (© zhuxiaophotography/Shutterstock)")
+document.write("搁浅船只上空的极光，格陵兰岛塔西拉克 (© Shane P. White/Minden Pictures)")
