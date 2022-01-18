@@ -1,1 +1,1 @@
-document.write("博格豪森镇和萨尔察赫河，德国巴伐利亚州 (© Harald Nachtmann/Moment/Getty Images)")
+document.write("克卢恩国家公园保护区的山脉和冰川，加拿大育空地区 (© Design Pics Inc/Alamy)")
