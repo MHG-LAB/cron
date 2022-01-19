@@ -1,1 +1,1 @@
-document.write('去死两次！')
+document.write('身为冒险者，如果安静的老死在床上，那简直就是耻辱！')

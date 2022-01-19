@@ -1,1 +1,1 @@
-document.write('月老麻烦下次为我牵红线，能换成钢丝吗？红线老TM断。')
+document.write('成败是评判英雄的唯一标准。')
