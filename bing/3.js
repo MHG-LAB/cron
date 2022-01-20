@@ -1,1 +1,1 @@
-document.write("莱达尔湖, 英格兰坎布里亚郡湖区 (© Tranquillian1/iStock/Getty Images Plus)")
+document.write("博格豪森镇和萨尔察赫河，德国巴伐利亚州 (© Harald Nachtmann/Moment/Getty Images)")
