@@ -1,1 +1,1 @@
-document.write("格雷厄姆海峡的阿德利企鹅，南极洲南极半岛 (© Nick Garbutt/Minden Pictures)")
+document.write("草丛中的母狮和它的幼崽，南非 (© Andrew Coleman/Getty Images)")
