@@ -1,1 +1,1 @@
-document.write('提高你的适应力，去接受这一切')
+document.write('人还是无法忍受孤独的。')
