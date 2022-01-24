@@ -1,1 +1,1 @@
-document.write("克卢恩国家公园保护区的山脉和冰川，加拿大育空地区 (© Design Pics Inc/Alamy)")
+document.write("格雷厄姆海峡的阿德利企鹅，南极洲南极半岛 (© Nick Garbutt/Minden Pictures)")

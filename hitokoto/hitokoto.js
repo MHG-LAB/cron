@@ -1,1 +1,1 @@
-document.write('人还是无法忍受孤独的。')
+document.write('若能一切随他去，便是世间自在人')
