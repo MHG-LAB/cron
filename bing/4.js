@@ -1,1 +1,1 @@
-document.write("草丛中的母狮和它的幼崽，南非 (© Andrew Coleman/Getty Images)")
+document.write("蔚蓝海域中的马提尼克岛，加勒比海 (© Airpano LLC/Amazing Aerial Agency)")

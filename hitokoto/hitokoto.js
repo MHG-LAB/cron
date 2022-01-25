@@ -1,1 +1,1 @@
-document.write('若能一切随他去，便是世间自在人')
+document.write('重要的东西全部都在半径米之内。')
