@@ -1,1 +1,1 @@
-document.write("安格尔西岛上的Tŵr Mawr 灯塔，英国威尔士 (© Joe Daniel Price/Getty Images)")
+document.write("梅兰加尔堡，印度焦特布尔 (© Jayakumar/Shutterstock)")

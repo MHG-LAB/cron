@@ -1,1 +1,1 @@
-document.write('有钱了不起啊？有钱，真的了不起。')
+document.write('Follow your heart，翻译成中文就一个字，怂。')

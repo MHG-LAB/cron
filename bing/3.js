@@ -1,1 +1,1 @@
-document.write("海岸旁的二见浦夫妇岩，日本三重县 (© Marco Gaiotti/plainpicture)")
+document.write("灯光璀璨的曼哈顿下城，美国纽约 (© New York On Air/Offset/Shutterstock)")

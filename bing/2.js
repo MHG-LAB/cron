@@ -1,1 +1,1 @@
-document.write("灯光璀璨的曼哈顿下城，美国纽约 (© New York On Air/Offset/Shutterstock)")
+document.write("安格尔西岛上的Tŵr Mawr 灯塔，英国威尔士 (© Joe Daniel Price/Getty Images)")
