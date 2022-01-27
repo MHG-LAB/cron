@@ -1,1 +1,1 @@
-document.write('Follow your heart，翻译成中文就一个字，怂。')
+document.write('昨天遇见小学同班同学，没想到他混的这么差，只往我碗里放了一块钱。')
