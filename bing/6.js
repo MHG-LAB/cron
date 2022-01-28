@@ -1,1 +1,1 @@
-document.write("蔚蓝海域中的马提尼克岛，加勒比海 (© Airpano LLC/Amazing Aerial Agency)")
+document.write("海岸旁的二见浦夫妇岩，日本三重县 (© Marco Gaiotti/plainpicture)")

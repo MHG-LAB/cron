@@ -1,1 +1,1 @@
-document.write("珀斯附近海域的蓝斑条尾魟，澳大利亚 (© Jeff Rotman/Minden Pictures)")
+document.write("正在狩猎的短耳鸮，英格兰林肯郡 (© Ben Hall/Minden Pictures)")
