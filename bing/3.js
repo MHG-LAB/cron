@@ -1,1 +1,1 @@
-document.write("梅兰加尔堡，印度焦特布尔 (© Jayakumar/Shutterstock)")
+document.write("珀斯附近海域的蓝斑条尾魟，澳大利亚 (© Jeff Rotman/Minden Pictures)")
