@@ -1,1 +1,1 @@
-document.write("正在狩猎的短耳鸮，英格兰林肯郡 (© Ben Hall/Minden Pictures)")
+document.write("加勒比海的片脑纹珊瑚，开曼群岛 (© Alex Mustard/Minden Pictures)")
