@@ -1,1 +1,1 @@
-document.write('有缘千里来相会，无缘倒也省话费。')
+document.write('你要是过得好，我怎么能睡得着。')
