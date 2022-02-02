@@ -1,1 +1,1 @@
-document.write('早点睡吧，因为你喜欢的人，早就跟别人睡着了。')
+document.write('与其被动失眠，不如主动熬夜')

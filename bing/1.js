@@ -1,1 +1,1 @@
-document.write("寓意幸福和团圆的春节灯笼，中国 (© d3sign/Moment/Getty Images)")
+document.write("阿尔卑斯旱獭，奥地利陶恩山国家公园 (© Misja Smits/Minden Pictures)")
