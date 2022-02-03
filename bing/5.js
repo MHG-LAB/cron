@@ -1,1 +1,1 @@
-document.write("加勒比海的片脑纹珊瑚，开曼群岛 (© Alex Mustard/Minden Pictures)")
+document.write("厄尔士山脉上的光晕，德国萨克森州 (© Martin Ruegner/Getty Images)")

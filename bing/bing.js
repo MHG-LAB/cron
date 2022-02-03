@@ -1,1 +1,1 @@
-document.write("Corjuem堡垒，印度果阿邦 (© Ingvar Kuznetsov/Shutterstock)")
+document.write("亚运村夜景，北京 (© ViewStock/Getty Images)")
