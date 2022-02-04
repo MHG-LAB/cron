@@ -1,1 +1,1 @@
-document.write("阿尔卑斯旱獭，奥地利陶恩山国家公园 (© Misja Smits/Minden Pictures)")
+document.write("Corjuem堡垒，印度果阿邦 (© Ingvar Kuznetsov/Shutterstock)")
