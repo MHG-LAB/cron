@@ -1,1 +1,1 @@
-document.write('由于性格太内向，一直做不出，抢着结账这种事。')
+document.write('念念不忘，可有回响？')

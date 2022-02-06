@@ -1,1 +1,1 @@
-document.write("厄尔士山脉上的光晕，德国萨克森州 (© Martin Ruegner/Getty Images)")
+document.write("烟花绽放的除夕夜，中国 (© MediaProduction/E+/Getty Images)")
