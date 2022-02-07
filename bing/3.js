@@ -1,1 +1,1 @@
-document.write("亚运村夜景，北京 (© ViewStock/Getty Images)")
+document.write("漫天飞舞的黑脉金斑蝶，墨西哥 (© Sylvain Cordier/Minden Pictures)")

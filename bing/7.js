@@ -1,1 +1,1 @@
-document.write("烟花绽放的除夕夜，中国 (© MediaProduction/E+/Getty Images)")
+document.write("寓意幸福和团圆的春节灯笼，中国 (© d3sign/Moment/Getty Images)")

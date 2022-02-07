@@ -1,1 +1,1 @@
-document.write('念念不忘，可有回响？')
+document.write('放心吧 有钱人运气都不会太差的。')
