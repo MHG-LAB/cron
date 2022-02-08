@@ -1,1 +1,1 @@
-document.write('放心吧 有钱人运气都不会太差的。')
+document.write('困难也许会迟到，但绝不缺席。')
