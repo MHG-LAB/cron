@@ -1,1 +1,1 @@
-document.write('我颠倒了整个世界，只为摆正你的倒影。')
+document.write('COLL的男人是绝对不会花心的！')

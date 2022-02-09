@@ -1,1 +1,1 @@
-document.write("科西嘉岛上的Speloncato市，法国 (© Jon Ingall/Alamy)")
+document.write("七姐妹悬崖上的警卫小屋，英国东萨塞克斯郡 (© Paul Daniels/Alamy)")
