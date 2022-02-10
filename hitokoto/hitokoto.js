@@ -1,1 +1,1 @@
-document.write('COLL的男人是绝对不会花心的！')
+document.write('嘴勤不走冤枉路')

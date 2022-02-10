@@ -1,1 +1,1 @@
-document.write("漫天飞舞的黑脉金斑蝶，墨西哥 (© Sylvain Cordier/Minden Pictures)")
+document.write("奥伊米亚康的冬天，俄罗斯 (© Alexandr Berdicevschi/Getty Images)")

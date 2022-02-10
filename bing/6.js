@@ -1,1 +1,1 @@
-document.write("亚运村夜景，北京 (© ViewStock/Getty Images)")
+document.write("Big Air Shougang venue in Shijingshan District, Beijing, China (© Gao Zehong/VCG via Getty Images)")
