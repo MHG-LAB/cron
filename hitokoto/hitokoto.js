@@ -1,1 +1,1 @@
-document.write('嘴勤不走冤枉路')
+document.write('不怕学问浅，就怕志气短')
