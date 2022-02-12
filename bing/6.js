@@ -1,1 +1,1 @@
-document.write("奥伊米亚康的冬天，俄罗斯 (© Alexandr Berdicevschi/Getty Images)")
+document.write("冰雪节上的冰雕艺术作品，加拿大渥太华 (© S. Garcia Cournoyer/Alamy)")
