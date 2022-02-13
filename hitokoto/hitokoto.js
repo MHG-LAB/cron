@@ -1,1 +1,1 @@
-document.write('汗水和丰收是忠实的伙伴，勤学和知识是一对最美丽的情侣')
+document.write('Follow your heart，翻译成中文就一个字:怂。')

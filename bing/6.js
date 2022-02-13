@@ -1,1 +1,1 @@
-document.write("冰雪节上的冰雕艺术作品，加拿大渥太华 (© S. Garcia Cournoyer/Alamy)")
+document.write("科西嘉岛上的Speloncato市，法国 (© Jon Ingall/Alamy)")
