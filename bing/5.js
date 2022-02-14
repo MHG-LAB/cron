@@ -1,1 +1,1 @@
-document.write("七姐妹悬崖上的警卫小屋，英国东萨塞克斯郡 (© Paul Daniels/Alamy)")
+document.write("静谧的伯尔尼古城区，瑞士 (© Xantana/Getty Images)")
