@@ -1,1 +1,1 @@
-document.write('你走！')
+document.write('做一个微笑挂在嘴边，快乐放在心上的人。')

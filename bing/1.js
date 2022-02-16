@@ -1,1 +1,1 @@
-document.write("成都街头的红灯笼，中国四川省（© kiszon pascal/Moment/Getty Images）")
+document.write("白霜覆盖下的山毛榉林，英格兰多塞特郡 (© Guy Edwardes/Minden Pictures)")

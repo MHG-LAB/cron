@@ -1,1 +1,1 @@
-document.write("黄石国家公园的美洲野牛，美国怀俄明州 (© Gerald Corsi/Getty Images)")
+document.write("心形小岛和白沙滩，印度洋马尔代夫 (© Willyam Bradberry/Shutterstock)")

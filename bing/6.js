@@ -1,1 +1,1 @@
-document.write("静谧的伯尔尼古城区，瑞士 (© Xantana/Getty Images)")
+document.write("慕那尔山区的茶园，印度喀拉拉邦 (© SvitlanaBelinska/iStock/Getty Images Plus)")
