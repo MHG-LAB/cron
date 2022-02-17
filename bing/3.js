@@ -1,1 +1,1 @@
-document.write("心形小岛和白沙滩，印度洋马尔代夫 (© Willyam Bradberry/Shutterstock)")
+document.write("成都街头的红灯笼，中国四川省（© kiszon pascal/Moment/Getty Images）")

@@ -1,1 +1,1 @@
-document.write('别减肥了，你丑不仅是因为胖。')
+document.write('贵不是iPhone的缺陷，穷是你的缺陷。')
