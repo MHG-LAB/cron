@@ -1,1 +1,1 @@
-document.write("冬天树枝上的大山雀，法国 (© Eric Ferry/Alamy)")
+document.write("贝希特斯加登阿尔卑斯山脉全景，德国巴伐利亚州 (© Spotcatch/Westend61/Offset)")
