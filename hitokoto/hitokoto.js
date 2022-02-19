@@ -1,1 +1,1 @@
-document.write('走你正在走的路，不要怕没人与你分享。')
+document.write('奔跑吧，怀抱着重要的东西。')

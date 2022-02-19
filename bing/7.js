@@ -1,1 +1,1 @@
-document.write("达尔文岛的达尔文拱门，厄瓜多尔加拉帕戈斯 (© miralex/Getty Images)")
+document.write("黄石国家公园的美洲野牛，美国怀俄明州 (© Gerald Corsi/Getty Images)")
