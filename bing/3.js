@@ -1,1 +1,1 @@
-document.write("里士满公园的雄鹿，英国伦敦 (© Ian Schofield Images/Offset/Shutterstock)")
+document.write("冬天树枝上的大山雀，法国 (© Eric Ferry/Alamy)")
