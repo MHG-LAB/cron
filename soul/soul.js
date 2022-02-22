@@ -1,1 +1,1 @@
-document.write('信就信，不信就不信，还TM整个微信。')
+document.write('感谢前行路上击倒我的人，因为，躺着真的好舒服。')
