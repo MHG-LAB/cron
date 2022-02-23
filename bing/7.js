@@ -1,1 +1,1 @@
-document.write("白霜覆盖下的山毛榉林，英格兰多塞特郡 (© Guy Edwardes/Minden Pictures)")
+document.write("里士满公园的雄鹿，英国伦敦 (© Ian Schofield Images/Offset/Shutterstock)")

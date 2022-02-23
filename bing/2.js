@@ -1,1 +1,1 @@
-document.write("哈德良长城上空的北极光，英格兰诺森伯兰郡 (© Guy Edwardes/NPL/Minden Pictures)")
+document.write("两只双峰骆驼 (© Nurlan Kulcha/Alamy)")
