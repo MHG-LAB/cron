@@ -1,1 +1,1 @@
-document.write("在海洋里畅游的座头鲸和海豚，美国夏威夷州 (© drewsulockcreations/Getty Images)")
+document.write("哈德良长城上空的北极光，英格兰诺森伯兰郡 (© Guy Edwardes/NPL/Minden Pictures)")
