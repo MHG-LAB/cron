@@ -1,1 +1,1 @@
-document.write("怀特霍斯市的落日余晖，加拿大育空地区 (© Robert Postma/Design Pics)")
+document.write("冰川湾国家公园里的兰普鲁冰川，美国阿拉斯加州 (© Andrew Peacock/Getty Images)")

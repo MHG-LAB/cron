@@ -1,1 +1,1 @@
-document.write("两只双峰骆驼 (© Nurlan Kulcha/Alamy)")
+document.write("雷斯岬国家海岸公园里的柏树隧道，美国加利福尼亚州 (© Spondylolithesis/Getty Images)")
