@@ -1,1 +1,1 @@
-document.write('冰冻三尺非一日之寒，掏空钱包却一点不难。')
+document.write('听君一席话，浪费十分钟。')

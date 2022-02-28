@@ -1,1 +1,1 @@
-document.write("雷斯岬国家海岸公园里的柏树隧道，美国加利福尼亚州 (© Spondylolithesis/Getty Images)")
+document.write("冰川洞穴里流动的河流，冰岛瓦特纳冰原 (© Marco Bottigelli/Getty Images)")
