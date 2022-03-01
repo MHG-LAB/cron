@@ -1,1 +1,1 @@
-document.write('听君一席话，浪费十分钟。')
+document.write('回首过去，我居然没有，走过一次直路。')
