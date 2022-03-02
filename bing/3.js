@@ -1,1 +1,1 @@
-document.write("在妈妈身旁玩耍的北极熊宝宝们，加拿大曼尼托巴省 (© Andre Gilden/Minden Pictures)")
+document.write("霜雪覆盖下的科茨沃尔德，英格兰 (© Peter Adams/Getty Images)")

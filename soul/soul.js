@@ -1,1 +1,1 @@
-document.write('回首过去，我居然没有，走过一次直路。')
+document.write('咸鱼翻身，还是咸鱼。')

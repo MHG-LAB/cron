@@ -1,1 +1,1 @@
-document.write('冲一杯咖啡，并时常小声地哼唱着怀旧歌曲。')
+document.write('长风破浪会有时，直挂云帆济沧海')
