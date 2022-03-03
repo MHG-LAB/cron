@@ -1,1 +1,1 @@
-document.write("雷尼尔山上空的银河星系，美国华盛顿州 (© Brad Goldpaint/Cavan)")
+document.write("加济兰加国家公园里的两头印度犀，印度阿萨姆邦 (© Robert Harding World Imagery/Shutterstock)")

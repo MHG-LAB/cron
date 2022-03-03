@@ -1,1 +1,1 @@
-document.write('长风破浪会有时，直挂云帆济沧海')
+document.write('跟我作对会有什么结果，你应该很清楚的吧。')

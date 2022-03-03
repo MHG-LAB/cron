@@ -1,1 +1,1 @@
-document.write("霜雪覆盖下的科茨沃尔德，英格兰 (© Peter Adams/Getty Images)")
+document.write("楚格峰山顶的缆车站，德国格赖瑙市 (© Robert Jank/Alamy)")
