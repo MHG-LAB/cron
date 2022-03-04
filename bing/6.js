@@ -1,1 +1,1 @@
-document.write("冰川湾国家公园里的兰普鲁冰川，美国阿拉斯加州 (© Andrew Peacock/Getty Images)")
+document.write("在妈妈身旁玩耍的北极熊宝宝们，加拿大曼尼托巴省 (© Andre Gilden/Minden Pictures)")

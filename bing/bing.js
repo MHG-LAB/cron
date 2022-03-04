@@ -1,1 +1,1 @@
-document.write("佩格尼茨河上的葡萄酒窖，德国纽伦堡 (© Reinhard Schmid/Huber/eStock Photo)")
+document.write("圣米歇尔山，法国诺曼底 (© DaLiu/Getty Images)")
