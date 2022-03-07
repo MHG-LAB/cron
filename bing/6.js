@@ -1,1 +1,1 @@
-document.write("楚格峰山顶的缆车站，德国格赖瑙市 (© Robert Jank/Alamy)")
+document.write("雷尼尔山上空的银河星系，美国华盛顿州 (© Brad Goldpaint/Cavan)")

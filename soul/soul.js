@@ -1,1 +1,1 @@
-document.write('只要你坚持，没有什么困难是打不倒你的。')
+document.write('你想有钱？想想就可以了。')

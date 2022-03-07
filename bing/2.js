@@ -1,1 +1,1 @@
-document.write("圣米歇尔山，法国诺曼底 (© DaLiu/Getty Images)")
+document.write("在暴风雪中畅游的鸬鹚，德国黑森州 (© Wilfried Martin/Getty Images)")
