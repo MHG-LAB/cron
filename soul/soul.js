@@ -1,1 +1,1 @@
-document.write('你想有钱？想想就可以了。')
+document.write('哪怕抛掉出身的因素，我觉得你也未必干得过别人。')

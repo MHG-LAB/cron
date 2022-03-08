@@ -1,1 +1,1 @@
-document.write('左舷弹幕太薄了！')
+document.write('最真实的感情，是没有打扮的自然。')
