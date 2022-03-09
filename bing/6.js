@@ -1,1 +1,1 @@
-document.write("加济兰加国家公园里的两头印度犀，印度阿萨姆邦 (© Robert Harding World Imagery/Shutterstock)")
+document.write("佩格尼茨河上的葡萄酒窖，德国纽伦堡 (© Reinhard Schmid/Huber/eStock Photo)")
