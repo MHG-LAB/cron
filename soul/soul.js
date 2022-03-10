@@ -1,1 +1,1 @@
-document.write('半夜给你留灯的，只有自动售货机。')
+document.write('爱是一道光，绿到你发慌。')

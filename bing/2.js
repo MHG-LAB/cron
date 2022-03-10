@@ -1,1 +1,1 @@
-document.write("蒂内河畔圣艾蒂安小镇，法国阿尔卑斯省  (© CAVALIER Michel/hemis.fr/Alamy Stock Photo)")
+document.write("纳加尔霍雷国家公园的孔雀，印度卡纳塔克邦 (© Vivek BR/Shutterstock)")
