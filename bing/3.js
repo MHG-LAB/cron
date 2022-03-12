@@ -1,1 +1,1 @@
-document.write("纳加尔霍雷国家公园的孔雀，印度卡纳塔克邦 (© Vivek BR/Shutterstock)")
+document.write("Ponte Gobbo桥，意大利博比奥 (© afinocchiaro/Getty Images)")

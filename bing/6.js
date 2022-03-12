@@ -1,1 +1,1 @@
-document.write("在暴风雪中畅游的鸬鹚，德国黑森州 (© Wilfried Martin/Getty Images)")
+document.write("以新西兰南岛奥拉基/库克山国家公园为背景的特卡波湖 (© Sophie Dover/Getty Images)")
