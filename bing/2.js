@@ -1,1 +1,1 @@
-document.write("奥卡拉国家森林中的杜松泉，美国佛罗里达州 (© Michael Warren/Getty Images)")
+document.write("鸟瞰视角下的布雷阿岛，法国阿摩尔滨海省 (© LECLERCQ Olivier/hemis.fr/Alamy)")
