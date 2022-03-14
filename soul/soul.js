@@ -1,1 +1,1 @@
-document.write('少小离家老大回，骚话学了一大堆。')
+document.write('条条大路通罗马，可是有人就出生在罗马')
