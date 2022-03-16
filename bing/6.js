@@ -1,1 +1,1 @@
-document.write("Ponte Gobbo桥，意大利博比奥 (© afinocchiaro/Getty Images)")
+document.write("奥卡拉国家森林中的杜松泉，美国佛罗里达州 (© Michael Warren/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("扶着树干的大熊猫，四川卧龙国家级自然保护区 (© Katherine Feng/Minden Pictures)")
+document.write("生机盎然的酢浆草和红杉树，美国大草原溪红杉州立公园 (© Jack Dykinga/Minden Pictures)")
