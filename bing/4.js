@@ -1,1 +1,1 @@
-document.write("在湿地中跳跃的欧洲野兔，荷兰 (© Jim Brandenburg/Minden Pictures)")
+document.write("兰洋夸特墓室，英国康沃尔郡 (© Guy Edwardes/Minden Pictures)")

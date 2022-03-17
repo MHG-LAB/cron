@@ -1,1 +1,1 @@
-document.write('战斗不以胜利告终就没有意义！')
+document.write('知识就是力量，了解是最大的喜悦。')
