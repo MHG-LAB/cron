@@ -1,1 +1,1 @@
-document.write("生机盎然的酢浆草和红杉树，美国大草原溪红杉州立公园 (© Jack Dykinga/Minden Pictures)")
+document.write("洒红节期间售卖的五彩粉末 (© Nuno Valadas/Getty Images)")
