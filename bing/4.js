@@ -1,1 +1,1 @@
-document.write("古罗马广场，意大利 (© Peter Zelei Images/Getty Images)")
+document.write("扶着树干的大熊猫，四川卧龙国家级自然保护区 (© Katherine Feng/Minden Pictures)")
