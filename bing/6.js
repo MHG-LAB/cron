@@ -1,1 +1,1 @@
-document.write("兰洋夸特墓室，英国康沃尔郡 (© Guy Edwardes/Minden Pictures)")
+document.write("古罗马广场，意大利 (© Peter Zelei Images/Getty Images)")

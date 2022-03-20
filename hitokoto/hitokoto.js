@@ -1,1 +1,1 @@
-document.write('再长的路，一步步也能走完；再短的路，不迈开双脚也无法到达。')
+document.write('hhhhhhhhhhhhh')
