@@ -1,1 +1,1 @@
-document.write('hhhhhhhhhhhhh')
+document.write('请教别人不折本，舌头打个滚')
