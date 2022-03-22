@@ -1,1 +1,1 @@
-document.write('请教别人不折本，舌头打个滚')
+document.write('人没有自由，犹如木偶')
