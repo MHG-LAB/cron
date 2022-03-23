@@ -1,1 +1,1 @@
-document.write("洒红节期间售卖的五彩粉末 (© Nuno Valadas/Getty Images)")
+document.write("日落时的悬日现象，美国芝加哥 (© Razvan Sera/Amazing Aerial Agency)")
