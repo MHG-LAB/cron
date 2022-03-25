@@ -1,1 +1,1 @@
-document.write("鲜艳多彩的爪哇树蛙，印度尼西亚 (© kuritafsheen/Getty Images)")
+document.write("圣三一教堂，英国埃文河畔斯特拉特福 (© James Osmond/Getty Images)")
