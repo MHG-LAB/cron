@@ -1,1 +1,1 @@
-document.write("千泉州立公园的瀑布，美国爱达荷州 (© knowlesgallery/Getty Images)")
+document.write("雷暴下的大峡谷国家公园，亚利桑那州 (© spkeelin/Getty Images)")

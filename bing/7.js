@@ -1,1 +1,1 @@
-document.write("日落时的悬日现象，美国芝加哥 (© Razvan Sera/Amazing Aerial Agency)")
+document.write("鲜艳多彩的爪哇树蛙，印度尼西亚 (© kuritafsheen/Getty Images)")
