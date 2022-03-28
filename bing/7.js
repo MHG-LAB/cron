@@ -1,1 +1,1 @@
-document.write("圣三一教堂，英国埃文河畔斯特拉特福 (© James Osmond/Getty Images)")
+document.write("千泉州立公园的瀑布，美国爱达荷州 (© knowlesgallery/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("陶尔米纳古剧院，意大利西西里岛 (© Antonino Bartuccio/eStock Photo)")
+document.write("河内藤园里梦幻的紫藤花，日本北九州市 (© Steve Tan C K Photography/Getty Images)")
