@@ -1,1 +1,1 @@
-document.write("劳特布龙嫩山谷，瑞士阿尔卑斯山 (© Leonid Andronov/Getty Images)")
+document.write("黄番红花和翩翩起舞的大山雀 (© Nataba/Getty Images)")
