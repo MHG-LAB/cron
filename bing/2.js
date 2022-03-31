@@ -1,1 +1,1 @@
-document.write("风景秀丽的加勒比海岸，哥伦比亚 (© Nicholas Hills/Getty Images)")
+document.write("黑白相间的腰带盖洛韦牛，苏格兰 (© JohnFScott/Getty Images)")

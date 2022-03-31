@@ -1,1 +1,1 @@
-document.write("河内藤园里梦幻的紫藤花，日本北九州市 (© Steve Tan C K Photography/Getty Images)")
+document.write("风景秀丽的加勒比海岸，哥伦比亚 (© Nicholas Hills/Getty Images)")
