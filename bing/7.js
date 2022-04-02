@@ -1,1 +1,1 @@
-document.write("黄番红花和翩翩起舞的大山雀 (© Nataba/Getty Images)")
+document.write("陶尔米纳古剧院，意大利西西里岛 (© Antonino Bartuccio/eStock Photo)")
