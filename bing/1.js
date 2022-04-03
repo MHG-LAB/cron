@@ -1,1 +1,1 @@
-document.write("旺阿雷自然保护区里的旺阿雷瀑布，新西兰北岛 (© Nathan Kavumbura/Getty Images)")
+document.write("太湖边盛开的樱花，无锡 (© Eric Yang/Getty Images)")
