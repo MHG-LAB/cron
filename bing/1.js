@@ -1,1 +1,1 @@
-document.write("太湖边盛开的樱花，无锡 (© Eric Yang/Getty Images)")
+document.write("裂缝中的谢拉格伯顿石，挪威谢格拉山 (© Angel FAyE/Getty Images)")

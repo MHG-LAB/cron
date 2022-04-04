@@ -1,1 +1,1 @@
-document.write("埃菲尔铁塔，法国巴黎 (© Susanne Kremer/eStock Photo)")
+document.write("哈瓦泰姬陵，印度拉贾斯坦邦，斋浦尔市 (© Mazur Travel/Shutterstock)")
