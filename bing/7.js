@@ -1,1 +1,1 @@
-document.write("黑白相间的腰带盖洛韦牛，苏格兰 (© JohnFScott/Getty Images)")
+document.write("埃菲尔铁塔，法国巴黎 (© Susanne Kremer/eStock Photo)")
