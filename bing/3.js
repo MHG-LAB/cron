@@ -1,1 +1,1 @@
-document.write("裂缝中的谢拉格伯顿石，挪威谢格拉山 (© Angel FAyE/Getty Images)")
+document.write("北极光下的众神瀑布，冰岛 (© Anton Petrus/Getty Images)")
