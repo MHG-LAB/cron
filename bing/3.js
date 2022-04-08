@@ -1,1 +1,1 @@
-document.write("北极光下的众神瀑布，冰岛 (© Anton Petrus/Getty Images)")
+document.write("正在求偶的凤头卡拉鹰，美国德克萨斯州 (© Alan Murphy/Minden Pictures)")

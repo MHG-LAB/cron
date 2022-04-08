@@ -1,1 +1,1 @@
-document.write("正在求偶的凤头卡拉鹰，美国德克萨斯州 (© Alan Murphy/Minden Pictures)")
+document.write("黄昏下的马拉加老城，西班牙 (© Sean Pavone Photo/Getty Images)")
