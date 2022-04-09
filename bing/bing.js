@@ -1,1 +1,1 @@
-document.write("光绘摄影下的滑板公园，美国阿瓦达市 (© Jon Paciaroni/Getty Images)")
+document.write("三只狞猫宝宝 (© Marion Vollborn/Minden Pictures)")
