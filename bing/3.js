@@ -1,1 +1,1 @@
-document.write("黄昏下的马拉加老城，西班牙 (© Sean Pavone Photo/Getty Images)")
+document.write("蓬塔德尔加达附近的海岸，葡萄牙 (© Jan Wlodarczyk/Alamy)")

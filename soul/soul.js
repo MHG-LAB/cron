@@ -1,1 +1,1 @@
-document.write('三分天注定，七分靠打拼，还有90分看脸。')
+document.write('信就信，不信就不信，还TM整个微信。')
