@@ -1,1 +1,1 @@
-document.write('信就信，不信就不信，还TM整个微信。')
+document.write('两个人吵架，打他是解决不了问题的，但是解气啊。')

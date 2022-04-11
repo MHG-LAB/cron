@@ -1,1 +1,1 @@
-document.write("蓬塔德尔加达附近的海岸，葡萄牙 (© Jan Wlodarczyk/Alamy)")
+document.write("光绘摄影下的滑板公园，美国阿瓦达市 (© Jon Paciaroni/Getty Images)")
