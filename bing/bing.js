@@ -1,1 +1,1 @@
-document.write("科罗拉多河上的马蹄湾，美国亚利桑那州 (© Michael Dunn/Getty Images)")
+document.write("达特穆尔国家公园的薄雾，英格兰德文郡 (© AWL Images/Danita Delimont)")
