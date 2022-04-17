@@ -1,1 +1,1 @@
-document.write("三只狞猫宝宝 (© Marion Vollborn/Minden Pictures)")
+document.write("卷曲的蕨菜叶，加拿大魁北克 (© Marianna Armata/Getty Images)")

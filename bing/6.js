@@ -1,1 +1,1 @@
-document.write("卷曲的蕨菜叶，加拿大魁北克 (© Marianna Armata/Getty Images)")
+document.write("从国际空间站拍摄到的地球上方的渐亏凸月 (© NASA)")

@@ -1,1 +1,1 @@
-document.write("森林中的结香花，日本 (© nattya3714/Getty Images)")
+document.write("科罗拉多河上的马蹄湾，美国亚利桑那州 (© Michael Dunn/Getty Images)")
