@@ -1,1 +1,1 @@
-document.write("黄石国家公园的大棱镜泉鸟瞰图，美国怀俄明州 (© AirPano LLC/Amazing Aerial Agency)")
+document.write("蓝色的美洲知更鸟蛋，新泽西州 (© Mira/Alamy)")

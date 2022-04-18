@@ -1,1 +1,1 @@
-document.write("梅萨维德国家公园的方形塔楼，美国科罗拉多州 (© lightphoto/Getty Images)")
+document.write("十六湖国家公园，克罗地亚 (© Janne Kahila/Getty Images)")

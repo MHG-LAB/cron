@@ -1,1 +1,1 @@
-document.write("从国际空间站拍摄到的地球上方的渐亏凸月 (© NASA)")
+document.write("森林中的结香花，日本 (© nattya3714/Getty Images)")
