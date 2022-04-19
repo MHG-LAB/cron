@@ -1,1 +1,1 @@
-document.write("达特穆尔国家公园的薄雾，英格兰德文郡 (© AWL Images/Danita Delimont)")
+document.write("黄石国家公园的大棱镜泉鸟瞰图，美国怀俄明州 (© AirPano LLC/Amazing Aerial Agency)")
