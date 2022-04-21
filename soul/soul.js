@@ -1,1 +1,1 @@
-document.write('你俩看起来真般配，月老的垃圾分类，做的还挺到位。')
+document.write('吃得苦中苦 心里会更堵')
