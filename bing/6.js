@@ -1,1 +1,1 @@
-document.write("蓝色的美洲知更鸟蛋，新泽西州 (© Mira/Alamy)")
+document.write("梅萨维德国家公园的方形塔楼，美国科罗拉多州 (© lightphoto/Getty Images)")
