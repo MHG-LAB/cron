@@ -1,1 +1,1 @@
-document.write('只要活在世上，就免不了会遇上分离。')
+document.write('人并不逃避别人，人逃避他自己')
