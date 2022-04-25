@@ -1,1 +1,1 @@
-document.write('人并不逃避别人，人逃避他自己')
+document.write('如草之兰，如玉之瑾，匪曰熏琢，成此芳绚。')
