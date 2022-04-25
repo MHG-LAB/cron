@@ -1,1 +1,1 @@
-document.write("两只躲在妈妈尾羽下的疣鼻小天鹅，纽约长岛 (© Vicki Jauron/Getty Images)")
+document.write("在公路上吃草的绵羊，冰岛 (© Matthew Kuhns/Tandem Stills + Motion)")

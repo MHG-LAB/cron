@@ -1,1 +1,1 @@
-document.write("在公路上吃草的绵羊，冰岛 (© Matthew Kuhns/Tandem Stills + Motion)")
+document.write("卡鲁拉国家公园里的小湖，爱沙尼亚 (© Sven Zacek/Minden Pictures)")
