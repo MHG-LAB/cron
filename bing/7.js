@@ -1,1 +1,1 @@
-document.write("十六湖国家公园，克罗地亚 (© Janne Kahila/Getty Images)")
+document.write("两只躲在妈妈尾羽下的疣鼻小天鹅，纽约长岛 (© Vicki Jauron/Getty Images)")
