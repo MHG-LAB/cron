@@ -1,1 +1,1 @@
-document.write("卡鲁拉国家公园里的小湖，爱沙尼亚 (© Sven Zacek/Minden Pictures)")
+document.write("维多利亚纪念堂，印度加尔各答 (© Roop_Dey/Shutterstock)")
