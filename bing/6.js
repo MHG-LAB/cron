@@ -1,1 +1,1 @@
-document.write("维多利亚纪念堂，印度加尔各答 (© Roop_Dey/Shutterstock)")
+document.write("半穹顶景观点上空的银河，优胜美地国家公园，加利福尼亚州 (© Cory Marshall/Tandem Stills + Motion)")
