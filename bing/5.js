@@ -1,1 +1,1 @@
-document.write("下莱茵省的胡内城堡，法国阿尔萨斯大区 (© Leonid Andronov/Alamy)")
+document.write("午夜的太阳，挪威斯瓦尔巴群岛 (© Nature Picture Library/Alamy)")

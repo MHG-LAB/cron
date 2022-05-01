@@ -1,1 +1,1 @@
-document.write("半穹顶景观点上空的银河，优胜美地国家公园，加利福尼亚州 (© Cory Marshall/Tandem Stills + Motion)")
+document.write("圣安德鲁斯湾岸边的三只王企鹅，南乔治亚岛 (© Paul Souders/Getty Images)")

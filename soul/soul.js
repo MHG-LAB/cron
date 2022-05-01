@@ -1,1 +1,1 @@
-document.write('撞衫不可怕，谁丑谁尴尬')
+document.write('别人都用名牌包包，而你，只能用用表情包。')
