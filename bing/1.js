@@ -1,1 +1,1 @@
-document.write("土耳其棉花堡的石灰华梯田 (© bybostanci/Getty Images)")
+document.write("鸳鸯妈妈和小鸳鸯们，韩国 (© VDCM image/Getty Images)")

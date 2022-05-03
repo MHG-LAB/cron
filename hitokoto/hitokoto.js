@@ -1,1 +1,1 @@
-document.write('香正好，无奈西风吹香渺，更令多情恼。')
+document.write('生如夏花之绚烂，死如秋叶之静美')

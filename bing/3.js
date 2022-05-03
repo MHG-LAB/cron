@@ -1,1 +1,1 @@
-document.write("正在投喂幼鸟的戴胜鸟，德国 (© Slawek Staszczuk/Alamy)")
+document.write("盛开的金链花树和紫色葱属植物，加拿大温哥华范度森植物园 (© Greg Vaughn/Alamy)")

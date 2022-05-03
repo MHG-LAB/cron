@@ -1,1 +1,1 @@
-document.write("大脊山，英格兰峰区国家公园 (© John Finney Photography/Moment/Getty Images)")
+document.write("巨型红杉的小萌芽，加利福尼亚州 (© Hutch Axilrod/Getty Images)")
