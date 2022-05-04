@@ -1,1 +1,1 @@
-document.write("午夜的太阳，挪威斯瓦尔巴群岛 (© Nature Picture Library/Alamy)")
+document.write("大脊山，英格兰峰区国家公园 (© John Finney Photography/Moment/Getty Images)")
