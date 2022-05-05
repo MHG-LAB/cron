@@ -1,1 +1,1 @@
-document.write("巨型红杉的小萌芽，加利福尼亚州 (© Hutch Axilrod/Getty Images)")
+document.write("正在投喂幼鸟的戴胜鸟，德国 (© Slawek Staszczuk/Alamy)")
