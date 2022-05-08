@@ -1,1 +1,1 @@
-document.write("鸳鸯妈妈和小鸳鸯们，韩国 (© VDCM image/Getty Images)")
+document.write("托菲诺的麦肯齐海滩，加拿大不列颠哥伦比亚省 (© Robert Postma/Plainpicture/Design Pics)")
