@@ -1,1 +1,1 @@
-document.write("圣托里尼岛上的伊亚镇，希腊 (© Zebra-Studio/Shutterstock)")
+document.write("布拉塞河上的雾天黎明，英国湖区国家公园 (© fstopphotography/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("一条蜿蜒穿过开满蓝铃花森林的小径，英格兰赫特福德郡 (© JayKay57/Getty Images)")
+document.write("拉西拉ESO天文台上的天文望远镜设备，智利 (© Alberto Ghizzi Panizza/Getty Images)")
