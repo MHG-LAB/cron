@@ -1,1 +1,1 @@
-document.write("蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区 (© Brian Overcast/Alamy)")
+document.write("一条蜿蜒穿过开满蓝铃花森林的小径，英格兰赫特福德郡 (© JayKay57/Getty Images)")
