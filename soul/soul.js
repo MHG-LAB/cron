@@ -1,1 +1,1 @@
-document.write('失败是成功之母，我他妈是不孕不育。')
+document.write('听君一席话，浪费十分钟。')
