@@ -1,1 +1,1 @@
-document.write('听君一席话，浪费十分钟。')
+document.write('只有真正努力过的人才会知道，天赋有多重要。')

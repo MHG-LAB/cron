@@ -1,1 +1,1 @@
-document.write("从观景台俯瞰格雷梅，格雷梅国家公园，土耳其卡帕多西亚省 (© Anton Petrus/Getty Images)")
+document.write("春天的豹溪瀑布，吉福德·平肖国家森林，美国华盛顿州 (© Stephen Matera/Tandem Stills + Motion)")
