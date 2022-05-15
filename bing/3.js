@@ -1,1 +1,1 @@
-document.write("布拉塞河上的雾天黎明，英国湖区国家公园 (© fstopphotography/Getty Images)")
+document.write("一只马赛长颈鹿，肯尼亚马赛马拉国家保护区 (© Andy Rouse/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("春天的豹溪瀑布，吉福德·平肖国家森林，美国华盛顿州 (© Stephen Matera/Tandem Stills + Motion)")
+document.write("圣托里尼岛上的伊亚镇，希腊 (© Zebra-Studio/Shutterstock)")

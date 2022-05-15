@@ -1,1 +1,1 @@
-document.write('只有真正努力过的人才会知道，天赋有多重要。')
+document.write('如果你特别迷恋一个人，那你肯定配不上ta。')
