@@ -1,1 +1,1 @@
-document.write("一只马赛长颈鹿，肯尼亚马赛马拉国家保护区 (© Andy Rouse/Minden Pictures)")
+document.write("金德代克风车群，荷兰 (© Achim Thomae/Getty Images)")

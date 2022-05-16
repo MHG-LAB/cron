@@ -1,1 +1,1 @@
-document.write("金德代克风车群，荷兰 (© Achim Thomae/Getty Images)")
+document.write("贝尔尼纳山脉和血月，瑞士 (© Bernd Zoller/Shutterstock)")
