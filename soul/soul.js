@@ -1,1 +1,1 @@
-document.write('你并不是无能，你只是没有选择的权力。')
+document.write('咸鱼翻身，还是咸鱼。')

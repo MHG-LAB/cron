@@ -1,1 +1,1 @@
-document.write("花丛中的小穴鸮们，美国科罗拉多州 (© Roberta Olenick/Alamy)")
+document.write("马拉斯盐田，秘鲁 (© Fotofeeling/Westend61 on Offset/Shutterstock)")
