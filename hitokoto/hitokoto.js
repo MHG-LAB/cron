@@ -1,1 +1,1 @@
-document.write('你以为这个世界上只有你一个人与众不同么？')
+document.write('信念，是会化不可能为可能的')

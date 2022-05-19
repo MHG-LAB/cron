@@ -1,1 +1,1 @@
-document.write('咸鱼翻身，还是咸鱼。')
+document.write('为了防止我这个月又乱花钱，我提前把钱，都花完了。')
