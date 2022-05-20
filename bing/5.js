@@ -1,1 +1,1 @@
-document.write("贝尔尼纳山脉和血月，瑞士 (© Bernd Zoller/Shutterstock)")
+document.write("花丛中的小穴鸮们，美国科罗拉多州 (© Roberta Olenick/Alamy)")
