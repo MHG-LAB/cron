@@ -1,1 +1,1 @@
-document.write("马拉斯盐田，秘鲁 (© Fotofeeling/Westend61 on Offset/Shutterstock)")
+document.write("护城河边的格吕克斯堡城堡，德国 (© Christian Back/eStock Photo)")

@@ -1,1 +1,1 @@
-document.write("护城河边的格吕克斯堡城堡，德国 (© Christian Back/eStock Photo)")
+document.write("张家界大峡谷玻璃桥，湖南 (© MediaProduction/Getty Images)")
