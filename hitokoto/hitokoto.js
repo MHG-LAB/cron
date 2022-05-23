@@ -1,1 +1,1 @@
-document.write('人类的敌人，最终还是人类。')
+document.write('繁华只是散场的开始。')
