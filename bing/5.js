@@ -1,1 +1,1 @@
-document.write("张家界大峡谷玻璃桥，湖南 (© MediaProduction/Getty Images)")
+document.write("Honeybee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)")

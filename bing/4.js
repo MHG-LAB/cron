@@ -1,1 +1,1 @@
-document.write("Honeybee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)")
+document.write("阿尔比恩瀑布，汉密尔顿，加拿大安大略省 (© Alexander Sviridov/Shutterstock)")
