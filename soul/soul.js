@@ -1,1 +1,1 @@
-document.write('既已背影倾天下，何必转身乱芳华。')
+document.write('早起的鸟儿有虫吃，早起的虫儿被鸟吃')

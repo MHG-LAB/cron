@@ -1,1 +1,1 @@
-document.write('我仍然很差劲啊。')
+document.write('把什么都算成自己的错是很傲慢的。')

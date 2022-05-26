@@ -1,1 +1,1 @@
-document.write("伯切尔氏斑马和一只牛白鹭，南非利特弗雷自然保护区 (© Richard Du Toit/Minden Pictures)")
+document.write("彩虹河里的佛罗里达红肚龟，彩虹泉州立公园，佛罗里达 (© Michel Roggo/Minden Pictures)")
