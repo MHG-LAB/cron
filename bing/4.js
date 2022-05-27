@@ -1,1 +1,1 @@
-document.write("彩虹河里的佛罗里达红肚龟，彩虹泉州立公园，佛罗里达 (© Michel Roggo/Minden Pictures)")
+document.write("科纳提国家公园，克罗地亚 (© Anton Petrus/Getty Images)")

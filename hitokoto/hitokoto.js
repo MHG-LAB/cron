@@ -1,1 +1,1 @@
-document.write('把什么都算成自己的错是很傲慢的。')
+document.write('生我者何人，又岂由得我。')

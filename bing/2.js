@@ -1,1 +1,1 @@
-document.write("格拉纳达的阿尔罕布拉，安达卢西亚省，西班牙 (© Armand Tamboly/Getty Images)")
+document.write("蒙特维德云雾森林中的吊桥，哥斯达黎加 (© Dmitriy Burlakov/Getty Images)")
