@@ -1,1 +1,1 @@
-document.write("科纳提国家公园，克罗地亚 (© Anton Petrus/Getty Images)")
+document.write("格拉纳达的阿尔罕布拉，安达卢西亚省，西班牙 (© Armand Tamboly/Getty Images)")

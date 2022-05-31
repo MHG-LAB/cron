@@ -1,1 +1,1 @@
-document.write('承君此诺，必守一生。')
+document.write('河川，激流逆流顺流回流，犹如人生前后进退往复不息。')
