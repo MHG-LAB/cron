@@ -1,1 +1,1 @@
-document.write("加勒廷国家森林里的小溪，美国蒙大拿州 (© Jared Lloyd/Getty Images)")
+document.write("日落时分的阿萨巴斯卡瀑布，加拿大 (© Robert Postma/Getty Images)")

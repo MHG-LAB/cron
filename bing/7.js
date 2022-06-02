@@ -1,1 +1,1 @@
-document.write("蒙特维德云雾森林中的吊桥，哥斯达黎加 (© Dmitriy Burlakov/Getty Images)")
+document.write("金门大桥和马林岬角，美国加利福尼亚州 (© Jeff Lewis/Tandem Stills + Motion)")

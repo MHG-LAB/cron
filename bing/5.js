@@ -1,1 +1,1 @@
-document.write("波奴鲁鲁国家公园里的邦格尔邦格尔山脉，澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)")
+document.write("加勒廷国家森林里的小溪，美国蒙大拿州 (© Jared Lloyd/Getty Images)")

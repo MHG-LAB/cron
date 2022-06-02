@@ -1,1 +1,1 @@
-document.write("福森市的莱西瀑布，德国拜仁州 (© Sergej Razvod/agefotostock)")
+document.write("广角镜头下的厦门龙舟池，日落的光洒在传统龙舟上，中国 (© Sen Li/Getty Image)")
