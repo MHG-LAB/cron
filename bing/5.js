@@ -1,1 +1,1 @@
-document.write("展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images)")
+document.write("马罗沃泻湖中的珊瑚礁，所罗门群岛 (© WaterFrame/Alamy)")

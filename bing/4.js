@@ -1,1 +1,1 @@
-document.write("马罗沃泻湖中的珊瑚礁，所罗门群岛 (© WaterFrame/Alamy)")
+document.write("福森市的莱西瀑布，德国拜仁州 (© Sergej Razvod/agefotostock)")

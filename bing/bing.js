@@ -1,1 +1,1 @@
-document.write("萨勒克国家公园的拉帕谷，瑞典 (© Alena Vishina/Alamy)")
+document.write("奥杜邦中心的一只靛蓝彩鹀，美国宾夕法尼亚州 (© Vicki Jauron/Getty Images)")
