@@ -1,1 +1,1 @@
-document.write('我不是矮，我只是离天空比较远。')
+document.write('在最好的年纪遇到你，算我倒霉。')
