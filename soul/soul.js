@@ -1,1 +1,1 @@
-document.write('在最好的年纪遇到你，算我倒霉。')
+document.write('不知不觉潮流变成了怀旧')
