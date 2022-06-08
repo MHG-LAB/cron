@@ -1,1 +1,1 @@
-document.write("奥杜邦中心的一只靛蓝彩鹀，美国宾夕法尼亚州 (© Vicki Jauron/Getty Images)")
+document.write("赫尔辛基的哈加杜鹃花公园，芬兰 (© Samuli Vainionpää/Getty Images)")

@@ -1,1 +1,1 @@
-document.write('人生平凡无奇，才能在故事中做一场美梦。')
+document.write('生生生生暗生始，死死死死冥死终。')

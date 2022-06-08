@@ -1,1 +1,1 @@
-document.write('不知不觉潮流变成了怀旧')
+document.write('你全力做到最好，可能还不如别人随便搞搞')

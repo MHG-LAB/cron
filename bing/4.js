@@ -1,1 +1,1 @@
-document.write("安塞尔·亚当斯的荒野，加利福尼亚 (© Michael DeYoung Photography/Tandem Stills + Motion)")
+document.write("萨勒克国家公园的拉帕谷，瑞典 (© Alena Vishina/Alamy)")
