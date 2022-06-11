@@ -1,1 +1,1 @@
-document.write("赫尔辛基的哈加杜鹃花公园，芬兰 (© Samuli Vainionpää/Getty Images)")
+document.write("正在狩猎太平洋沙丁鱼的长吻真海豚和南非鲣鸟，南非东开普省 (© Pete Oxford/Minden Pictures)")
