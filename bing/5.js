@@ -1,1 +1,1 @@
-document.write("邓弗里斯和加洛韦的甜心修道院，苏格兰 (© Westend61/Getty Images)")
+document.write("斑鹿，滕波尔国家公园，印度 (© Ondrej Prosicky/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("正在狩猎太平洋沙丁鱼的长吻真海豚和南非鲣鸟，南非东开普省 (© Pete Oxford/Minden Pictures)")
+document.write("邓弗里斯和加洛韦的甜心修道院，苏格兰 (© Westend61/Getty Images)")
