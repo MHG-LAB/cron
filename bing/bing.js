@@ -1,1 +1,1 @@
-document.write("大雾山国家公园，田纳西州 (© Tony Barber/Getty Images)")
+document.write("仙岩寺中的升仙桥，韩国曹溪山道立公园 (© Aaron Choi/Getty Images)")

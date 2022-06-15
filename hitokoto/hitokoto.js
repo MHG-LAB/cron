@@ -1,1 +1,1 @@
-document.write('以盐水作配菜，糖水做主食，就有种奢侈的感觉呢。')
+document.write('我马上去，我会用跑的！')
