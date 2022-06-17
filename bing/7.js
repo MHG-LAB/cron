@@ -1,1 +1,1 @@
-document.write("斑鹿，滕波尔国家公园，印度 (© Ondrej Prosicky/Shutterstock)")
+document.write("米苏尔岛，拉贾安帕特群岛中的岛屿，印度尼西亚 (© rusm/Getty Images)")

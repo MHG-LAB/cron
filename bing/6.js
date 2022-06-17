@@ -1,1 +1,1 @@
-document.write("米苏尔岛，拉贾安帕特群岛中的岛屿，印度尼西亚 (© rusm/Getty Images)")
+document.write("大弯曲国家公园的塞拉庞塞和格兰德河边的悬崖，美国得克萨斯州 (© Tim Fitzharris/Minden Pictures)")
