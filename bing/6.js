@@ -1,1 +1,1 @@
-document.write("大弯曲国家公园的塞拉庞塞和格兰德河边的悬崖，美国得克萨斯州 (© Tim Fitzharris/Minden Pictures)")
+document.write("行走在奥卡万戈河中的大象，博茨瓦纳，非洲南部 (© Markus Pavlowsky/Getty Images)")
