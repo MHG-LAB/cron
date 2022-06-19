@@ -1,1 +1,1 @@
-document.write("黄金海岸上的冲浪者，澳大利亚 (© Darren Tierney/Getty Images)")
+document.write("双垂鹤鸵爸爸和它的宝宝们，澳大利亚 (© Martin Willis/Minden Pictures)")

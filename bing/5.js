@@ -1,1 +1,1 @@
-document.write("纽约大都会艺术博物馆 (© Susanne Pommer/Shutterstock)")
+document.write("大雾山国家公园，田纳西州 (© Tony Barber/Getty Images)")

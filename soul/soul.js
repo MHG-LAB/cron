@@ -1,1 +1,1 @@
-document.write('养儿不防老，擦防晒霜才防老。')
+document.write('心软不是病，回头才致命。')

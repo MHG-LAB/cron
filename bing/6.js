@@ -1,1 +1,1 @@
-document.write("行走在奥卡万戈河中的大象，博茨瓦纳，非洲南部 (© Markus Pavlowsky/Getty Images)")
+document.write("纽约大都会艺术博物馆 (© Susanne Pommer/Shutterstock)")
