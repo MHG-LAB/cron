@@ -1,1 +1,1 @@
-document.write("仙岩寺中的升仙桥，韩国曹溪山道立公园 (© Aaron Choi/Getty Images)")
+document.write("山下盛开的箭叶脂根菊，美国大提顿国家公园 (© Mike Cavaroc/Tandem Stills + Motion)")

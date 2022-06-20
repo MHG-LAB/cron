@@ -1,1 +1,1 @@
-document.write("停在同一朵花上的两只金凤蝶 (© Alberto Ghizzi Panizza/Getty Images)")
+document.write("格拉斯顿伯里山丘上的日出，英格兰 (© Guy Edwardes/Minden Pictures)")
