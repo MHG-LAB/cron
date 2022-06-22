@@ -1,1 +1,1 @@
-document.write("山下盛开的箭叶脂根菊，美国大提顿国家公园 (© Mike Cavaroc/Tandem Stills + Motion)")
+document.write("黄金海岸上的冲浪者，澳大利亚 (© Darren Tierney/Getty Images)")

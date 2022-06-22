@@ -1,1 +1,1 @@
-document.write("亚苏尼国家公园，厄瓜多尔 (© Paul Bertner/Minden Pictures)")
+document.write("莫斯塔尔古桥，波斯尼亚和黑塞哥维那 (© Ayhan Altun/Getty Images)")
