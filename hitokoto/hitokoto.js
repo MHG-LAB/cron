@@ -1,1 +1,1 @@
-document.write('有些事情，可以理解但无法接受！')
+document.write('任何背叛时间的人，都是会遭到报应的。')
