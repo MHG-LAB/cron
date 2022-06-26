@@ -1,1 +1,1 @@
-document.write("双垂鹤鸵爸爸和它的宝宝们，澳大利亚 (© Martin Willis/Minden Pictures)")
+document.write("停在同一朵花上的两只金凤蝶 (© Alberto Ghizzi Panizza/Getty Images)")
