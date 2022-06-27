@@ -1,1 +1,1 @@
-document.write("格拉斯顿伯里山丘上的日出，英格兰 (© Guy Edwardes/Minden Pictures)")
+document.write("亚苏尼国家公园，厄瓜多尔 (© Paul Bertner/Minden Pictures)")

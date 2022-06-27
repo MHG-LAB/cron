@@ -1,1 +1,1 @@
-document.write("卡特迈国家公园和保护区的棕熊妈妈和幼崽，阿拉斯加 (© Suzi Eszterhas/Minden Pictures)")
+document.write("一只正在树上睡觉的考拉 (© Anton Rogozin/Getty Images)")
