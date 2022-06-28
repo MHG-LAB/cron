@@ -1,1 +1,1 @@
-document.write("普罗旺斯瓦朗索勒高原上的薰衣草田，法国 (© Shutterstock)")
+document.write("塔菲拉勒地区的一座古老古堡, 摩洛哥 (© José Antonio Moreno/agefotostock)")

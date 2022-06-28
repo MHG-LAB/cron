@@ -1,1 +1,1 @@
-document.write('也许我们都没有长大，只是世界变小了。')
+document.write('记得当时年纪小，你爱卖萌我爱笑。')
