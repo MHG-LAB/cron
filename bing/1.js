@@ -1,1 +1,1 @@
-document.write("塔菲拉勒地区的一座古老古堡, 摩洛哥 (© José Antonio Moreno/agefotostock)")
+document.write("攀牙湾安达曼海的红树林，泰国 (© Ratnakorn Piyasirisorost/Getty Images)")

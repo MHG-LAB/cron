@@ -1,1 +1,1 @@
-document.write("莫斯塔尔古桥，波斯尼亚和黑塞哥维那 (© Ayhan Altun/Getty Images)")
+document.write("潜水员探索文图拉斯港附近的水下天然井，墨西哥 (© Extreme Photographer/Getty Images)")

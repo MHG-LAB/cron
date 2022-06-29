@@ -1,1 +1,1 @@
-document.write('记得当时年纪小，你爱卖萌我爱笑。')
+document.write('Connecting the world...')

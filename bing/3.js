@@ -1,1 +1,1 @@
-document.write("一只正在树上睡觉的考拉 (© Anton Rogozin/Getty Images)")
+document.write("普罗旺斯瓦朗索勒高原上的薰衣草田，法国 (© Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("攀牙湾安达曼海的红树林，泰国 (© Ratnakorn Piyasirisorost/Getty Images)")
+document.write("基伯龙半岛上的海滩，法国布列塔尼地区 (© hardyun/Adobe)")
