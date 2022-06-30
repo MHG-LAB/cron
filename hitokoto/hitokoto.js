@@ -1,1 +1,1 @@
-document.write('Connecting the world...')
+document.write('我在未来等你。')

@@ -1,1 +1,1 @@
-document.write("基伯龙半岛上的海滩，法国布列塔尼地区 (© hardyun/Adobe)")
+document.write("阿圭罗村庄, 韦斯卡, 西班牙 (© Francesco Carovillano/eStock)")
