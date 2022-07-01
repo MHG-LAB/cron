@@ -1,1 +1,1 @@
-document.write("塔菲拉勒地区的一座古老古堡, 摩洛哥 (© José Antonio Moreno/agefotostock)")
+document.write("Tafilalet, Morocco (© José Antonio Moreno/agefotostock)")

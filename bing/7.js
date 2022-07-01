@@ -1,1 +1,1 @@
-document.write("潜水员探索文图拉斯港附近的水下天然井，墨西哥 (© Extreme Photographer/Getty Images)")
+document.write("Underwater cenotes, Puerto Aventuras, Mexico (© Extreme Photographer/Getty Images)")

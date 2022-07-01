@@ -1,1 +1,1 @@
-document.write("阿圭罗村庄, 韦斯卡, 西班牙 (© Francesco Carovillano/eStock)")
+document.write("Mallos de Agüero, Huesca, Spain (© Francesco Carovillano/eStock)")

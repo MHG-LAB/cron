@@ -1,1 +1,1 @@
-document.write("攀牙湾安达曼海的红树林，泰国 (© Ratnakorn Piyasirisorost/Getty Images)")
+document.write("Mangrove forest, Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)")

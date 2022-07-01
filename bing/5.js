@@ -1,1 +1,1 @@
-document.write("一只正在树上睡觉的考拉 (© Anton Rogozin/Getty Images)")
+document.write("Via Krupp, Capri, Italy (© Mikolajn/Getty Images)")

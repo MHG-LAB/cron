@@ -1,1 +1,1 @@
-document.write('我在未来等你。')
+document.write('学而时习之，不亦乐乎')

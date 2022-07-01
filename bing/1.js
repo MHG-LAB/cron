@@ -1,1 +1,1 @@
-document.write("基伯龙半岛上的海滩，法国布列塔尼地区 (© hardyun/Adobe)")
+document.write("Quiberon peninsula, Côte Sauvage, Brittany, France (© hardyun/Adobe)")

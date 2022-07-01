@@ -1,1 +1,1 @@
-document.write("普罗旺斯瓦朗索勒高原上的薰衣草田，法国 (© Shutterstock)")
+document.write("Lavender fields, Valensole Plateau, Provence, France (© Shutterstock)")

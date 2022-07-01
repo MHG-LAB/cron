@@ -1,1 +1,1 @@
-document.write("卡特迈国家公园和保护区的棕熊妈妈和幼崽，阿拉斯加 (© Suzi Eszterhas/Minden Pictures)")
+document.write("Brown bears, Katmai National Park and Preserve, Alaska, USA (© Suzi Eszterhas/Minden Pictures)")
