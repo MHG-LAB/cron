@@ -1,1 +1,1 @@
-document.write("Underwater cenotes, Puerto Aventuras, Mexico (© Extreme Photographer/Getty Images)")
+document.write("Brown bears, Katmai National Park and Preserve, Alaska, USA (© Suzi Eszterhas/Minden Pictures)")

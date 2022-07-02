@@ -1,1 +1,1 @@
-document.write("Via Krupp, Capri, Italy (© Mikolajn/Getty Images)")
+document.write("Lavender fields, Valensole Plateau, Provence, France (© Shutterstock)")

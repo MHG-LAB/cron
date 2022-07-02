@@ -1,1 +1,1 @@
-document.write('学而时习之，不亦乐乎')
+document.write('越是锐利的小刀切完东西后就越容易变钝。')

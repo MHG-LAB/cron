@@ -1,1 +1,1 @@
-document.write("Mangrove forest, Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)")
+document.write("Quiberon peninsula, Côte Sauvage, Brittany, France (© hardyun/Adobe)")

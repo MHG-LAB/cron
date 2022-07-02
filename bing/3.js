@@ -1,1 +1,1 @@
-document.write("Tafilalet, Morocco (© José Antonio Moreno/agefotostock)")
+document.write("Mangrove forest, Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)")
