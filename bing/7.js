@@ -1,1 +1,1 @@
-document.write("Brown bears, Katmai National Park and Preserve, Alaska, USA (© Suzi Eszterhas/Minden Pictures)")
+document.write("Via Krupp, Capri, Italy (© Mikolajn/Getty Images)")

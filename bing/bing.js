@@ -1,1 +1,1 @@
-document.write("Iguazú Falls, Foz do Iguaçu, Paraná, Brazil (© Marcio Cabral/Minden Pictures)")
+document.write("Red fox (© Yossi Eshbol/Minden Pictures)")
