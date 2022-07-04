@@ -1,1 +1,1 @@
-document.write("Red fox (© Yossi Eshbol/Minden Pictures)")
+document.write("A train crossing the Sharavati Bridge in Karnataka, India (© Amith Nag Photography/Getty Images)")
