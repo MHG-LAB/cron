@@ -1,1 +1,1 @@
-document.write('历史，不过是由胜利者书写的谎言罢了。')
+document.write('用玲生命为代价的东西根本就不存在。')
