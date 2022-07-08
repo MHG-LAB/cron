@@ -1,1 +1,1 @@
-document.write("Quiberon peninsula, Côte Sauvage, Brittany, France (© hardyun/Adobe)")
+document.write("Mallos de Agüero, Huesca, Spain (© Francesco Carovillano/eStock)")
