@@ -1,1 +1,1 @@
-document.write("Atlantic puffin, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)")
+document.write("Heceta Head Light, Florence, Oregon, USA (© Tom Schwabel/Tandem Stills + Motion)")
