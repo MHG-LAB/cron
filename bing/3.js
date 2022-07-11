@@ -1,1 +1,1 @@
-document.write("Heceta Head Light, Florence, Oregon, USA (© Tom Schwabel/Tandem Stills + Motion)")
+document.write("Preveli Gorge, South Chania, Crete, Greece (© borchee/Getty Images)")

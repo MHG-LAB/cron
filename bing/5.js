@@ -1,1 +1,1 @@
-document.write("Fannette Island, Lake Tahoe, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)")
+document.write("Atlantic puffin, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)")
