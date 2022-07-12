@@ -1,1 +1,1 @@
-document.write("A train crossing the Sharavati Bridge in Karnataka, India (© Amith Nag Photography/Getty Images)")
+document.write("Fannette Island, Lake Tahoe, California, USA (© Rachid Dahnoun/Tandem Stills + Motion)")
