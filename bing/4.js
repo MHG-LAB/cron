@@ -1,1 +1,1 @@
-document.write("Preveli Gorge, South Chania, Crete, Greece (© borchee/Getty Images)")
+document.write("Dolomite Mountains, Italy (© Carlos Fernandez/Getty Images)")
