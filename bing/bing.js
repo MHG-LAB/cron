@@ -1,1 +1,1 @@
-document.write("Giant's Causeway, Antrim, Northern Ireland (© Olimpio Fantuz/eStock Photo)")
+document.write("Baby lemon sharks, Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)")
