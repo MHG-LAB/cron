@@ -1,1 +1,1 @@
-document.write("Dolomite Mountains, Italy (© Carlos Fernandez/Getty Images)")
+document.write("Mediterranean Sea, Ölüdeniz, Turkey (© den-belitsky/Getty Images)")

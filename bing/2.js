@@ -1,1 +1,1 @@
-document.write("Bay Marker Lookout, Sydney Olympic Park, Australia (© ai_yoshi/Getty Images)")
+document.write("Giant's Causeway, Antrim, Northern Ireland (© Olimpio Fantuz/eStock Photo)")

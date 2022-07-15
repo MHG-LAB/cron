@@ -1,1 +1,1 @@
-document.write('为什么还要指责已经如此可怜如此不幸的我。')
+document.write('彼此相互推卸不幸是没有结果的。')
