@@ -1,1 +1,1 @@
-document.write("Mediterranean Sea, Ölüdeniz, Turkey (© den-belitsky/Getty Images)")
+document.write("Barcelona, Spain (© SW Photography/Getty Images)")
