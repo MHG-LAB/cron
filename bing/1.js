@@ -1,1 +1,1 @@
-document.write("Arrone, Umbria, Italy (© Maurizio Rellini/eStock Photo)")
+document.write("Goldfinch, South Carolina, USA (© Teresa Kopec/Getty Images)")
