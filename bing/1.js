@@ -1,1 +1,1 @@
-document.write("Goldfinch, South Carolina, USA (© Teresa Kopec/Getty Images)")
+document.write("The Wave, Coyote Buttes North, Arizona, USA (© Dennis Frates/Alamy)")

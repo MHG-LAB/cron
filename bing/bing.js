@@ -1,1 +1,1 @@
-document.write("The Wave, Coyote Buttes North, Arizona, USA (© Dennis Frates/Alamy)")
+document.write("Omijima Island, Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock)")

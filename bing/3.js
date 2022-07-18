@@ -1,1 +1,1 @@
-document.write("Baby lemon sharks, Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)")
+document.write("Arrone, Umbria, Italy (© Maurizio Rellini/eStock Photo)")
