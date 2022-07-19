@@ -1,1 +1,1 @@
-document.write("Omijima Island, Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock)")
+document.write("一组月相照片 (© Delpixart/Getty Images)")

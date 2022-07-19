@@ -1,1 +1,1 @@
-document.write("The Wave, Coyote Buttes North, Arizona, USA (© Dennis Frates/Alamy)")
+document.write("基姆湖上的淑女岛，德国巴伐利亚州 (© Malorny/Getty Images)")

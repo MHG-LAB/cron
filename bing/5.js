@@ -1,1 +1,1 @@
-document.write("Giant's Causeway, Antrim, Northern Ireland (© Olimpio Fantuz/eStock Photo)")
+document.write("阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)")

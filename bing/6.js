@@ -1,1 +1,1 @@
-document.write("Bay Marker Lookout, Sydney Olympic Park, Australia (© ai_yoshi/Getty Images)")
+document.write("爱丽丝镇附近水域中的柠檬鲨宝宝，巴哈马比米尼岛 (© Ken Kiefer 2/Getty Images)")

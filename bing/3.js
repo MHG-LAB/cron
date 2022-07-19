@@ -1,1 +1,1 @@
-document.write("Arrone, Umbria, Italy (© Maurizio Rellini/eStock Photo)")
+document.write("北狼丘里的\"波浪谷\"，美国亚利桑那州 (© Dennis Frates/Alamy)")

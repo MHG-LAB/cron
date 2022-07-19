@@ -1,1 +1,1 @@
-document.write("Barcelona, Spain (© SW Photography/Getty Images)")
+document.write("巨人堤道上的玄武岩柱，英国北爱尔兰 (© Olimpio Fantuz/eStock Photo)")
