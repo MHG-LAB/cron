@@ -1,1 +1,1 @@
-document.write("巨人堤道上的玄武岩柱，英国北爱尔兰 (© Olimpio Fantuz/eStock Photo)")
+document.write("爱丽丝镇附近水域中的柠檬鲨宝宝，巴哈马比米尼岛 (© Ken Kiefer 2/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)")
+document.write("向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)")
