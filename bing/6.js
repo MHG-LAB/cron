@@ -1,1 +1,1 @@
-document.write("阿罗内镇的村落，意大利翁布里亚大区 (© Maurizio Rellini/eStock Photo)")
+document.write("The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)")

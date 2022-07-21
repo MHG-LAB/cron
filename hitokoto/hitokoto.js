@@ -1,1 +1,1 @@
-document.write('我除了投三分，就什么都没有了⋯⋯')
+document.write('明明只是活着，哀伤却无处不在⋯⋯')

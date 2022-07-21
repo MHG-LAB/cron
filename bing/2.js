@@ -1,1 +1,1 @@
-document.write("基姆湖上的淑女岛，德国巴伐利亚州 (© Malorny/Getty Images)")
+document.write("Male American bison in Yellowstone National Park, Wyoming (© Donyanedomam/Getty Images)")

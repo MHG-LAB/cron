@@ -1,1 +1,1 @@
-document.write("向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)")
+document.write("Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)")

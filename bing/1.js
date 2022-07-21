@@ -1,1 +1,1 @@
-document.write("一组月相照片 (© Delpixart/Getty Images)")
+document.write("Composite photo showing the phases of the moon (© Delpixart/Getty Images)")
