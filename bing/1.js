@@ -1,1 +1,1 @@
-document.write("Composite photo showing the phases of the moon (© Delpixart/Getty Images)")
+document.write("科托尔湾的圣乔治海峡和圣母湾，黑山 (© Dmitrii Sakharov/Shutterstock)")

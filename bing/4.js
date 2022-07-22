@@ -1,1 +1,1 @@
-document.write("The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)")
+document.write("基姆湖上的淑女岛，德国巴伐利亚州 (© Malorny/Getty Images)")

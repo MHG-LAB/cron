@@ -1,1 +1,1 @@
-document.write("Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)")
+document.write("毛地黄上的红天蛾 (© David Chapman/Alamy)")

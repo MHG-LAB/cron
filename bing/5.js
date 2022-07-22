@@ -1,1 +1,1 @@
-document.write("Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)")
+document.write("布满奇石的青海岛，日本北长门海岸国定公园 (© Sean Pavone Photo/Adobe Stock)")
