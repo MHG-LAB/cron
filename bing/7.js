@@ -1,1 +1,1 @@
-document.write("向日葵上的金翅雀，美国南卡罗来纳州 (© Teresa Kopec/Getty Images)")
+document.write("北狼丘里的\"波浪谷\"，美国亚利桑那州 (© Dennis Frates/Alamy)")

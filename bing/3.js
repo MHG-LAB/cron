@@ -1,1 +1,1 @@
-document.write("一组月相照片 (© Delpixart/Getty Images)")
+document.write("伯里圣埃德蒙兹镇的修道院公园，英国萨福克郡 (© Charles Martinez/Amazing Aerial Agency)")
