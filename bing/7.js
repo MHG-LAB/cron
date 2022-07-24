@@ -1,1 +1,1 @@
-document.write("北狼丘里的\"波浪谷\"，美国亚利桑那州 (© Dennis Frates/Alamy)")
+document.write("布满奇石的青海岛，日本北长门海岸国定公园 (© Sean Pavone Photo/Adobe Stock)")

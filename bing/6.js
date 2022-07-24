@@ -1,1 +1,1 @@
-document.write("布满奇石的青海岛，日本北长门海岸国定公园 (© Sean Pavone Photo/Adobe Stock)")
+document.write("基姆湖上的淑女岛，德国巴伐利亚州 (© Malorny/Getty Images)")
