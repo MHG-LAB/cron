@@ -1,1 +1,1 @@
-document.write("毛地黄上的红天蛾 (© David Chapman/Alamy)")
+document.write("双杰克湖，班夫国家公园，艾伯塔省，加拿大 (© SnapRapid/Offset)")
