@@ -1,1 +1,1 @@
-document.write('想变美就多睡觉，睡懵了就觉得自己美了。')
+document.write('他只是暧昧成瘾、而你却走了心')
