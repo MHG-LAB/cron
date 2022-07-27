@@ -1,1 +1,1 @@
-document.write("萨卢姆三角洲国家公园的红树林，塞内加尔共和国 (© mariusz_prusaczyk/Getty Images)")
+document.write("玛甸沙勒（也被称为黑格拉）的纳巴泰墓，沙特阿拉伯 (© Tuul & Bruno Morandi/Getty Images)")

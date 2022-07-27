@@ -1,1 +1,1 @@
-document.write("伯里圣埃德蒙兹镇的修道院公园，英国萨福克郡 (© Charles Martinez/Amazing Aerial Agency)")
+document.write("科托尔湾的圣乔治海峡和圣母湾，黑山 (© Dmitrii Sakharov/Shutterstock)")

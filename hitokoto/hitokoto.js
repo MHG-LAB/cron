@@ -1,1 +1,1 @@
-document.write('月亮跑到哪儿去了？我和里香的月亮跑到哪儿去了？')
+document.write('我的一生，无怨无悔！')

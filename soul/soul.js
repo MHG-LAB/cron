@@ -1,1 +1,1 @@
-document.write('他只是暧昧成瘾、而你却走了心')
+document.write('别问我有啥，先说你要啥，再说你凭啥。')
