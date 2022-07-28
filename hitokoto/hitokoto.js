@@ -1,1 +1,1 @@
-document.write('我的一生，无怨无悔！')
+document.write('未来不迎，当下不杂，既往不恋。')
