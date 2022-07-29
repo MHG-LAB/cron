@@ -1,1 +1,1 @@
-document.write("科托尔湾的圣乔治海峡和圣母湾，黑山 (© Dmitrii Sakharov/Shutterstock)")
+document.write("毛地黄上的红天蛾 (© David Chapman/Alamy)")

@@ -1,1 +1,1 @@
-document.write('未来不迎，当下不杂，既往不恋。')
+document.write('我们的心就像那天空一样，永不分离。')

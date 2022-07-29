@@ -1,1 +1,1 @@
-document.write("双杰克湖，班夫国家公园，艾伯塔省，加拿大 (© SnapRapid/Offset)")
+document.write("兰贝里斯山口脚下的多尔巴达恩城堡，威尔士 (© Viktoria Rodriguez/Getty Images)")
