@@ -1,1 +1,1 @@
-document.write("兰贝里斯山口脚下的多尔巴达恩城堡，威尔士 (© Viktoria Rodriguez/Getty Images)")
+document.write("萨卢姆三角洲国家公园的红树林，塞内加尔共和国 (© mariusz_prusaczyk/Getty Images)")

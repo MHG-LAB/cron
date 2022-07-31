@@ -1,1 +1,1 @@
-document.write("玛甸沙勒（也被称为黑格拉）的纳巴泰墓，沙特阿拉伯 (© Tuul & Bruno Morandi/Getty Images)")
+document.write("落基山国家公园的朗斯峰，科罗拉多州 (© Andrew R. Slaton/Tandem Stills + Motion)")
