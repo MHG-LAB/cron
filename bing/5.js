@@ -1,1 +1,1 @@
-document.write("落基山国家公园的朗斯峰，科罗拉多州 (© Andrew R. Slaton/Tandem Stills + Motion)")
+document.write("塔多巴老虎保护区里的老虎四姐妹，印度 (© Ashish Parmar/Alamy)")
