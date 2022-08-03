@@ -1,1 +1,1 @@
-document.write("米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion)")
+document.write("立陶宛的夜光云 (© ljphoto7/Getty Images)")

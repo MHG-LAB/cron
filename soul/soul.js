@@ -1,1 +1,1 @@
-document.write('先生，你这张卡上的钱也不够……')
+document.write('忍受孤独比忍受傻逼简单多了')

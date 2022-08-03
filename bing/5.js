@@ -1,1 +1,1 @@
-document.write("塔多巴老虎保护区里的老虎四姐妹，印度 (© Ashish Parmar/Alamy)")
+document.write("米尔福德峡湾附近的徒步雨林，新西兰 (© Jim Patterson/Tandem Stills + Motion)")
