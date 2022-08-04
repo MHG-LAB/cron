@@ -1,1 +1,1 @@
-document.write("上海浦东森林心形洞穴鸟瞰图，中国 (© Yaorusheng/Getty Images)")
+document.write("夜晚的爱丁堡城市天际线，苏格兰 (© Suranga Weeratuna/Alamy)")
