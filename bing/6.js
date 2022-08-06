@@ -1,1 +1,1 @@
-document.write("立陶宛的夜光云 (© ljphoto7/Getty Images)")
+document.write("漏出“天窗”的熔岩管，夏威夷火山国家公园 (© Tom Schwabel/Tandem Stills + Motion)")
