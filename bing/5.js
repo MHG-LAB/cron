@@ -1,1 +1,1 @@
-document.write("圆顶礁国家公园里的希克曼桥，美国犹他州 (© Tim Fitzharris/Minden Pictures)")
+document.write("在德国的赤颈鸊鷉 (© Edo van Uchelen/Minden Pictures)")
