@@ -1,1 +1,1 @@
-document.write("漏出“天窗”的熔岩管，夏威夷火山国家公园 (© Tom Schwabel/Tandem Stills + Motion)")
+document.write("圆顶礁国家公园里的希克曼桥，美国犹他州 (© Tim Fitzharris/Minden Pictures)")

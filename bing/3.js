@@ -1,1 +1,1 @@
-document.write("夜晚的爱丁堡城市天际线，苏格兰 (© Suranga Weeratuna/Alamy)")
+document.write("旧金山湾的盐滩 (© Jeffrey Lewis/Tandem Stills + Motion)")
