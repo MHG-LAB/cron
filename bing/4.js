@@ -1,1 +1,1 @@
-document.write("旧金山湾的盐滩 (© Jeffrey Lewis/Tandem Stills + Motion)")
+document.write("杭州西湖的古典中国园林 (© DANNY HU/Getty Images)")
