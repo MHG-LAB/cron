@@ -1,1 +1,1 @@
-document.write("约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)")
+document.write("日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images)")
