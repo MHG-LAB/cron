@@ -1,1 +1,1 @@
-document.write("圣埃尔姆附近的潘塔留岛鸟瞰图，西班牙马略卡岛 (© Dimitri Weber/Azing航空公司)")
+document.write("阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy)")

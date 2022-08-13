@@ -1,1 +1,1 @@
-document.write("安博塞利国家公园里的非洲象群，肯尼亚 (© Susan Portnoy/Shutterstock)")
+document.write("阿斯佩山谷中的蒙塔尼翁湖，法国 (© thieury/Adobe photo stock)")
