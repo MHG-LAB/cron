@@ -1,1 +1,1 @@
-document.write("琥珀山国家公园里的豹变色龙，马达加斯加 (© Christian Ziegler/Minden Pictures)")
+document.write("奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy)")
+document.write("约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures)")
