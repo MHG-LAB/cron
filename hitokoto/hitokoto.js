@@ -1,1 +1,1 @@
-document.write('利己主义，自我中心，有什么不对？')
+document.write('都是老中医，少给我开偏方。')

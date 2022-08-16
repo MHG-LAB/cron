@@ -1,1 +1,1 @@
-document.write("奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images)")
+document.write("夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy)")

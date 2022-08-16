@@ -1,1 +1,1 @@
-document.write("日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images)")
+document.write("安博塞利国家公园里的非洲象群，肯尼亚 (© Susan Portnoy/Shutterstock)")
