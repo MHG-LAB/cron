@@ -1,1 +1,1 @@
-document.write('都是老中医，少给我开偏方。')
+document.write('搓绳不能松劲，前进不能停顿')
