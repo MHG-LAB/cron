@@ -1,1 +1,1 @@
-document.write('你以为你是独行的猛兽，其实只是离群的牛羊')
+document.write('你真的丑，别人也这么认为的')

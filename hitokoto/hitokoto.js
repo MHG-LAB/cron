@@ -1,1 +1,1 @@
-document.write('搓绳不能松劲，前进不能停顿')
+document.write('全神贯注的上吧！不要松懈！')

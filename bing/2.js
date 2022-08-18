@@ -1,1 +1,1 @@
-document.write("夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy)")
+document.write("大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures)")
