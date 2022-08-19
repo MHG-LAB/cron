@@ -1,1 +1,1 @@
-document.write('你真的丑，别人也这么认为的')
+document.write('你长得很丑，就不要想的太美')
