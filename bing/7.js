@@ -1,1 +1,1 @@
-document.write("阿斯佩山谷中的蒙塔尼翁湖，法国 (© thieury/Adobe photo stock)")
+document.write("琥珀山国家公园里的豹变色龙，马达加斯加 (© Christian Ziegler/Minden Pictures)")
