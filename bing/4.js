@@ -1,1 +1,1 @@
-document.write("大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures)")
+document.write("哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images)")
