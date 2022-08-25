@@ -1,1 +1,1 @@
-document.write("华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion)")
+document.write("克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images)")

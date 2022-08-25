@@ -1,1 +1,1 @@
-document.write("哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images)")
+document.write("康沃尔郡的彭赞斯，英国 (© Murray Bosley Photography/Getty Images)")
