@@ -1,1 +1,1 @@
-document.write("南佛罗里达的一只穴小鸮雏鸟和一只成年穴小鸮，美国 (© Carlos Carreno/Getty Images)")
+document.write("芒通，法国 (© Flavio Foglietta/Getty Images)")
