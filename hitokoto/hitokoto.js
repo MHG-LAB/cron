@@ -1,1 +1,1 @@
-document.write('就算鼻血流尽，也不能放弃妄想。')
+document.write('笨蛋是死了也治不好的。')
