@@ -1,1 +1,1 @@
-document.write('笨蛋是死了也治不好的。')
+document.write('我仍然很差劲啊。')
