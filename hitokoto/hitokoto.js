@@ -1,1 +1,1 @@
-document.write('我仍然很差劲啊。')
+document.write('窃人者，自失其宝。')

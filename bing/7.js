@@ -1,1 +1,1 @@
-document.write("芒通，法国 (© Flavio Foglietta/Getty Images)")
+document.write("格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images)")
