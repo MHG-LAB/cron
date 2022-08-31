@@ -1,1 +1,1 @@
-document.write('窃人者，自失其宝。')
+document.write('任何人都会有其所爱')

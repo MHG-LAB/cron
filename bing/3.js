@@ -1,1 +1,1 @@
-document.write("荷兰弗莱福兰湿地的文须雀 (© Gert-Jan IJzerman/Minden Pictures)")
+document.write("爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images)")
