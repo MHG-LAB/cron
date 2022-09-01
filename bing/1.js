@@ -1,1 +1,1 @@
-document.write("新爱尔兰岛上的蓝指海星，巴布亚新几内亚 (© Jurgen Freund/Minden Pictures)")
+document.write("维尔登的野生动物通道，荷兰 (© Frans Lemmens/Alamy)")

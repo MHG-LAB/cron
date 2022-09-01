@@ -1,1 +1,1 @@
-document.write("圣海伦斯山国家火山纪念区的边界小径，美国华盛顿州 (© Don Geyer/Alamy)")
+document.write("荷兰弗莱福兰湿地的文须雀 (© Gert-Jan IJzerman/Minden Pictures)")
