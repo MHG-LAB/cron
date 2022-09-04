@@ -1,1 +1,1 @@
-document.write("克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy)")
+document.write("吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images)")
+document.write("米利亚里诺自然公园，圣罗索尔，意大利马萨西犹可利 (© Stefano Valeri/Alamy)")
