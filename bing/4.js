@@ -1,1 +1,1 @@
-document.write("维尔登的野生动物通道，荷兰 (© Frans Lemmens/Alamy)")
+document.write("克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy)")

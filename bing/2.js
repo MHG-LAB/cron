@@ -1,1 +1,1 @@
-document.write("吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images)")
+document.write("果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy)")
