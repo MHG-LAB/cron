@@ -1,1 +1,1 @@
-document.write("果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy)")
+document.write("北魁北克的公路，加拿大 (© Posnov/Getty Images)")

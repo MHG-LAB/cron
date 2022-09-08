@@ -1,1 +1,1 @@
-document.write('减肥，你想要坚持，但坚持不想要你。')
+document.write('失败乃成功之母，然而成功却六亲不认')

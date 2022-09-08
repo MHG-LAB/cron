@@ -1,1 +1,1 @@
-document.write("北魁北克的公路，加拿大 (© Posnov/Getty Images)")
+document.write("叼着蘑菇的红松鼠 (© Michael Quinton/Minden Pictures)")
