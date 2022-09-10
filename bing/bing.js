@@ -1,1 +1,1 @@
-document.write("中秋之夜, 上海豫园 (© Zyxeos30/Getty images)")
+document.write("在喀拉拉邦河流中行驶的一艘小船，印度 (© Shutterstock)")

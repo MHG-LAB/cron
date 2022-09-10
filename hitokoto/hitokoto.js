@@ -1,1 +1,1 @@
-document.write('私だって今日こそ... 遠野くんに告白するんだ。')
+document.write('沉默是诽谤最好的答复')

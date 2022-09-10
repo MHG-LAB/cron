@@ -1,1 +1,1 @@
-document.write("从塞维利亚的都市阳伞俯瞰城市，西班牙 (© LucVi/Shutterstock)")
+document.write("伯利兹堡礁保护区, 伯利兹 (© Tom Till/Alamy)")
