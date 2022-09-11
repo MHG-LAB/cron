@@ -1,1 +1,1 @@
-document.write('没吃饱只有一种烦恼，吃饱了有无数的烦恼。')
+document.write('富人生活千姿百态，穷人大致相同')

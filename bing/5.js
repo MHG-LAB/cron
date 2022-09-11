@@ -1,1 +1,1 @@
-document.write("叼着蘑菇的红松鼠 (© Michael Quinton/Minden Pictures)")
+document.write("英格兰怀特岛上的尼德尔斯白垩岩石和19世纪的灯塔。 (© CBCK Christine/iStock/Getty Images Plus)")
