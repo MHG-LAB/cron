@@ -1,1 +1,1 @@
-document.write("伯利兹堡礁保护区, 伯利兹 (© Tom Till/Alamy)")
+document.write("中秋之夜, 上海豫园 (© Zyxeos30/Getty images)")
