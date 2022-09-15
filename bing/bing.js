@@ -1,1 +1,1 @@
-document.write("罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy)")
+document.write("百内国家公园中的一头美洲狮，智利巴塔哥尼亚 (© Ingo Arndt/Minden Pictures)")
