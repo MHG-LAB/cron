@@ -1,1 +1,1 @@
-document.write("百内国家公园中的一头美洲狮，智利巴塔哥尼亚 (© Ingo Arndt/Minden Pictures)")
+document.write("布莱克浦塔和中央码头，英国兰开夏郡 (© Bailey-Cooper Photography/Alamy)")
