@@ -1,1 +1,1 @@
-document.write("大沙丘国家公园和保护区，美国科罗拉多州 (© Y Paudel/Getty Images)")
+document.write("大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部  (© trekandshoot/Alamy)")

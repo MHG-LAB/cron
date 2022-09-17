@@ -1,1 +1,1 @@
-document.write("在喀拉拉邦河流中行驶的一艘小船，印度 (© Shutterstock)")
+document.write("栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里 (© Ana Gram/Shutterstock)")
