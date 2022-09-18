@@ -1,1 +1,1 @@
-document.write("大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部  (© trekandshoot/Alamy)")
+document.write("罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy)")

@@ -1,1 +1,1 @@
-document.write("栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里 (© Ana Gram/Shutterstock)")
+document.write("大沙丘国家公园和保护区，美国科罗拉多州 (© Y Paudel/Getty Images)")
