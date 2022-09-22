@@ -1,1 +1,1 @@
-document.write("巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images)")
+document.write("阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock)")
