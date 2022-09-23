@@ -1,1 +1,1 @@
-document.write("阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock)")
+document.write("赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo)")
