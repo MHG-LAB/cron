@@ -1,1 +1,1 @@
-document.write("赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo)")
+document.write("春角礁灯塔，缅因州南波特兰 (© Haizhan Zheng/Getty Images)")

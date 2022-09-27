@@ -1,1 +1,1 @@
-document.write("亚马逊河鸟瞰图，巴西 (© Curioso.Photography/Shutterstock)")
+document.write("两头穿越苏西特纳河的驯鹿，美国阿拉斯加 (© Tim Plowden/Alamy)")
