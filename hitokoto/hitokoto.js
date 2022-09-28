@@ -1,1 +1,1 @@
-document.write('忍受不了自己变得毫无用处的人是我。')
+document.write('赌上性命和白白送死是两回事！')

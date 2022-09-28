@@ -1,1 +1,1 @@
-document.write("两头穿越苏西特纳河的驯鹿，美国阿拉斯加 (© Tim Plowden/Alamy)")
+document.write("黄石国家公园里的上间歇泉盆地，美国怀俄明州 (© Ray Urner/Tandem Stills + Motion)")
