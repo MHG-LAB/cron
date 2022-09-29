@@ -1,1 +1,1 @@
-document.write('赌上性命和白白送死是两回事！')
+document.write('世间遍满巧合。')
