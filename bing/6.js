@@ -1,1 +1,1 @@
-document.write("阿卡迪亚国家公园上空的银河系，美国缅因州 (© Harry Collins/Getty Images)")
+document.write("亚马逊河鸟瞰图，巴西 (© Curioso.Photography/Shutterstock)")
