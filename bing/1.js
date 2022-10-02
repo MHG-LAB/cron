@@ -1,1 +1,1 @@
-document.write("山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)")
+document.write("倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy)")
