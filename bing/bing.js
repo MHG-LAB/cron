@@ -1,1 +1,1 @@
-document.write("仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images)")
+document.write("黄山的日出，中国 (© zhouyousifang/Getty Images)")
