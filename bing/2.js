@@ -1,1 +1,1 @@
-document.write("倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy)")
+document.write("仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images)")

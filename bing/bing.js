@@ -1,1 +1,1 @@
-document.write("黄山的日出，中国 (© zhouyousifang/Getty Images)")
+document.write("加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures)")

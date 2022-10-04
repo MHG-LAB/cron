@@ -1,1 +1,1 @@
-document.write("在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)")
+document.write("山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)")
