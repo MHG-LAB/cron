@@ -1,1 +1,1 @@
-document.write('强扭的瓜不甜，不过甜不甜不重要，强扭，就很爽啊')
+document.write('事业缺火，命里缺金')

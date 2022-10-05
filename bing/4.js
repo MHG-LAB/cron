@@ -1,1 +1,1 @@
-document.write("山上的日出，河北蔚县 (© zhao zhenhao/Getty Images)")
+document.write("Bridalveil Fall, Yosemite National Park, California, USA (© Jeff Foott/Minden Pictures)")

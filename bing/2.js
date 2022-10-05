@@ -1,1 +1,1 @@
-document.write("仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images)")
+document.write("The Fairy Glen, Isle of Skye, Scotland (© e55evu/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("卡伯特镇的福斯特廊桥，美国佛蒙特州 (© Alan Majchrowicz/Getty Images)")
+document.write("A.M. Foster bridge, Cabot, Vermont, USA (© Alan Majchrowicz/Getty Images)")

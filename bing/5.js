@@ -1,1 +1,1 @@
-document.write("在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)")
+document.write("Southern right whale, Golfo Nuevo, Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)")

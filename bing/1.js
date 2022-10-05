@@ -1,1 +1,1 @@
-document.write("黄山的日出，中国 (© zhouyousifang/Getty Images)")
+document.write("Cosmic Cliffs, Carina Nebula (© NASA, ESA, CSA, and STScI)")
