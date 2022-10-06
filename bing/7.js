@@ -1,1 +1,1 @@
-document.write("A.M. Foster bridge, Cabot, Vermont, USA (© Alan Majchrowicz/Getty Images)")
+document.write("Johnston Canyon, Banff National Park, Canada (© Jason Hatfield/TANDEM Stills + Motion)")

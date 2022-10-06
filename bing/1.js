@@ -1,1 +1,1 @@
-document.write("Cosmic Cliffs, Carina Nebula (© NASA, ESA, CSA, and STScI)")
+document.write("Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)")

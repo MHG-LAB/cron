@@ -1,1 +1,1 @@
-document.write('事业缺火，命里缺金')
+document.write('灰姑娘嫁给了王子，但请不要忘记她也是伯爵的女儿。')
