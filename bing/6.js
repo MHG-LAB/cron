@@ -1,1 +1,1 @@
-document.write("Southern right whale, Golfo Nuevo, Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)")
+document.write("Bridalveil Fall, Yosemite National Park, California, USA (© Jeff Foott/Minden Pictures)")

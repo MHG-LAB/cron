@@ -1,1 +1,1 @@
-document.write("Mont Blanc massif, Lacs des Chéserys, Chamonix, France (© Stefan Huwiler/Alamy)")
+document.write("The Fairy Glen, Isle of Skye, Scotland (© e55evu/Getty Images)")

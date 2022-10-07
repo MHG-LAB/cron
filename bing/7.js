@@ -1,1 +1,1 @@
-document.write("Johnston Canyon, Banff National Park, Canada (© Jason Hatfield/TANDEM Stills + Motion)")
+document.write("Southern right whale, Golfo Nuevo, Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)")

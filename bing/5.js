@@ -1,1 +1,1 @@
-document.write("Bridalveil Fall, Yosemite National Park, California, USA (© Jeff Foott/Minden Pictures)")
+document.write("Mont Blanc massif, Lacs des Chéserys, Chamonix, France (© Stefan Huwiler/Alamy)")
