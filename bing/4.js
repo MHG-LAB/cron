@@ -1,1 +1,1 @@
-document.write("The Fairy Glen, Isle of Skye, Scotland (© e55evu/Getty Images)")
+document.write("Cosmic Cliffs, Carina Nebula (© NASA, ESA, CSA, and STScI)")
