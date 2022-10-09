@@ -1,1 +1,1 @@
-document.write("Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)")
+document.write("Bay of Biscay, Basque Coast Geopark, Bilbao, Spain (© Olimpio Fantuz/eStock Photo)")

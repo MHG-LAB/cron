@@ -1,1 +1,1 @@
-document.write("Bay of Biscay, Basque Coast Geopark, Bilbao, Spain (© Olimpio Fantuz/eStock Photo)")
+document.write("Windermere, Lake District, Cumbria, England (© Chris Warren/eStock Photo)")
