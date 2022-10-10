@@ -1,1 +1,1 @@
-document.write("Glass octopus, Atlantic Ocean, Cabo Verde (© Solvin Zankl/Minden Pictures)")
+document.write("Phytoplankton, Chukchi Sea, Alaska, USA (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)")

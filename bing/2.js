@@ -1,1 +1,1 @@
-document.write("Windermere, Lake District, Cumbria, England (© Chris Warren/eStock Photo)")
+document.write("Glass octopus, Atlantic Ocean, Cabo Verde (© Solvin Zankl/Minden Pictures)")
