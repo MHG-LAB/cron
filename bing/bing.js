@@ -1,1 +1,1 @@
-document.write("Lake Valvestino, Brescia, Lombardy, Italy (© wmaster890/Getty Images)")
+document.write("Wall-screw moss, Netherlands (© Arjan Troost/Minden Pictures)")

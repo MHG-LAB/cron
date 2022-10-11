@@ -1,1 +1,1 @@
-document.write("Phytoplankton, Chukchi Sea, Alaska, USA (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)")
+document.write("Lake Valvestino, Brescia, Lombardy, Italy (© wmaster890/Getty Images)")
