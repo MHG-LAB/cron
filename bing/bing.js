@@ -1,1 +1,1 @@
-document.write("Wall-screw moss, Netherlands (© Arjan Troost/Minden Pictures)")
+document.write("迪纳利国家公园里的两只驼鹿，美国阿拉斯加州 (© Yva Momatiuk and John Eastcott/Minden Pictures)")

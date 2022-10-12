@@ -1,1 +1,1 @@
-document.write('时间冲淡的，是存在感，而不是存在。')
+document.write('年华无多时，恋爱吧男子！')

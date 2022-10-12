@@ -1,1 +1,1 @@
-document.write("Bay of Biscay, Basque Coast Geopark, Bilbao, Spain (© Olimpio Fantuz/eStock Photo)")
+document.write("佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)")

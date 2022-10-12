@@ -1,1 +1,1 @@
-document.write("Glass octopus, Atlantic Ocean, Cabo Verde (© Solvin Zankl/Minden Pictures)")
+document.write("瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)")

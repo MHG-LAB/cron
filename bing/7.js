@@ -1,1 +1,1 @@
-document.write("Cosmic Cliffs, Carina Nebula (© NASA, ESA, CSA, and STScI)")
+document.write("巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo)")

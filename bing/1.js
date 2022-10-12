@@ -1,1 +1,1 @@
-document.write("Lake Valvestino, Brescia, Lombardy, Italy (© wmaster890/Getty Images)")
+document.write("蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont)")
