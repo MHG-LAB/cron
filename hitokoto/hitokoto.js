@@ -1,1 +1,1 @@
-document.write('年华无多时，恋爱吧男子！')
+document.write('输给谁都可以，唯独不能输给自己。')

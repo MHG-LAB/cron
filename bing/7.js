@@ -1,1 +1,1 @@
-document.write("巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo)")
+document.write("温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo)")
