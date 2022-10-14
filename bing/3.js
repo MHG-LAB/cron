@@ -1,1 +1,1 @@
-document.write("带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)")
+document.write("蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont)")

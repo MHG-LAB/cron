@@ -1,1 +1,1 @@
-document.write('万事开头难，然后中间难，最后结尾难')
+document.write('每次看穷游日志的感受都是，那么穷就别TM出去浪了。')

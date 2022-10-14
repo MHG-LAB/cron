@@ -1,1 +1,1 @@
-document.write("佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)")
+document.write("楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)")
