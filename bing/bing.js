@@ -1,1 +1,1 @@
-document.write("纳克什鲁斯塔姆遗址，伊朗波斯波利斯 (© mshirani/Shutterstock)")
+document.write("克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images)")

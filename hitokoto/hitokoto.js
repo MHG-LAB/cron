@@ -1,1 +1,1 @@
-document.write('除了爱你，我什么都可以。')
+document.write('三人行，必有我师焉')

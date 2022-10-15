@@ -1,1 +1,1 @@
-document.write('每次看穷游日志的感受都是，那么穷就别TM出去浪了。')
+document.write('不想谈恋爱是假的，没人要是真的。')
