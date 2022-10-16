@@ -1,1 +1,1 @@
-document.write("奥尔德萨和佩尔迪多山国家公园里的瀑布，西班牙比利牛斯山脉 (© David Santiago Garcia/Cavan Images)")
+document.write("纳克什鲁斯塔姆遗址，伊朗波斯波利斯 (© mshirani/Shutterstock)")

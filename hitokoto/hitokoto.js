@@ -1,1 +1,1 @@
-document.write('三人行，必有我师焉')
+document.write('他在走一个圆圈，弧线是他的决心，没有终点。')
