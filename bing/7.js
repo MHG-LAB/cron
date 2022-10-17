@@ -1,1 +1,1 @@
-document.write("瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images)")
+document.write("带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures)")
