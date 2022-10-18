@@ -1,1 +1,1 @@
-document.write("捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)")
+document.write("新娘面纱瀑布，优胜美地国家公园，美国加利福尼亚州 (© Jeff Foott/Minden Pictures)")

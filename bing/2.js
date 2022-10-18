@@ -1,1 +1,1 @@
-document.write("克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images)")
+document.write("捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)")
