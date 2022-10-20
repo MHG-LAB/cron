@@ -1,1 +1,1 @@
-document.write("新娘面纱瀑布，优胜美地国家公园，美国加利福尼亚州 (© Jeff Foott/Minden Pictures)")
+document.write("秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images)")
