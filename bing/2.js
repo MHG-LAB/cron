@@ -1,1 +1,1 @@
-document.write("秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images)")
+document.write("塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)")
