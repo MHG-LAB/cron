@@ -1,1 +1,1 @@
-document.write("中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy)")
+document.write("疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write('我很好奇！')
+document.write('如果要牺牲的话，让我来吧。')
