@@ -1,1 +1,1 @@
-document.write("秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)")
+document.write("中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy)")

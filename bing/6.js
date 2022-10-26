@@ -1,1 +1,1 @@
-document.write("塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)")
+document.write("秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)")
