@@ -1,1 +1,1 @@
-document.write("巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images)")
+document.write("意大利威尼斯的叹息桥 (© Doug Pearson/Alamy)")
