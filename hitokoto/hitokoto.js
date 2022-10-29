@@ -1,1 +1,1 @@
-document.write('心怀定见，六辔在手。')
+document.write('重要的不是治愈，而是带着病痛活下去')
