@@ -1,1 +1,1 @@
-document.write('还没来得及去沾花惹草，就被人拔光了。')
+document.write('英雄一怒为红颜，红颜一怒，得花钱。')

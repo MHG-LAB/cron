@@ -1,1 +1,1 @@
-document.write("玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy)")
+document.write("怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy)")
