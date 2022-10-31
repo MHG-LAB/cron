@@ -1,1 +1,1 @@
-document.write('英雄一怒为红颜，红颜一怒，得花钱。')
+document.write('只有讨厌人的时候才需要理由吧！')

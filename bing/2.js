@@ -1,1 +1,1 @@
-document.write("海洋天使 (© Alexander Semenov Images/Shutterstock)")
+document.write("哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)")

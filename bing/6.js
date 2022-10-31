@@ -1,1 +1,1 @@
-document.write("怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy)")
+document.write("巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images)")
