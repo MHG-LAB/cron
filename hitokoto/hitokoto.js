@@ -1,1 +1,1 @@
-document.write('我不会接受我不要的未来，哪怕是命中注定。')
+document.write('请不要再侵入到我的心里去了')

@@ -1,1 +1,1 @@
-document.write("洛桑日内瓦湖上空的暴风雨，瑞士 (© Suradech Singhanat/Shutterstock)")
+document.write("海洋天使 (© Alexander Semenov Images/Shutterstock)")
