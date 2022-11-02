@@ -1,1 +1,1 @@
-document.write("哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)")
+document.write("牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)")
