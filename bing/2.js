@@ -1,1 +1,1 @@
-document.write("神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images)")
+document.write("慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)")

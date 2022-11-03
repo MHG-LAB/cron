@@ -1,1 +1,1 @@
-document.write("牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)")
+document.write("神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images)")

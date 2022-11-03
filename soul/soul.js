@@ -1,1 +1,1 @@
-document.write('失败的尽头是绝望，努力的终点是过劳。')
+document.write('相由薪生')
