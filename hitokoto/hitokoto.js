@@ -1,1 +1,1 @@
-document.write('最痛的伤口,是从外面看不到的。')
+document.write('生尽欢，死无憾。')

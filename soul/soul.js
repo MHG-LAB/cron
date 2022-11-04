@@ -1,1 +1,1 @@
-document.write('相由薪生')
+document.write('咸鱼翻身有什么用，翻了身，还是咸鱼。')

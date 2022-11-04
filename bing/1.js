@@ -1,1 +1,1 @@
-document.write("乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock)")
+document.write("班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images)")

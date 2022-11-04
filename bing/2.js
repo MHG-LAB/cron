@@ -1,1 +1,1 @@
-document.write("慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)")
+document.write("乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock)")

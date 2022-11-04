@@ -1,1 +1,1 @@
-document.write("班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images)")
+document.write("阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo)")
