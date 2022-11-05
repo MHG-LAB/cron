@@ -1,1 +1,1 @@
-document.write('生尽欢，死无憾。')
+document.write('生活给了我想要的东西，又让我认识到那没什么意义')

@@ -1,1 +1,1 @@
-document.write("慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock)")
+document.write("Tea plantations, Munnar, Kerala, India (© Mazur Travel/Shutterstock)")

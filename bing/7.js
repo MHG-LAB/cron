@@ -1,1 +1,1 @@
-document.write("海洋天使 (© Alexander Semenov Images/Shutterstock)")
+document.write("Sea angel (© Alexander Semenov Images/Shutterstock)")

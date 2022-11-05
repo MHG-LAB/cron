@@ -1,1 +1,1 @@
-document.write("哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)")
+document.write("Polar bear, Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)")

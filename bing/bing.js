@@ -1,1 +1,1 @@
-document.write("阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo)")
+document.write("Tigh Mor Trossachs, Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)")

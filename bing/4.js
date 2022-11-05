@@ -1,1 +1,1 @@
-document.write("神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images)")
+document.write("Fort National, Saint-Malo, Brittany, France (© stevanzz/Adobe Photostock)")

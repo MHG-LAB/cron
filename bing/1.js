@@ -1,1 +1,1 @@
-document.write("班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images)")
+document.write("Peyto Lake, Banff National Park, Alberta, Canada (© Ben Girardi/Cavan Images)")

@@ -1,1 +1,1 @@
-document.write("牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)")
+document.write("Hohenzollern Castle, Swabian Alps, Baden-Württemberg, Germany (© Cornelia Dorr/eStock Photo)")
