@@ -1,1 +1,1 @@
-document.write("Mount Kilimanjaro, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)")
+document.write("Peyto Lake, Banff National Park, Alberta, Canada (© Ben Girardi/Cavan Images)")

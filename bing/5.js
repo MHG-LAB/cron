@@ -1,1 +1,1 @@
-document.write("Hohenzollern Castle, Swabian Alps, Baden-Württemberg, Germany (© Cornelia Dorr/eStock Photo)")
+document.write("Fort National, Saint-Malo, Brittany, France (© stevanzz/Adobe Photostock)")

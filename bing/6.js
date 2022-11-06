@@ -1,1 +1,1 @@
-document.write("Polar bear, Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)")
+document.write("Hohenzollern Castle, Swabian Alps, Baden-Württemberg, Germany (© Cornelia Dorr/eStock Photo)")

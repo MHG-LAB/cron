@@ -1,1 +1,1 @@
-document.write("Sea angel (© Alexander Semenov Images/Shutterstock)")
+document.write("Polar bear, Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)")
