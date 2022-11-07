@@ -1,1 +1,1 @@
-document.write("Peyto Lake, Banff National Park, Alberta, Canada (© Ben Girardi/Cavan Images)")
+document.write("Tigh Mor Trossachs, Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)")
