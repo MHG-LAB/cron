@@ -1,1 +1,1 @@
-document.write("Fort National, Saint-Malo, Brittany, France (© stevanzz/Adobe Photostock)")
+document.write("Tea plantations, Munnar, Kerala, India (© Mazur Travel/Shutterstock)")
