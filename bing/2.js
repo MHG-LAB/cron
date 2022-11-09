@@ -1,1 +1,1 @@
-document.write("Verrazzano-Narrows Bridge, New York City, USA (© David Madison/Getty Images)")
+document.write("Mount Crested Butte, Colorado, USA (© Mengzhonghua Photography/Getty Images)")

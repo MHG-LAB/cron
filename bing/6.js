@@ -1,1 +1,1 @@
-document.write("Tea plantations, Munnar, Kerala, India (© Mazur Travel/Shutterstock)")
+document.write("Mount Kilimanjaro, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)")

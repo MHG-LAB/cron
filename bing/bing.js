@@ -1,1 +1,1 @@
-document.write("Yi Peng festival, Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)")
+document.write("European hedgehog, Sussex, England (© Jules Cox/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("Tigh Mor Trossachs, Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)")
+document.write("Verrazzano-Narrows Bridge, New York City, USA (© David Madison/Getty Images)")

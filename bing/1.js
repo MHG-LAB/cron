@@ -1,1 +1,1 @@
-document.write("Mount Crested Butte, Colorado, USA (© Mengzhonghua Photography/Getty Images)")
+document.write("Yi Peng festival, Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)")
