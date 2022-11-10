@@ -1,1 +1,1 @@
-document.write("Tigh Mor Trossachs, Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)")
+document.write("庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)")

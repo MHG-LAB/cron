@@ -1,1 +1,1 @@
-document.write("Verrazzano-Narrows Bridge, New York City, USA (© David Madison/Getty Images)")
+document.write("清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images)")

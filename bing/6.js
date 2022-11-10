@@ -1,1 +1,1 @@
-document.write("Mount Kilimanjaro, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)")
+document.write("阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo)")

@@ -1,1 +1,1 @@
-document.write("Yi Peng festival, Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)")
+document.write("雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture)")

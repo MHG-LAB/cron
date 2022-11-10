@@ -1,1 +1,1 @@
-document.write("Mount Crested Butte, Colorado, USA (© Mengzhonghua Photography/Getty Images)")
+document.write("萨塞克斯郡的西欧刺猬，英国 (© Jules Cox/Minden Pictures)")
