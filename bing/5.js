@@ -1,1 +1,1 @@
-document.write("1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images)")
+document.write("庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)")

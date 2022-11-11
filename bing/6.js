@@ -1,1 +1,1 @@
-document.write("阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo)")
+document.write("1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images)")

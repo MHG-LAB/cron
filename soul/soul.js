@@ -1,1 +1,1 @@
-document.write('群发的祝福和个位数的红包，都是没有灵魂的。')
+document.write('虽然你丑，但是你想得美啊！')
