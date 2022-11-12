@@ -1,1 +1,1 @@
-document.write('虽然你丑，但是你想得美啊！')
+document.write('现在吃苦，是为了让你习惯以后吃更多苦。')
