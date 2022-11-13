@@ -1,1 +1,1 @@
-document.write("萨塞克斯郡的西欧刺猬，英国 (© Jules Cox/Minden Pictures)")
+document.write("雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture)")

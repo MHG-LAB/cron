@@ -1,1 +1,1 @@
-document.write('心怀定见，六辔在手。')
+document.write('一旦开始在乎什么，就会变得很辛苦。')
