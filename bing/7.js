@@ -1,1 +1,1 @@
-document.write("庐山冬季美景，中国江西省 (© silkwayrain/Getty Images)")
+document.write("清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images)")

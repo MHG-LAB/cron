@@ -1,1 +1,1 @@
-document.write('一旦开始在乎什么，就会变得很辛苦。')
+document.write('我就是光，不必凭借谁发光。')
