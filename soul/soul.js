@@ -1,1 +1,1 @@
-document.write('生活不止眼前的苟且，还有旧爱发来的请帖。')
+document.write('虽然你丑，但是你想得美啊！')
