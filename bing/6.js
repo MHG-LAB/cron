@@ -1,1 +1,1 @@
-document.write("雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture)")
+document.write("阿拉瓦利山脉的阿布山，印度拉贾斯坦邦 (© saiko3p/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images)")
+document.write("威拉米特国家森林麦肯齐河步道上的桥，美国 (© Don Paulson/Danita Delimont)")
