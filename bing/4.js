@@ -1,1 +1,1 @@
-document.write("哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊 (© Massimo Ripani/eStock Photo)")
+document.write("北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures)")

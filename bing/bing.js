@@ -1,1 +1,1 @@
-document.write("菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images)")
+document.write("犹他州锡安国家公园的维尔京河，美国 (© Jonathan Ross/Getty)")
