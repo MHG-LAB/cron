@@ -1,1 +1,1 @@
-document.write("船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI)")
+document.write("伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock)")
