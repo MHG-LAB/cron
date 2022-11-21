@@ -1,1 +1,1 @@
-document.write("北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures)")
+document.write("梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images)")
