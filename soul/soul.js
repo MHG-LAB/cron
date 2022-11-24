@@ -1,1 +1,1 @@
-document.write('如果所有人都理解你，那你得普通成什么样')
+document.write('其实，电脑游戏从小就训练你，把Boss当作自己最大的敌人。')

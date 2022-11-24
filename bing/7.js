@@ -1,1 +1,1 @@
-document.write("威拉米特国家森林麦肯齐河步道上的桥，美国 (© Don Paulson/Danita Delimont)")
+document.write("菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images)")

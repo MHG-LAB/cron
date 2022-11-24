@@ -1,1 +1,1 @@
-document.write('人生的价值，并不是用时间，而是用深度去衡量的')
+document.write('打死不上弹窗广告')
