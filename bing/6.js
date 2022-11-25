@@ -1,1 +1,1 @@
-document.write("犹他州锡安国家公园的维尔京河，美国 (© Jonathan Ross/Getty)")
+document.write("船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI)")
