@@ -1,1 +1,1 @@
-document.write('上帝为你关上了一扇门，然后就去洗洗睡了。')
+document.write('你就是个废物   一点用都没有')

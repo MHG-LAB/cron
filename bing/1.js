@@ -1,1 +1,1 @@
-document.write("日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture)")
+document.write("意大利西西里岛康科迪亚神庙前的一棵橄榄树 (© Alfio Finocchiaro/Shutterstock)")
