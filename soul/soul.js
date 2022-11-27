@@ -1,1 +1,1 @@
-document.write('你就是个废物   一点用都没有')
+document.write('很能吃苦，大部分人都做得到前三个字')

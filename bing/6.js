@@ -1,1 +1,1 @@
-document.write("伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock)")
+document.write("阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures)")
