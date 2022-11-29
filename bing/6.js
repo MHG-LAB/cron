@@ -1,1 +1,1 @@
-document.write("向日葵 (© Dileep Chandran/Alamy)")
+document.write("坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture)")

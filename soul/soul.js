@@ -1,1 +1,1 @@
-document.write('哀莫大于贼心不死。')
+document.write('现在吃苦，是为了让你习惯以后吃更多苦。')

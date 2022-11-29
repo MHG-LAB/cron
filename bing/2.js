@@ -1,1 +1,1 @@
-document.write("一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures)")
+document.write("火星（© NASA/Alamy）")
