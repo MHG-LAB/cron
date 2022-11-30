@@ -1,1 +1,1 @@
-document.write("罗维尼老城，克罗地亚 (© trabantos/Shutterstock)")
+document.write("江泽民逝世 (© Luca Flor/Shutterstock)")
