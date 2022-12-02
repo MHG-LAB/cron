@@ -1,1 +1,1 @@
-document.write("罗维尼老城，克罗地亚 (© trabantos/Shutterstock)")
+document.write("天堂湾，南极洲 (© SinghaphanAllB/Getty Images)")
