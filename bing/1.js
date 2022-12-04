@@ -1,1 +1,1 @@
-document.write("迈阿密海滩海洋大道，美国佛罗里达州 (© Matteo Colombo/Getty Images)")
+document.write("乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚 (© Diana Robinson Photography/Getty Images)")

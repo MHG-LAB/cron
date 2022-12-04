@@ -1,1 +1,1 @@
-document.write('人生就是一个挣扎的过程。')
+document.write('生生生生暗生始，死死死死冥死终。')
