@@ -1,1 +1,1 @@
-document.write('生生生生暗生始，死死死死冥死终。')
+document.write('我不会为了你的离开而准备，绝对不会。')
