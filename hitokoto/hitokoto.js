@@ -1,1 +1,1 @@
-document.write('我不会为了你的离开而准备，绝对不会。')
+document.write('人类，就是一直在重复过去的道路。')

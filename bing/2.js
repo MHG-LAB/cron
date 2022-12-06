@@ -1,1 +1,1 @@
-document.write("乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚 (© Diana Robinson Photography/Getty Images)")
+document.write("古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images)")

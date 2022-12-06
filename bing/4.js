@@ -1,1 +1,1 @@
-document.write("特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images)")
+document.write("迈阿密海滩海洋大道，美国佛罗里达州 (© Matteo Colombo/Getty Images)")
