@@ -1,1 +1,1 @@
-document.write("天堂湾，南极洲 (© SinghaphanAllB/Getty Images)")
+document.write("特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images)")
