@@ -1,1 +1,1 @@
-document.write('没有艰苦的学习，就没有最简单的发明')
+document.write('我允许你比眷属更长久的跟随侍奉我。')

@@ -1,1 +1,1 @@
-document.write("威斯特曼森林，达特穆尔国家公园，英格兰德文郡 (© Richard Garvey-Williams/Alamy)")
+document.write("多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures)")
