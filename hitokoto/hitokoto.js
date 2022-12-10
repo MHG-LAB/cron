@@ -1,1 +1,1 @@
-document.write('我允许你比眷属更长久的跟随侍奉我。')
+document.write('我和我的小伙伴们都惊呆了！')
