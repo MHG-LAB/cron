@@ -1,1 +1,1 @@
-document.write("多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures)")
+document.write("玻利维亚的乌尤尼盐沼 (© Theo Allofs/Minden Pictures)")
