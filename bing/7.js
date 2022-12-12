@@ -1,1 +1,1 @@
-document.write("古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images)")
+document.write("大沼泽国家公园里的一只大白鹭，美国佛罗里达州 (© Troy Harrison/Getty Images)")
