@@ -1,1 +1,1 @@
-document.write("贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大 (© Jeff Foott/Minden Pictures)")
+document.write("威斯特曼森林，达特穆尔国家公园，英格兰德文郡 (© Richard Garvey-Williams/Alamy)")
