@@ -1,1 +1,1 @@
-document.write('别人下班泡妞，你下班泡面。')
+document.write('愿你的烦恼，像你的头发一样，越来越少。')
