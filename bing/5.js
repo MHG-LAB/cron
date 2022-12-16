@@ -1,1 +1,1 @@
-document.write("泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州 (© Christian Bäck/eStock Photo)")
+document.write("一品红 (© Elizabeth Fernandez/Getty Images)")

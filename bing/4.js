@@ -1,1 +1,1 @@
-document.write("一品红 (© Elizabeth Fernandez/Getty Images)")
+document.write("哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)")
