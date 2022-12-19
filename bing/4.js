@@ -1,1 +1,1 @@
-document.write("博罗韦茨，保加利亚 (© Grigor Ivanov/Cavan Images)")
+document.write("杜德萨加尔瀑布，印度果阿 (© Lucky-photographer/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("杜德萨加尔瀑布，印度果阿 (© Lucky-photographer/Getty Images)")
+document.write("冰川国家公园的山羊，美国蒙大拿州 (© Sumio Harada/Minden Pictures)")
