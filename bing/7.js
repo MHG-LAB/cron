@@ -1,1 +1,1 @@
-document.write("哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy)")
+document.write("大帕拉迪索国家公园，意大利 (© agustavop/Getty Images)")
