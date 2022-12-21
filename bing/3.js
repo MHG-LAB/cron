@@ -1,1 +1,1 @@
-document.write("迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo)")
+document.write("栖息在北美冬青上的北美红雀，美国伊利诺伊州 (© Richard and Susan Day/Danita Delimont)")

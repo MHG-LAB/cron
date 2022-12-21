@@ -1,1 +1,1 @@
-document.write('别在担心减肥的问题了，还是先看看脸吧')
+document.write('余生不想请你指教了，领教够了')

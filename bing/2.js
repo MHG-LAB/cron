@@ -1,1 +1,1 @@
-document.write("栖息在北美冬青上的北美红雀，美国伊利诺伊州 (© Richard and Susan Day/Danita Delimont)")
+document.write("维也纳美景宫的圣诞市场，奥地利 (© Diyana Dimitrova/Alamy)")

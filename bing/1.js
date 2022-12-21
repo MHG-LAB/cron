@@ -1,1 +1,1 @@
-document.write("维也纳美景宫的圣诞市场，奥地利 (© Diyana Dimitrova/Alamy)")
+document.write("多洛米蒂山脉安特莫亚湖上的日晕，意大利 (© Walter Donega/Getty Images)")
