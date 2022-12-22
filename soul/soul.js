@@ -1,1 +1,1 @@
-document.write('余生不想请你指教了，领教够了')
+document.write('选择比努力更重要，所以我选择不努力')

@@ -1,1 +1,1 @@
-document.write("冰川国家公园的山羊，美国蒙大拿州 (© Sumio Harada/Minden Pictures)")
+document.write("迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo)")
