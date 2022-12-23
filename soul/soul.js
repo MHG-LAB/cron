@@ -1,1 +1,1 @@
-document.write('选择比努力更重要，所以我选择不努力')
+document.write('众生皆苦 你也不甜')

@@ -1,1 +1,1 @@
-document.write("多洛米蒂山脉安特莫亚湖上的日晕，意大利 (© Walter Donega/Getty Images)")
+document.write("安纳西，法国上瓦萨省 (© Sabine Klein/Alamy)")
