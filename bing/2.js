@@ -1,1 +1,1 @@
-document.write("安纳西，法国上瓦萨省 (© Sabine Klein/Alamy)")
+document.write("南极洲的巴布亚企鹅 (© Nature Picture Library/Alamy)")

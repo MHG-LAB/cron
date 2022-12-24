@@ -1,1 +1,1 @@
-document.write('众生皆苦 你也不甜')
+document.write('现在吃苦，是为了让你习惯以后吃更多苦。')
