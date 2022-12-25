@@ -1,1 +1,1 @@
-document.write("南极洲的巴布亚企鹅 (© Nature Picture Library/Alamy)")
+document.write("狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock)")
