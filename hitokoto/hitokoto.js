@@ -1,1 +1,1 @@
-document.write('春雨绵绵褪花色，容颜不在忧思中。')
+document.write('不约，不约，叔叔我们不约~')
