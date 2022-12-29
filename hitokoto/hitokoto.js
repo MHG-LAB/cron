@@ -1,1 +1,1 @@
-document.write('不约，不约，叔叔我们不约~')
+document.write('知识是智慧的火炬')

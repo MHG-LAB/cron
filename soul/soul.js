@@ -1,1 +1,1 @@
-document.write('大家都以为我没什么朋友，事实上，我确实没朋友')
+document.write('贵不是iPhone的缺陷，穷是你的缺陷。')
