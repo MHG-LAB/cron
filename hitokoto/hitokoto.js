@@ -1,1 +1,1 @@
-document.write('知识是智慧的火炬')
+document.write('一心只想达成目的吗？你已经拼命到连目的都看不清了吧？')

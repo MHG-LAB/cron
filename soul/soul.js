@@ -1,1 +1,1 @@
-document.write('贵不是iPhone的缺陷，穷是你的缺陷。')
+document.write('最近一个月，总有那么三十天很不顺。')
