@@ -1,1 +1,1 @@
-document.write("黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省 (© VisualCommunications/Getty Images)")
+document.write("贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy)")

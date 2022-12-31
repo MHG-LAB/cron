@@ -1,1 +1,1 @@
-document.write("贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy)")
+document.write("格林达维克的蓝湖，冰岛 (© Westend61/Getty Images)")

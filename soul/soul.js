@@ -1,1 +1,1 @@
-document.write('最近一个月，总有那么三十天很不顺。')
+document.write('有喜欢的人就静静的看着ta就好了，说不定ta跟别人跑了呢。')
