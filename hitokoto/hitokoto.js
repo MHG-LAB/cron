@@ -1,1 +1,1 @@
-document.write('你简直是对我一往情深的跟踪狂。')
+document.write('因你所见，光由心生。')
