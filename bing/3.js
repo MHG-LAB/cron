@@ -1,1 +1,1 @@
-document.write("白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images)")
+document.write("一起迎接2023年 (© GettyImages)")

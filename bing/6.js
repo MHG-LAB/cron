@@ -1,1 +1,1 @@
-document.write("格林达维克的蓝湖，冰岛 (© Westend61/Getty Images)")
+document.write("马洛亚，瑞士 (© Roberto Moiola/Getty)")

@@ -1,1 +1,1 @@
-document.write('因你所见，光由心生。')
+document.write('看到女人掉眼泪还无动于衷的话，就太不男人了。')
