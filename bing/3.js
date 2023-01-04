@@ -1,1 +1,1 @@
-document.write("北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images)")
+document.write("霍亨索伦城堡，德国 (© Sahara Prince/Shutterstock)")

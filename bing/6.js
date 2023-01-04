@@ -1,1 +1,1 @@
-document.write("斯托尔石山，天空之岛，苏格兰 (© Aliaume Chapelle/Tandem Stills + Motion)")
+document.write("白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images)")

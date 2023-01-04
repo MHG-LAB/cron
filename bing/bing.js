@@ -1,1 +1,1 @@
-document.write("从国际空间站看到的地球 (© JSC/NASA)")
+document.write("白鼬 (Mustela erminea), 上巴伐利亚，德国 (© Konrad Wothe/Minden Pictures)")
