@@ -1,1 +1,1 @@
-document.write('父母不可能永远都保护你。')
+document.write('生死是自然规律。')
