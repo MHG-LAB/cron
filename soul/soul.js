@@ -1,1 +1,1 @@
-document.write('他们笑我长的丑，我笑他们讲的对。')
+document.write('你有诗和远方也没用，生活对你虽远必诛。')
