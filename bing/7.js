@@ -1,1 +1,1 @@
-document.write("一起迎接2023年 (© GettyImages)")
+document.write("北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州 (© Jay Goodrich/Tandem Stills + Motion)")
+document.write("从国际空间站看到的地球 (© JSC/NASA)")
