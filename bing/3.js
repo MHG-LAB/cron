@@ -1,1 +1,1 @@
-document.write("白鼬 (Mustela erminea), 上巴伐利亚，德国 (© Konrad Wothe/Minden Pictures)")
+document.write("英格兰湖区的Black Fell (© Daniel Kay/Shutterstock)")
