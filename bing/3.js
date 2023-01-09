@@ -1,1 +1,1 @@
-document.write("英格兰湖区的Black Fell (© Daniel Kay/Shutterstock)")
+document.write("羊毛和马海毛纱线 (© Jurate Buiviene/Alamy)")
