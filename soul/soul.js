@@ -1,1 +1,1 @@
-document.write('闹钟的作用对我来说，就是让我，换个姿势睡觉。')
+document.write('别太晚睡，熬夜很伤手机的。')
