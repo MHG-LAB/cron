@@ -1,1 +1,1 @@
-document.write('别太晚睡，熬夜很伤手机的。')
+document.write('不要把我对你的宽容当成你放肆的标准')
