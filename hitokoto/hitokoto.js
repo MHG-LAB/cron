@@ -1,1 +1,1 @@
-document.write('诸恶莫作，众善奉行')
+document.write('将愿望倾入不愿忘却的回忆中⋯⋯')

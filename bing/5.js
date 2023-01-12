@@ -1,1 +1,1 @@
-document.write("羊毛和马海毛纱线 (© Jurate Buiviene/Alamy)")
+document.write("科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)")
