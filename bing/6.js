@@ -1,1 +1,1 @@
-document.write("科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)")
+document.write("南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)")

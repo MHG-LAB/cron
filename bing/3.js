@@ -1,1 +1,1 @@
-document.write("戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock)")
+document.write("博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔 (© Drone in Wonderland/Amazing Aerial Agency)")

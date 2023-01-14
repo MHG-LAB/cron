@@ -1,1 +1,1 @@
-document.write("爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)")
+document.write("戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock)")
