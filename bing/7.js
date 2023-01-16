@@ -1,1 +1,1 @@
-document.write("南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)")
+document.write("爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures)")
