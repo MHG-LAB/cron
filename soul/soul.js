@@ -1,1 +1,1 @@
-document.write('没吃饱只有一种烦恼，吃饱了有无数的烦恼。')
+document.write('学海无涯，回头是岸。')
