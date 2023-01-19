@@ -1,1 +1,1 @@
-document.write("吃樱桃树枝的毛驴 (© Juniors Bildarchiv GmbH/Alamy)")
+document.write("横贯图尔库的奥拉河, 芬兰 (© Jarmo Piironen/Alamy)")
