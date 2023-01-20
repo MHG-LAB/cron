@@ -1,1 +1,1 @@
-document.write('你以为事实有回应 实际叫天天不应')
+document.write('天生我才必有用，前提是，你得是天生的。')
