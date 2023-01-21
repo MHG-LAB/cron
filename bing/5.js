@@ -1,1 +1,1 @@
-document.write("麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省 (© Tom Mackie/plainpicture)")
+document.write("穆涅略斯自然保护区，西班牙 (© Andres M. Dominguez/Minden Pictures)")
