@@ -1,1 +1,1 @@
-document.write("王企鹅，福克兰群岛 (© Elmar Weiss/Getty Images)")
+document.write("除夕夜的中国新年灯笼 (© Toa55/Getty Images)")
