@@ -1,1 +1,1 @@
-document.write("春节的桃花和红灯笼 (© David Ng+EyeEm/Getty Images)")
+document.write("复活节岛上的摩艾石像，智利 (© Karine Aigner/Tandem Stills + Motion)")

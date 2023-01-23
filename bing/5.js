@@ -1,1 +1,1 @@
-document.write("白沙国家公园，美国新墨西哥州 (© Andrea Harrell/Tandem Stills + Motion)")
+document.write("帕克城, 美国犹他州 (© Kruck20/Getty Images)")
