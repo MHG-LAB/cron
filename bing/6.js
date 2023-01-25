@@ -1,1 +1,1 @@
-document.write("帕克城, 美国犹他州 (© Kruck20/Getty Images)")
+document.write("王企鹅，福克兰群岛 (© Elmar Weiss/Getty Images)")
