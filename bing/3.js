@@ -1,1 +1,1 @@
-document.write("复活节岛上的摩艾石像，智利 (© Karine Aigner/Tandem Stills + Motion)")
+document.write("多洛米蒂山谷中的科莱圣卢恰小镇，意大利 (© mauritius images GmbH/Alamy)")
