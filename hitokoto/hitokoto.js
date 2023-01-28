@@ -1,1 +1,1 @@
-document.write('不要同情自己，同情自己是卑劣懦夫干的勾当。')
+document.write('误会，是源于以为了解。')
