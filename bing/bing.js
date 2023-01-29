@@ -1,1 +1,1 @@
-document.write("埃塞克斯的乌鸫，英国 (© Bill Coster/Alamy Stock Photo)")
+document.write("卡纳塔克邦的纳加尔霍雷国家公园，印度 (© Vivek BR/Shutterstock)")

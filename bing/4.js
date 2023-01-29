@@ -1,1 +1,1 @@
-document.write("位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰 (© Dennis Barnes/Getty Images)")
+document.write("天门洞，湖南天门山国家森林公园，中国 (© Shane P. White/Minden Pictures)")
