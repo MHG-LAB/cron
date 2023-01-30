@@ -1,1 +1,1 @@
-document.write("瓜纳阿卡维韦斯半岛国家公园的红树林，古巴 (© Claudio Contreras/Minden Pictures)")
+document.write("从国际空间站看到的巴哈马周围的蓝绿色水域 (© NASA)")
