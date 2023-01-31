@@ -1,1 +1,1 @@
-document.write('既已背影倾天下，何必转身乱芳华。')
+document.write('上帝不会亏待痴情的人，他都是往死里整。')
