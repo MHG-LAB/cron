@@ -1,1 +1,1 @@
-document.write("从国际空间站看到的巴哈马周围的蓝绿色水域 (© NASA)")
+document.write("埃塞克斯的乌鸫，英国 (© Bill Coster/Alamy Stock Photo)")

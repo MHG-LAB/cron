@@ -1,1 +1,1 @@
-document.write('你可以不去选择，但永远不能放弃选择。')
+document.write('不安时，过去便会向我袭来。')

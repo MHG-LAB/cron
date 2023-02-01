@@ -1,1 +1,1 @@
-document.write("天门洞，湖南天门山国家森林公园，中国 (© Shane P. White/Minden Pictures)")
+document.write("瓜纳阿卡维韦斯半岛国家公园的红树林，古巴 (© Claudio Contreras/Minden Pictures)")

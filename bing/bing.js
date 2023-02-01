@@ -1,1 +1,1 @@
-document.write("皮埃尔丰城堡，皮卡第大区，法国 (© Hemis/Alamy)")
+document.write("高地陶恩国家公园内的高山土拨鼠，奥地利 (© Michaela Walch/Alamy)")
