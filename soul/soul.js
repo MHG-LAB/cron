@@ -1,1 +1,1 @@
-document.write('别人的起点，是你遥不可及的终点。')
+document.write('千里之行始于足下，没钱没票还是算了')
