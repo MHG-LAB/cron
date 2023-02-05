@@ -1,1 +1,1 @@
-document.write("纳加尔霍雷国家公园，卡纳塔克邦，印度 (© Vivek BR/Shutterstock)")
+document.write("南非自然保护区的斑马 (© Richard Du Toit/Minden Pictures)")

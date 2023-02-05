@@ -1,1 +1,1 @@
-document.write("高地陶恩国家公园内的高山土拨鼠，奥地利 (© Michaela Walch/Alamy)")
+document.write("费尔蒙芳堤娜城堡酒店，魁北克省，加拿大 (© Romiana Lee/Shutterstock)")
