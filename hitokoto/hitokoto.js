@@ -1,1 +1,1 @@
-document.write('孤独者不需要跟人分享思考内容，所以能想得更深入。')
+document.write('There's something good in this world. And it's worth fighting for ')
