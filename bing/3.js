@@ -1,1 +1,1 @@
-document.write("永福樱花园，福建省龙岩市, 中国 (© SEN LI/Getty Images)")
+document.write("毛茸茸又可爱的山兔 (© Ben Hall/Minden Pictures)")

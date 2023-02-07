@@ -1,1 +1,1 @@
-document.write('There's something good in this world. And it's worth fighting for ')
+document.write('我发过誓，再也不装作没察觉，再也不逃避。')
