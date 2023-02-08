@@ -1,1 +1,1 @@
-document.write("毛茸茸又可爱的山兔 (© Ben Hall/Minden Pictures)")
+document.write("峡湾国家公园，新西兰南岛 (© WitR/Adobe Stock)")
