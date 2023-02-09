@@ -1,1 +1,1 @@
-document.write("费尔蒙芳堤娜城堡酒店，魁北克省，加拿大 (© Romiana Lee/Shutterstock)")
+document.write("永福樱花园，福建省龙岩市, 中国 (© SEN LI/Getty Images)")

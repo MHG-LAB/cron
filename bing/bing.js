@@ -1,1 +1,1 @@
-document.write("下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)")
+document.write("埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)")
