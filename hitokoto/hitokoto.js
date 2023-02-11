@@ -1,1 +1,1 @@
-document.write('喜欢大胸只是本能，喜欢贫乳才是审美。')
+document.write('我要真心的，亲下去咯。')
