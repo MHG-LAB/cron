@@ -1,1 +1,1 @@
-document.write("峡湾国家公园，新西兰南岛 (© WitR/Adobe Stock)")
+document.write("拉布罗小镇，列蒂省，意大利 (© Marco Ilari/Shutterstock)")

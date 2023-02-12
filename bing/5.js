@@ -1,1 +1,1 @@
-document.write("拉布罗小镇，列蒂省，意大利 (© Marco Ilari/Shutterstock)")
+document.write("艾琳多南堡，苏格兰高地 (© VisualCommunications/Getty Images)")

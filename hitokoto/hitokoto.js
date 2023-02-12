@@ -1,1 +1,1 @@
-document.write('我要真心的，亲下去咯。')
+document.write('自己的归宿自己来决定')
