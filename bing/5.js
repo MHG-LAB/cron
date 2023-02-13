@@ -1,1 +1,1 @@
-document.write("艾琳多南堡，苏格兰高地 (© VisualCommunications/Getty Images)")
+document.write("下羚羊峡谷，亚利桑那州，美国 (© AZCat/Getty Images)")

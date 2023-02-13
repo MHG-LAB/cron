@@ -1,1 +1,1 @@
-document.write("埃庇道鲁斯剧场, 希腊阿尔戈利斯省 (© George Pachantouris/Getty Images)")
+document.write("死亡谷扎布里斯基角上空的银河，美国加利福尼亚州 (© Matt Anderson Photography/Getty Images)")
