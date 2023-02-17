@@ -1,1 +1,1 @@
-document.write("阿卡切斯瞭望台，月亮谷，智利 (© Ignacio Palacios/Getty Images)")
+document.write("日本北海道小樽雪灯之路的冰屋 (© T Photography/Shutterstock)")
