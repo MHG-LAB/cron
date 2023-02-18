@@ -1,1 +1,1 @@
-document.write("一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)")
+document.write("阿卡切斯瞭望台，月亮谷，智利 (© Ignacio Palacios/Getty Images)")

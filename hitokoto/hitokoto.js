@@ -1,1 +1,1 @@
-document.write('在多数时候，我们所看到的都不是事物的本来面目。')
+document.write('自由就是脑子里没有障碍。')

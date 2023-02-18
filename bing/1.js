@@ -1,1 +1,1 @@
-document.write("栖息在红袋鼠爪枝干上的艾氏煌蜂鸟 (© GypsyPictureShow/Shutterstock)")
+document.write("埃本冰洞，密歇根上半岛，美国 (© Dean Pennala/Shutterstock)")
