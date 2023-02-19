@@ -1,1 +1,1 @@
-document.write("日本北海道小樽雪灯之路的冰屋 (© T Photography/Shutterstock)")
+document.write("河马妈妈和宝宝，乔贝国家公园，博茨瓦纳 (© jacobeukman/Getty Images)")
