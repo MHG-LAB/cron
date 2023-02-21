@@ -1,1 +1,1 @@
-document.write("新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)")
+document.write("菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)")
