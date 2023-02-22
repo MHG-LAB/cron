@@ -1,1 +1,1 @@
-document.write("菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)")
+document.write("克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士 (© Matthew Williams Ellis/Plainpicture)")

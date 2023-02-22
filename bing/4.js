@@ -1,1 +1,1 @@
-document.write("埃本冰洞，密歇根上半岛，美国 (© Dean Pennala/Shutterstock)")
+document.write("毛伊岛附近的座头鲸，美国夏威夷 (© Flip Nicklin/Minden Pictures)")
