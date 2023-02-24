@@ -1,1 +1,1 @@
-document.write('好好活下去，每天都有新打击。')
+document.write('你给小草一点爱，小草还你一片绿！')
