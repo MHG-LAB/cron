@@ -1,1 +1,1 @@
-document.write("布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)")
+document.write("亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)")
