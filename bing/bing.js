@@ -1,1 +1,1 @@
-document.write("亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)")
+document.write("北极熊在加拿大沉睡 (© David Pike/Minden Pictures)")
