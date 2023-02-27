@@ -1,1 +1,1 @@
-document.write("克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士 (© Matthew Williams Ellis/Plainpicture)")
+document.write("里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)")

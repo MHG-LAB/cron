@@ -1,1 +1,1 @@
-document.write("Itaimbezinho峡谷，巴西 (© NidoHuebl/Getty Images)")
+document.write("新奥尔良法语区，路易斯安那州 (© f11photo/Getty Images)")
