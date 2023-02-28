@@ -1,1 +1,1 @@
-document.write("里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)")
+document.write("布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)")

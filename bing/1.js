@@ -1,1 +1,1 @@
-document.write("北极熊在加拿大沉睡 (© David Pike/Minden Pictures)")
+document.write("阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)")
