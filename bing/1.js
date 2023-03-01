@@ -1,1 +1,1 @@
-document.write("阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)")
+document.write("Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)")

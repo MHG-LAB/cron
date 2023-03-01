@@ -1,1 +1,1 @@
-document.write("里士满公园的鸳鸯，伦敦，英国 (© Oscar Dewhurst/Minden Pictures)")
+document.write("Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)")

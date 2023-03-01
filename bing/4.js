@@ -1,1 +1,1 @@
-document.write("布莱斯峡谷国家公园的石林，犹他州，美国 (© Piriya Photography/Getty Images)")
+document.write("Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)")

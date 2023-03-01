@@ -1,1 +1,1 @@
-document.write("吕贝克的霍尔斯滕门，德国 (© Harald Nachtmann/Getty Images)")
+document.write("Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC (© Andrew Harrer/Bloomberg/Getty Images)")

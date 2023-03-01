@@ -1,1 +1,1 @@
-document.write("菲希特尔山脉上的和平钟，萨克森州，德国 (© Jan Drahokoupil/Getty Images)")
+document.write("Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)")

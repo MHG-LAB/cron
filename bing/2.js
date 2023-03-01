@@ -1,1 +1,1 @@
-document.write("北极熊在加拿大沉睡 (© David Pike/Minden Pictures)")
+document.write("Polar bears asleep in Canada (© David Pike/Minden Pictures)")

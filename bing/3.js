@@ -1,1 +1,1 @@
-document.write("亚马孙雨林的树冠探险，秘鲁 (© Pere Rubi/Getty Images)")
+document.write("Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)")
