@@ -1,1 +1,1 @@
-document.write("Paris, France (© somchaij/Shutterstock)")
+document.write("Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)")
