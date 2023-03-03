@@ -1,1 +1,1 @@
-document.write("Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)")
+document.write("Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)")

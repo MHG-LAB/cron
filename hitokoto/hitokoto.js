@@ -1,1 +1,1 @@
-document.write('能与她在冬天里相会真是太好了。')
+document.write('人生就是一个挣扎的过程。')
