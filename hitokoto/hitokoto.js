@@ -1,1 +1,1 @@
-document.write('人生就是一个挣扎的过程。')
+document.write('绝望啦，我对灰色的融冰社会绝望啦！')

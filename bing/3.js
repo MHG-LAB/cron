@@ -1,1 +1,1 @@
-document.write("Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)")
+document.write("Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC (© Andrew Harrer/Bloomberg/Getty Images)")

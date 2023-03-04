@@ -1,1 +1,1 @@
-document.write("Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)")
+document.write("Polar bears asleep in Canada (© David Pike/Minden Pictures)")
