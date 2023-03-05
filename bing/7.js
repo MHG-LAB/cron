@@ -1,1 +1,1 @@
-document.write("Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)")
+document.write("Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)")
