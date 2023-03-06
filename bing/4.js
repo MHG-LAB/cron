@@ -1,1 +1,1 @@
-document.write("Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC (© Andrew Harrer/Bloomberg/Getty Images)")
+document.write("Negratín Reservoir, Granada, Spain (© Andres Martinez Olmedo/Getty Images)")

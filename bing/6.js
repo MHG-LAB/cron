@@ -1,1 +1,1 @@
-document.write("Polar bears asleep in Canada (© David Pike/Minden Pictures)")
+document.write("Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)")
