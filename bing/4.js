@@ -1,1 +1,1 @@
-document.write("Negratín Reservoir, Granada, Spain (© Andres Martinez Olmedo/Getty Images)")
+document.write("Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write('世界上如果有钱办不到的事情，加钱一定可以办到。')
+document.write('不知不觉潮流变成了怀旧')
