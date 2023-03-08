@@ -1,1 +1,1 @@
-document.write('没有任何回忆是可以遗忘的。')
+document.write('面对就好，去经历就好。')

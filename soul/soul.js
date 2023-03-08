@@ -1,1 +1,1 @@
-document.write('不知不觉潮流变成了怀旧')
+document.write('特别能吃苦这五个字，我想了想，我只能做到前四个。')

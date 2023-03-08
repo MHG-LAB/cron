@@ -1,1 +1,1 @@
-document.write("Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)")
+document.write("Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)")
