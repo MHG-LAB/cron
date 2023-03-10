@@ -1,1 +1,1 @@
-document.write('一心只想达成目的吗？你已经拼命到连目的都看不清了吧？')
+document.write('边学边问，才有学问')

@@ -1,1 +1,1 @@
-document.write("Cherry trees in full bloom near the Imperial Palace with Tokyo Tower in the background, Tokyo, Japan (© Jon Arnold/Danita Delimont)")
+document.write("Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock)")

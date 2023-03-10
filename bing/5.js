@@ -1,1 +1,1 @@
-document.write("Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)")
+document.write("Cherry trees in full bloom near the Imperial Palace with Tokyo Tower in the background, Tokyo, Japan (© Jon Arnold/Danita Delimont)")

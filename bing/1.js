@@ -1,1 +1,1 @@
-document.write("Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain (© dpa picture alliance/Alamy)")
+document.write("Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii (© Beverley Van Praagh/Getty Images)")
