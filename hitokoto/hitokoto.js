@@ -1,1 +1,1 @@
-document.write('边学边问，才有学问')
+document.write('人与人之间是无法完全相互了解的。')
