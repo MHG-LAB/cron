@@ -1,1 +1,1 @@
-document.write("Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images)")
+document.write("Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain (© dpa picture alliance/Alamy)")
