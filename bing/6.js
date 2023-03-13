@@ -1,1 +1,1 @@
-document.write("Icelandic horses standing in a field, Iceland (© Rodrigo Lourezini/Shutterstock)")
+document.write("Aerial view of terraced rice fields, Yuanyang County, China (© AlexGcs/Getty Images)")

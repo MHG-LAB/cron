@@ -1,1 +1,1 @@
-document.write('人为什么叫人类，因为人活着就是累。')
+document.write('人生就是六个大字，怎么着都不行。')

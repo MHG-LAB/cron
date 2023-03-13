@@ -1,1 +1,1 @@
-document.write("Lucian Blaga National Theater, Cluj-Napoca, Romania (© Thomas Mueller/Shutterstock)")
+document.write("Female lions sleeping, Serengeti National Park, Tanzania (© Cavan Images/Shutterstock)")
