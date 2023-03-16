@@ -1,1 +1,1 @@
-document.write("Hedge maze in Cyherbia Botanical Park, Cyprus (© Tpopova/Getty Images)")
+document.write("Agüero, Spain (© Andrea Comi/Getty Images)")

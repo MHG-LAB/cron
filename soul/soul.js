@@ -1,1 +1,1 @@
-document.write('别人都有背景，而我只有背影。')
+document.write('每天都要有新的期待，这样才能有新的失望。')

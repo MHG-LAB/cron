@@ -1,1 +1,1 @@
-document.write("Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii (© Beverley Van Praagh/Getty Images)")
+document.write("Vale of Edale, Peak District, England (© John Finney/Getty Images)")
