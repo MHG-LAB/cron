@@ -1,1 +1,1 @@
-document.write("Marshland, Gloucester, Massachusetts (© Thomas H. Mitchell/Getty Images)")
+document.write("Lucian Blaga National Theater, Cluj-Napoca, Romania (© Thomas Mueller/Shutterstock)")
