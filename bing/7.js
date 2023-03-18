@@ -1,1 +1,1 @@
-document.write("Vale of Edale, Peak District, England (© John Finney/Getty Images)")
+document.write("Marshland, Gloucester, Massachusetts (© Thomas H. Mitchell/Getty Images)")

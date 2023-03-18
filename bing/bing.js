@@ -1,1 +1,1 @@
-document.write("Ballyvooney Cove, Copper Coast Geopark, County Waterford, Ireland (© Andrea Pistolesi/Getty Images)")
+document.write("Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)")
