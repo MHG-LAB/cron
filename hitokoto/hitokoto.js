@@ -1,1 +1,1 @@
-document.write('我有预感事情会变得很有趣呢。')
+document.write('有些事情，可以理解但无法接受！')
