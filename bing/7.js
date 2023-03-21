@@ -1,1 +1,1 @@
-document.write("Female lions sleeping, Serengeti National Park, Tanzania (© Cavan Images/Shutterstock)")
+document.write("Hedge maze in Cyherbia Botanical Park, Cyprus (© Tpopova/Getty Images)")
