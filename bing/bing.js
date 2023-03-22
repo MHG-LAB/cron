@@ -1,1 +1,1 @@
-document.write("Colorful pastel chalk (© Stephen Shepherd/plainpicture)")
+document.write("Lake Powell on the Colorado River (© Peter Schaefer/Alamy)")

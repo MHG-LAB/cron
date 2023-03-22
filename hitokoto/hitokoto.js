@@ -1,1 +1,1 @@
-document.write('不管对什么事情都不能有先入为主的观念')
+document.write('女人的武器不是眼泪，而是微笑。')
