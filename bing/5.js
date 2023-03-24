@@ -1,1 +1,1 @@
-document.write("Gamboa Crater, Mars (© NASA/JPL-Caltech/University of Arizona)")
+document.write("Barn owl, England (© Ondrej Prosicky/Getty Images)")

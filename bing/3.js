@@ -1,1 +1,1 @@
-document.write("Crocus flowers (© Raimund Linke/Getty Images)")
+document.write("Colorful pastel chalk (© Stephen Shepherd/plainpicture)")
