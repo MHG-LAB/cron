@@ -1,1 +1,1 @@
-document.write('喜欢一个人就去表白，万一成备胎了呢。')
+document.write('可以不劳而获的，只有年纪和脂肪。')
