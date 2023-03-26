@@ -1,1 +1,1 @@
-document.write("Lake Powell on the Colorado River (© Peter Schaefer/Alamy)")
+document.write("Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)")
