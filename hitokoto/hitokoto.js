@@ -1,1 +1,1 @@
-document.write('控兄是我的个性的同时，也是勋章！')
+document.write('获得信任的技巧就是避免使用任何技巧')

@@ -1,1 +1,1 @@
-document.write("Barn owl, England (© Ondrej Prosicky/Getty Images)")
+document.write("Crocus flowers (© Raimund Linke/Getty Images)")
