@@ -1,1 +1,1 @@
-document.write("Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)")
+document.write("Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)")
