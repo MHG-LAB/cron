@@ -1,1 +1,1 @@
-document.write("New York City skyline in fog (© Orbon Alija/Getty Images)")
+document.write("Milky Way above the Tre Cime di Lavaredo, South Tyrol, Italy (© Juan Romero/Cavan Images)")
