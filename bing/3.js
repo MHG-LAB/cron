@@ -1,1 +1,1 @@
-document.write("Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)")
+document.write("意大利三峰山上空的银河 (© Juan Romero/Cavan Images)")

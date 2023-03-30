@@ -1,1 +1,1 @@
-document.write("New York City skyline in fog (© Orbon Alija/Getty Images)")
+document.write("两只海牛，佛罗里达州的水晶河，美国 (© Gregory Sweeney/Getty Images)")

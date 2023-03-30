@@ -1,1 +1,1 @@
-document.write("Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)")
+document.write("云层中的纽约市天际线 (© Orbon Alija/Getty Images)")

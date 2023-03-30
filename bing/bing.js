@@ -1,1 +1,1 @@
-document.write("Manatees, Crystal River, Florida (© Gregory Sweeney/Getty Images)")
+document.write("斯太尔河, 奥地利 (© guenterguni/Getty Images)")

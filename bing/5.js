@@ -1,1 +1,1 @@
-document.write("Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)")
+document.write("安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国 (© Ron and Patty Thomas/Getty Images)")

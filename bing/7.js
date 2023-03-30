@@ -1,1 +1,1 @@
-document.write("Lake Powell on the Colorado River (© Peter Schaefer/Alamy)")
+document.write("盛开的熊蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)")

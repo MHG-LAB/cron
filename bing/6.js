@@ -1,1 +1,1 @@
-document.write("Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)")
+document.write("塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)")
