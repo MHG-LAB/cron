@@ -1,1 +1,1 @@
-document.write("云层中的纽约市天际线 (© Orbon Alija/Getty Images)")
+document.write("意大利三峰山上空的银河 (© Juan Romero/Cavan Images)")

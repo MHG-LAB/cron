@@ -1,1 +1,1 @@
-document.write("盛开的熊蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)")
+document.write("塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)")

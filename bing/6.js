@@ -1,1 +1,1 @@
-document.write("塞西尔布鲁尔楼梯，伦敦，英国 (© Yiran An/Getty Images)")
+document.write("安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国 (© Ron and Patty Thomas/Getty Images)")
