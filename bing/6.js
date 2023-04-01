@@ -1,1 +1,1 @@
-document.write("安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国 (© Ron and Patty Thomas/Getty Images)")
+document.write("云层中的纽约市天际线 (© Orbon Alija/Getty Images)")
