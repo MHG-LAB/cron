@@ -1,1 +1,1 @@
-document.write("斯太尔河, 奥地利 (© guenterguni/Getty Images)")
+document.write("爪哇树蛙 (© kuritafsheen/Getty Images)")

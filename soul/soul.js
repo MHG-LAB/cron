@@ -1,1 +1,1 @@
-document.write('抱最大的希望，为最大的努力，做最坏的打算。')
+document.write('人生不如意，十之有十')

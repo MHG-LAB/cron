@@ -1,1 +1,1 @@
-document.write("孔雀羽毛 (© sarayut Thaneerat/Getty Images)")
+document.write("斯太尔河, 奥地利 (© guenterguni/Getty Images)")
