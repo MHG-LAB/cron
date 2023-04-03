@@ -1,1 +1,1 @@
-document.write('人生不如意，十之有十')
+document.write('只要坚持不懈，嘲笑你的人，迟早会被你笑死。')
