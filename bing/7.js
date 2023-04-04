@@ -1,1 +1,1 @@
-document.write("意大利三峰山上空的银河 (© Juan Romero/Cavan Images)")
+document.write("两只海牛，佛罗里达州的水晶河，美国 (© Gregory Sweeney/Getty Images)")

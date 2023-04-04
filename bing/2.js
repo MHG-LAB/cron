@@ -1,1 +1,1 @@
-document.write("爪哇岛东部的婆罗摩火山，印度尼西亚 (© Bento Fotography/Getty Images)")
+document.write("大岛上的霍瑙瑙国家历史公园，夏威夷 (© Westend61/Getty Images)")

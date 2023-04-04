@@ -1,1 +1,1 @@
-document.write("两只海牛，佛罗里达州的水晶河，美国 (© Gregory Sweeney/Getty Images)")
+document.write("孔雀羽毛 (© sarayut Thaneerat/Getty Images)")

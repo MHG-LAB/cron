@@ -1,1 +1,1 @@
-document.write("科尔多瓦的古罗马桥，西班牙 (© Jeremy Woodhouse/Getty Images)")
+document.write("杭州西湖水墨意境般的风景，浙江省，中国 (© zhangshuang/Getty Images)")
