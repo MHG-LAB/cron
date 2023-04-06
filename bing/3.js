@@ -1,1 +1,1 @@
-document.write("大岛上的霍瑙瑙国家历史公园，夏威夷 (© Westend61/Getty Images)")
+document.write("科尔多瓦的古罗马桥，西班牙 (© Jeremy Woodhouse/Getty Images)")
