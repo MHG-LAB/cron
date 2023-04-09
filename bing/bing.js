@@ -1,1 +1,1 @@
-document.write("复活节彩蛋 (© fotomem/Getty Images)")
+document.write("安博塞利国家公园的大象，肯尼亚 (© Diana Robinson/Getty Images)")

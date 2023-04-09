@@ -1,1 +1,1 @@
-document.write("欧亚河狸宝宝，芬兰 (© Danny Green/Minden Pictures)")
+document.write("巨人之路，北爱尔兰，英国 (© DieterMeyrl/Getty Images)")
