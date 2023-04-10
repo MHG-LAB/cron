@@ -1,1 +1,1 @@
-document.write("月亮升起，图森，亚利桑那州，美国 (© Tim Murphy/Shutterstock)")
+document.write("欧亚河狸宝宝，芬兰 (© Danny Green/Minden Pictures)")
