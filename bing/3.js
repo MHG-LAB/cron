@@ -1,1 +1,1 @@
-document.write("巨人之路，北爱尔兰，英国 (© DieterMeyrl/Getty Images)")
+document.write("复活节彩蛋 (© fotomem/Getty Images)")
