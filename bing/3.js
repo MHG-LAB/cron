@@ -1,1 +1,1 @@
-document.write("安博塞利国家公园的大象，肯尼亚 (© Diana Robinson/Getty Images)")
+document.write("哥伦比亚河峡谷，俄勒冈州，美国 (© Chase Dekker Wild-Life Images/Getty Images)")

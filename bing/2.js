@@ -1,1 +1,1 @@
-document.write("哥伦比亚河峡谷，俄勒冈州，美国 (© Chase Dekker Wild-Life Images/Getty Images)")
+document.write("从国际空间站拍摄的地球 (© Tim Peake/ESA/NASA via Getty Images)")

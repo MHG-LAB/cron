@@ -1,1 +1,1 @@
-document.write('天空没有翅膀的痕迹，除非你飞的时候会掉毛')
+document.write('有钱人终成眷属，而你亲眼目睹。')
