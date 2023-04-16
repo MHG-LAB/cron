@@ -1,1 +1,1 @@
-document.write("从国际空间站拍摄的地球 (© Tim Peake/ESA/NASA via Getty Images)")
+document.write("斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)")
