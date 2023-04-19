@@ -1,1 +1,1 @@
-document.write('放弃也是需要勇气的。')
+document.write('代表月亮消灭你！')

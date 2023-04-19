@@ -1,1 +1,1 @@
-document.write("褐头凤鹛 (© Staffan Widstrand/Minden Pictures)")
+document.write("克雷斯特德比特山上方的月食，科罗拉多州，美国 (© Mengzhonghua Photography/Getty Images)")

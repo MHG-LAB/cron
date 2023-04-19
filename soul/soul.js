@@ -1,1 +1,1 @@
-document.write('铁打的身子，磁铁打的床。')
+document.write('贪图小利，难成大事，要贪就贪大的。')
