@@ -1,1 +1,1 @@
-document.write("斯诺登尼亚国家公园，威尔士，英国 (© Sebastian Wasek/eStock Photo)")
+document.write("红海星, 地中海 (© Hans Leijnse/Minden Pictures)")

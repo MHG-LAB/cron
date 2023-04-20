@@ -1,1 +1,1 @@
-document.write('代表月亮消灭你！')
+document.write('我一定是为了与你相逢而来的')
