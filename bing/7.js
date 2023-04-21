@@ -1,1 +1,1 @@
-document.write("红海星, 地中海 (© Hans Leijnse/Minden Pictures)")
+document.write("从纳哈加尔城堡鸟瞰斋浦尔，印度 (© Sean3810/iStock/Getty Images Plus)")

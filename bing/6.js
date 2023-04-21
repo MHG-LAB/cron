@@ -1,1 +1,1 @@
-document.write("从纳哈加尔城堡鸟瞰斋浦尔，印度 (© Sean3810/iStock/Getty Images Plus)")
+document.write("阿德莱德国际风筝节，澳大利亚 (© Andrey Moisseyev/Alamy)")
