@@ -1,1 +1,1 @@
-document.write("阿德莱德国际风筝节，澳大利亚 (© Andrey Moisseyev/Alamy)")
+document.write("布列塔尼的小米努灯塔，法国 (© RooM the Agency/Alamy)")

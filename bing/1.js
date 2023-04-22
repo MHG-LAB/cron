@@ -1,1 +1,1 @@
-document.write("普罗奇达岛，意大利 (© Sean Pavone/Shutterstock)")
+document.write("岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)")
