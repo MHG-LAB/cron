@@ -1,1 +1,1 @@
-document.write("马丘比丘，秘鲁 (© Dora Dalton/Getty Images)")
+document.write("褐头凤鹛 (© Staffan Widstrand/Minden Pictures)")
