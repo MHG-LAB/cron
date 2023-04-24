@@ -1,1 +1,1 @@
-document.write("布列塔尼的小米努灯塔，法国 (© RooM the Agency/Alamy)")
+document.write("马丘比丘，秘鲁 (© Dora Dalton/Getty Images)")
