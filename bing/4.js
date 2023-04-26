@@ -1,1 +1,1 @@
-document.write("岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)")
+document.write("日出时分薄雾笼罩下的薰衣草田，印度 (© Amith Nag Photography/Getty Images)")
