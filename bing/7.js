@@ -1,1 +1,1 @@
-document.write("克雷斯特德比特山上方的月食，科罗拉多州，美国 (© Mengzhonghua Photography/Getty Images)")
+document.write("普罗奇达岛，意大利 (© Sean Pavone/Shutterstock)")

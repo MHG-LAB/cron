@@ -1,1 +1,1 @@
-document.write('你有诗和远方也没用，生活对你虽远必诛。')
+document.write('咸鱼翻身，还是咸鱼')

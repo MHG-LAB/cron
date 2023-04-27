@@ -1,1 +1,1 @@
-document.write('有时候，一个人只要好好活着，就足以拯救某个人。')
+document.write('//佛祖保佑，永无BUG')

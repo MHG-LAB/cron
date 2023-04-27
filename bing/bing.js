@@ -1,1 +1,1 @@
-document.write("南帕德里岛，美国得克萨斯州 (© Jeff R Clow/Getty Images)")
+document.write("优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州 (© Orbon Alija/Getty Images)")
