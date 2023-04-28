@@ -1,1 +1,1 @@
-document.write('咸鱼翻身，还是咸鱼')
+document.write('永远不要自暴自弃，一旦开始放弃，你就会发现非常开心')

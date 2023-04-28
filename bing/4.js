@@ -1,1 +1,1 @@
-document.write("巴伐利亚森林酒窖，德国 (© Andreas_Zerndl/Getty Images)")
+document.write("阿德利企鹅 (© David Merron Photography/Getty Images)")

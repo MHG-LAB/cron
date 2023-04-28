@@ -1,1 +1,1 @@
-document.write("阿德利企鹅 (© David Merron Photography/Getty Images)")
+document.write("大雕鸮幼崽 (© Michael Morse/Getty Images)")
