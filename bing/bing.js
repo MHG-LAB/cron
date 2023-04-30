@@ -1,1 +1,1 @@
-document.write("塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)")
+document.write("横跨圣劳伦斯河下游的魁北克大桥，加拿大 (© Ronald Santerre/Getty Images)")

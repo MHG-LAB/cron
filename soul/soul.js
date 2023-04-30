@@ -1,1 +1,1 @@
-document.write('有钱人终成眷属，没钱人亲眼目睹。')
+document.write('当初有多感天动地，以后就有多万劫不复。')
