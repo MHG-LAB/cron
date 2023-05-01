@@ -1,1 +1,1 @@
-document.write("大雕鸮幼崽 (© Michael Morse/Getty Images)")
+document.write("南帕德里岛，美国得克萨斯州 (© Jeff R Clow/Getty Images)")
