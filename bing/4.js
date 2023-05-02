@@ -1,1 +1,1 @@
-document.write("优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州 (© Orbon Alija/Getty Images)")
+document.write("约书亚树国家公园上空的银河，美国加利福尼亚州 (© Schroptschop/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，瑞士 (© Florin Baumann/Getty Images)")
+document.write("马赛马拉的角马，肯尼亚 (© Matt Polski/Getty Images)")

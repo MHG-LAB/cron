@@ -1,1 +1,1 @@
-document.write("约书亚树国家公园上空的银河，美国加利福尼亚州 (© Schroptschop/Getty Images)")
+document.write("塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)")
