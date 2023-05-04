@@ -1,1 +1,1 @@
-document.write('失去只是一瞬，一瞬的疏忽')
+document.write('我们开始一起攀登，这长长的，长长的坡道。')

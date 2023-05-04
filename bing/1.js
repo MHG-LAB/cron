@@ -1,1 +1,1 @@
-document.write("马赛马拉的角马，肯尼亚 (© Matt Polski/Getty Images)")
+document.write("蒂卡尔的玛雅遗址，危地马拉 (© THP Creative/Getty Images)")
