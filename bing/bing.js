@@ -1,1 +1,1 @@
-document.write("大麦和矢车菊, 诺德豪森, 德国 (© Mandy Tabatt/Getty Images)")
+document.write("海豹幼崽，伦迪岛，英国 (© Henley Spiers/Minden Pictures)")
