@@ -1,1 +1,1 @@
-document.write('不喜欢你的人总有很多理由拒绝你')
+document.write('如果感觉不太行的时候，就去太行山看看吧')
