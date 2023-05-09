@@ -1,1 +1,1 @@
-document.write("普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥 (© Radius Images/Shutterstock)")
+document.write("大麦和矢车菊, 诺德豪森, 德国 (© Mandy Tabatt/Getty Images)")
