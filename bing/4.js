@@ -1,1 +1,1 @@
-document.write("大麦和矢车菊, 诺德豪森, 德国 (© Mandy Tabatt/Getty Images)")
+document.write("精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images)")

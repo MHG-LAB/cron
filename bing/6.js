@@ -1,1 +1,1 @@
-document.write("蒂卡尔的玛雅遗址，危地马拉 (© THP Creative/Getty Images)")
+document.write("大麦和矢车菊, 诺德豪森, 德国 (© Mandy Tabatt/Getty Images)")

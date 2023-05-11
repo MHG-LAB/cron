@@ -1,1 +1,1 @@
-document.write("科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)")
+document.write("紫色和蓝色的野生羽扇豆 (© silverjohn/Getty Images Plus)")

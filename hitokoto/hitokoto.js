@@ -1,1 +1,1 @@
-document.write('好梦向来易醒。')
+document.write('只要能努力，就应当去努力；只要还能前进，就要向前走去。')

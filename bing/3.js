@@ -1,1 +1,1 @@
-document.write("海豹幼崽，伦迪岛，英国 (© Henley Spiers/Minden Pictures)")
+document.write("卡韦希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame/Alamy)")

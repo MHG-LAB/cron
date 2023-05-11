@@ -1,1 +1,1 @@
-document.write("精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images)")
+document.write("科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)")
