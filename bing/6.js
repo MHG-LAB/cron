@@ -1,1 +1,1 @@
-document.write("海豹幼崽，伦迪岛，英国 (© Henley Spiers/Minden Pictures)")
+document.write("精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images)")
