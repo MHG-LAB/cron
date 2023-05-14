@@ -1,1 +1,1 @@
-document.write("紫色和蓝色的野生羽扇豆 (© silverjohn/Getty Images Plus)")
+document.write("曼海姆水塔，德国 (© tichr/Getty Images)")
