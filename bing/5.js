@@ -1,1 +1,1 @@
-document.write("科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)")
+document.write("亨宁斯韦尔体育场，挪威 (© Morten Falch Sortland/Getty Images)")

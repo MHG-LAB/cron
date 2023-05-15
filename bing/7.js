@@ -1,1 +1,1 @@
-document.write("精致拱门，拱门国家公园，犹他州 (© Mark Brodkin Photography/Getty Images)")
+document.write("卡韦希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame/Alamy)")

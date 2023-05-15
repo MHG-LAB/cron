@@ -1,1 +1,1 @@
-document.write("卡韦希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame/Alamy)")
+document.write("科尔杜昂灯塔，罗扬市，夏朗德省，法国 (© FRTimelapse/Getty Images)")
