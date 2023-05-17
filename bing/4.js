@@ -1,1 +1,1 @@
-document.write("紫色和蓝色的野生羽扇豆 (© silverjohn/Getty Images Plus)")
+document.write("白尾鹿母鹿和刚出生的小鹿，美国蒙大拿州 (© Donald M. Jones/Minden Pictures)")

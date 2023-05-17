@@ -1,1 +1,1 @@
-document.write("在奥克弗诺基国家野生动物保护区划独木舟 (© Brad Beck/Tandem Stills + Motion)")
+document.write("拉曼加，穆尔西亚，西班牙 (© SOMATUSCANI/Getty Images)")

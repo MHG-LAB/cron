@@ -1,1 +1,1 @@
-document.write("卡韦希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame/Alamy)")
+document.write("亨宁斯韦尔体育场，挪威 (© Morten Falch Sortland/Getty Images)")
