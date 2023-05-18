@@ -1,1 +1,1 @@
-document.write("曼海姆水塔，德国 (© tichr/Getty Images)")
+document.write("白尾鹿母鹿和刚出生的小鹿，美国蒙大拿州 (© Donald M. Jones/Minden Pictures)")
