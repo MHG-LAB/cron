@@ -1,1 +1,1 @@
-document.write('别人露腿那叫美，你露腿就想让人怼。')
+document.write('行而上学，实在不行就别上了吧')
