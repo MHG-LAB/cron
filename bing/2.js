@@ -1,1 +1,1 @@
-document.write("谢菲尔德的欧洲蜜蜂, 英格兰 (© Deborah Vernon/Alamy)")
+document.write("塞纳河，巴黎，法国 (© StockByM/Getty Images)")

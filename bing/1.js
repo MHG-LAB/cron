@@ -1,1 +1,1 @@
-document.write("塞纳河，巴黎，法国 (© StockByM/Getty Images)")
+document.write("阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)")
