@@ -1,1 +1,1 @@
-document.write("科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)")
+document.write("法罗群岛，丹麦 (© miroslav_1/Getty Images)")
