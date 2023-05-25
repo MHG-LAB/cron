@@ -1,1 +1,1 @@
-document.write("法罗群岛，丹麦 (© miroslav_1/Getty Images)")
+document.write("西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)")

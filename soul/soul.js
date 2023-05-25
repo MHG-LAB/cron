@@ -1,1 +1,1 @@
-document.write('你真的丑，别人也这么认为的')
+document.write('出身好的努力是为了成功，而你是为了活下去。')
