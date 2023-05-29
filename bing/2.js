@@ -1,1 +1,1 @@
-document.write("纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)")
+document.write("乌布的德格拉朗梯田，印度尼西亚 (© Cavan Images/Adobe Stock)")

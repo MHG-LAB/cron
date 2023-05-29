@@ -1,1 +1,1 @@
-document.write("阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)")
+document.write("西部箱龟 (© Tim Fitzharris/Minden Pictures)")

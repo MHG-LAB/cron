@@ -1,1 +1,1 @@
-document.write("西部箱龟 (© Tim Fitzharris/Minden Pictures)")
+document.write("科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)")
