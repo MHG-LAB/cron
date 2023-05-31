@@ -1,1 +1,1 @@
-document.write('我没有去过你的城市，但我刷过你那的题。')
+document.write('浆糊不在办公桌上，在你脑子里。')

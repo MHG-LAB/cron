@@ -1,1 +1,1 @@
-document.write("西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)")
+document.write("纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)")

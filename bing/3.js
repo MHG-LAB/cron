@@ -1,1 +1,1 @@
-document.write("乌布的德格拉朗梯田，印度尼西亚 (© Cavan Images/Adobe Stock)")
+document.write("萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛 (© Hemis/Alamy)")
