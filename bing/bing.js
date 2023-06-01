@@ -1,1 +1,1 @@
-document.write("大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)")
+document.write("沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)")
