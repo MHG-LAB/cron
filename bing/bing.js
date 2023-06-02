@@ -1,1 +1,1 @@
-document.write("沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)")
+document.write("大峡谷国家公园的南凯巴布步道，亚利桑那州，美国 (© Roman Khomlyak/Getty Images)")
