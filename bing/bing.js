@@ -1,1 +1,1 @@
-document.write("辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)")
+document.write("The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)")

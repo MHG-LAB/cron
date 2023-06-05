@@ -1,1 +1,1 @@
-document.write('我想早恋，但是已经晚了…')
+document.write('如果你吃了亏，千万不要喝水，不然你会变污的。')

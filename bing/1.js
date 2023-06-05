@@ -1,1 +1,1 @@
-document.write("怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国 (© Matt Anderson Photography/Getty Images)")
+document.write("辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)")
