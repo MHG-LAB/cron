@@ -1,1 +1,1 @@
-document.write("海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)")
+document.write("大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)")

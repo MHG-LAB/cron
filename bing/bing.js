@@ -1,1 +1,1 @@
-document.write("The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)")
+document.write("普韦布洛·博尼托镇，查科文化国家历史公园，美国新墨西哥州 (© Ian Shive/Tandem Stills + Motion)")
