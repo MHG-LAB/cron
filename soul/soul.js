@@ -1,1 +1,1 @@
-document.write('你拥有爱情，我拥有你老婆。')
+document.write('即使你失败，也有比你更失败的')

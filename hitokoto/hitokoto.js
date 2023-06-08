@@ -1,1 +1,1 @@
-document.write('我只要静待机会降临就行了！')
+document.write('时间再拉长一点，让我有时间收拾一下心情。')
