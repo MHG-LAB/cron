@@ -1,1 +1,1 @@
-document.write('即使你失败，也有比你更失败的')
+document.write('路遥知马力不足，日久见人心叵测。')
