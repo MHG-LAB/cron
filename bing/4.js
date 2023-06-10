@@ -1,1 +1,1 @@
-document.write("埃特尔塔海岸的白垩悬崖，诺曼底，法国 (© MarcelloLand/Getty Images)")
+document.write("普韦布洛·博尼托镇，查科文化国家历史公园，美国新墨西哥州 (© Ian Shive/Tandem Stills + Motion)")
