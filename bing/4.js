@@ -1,1 +1,1 @@
-document.write("座头鲸 (© Philip Thurston/Getty Images)")
+document.write("卡帕多西亚, 土耳其 (© Anton Petrus/Getty Images)")
