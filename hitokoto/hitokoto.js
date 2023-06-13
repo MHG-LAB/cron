@@ -1,1 +1,1 @@
-document.write('要改变别人的心真是件很难办的事，不过改变自己要容易一点。')
+document.write('能者深藏不露。')
