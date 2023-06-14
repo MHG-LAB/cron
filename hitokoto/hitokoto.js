@@ -1,1 +1,1 @@
-document.write('能者深藏不露。')
+document.write('人生如戏，导演是自己。')

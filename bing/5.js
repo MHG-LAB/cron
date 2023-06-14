@@ -1,1 +1,1 @@
-document.write("卡帕多西亚, 土耳其 (© Anton Petrus/Getty Images)")
+document.write("波尔图大教堂, 葡萄牙 (© Reinhard Schmid/Huber/eStock Photo)")

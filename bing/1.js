@@ -1,1 +1,1 @@
-document.write("奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国 (© Emmer Photo/Alamy)")
+document.write("多瑙河畔的帕绍市，巴伐利亚，德国 (© Scott Wilson/Alamy)")

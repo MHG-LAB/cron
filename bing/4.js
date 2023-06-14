@@ -1,1 +1,1 @@
-document.write("波尔图大教堂, 葡萄牙 (© Reinhard Schmid/Huber/eStock Photo)")
+document.write("巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)")
