@@ -1,1 +1,1 @@
-document.write('人生如戏，导演是自己。')
+document.write('习惯了边活边问的你，到最后也会带着疑问死去。')

@@ -1,1 +1,1 @@
-document.write("多瑙河畔的帕绍市，巴伐利亚，德国 (© Scott Wilson/Alamy)")
+document.write("同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)")
+document.write("奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国 (© Emmer Photo/Alamy)")
