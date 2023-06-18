@@ -1,1 +1,1 @@
-document.write("巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)")
+document.write("仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)")
