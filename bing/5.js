@@ -1,1 +1,1 @@
-document.write("同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)")
+document.write("游泳的鹰嘴海龟， 冲绳，日本 (© Robert Mallon/Getty Images)")

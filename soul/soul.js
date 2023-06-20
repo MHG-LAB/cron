@@ -1,1 +1,1 @@
-document.write('玩游戏，输赢不重要，重要的是要赢。')
+document.write('比你帅的人比你还努力！你还奋斗干嘛')
