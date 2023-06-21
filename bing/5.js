@@ -1,1 +1,1 @@
-document.write("游泳的鹰嘴海龟， 冲绳，日本 (© Robert Mallon/Getty Images)")
+document.write("在加利福尼亚州圣地亚哥举行的“为团结划桨”活动 (© Brandon Colbert Photography/Getty Images)")

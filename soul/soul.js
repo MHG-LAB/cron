@@ -1,1 +1,1 @@
-document.write('比你帅的人比你还努力！你还奋斗干嘛')
+document.write('善良没用，你得漂亮。')
