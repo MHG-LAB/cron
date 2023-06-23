@@ -1,1 +1,1 @@
-document.write("普通燕鸥父亲和宝宝，长岛，纽约州，美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
+document.write("奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)")

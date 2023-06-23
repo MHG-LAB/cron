@@ -1,1 +1,1 @@
-document.write("帝王蝶在野花中取食 (© bookguy/Getty Images)")
+document.write("芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)")
