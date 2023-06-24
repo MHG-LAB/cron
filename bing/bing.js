@@ -1,1 +1,1 @@
-document.write("芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)")
+document.write("佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)")

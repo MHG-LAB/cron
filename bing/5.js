@@ -1,1 +1,1 @@
-document.write("奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)")
+document.write("秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)")

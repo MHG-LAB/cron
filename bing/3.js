@@ -1,1 +1,1 @@
-document.write("夏日盛开的荷花 (© pandemin/Getty Images)")
+document.write("中国传统节日端午节 (© timekeep/Shutterstock)")

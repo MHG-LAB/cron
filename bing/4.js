@@ -1,1 +1,1 @@
-document.write("秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)")
+document.write("夏日盛开的荷花 (© pandemin/Getty Images)")
