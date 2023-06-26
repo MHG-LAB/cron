@@ -1,1 +1,1 @@
-document.write("中国传统节日端午节 (© timekeep/Shutterstock)")
+document.write("帝王蝶在野花中取食 (© bookguy/Getty Images)")
