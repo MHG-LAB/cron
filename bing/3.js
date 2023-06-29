@@ -1,1 +1,1 @@
-document.write("维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)")
+document.write("塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)")
