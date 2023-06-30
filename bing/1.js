@@ -1,1 +1,1 @@
-document.write("巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)")
+document.write("棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)")

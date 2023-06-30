@@ -1,1 +1,1 @@
-document.write("佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)")
+document.write("维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)")
