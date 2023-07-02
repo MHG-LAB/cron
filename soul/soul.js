@@ -1,1 +1,1 @@
-document.write('早睡早起身体好，可是晚睡晚起真的心情好。')
+document.write('国庆你堵在哪呢?')
