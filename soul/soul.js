@@ -1,1 +1,1 @@
-document.write('国庆你堵在哪呢?')
+document.write('你活在别人制定的世界里，努力获得者别人给你的东西。')
