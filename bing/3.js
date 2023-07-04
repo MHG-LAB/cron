@@ -1,1 +1,1 @@
-document.write("从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)")
+document.write("费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)")

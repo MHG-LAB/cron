@@ -1,1 +1,1 @@
-document.write("塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)")
+document.write("韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)")
