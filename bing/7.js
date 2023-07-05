@@ -1,1 +1,1 @@
-document.write("韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)")
+document.write("巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)")
