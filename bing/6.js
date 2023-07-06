@@ -1,1 +1,1 @@
-document.write("棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)")
+document.write("从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)")
