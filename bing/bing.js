@@ -1,1 +1,1 @@
-document.write("安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)")
+document.write("米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("班夫的土狼，加拿大 (© Harry Collins/Getty Images)")
+document.write("草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)")
