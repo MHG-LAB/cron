@@ -1,1 +1,1 @@
-document.write("草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)")
+document.write("蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)")
+document.write("南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)")
