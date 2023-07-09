@@ -1,1 +1,1 @@
-document.write("费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)")
+document.write("班夫的土狼，加拿大 (© Harry Collins/Getty Images)")
