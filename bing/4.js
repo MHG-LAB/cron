@@ -1,1 +1,1 @@
-document.write("南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)")
+document.write("安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)")
