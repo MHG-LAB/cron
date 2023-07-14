@@ -1,1 +1,1 @@
-document.write('变的只是年号，只是交椅上的面孔。')
+document.write('搓绳不能松劲，前进不能停顿')

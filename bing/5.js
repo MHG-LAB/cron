@@ -1,1 +1,1 @@
-document.write("克罗夫附近的摩泽尔河，德国 (© Jorg Greuel/Getty Images)")
+document.write("萨默塞特郡的薰衣草田，英国 (© Doug Chinnery/Getty Images)")
