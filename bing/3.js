@@ -1,1 +1,1 @@
-document.write("“我爱你”海滩自然保护区的沙洲，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy)")
+document.write("张掖国家地质公园，甘肃，中国 (© TONNAJA/Getty Images)")

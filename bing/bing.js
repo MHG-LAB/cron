@@ -1,1 +1,1 @@
-document.write("卡斯泰尔梅扎诺，意大利 (© Rudy Balasko/Shutterstock)")
+document.write("熊洞溪，卡茨基尔山脉，纽约，美国 (© GummyBone/Getty Images)")
