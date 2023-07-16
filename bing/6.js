@@ -1,1 +1,1 @@
-document.write("萨默塞特郡的薰衣草田，英国 (© Doug Chinnery/Getty Images)")
+document.write("Hong Kong SAR (© leungchopan/Getty Images)")
