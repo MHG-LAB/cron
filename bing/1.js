@@ -1,1 +1,1 @@
-document.write("熊洞溪，卡茨基尔山脉，纽约，美国 (© GummyBone/Getty Images)")
+document.write("乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)")

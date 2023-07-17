@@ -1,1 +1,1 @@
-document.write("张掖国家地质公园，甘肃，中国 (© TONNAJA/Getty Images)")
+document.write("乌翅真鲨，马尔代夫 (© Filippo Bacci/Getty Images)")
