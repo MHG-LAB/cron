@@ -1,1 +1,1 @@
-document.write("双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)")
+document.write("敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)")
