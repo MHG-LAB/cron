@@ -1,1 +1,1 @@
-document.write("乌翅真鲨，马尔代夫 (© Filippo Bacci/Getty Images)")
+document.write("卡斯泰尔梅扎诺，意大利 (© Rudy Balasko/Shutterstock)")

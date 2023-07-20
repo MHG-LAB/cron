@@ -1,1 +1,1 @@
-document.write("乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)")
+document.write("双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)")
