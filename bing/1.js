@@ -1,1 +1,1 @@
-document.write("从美国宇航局猎户座飞船上看到的月球 (© NASA)")
+document.write("斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)")
