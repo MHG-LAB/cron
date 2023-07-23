@@ -1,1 +1,1 @@
-document.write('男追女隔座山，翻过山就好了')
+document.write('虽然你学的慢，但是你，放弃的快呀。')
