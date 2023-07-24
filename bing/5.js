@@ -1,1 +1,1 @@
-document.write("敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)")
+document.write("从美国宇航局猎户座飞船上看到的月球 (© NASA)")
