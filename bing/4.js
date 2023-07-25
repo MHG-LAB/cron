@@ -1,1 +1,1 @@
-document.write("斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)")
+document.write("在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)")
