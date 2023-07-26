@@ -1,1 +1,1 @@
-document.write("爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)")
+document.write("斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)")
