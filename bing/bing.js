@@ -1,1 +1,1 @@
-document.write("卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国 (© Jon Hicks/Getty Images)")
+document.write("圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)")
+document.write("托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)")
