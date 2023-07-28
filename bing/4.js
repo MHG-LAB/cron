@@ -1,1 +1,1 @@
-document.write("斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)")
+document.write("Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)")

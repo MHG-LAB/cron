@@ -1,1 +1,1 @@
-document.write("圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)")
+document.write("孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)")
