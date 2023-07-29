@@ -1,1 +1,1 @@
-document.write("Laguna de Torrevieja, Alicante, Spain (© Juan Maria Coy Vergara/Getty Images)")
+document.write("Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)")

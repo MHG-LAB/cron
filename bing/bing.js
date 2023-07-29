@@ -1,1 +1,1 @@
-document.write("孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)")
+document.write("帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)")
