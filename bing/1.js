@@ -1,1 +1,1 @@
-document.write("帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)")
+document.write("霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)")
