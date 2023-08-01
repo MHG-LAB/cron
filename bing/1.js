@@ -1,1 +1,1 @@
-document.write("霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)")
+document.write("Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)")

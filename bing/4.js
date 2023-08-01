@@ -1,1 +1,1 @@
-document.write("圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)")
+document.write("San Blas Islands, Panama (© bgremler/Shutterstock)")

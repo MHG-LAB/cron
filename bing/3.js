@@ -1,1 +1,1 @@
-document.write("San Blas Islands, Panama (© bgremler/Shutterstock)")
+document.write("Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)")
