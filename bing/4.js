@@ -1,1 +1,1 @@
-document.write("San Blas Islands, Panama (© bgremler/Shutterstock)")
+document.write("帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)")
+document.write("霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)")

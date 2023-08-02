@@ -1,1 +1,1 @@
-document.write("Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)")
+document.write("孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)")
