@@ -1,1 +1,1 @@
-document.write("帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)")
+document.write("Farmland in the Palouse, Washington (© EJ-J/Getty Images)")
