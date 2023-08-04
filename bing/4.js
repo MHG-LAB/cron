@@ -1,1 +1,1 @@
-document.write("Farmland in the Palouse, Washington (© EJ-J/Getty Images)")
+document.write("从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)")

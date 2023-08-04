@@ -1,1 +1,1 @@
-document.write("圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)")
+document.write("泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)")
