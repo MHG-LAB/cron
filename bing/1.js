@@ -1,1 +1,1 @@
-document.write("廷特恩修道院，威尔士 (© matthibcn/Getty Images)")
+document.write("大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)")

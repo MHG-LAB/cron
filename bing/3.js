@@ -1,1 +1,1 @@
-document.write("Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)")
+document.write("泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)")

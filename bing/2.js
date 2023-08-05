@@ -1,1 +1,1 @@
-document.write("泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)")
+document.write("廷特恩修道院，威尔士 (© matthibcn/Getty Images)")

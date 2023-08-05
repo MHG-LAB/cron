@@ -1,1 +1,1 @@
-document.write("霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)")
+document.write("从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)")
