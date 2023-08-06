@@ -1,1 +1,1 @@
-document.write('幸运不是寻找出对方的漏洞，造出契机才是真正的幸运。')
+document.write('语言是误解的源泉。')
