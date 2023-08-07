@@ -1,1 +1,1 @@
-document.write('你从来就没成功过，还怕什么失败？')
+document.write('世上无难事，只要肯放弃！')
