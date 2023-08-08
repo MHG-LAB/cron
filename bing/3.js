@@ -1,1 +1,1 @@
-document.write("大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)")
+document.write("Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("镜池，长野，日本 (© Shoji Fujita/Getty Images)")
+document.write("Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)")

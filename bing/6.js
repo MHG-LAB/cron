@@ -1,1 +1,1 @@
-document.write("圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)")
+document.write("Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)")

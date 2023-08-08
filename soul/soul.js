@@ -1,1 +1,1 @@
-document.write('世上无难事，只要肯放弃！')
+document.write('好看的锁骨千篇一律，有趣的肚腩弹来弹去。')
