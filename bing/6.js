@@ -1,1 +1,1 @@
-document.write("Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)")
+document.write("廷特恩修道院，威尔士 (© matthibcn/Getty Images)")

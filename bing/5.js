@@ -1,1 +1,1 @@
-document.write("Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)")
+document.write("大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)")
