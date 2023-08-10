@@ -1,1 +1,1 @@
-document.write("博迪岛灯塔，马头城，北卡罗来纳州，美国 (© Michael Ver Sprill/Getty Images)")
+document.write("Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)")
