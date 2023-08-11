@@ -1,1 +1,1 @@
-document.write("Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)")
+document.write("Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)")

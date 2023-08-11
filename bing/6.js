@@ -1,1 +1,1 @@
-document.write("Tintern Abbey, Wales (© matthibcn/Getty Images)")
+document.write("Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)")

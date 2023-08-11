@@ -1,1 +1,1 @@
-document.write("Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)")
+document.write("Kagami-ike (Mirror Pond), Nagano, Japan (© Shoji Fujita/Getty Images)")

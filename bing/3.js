@@ -1,1 +1,1 @@
-document.write("Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)")
+document.write("Highways in Taipei, Taiwan (© Tavarius/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)")
+document.write("A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)")
