@@ -1,1 +1,1 @@
-document.write("'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)")
+document.write("Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)")
