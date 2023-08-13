@@ -1,1 +1,1 @@
-document.write("A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)")
+document.write("大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)")
