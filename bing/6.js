@@ -1,1 +1,1 @@
-document.write("五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images)")
+document.write("马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)")

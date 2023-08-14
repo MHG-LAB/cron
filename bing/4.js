@@ -1,1 +1,1 @@
-document.write("马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)")
+document.write("'朱庇特艺术园的“入口”水池，爱丁堡，苏格兰 (© Owen Humphreys/PA Images/Alamy)")

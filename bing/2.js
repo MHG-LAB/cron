@@ -1,1 +1,1 @@
-document.write("大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)")
+document.write("英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)")

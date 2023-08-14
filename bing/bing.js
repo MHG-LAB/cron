@@ -1,1 +1,1 @@
-document.write("叶片上的小壁虎 (© Darren Greenwood/Alamy)")
+document.write("四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)")

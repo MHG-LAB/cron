@@ -1,1 +1,1 @@
-document.write("'朱庇特艺术园的“入口”水池，爱丁堡，苏格兰 (© Owen Humphreys/PA Images/Alamy)")
+document.write("大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)")

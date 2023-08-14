@@ -1,1 +1,1 @@
-document.write("英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)")
+document.write("叶片上的小壁虎 (© Darren Greenwood/Alamy)")
