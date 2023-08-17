@@ -1,1 +1,1 @@
-document.write("叶片上的小壁虎 (© Darren Greenwood/Alamy)")
+document.write("Tiny gecko on a leaf (© Darren Greenwood/Alamy)")

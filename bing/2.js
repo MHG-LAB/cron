@@ -1,1 +1,1 @@
-document.write("四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)")
+document.write("Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)")
