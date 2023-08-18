@@ -1,1 +1,1 @@
-document.write("A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)")
+document.write("'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)")

@@ -1,1 +1,1 @@
-document.write("Tiny gecko on a leaf (© Darren Greenwood/Alamy)")
+document.write("Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)")

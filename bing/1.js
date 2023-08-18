@@ -1,1 +1,1 @@
-document.write("Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)")
+document.write("Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)")

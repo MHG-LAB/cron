@@ -1,1 +1,1 @@
-document.write("Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)")
+document.write("Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)")
