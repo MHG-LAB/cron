@@ -1,1 +1,1 @@
-document.write("Elephant family in Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)")
+document.write("叶片上的小壁虎 (© Darren Greenwood/Alamy)")
