@@ -1,1 +1,1 @@
-document.write("基韦斯特的七英里大桥，佛罗里达州，美国 (© Evgeny Vasenev/Cavan Images)")
+document.write("Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)")

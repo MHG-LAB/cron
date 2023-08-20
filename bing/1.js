@@ -1,1 +1,1 @@
-document.write("看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)")
+document.write("Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)")

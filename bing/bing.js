@@ -1,1 +1,1 @@
-document.write("起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)")
+document.write("Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)")
