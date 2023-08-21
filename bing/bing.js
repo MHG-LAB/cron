@@ -1,1 +1,1 @@
-document.write("Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)")
+document.write("Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Perseid meteor shower, Cottonwood Canyon State Park, Oregon (© Joshua Meador/Tandem Stills + Motion)")
+document.write("Tiny gecko on a leaf (© Darren Greenwood/Alamy)")

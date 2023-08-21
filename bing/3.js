@@ -1,1 +1,1 @@
-document.write("Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)")
+document.write("'Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)")

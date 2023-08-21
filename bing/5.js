@@ -1,1 +1,1 @@
-document.write("Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)")
+document.write("Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)")

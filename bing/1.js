@@ -1,1 +1,1 @@
-document.write("Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)")
+document.write("Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)")
