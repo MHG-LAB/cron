@@ -1,1 +1,1 @@
-document.write("Tiny gecko on a leaf (© Darren Greenwood/Alamy)")
+document.write("基韦斯特的七英里大桥，佛罗里达州，美国 (© Evgeny Vasenev/Cavan Images)")

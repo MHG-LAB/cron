@@ -1,1 +1,1 @@
-document.write("Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)")
+document.write("哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)")

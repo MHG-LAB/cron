@@ -1,1 +1,1 @@
-document.write("Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)")
+document.write("看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)")
+document.write("罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省 (© Laurens Verhoeven/Getty Images)")

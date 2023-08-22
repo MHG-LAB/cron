@@ -1,1 +1,1 @@
-document.write("Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)")
+document.write("翡翠湖，加拿大育空地区 (© artherng/Getty Images)")

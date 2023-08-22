@@ -1,1 +1,1 @@
-document.write("Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)")
+document.write("斯科加瀑布，冰岛 (© Maridav/Shutterstock)")

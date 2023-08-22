@@ -1,1 +1,1 @@
-document.write("'Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)")
+document.write("起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)")
