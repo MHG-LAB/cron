@@ -1,1 +1,1 @@
-document.write("斯科加瀑布，冰岛 (© Maridav/Shutterstock)")
+document.write("Skógafoss waterfall, Iceland (© Maridav/Shutterstock)")
