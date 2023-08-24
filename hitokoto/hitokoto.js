@@ -1,1 +1,1 @@
-document.write('乔巴，一个男人，有时候是不能逃避战斗的，尤其是当伙伴的梦想被人嘲笑的时候。')
+document.write('Yesterday you said tomorrow.')

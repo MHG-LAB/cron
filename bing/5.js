@@ -1,1 +1,1 @@
-document.write("看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)")
+document.write("起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)")
