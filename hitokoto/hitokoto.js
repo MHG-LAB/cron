@@ -1,1 +1,1 @@
-document.write('Yesterday you said tomorrow.')
+document.write('直到界限——超越界限，赌上自己。')
