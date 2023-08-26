@@ -1,1 +1,1 @@
-document.write("起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)")
+document.write("翡翠湖，加拿大育空地区 (© artherng/Getty Images)")

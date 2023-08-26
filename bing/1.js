@@ -1,1 +1,1 @@
-document.write("黄石下瀑布，黄石国家公园，怀俄明州，美国 (© Tim Fitzharris/Minden Pictures)")
+document.write("柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)")

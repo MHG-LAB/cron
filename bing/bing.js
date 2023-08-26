@@ -1,1 +1,1 @@
-document.write("柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)")
+document.write("城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)")
