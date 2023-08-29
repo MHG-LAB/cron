@@ -1,1 +1,1 @@
-document.write("美洲野牛，大提顿国家公园，怀俄明州 (© Enrique Aguirre Aves/Getty Images)")
+document.write("鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)")

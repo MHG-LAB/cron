@@ -1,1 +1,1 @@
-document.write("埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)")
+document.write("斯科加瀑布，冰岛 (© Maridav/Shutterstock)")
