@@ -1,1 +1,1 @@
-document.write("斯科加瀑布，冰岛 (© Maridav/Shutterstock)")
+document.write("鲨鱼鳍湾，达文波特，加利福尼亚州，美国 (© Jeff Lewis/Tandem Stills + Motion)")
