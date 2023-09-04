@@ -1,1 +1,1 @@
-document.write("火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国 (© Bill Gozansky/Alamy Stock Photo)")
+document.write("艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© mallardg500/Getty Images)")
