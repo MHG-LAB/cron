@@ -1,1 +1,1 @@
-document.write("艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© mallardg500/Getty Images)")
+document.write("曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)")

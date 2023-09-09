@@ -1,1 +1,1 @@
-document.write("威尼斯旧港，克里特岛，希腊 (© Gatsi/Getty Images)")
+document.write("沙漠中的骆驼，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)")

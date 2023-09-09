@@ -1,1 +1,1 @@
-document.write("曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)")
+document.write("布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images)")
