@@ -1,1 +1,1 @@
-document.write("布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images)")
+document.write("塞格拉山，塞尼亚岛，挪威 (© imageBROKER/Moritz Wolf/Getty Images)")

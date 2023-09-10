@@ -1,1 +1,1 @@
-document.write("塞格拉山，塞尼亚岛，挪威 (© imageBROKER/Moritz Wolf/Getty Images)")
+document.write("威尼斯旧港，克里特岛，希腊 (© Gatsi/Getty Images)")
