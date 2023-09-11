@@ -1,1 +1,1 @@
-document.write("波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)")
+document.write("北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)")
