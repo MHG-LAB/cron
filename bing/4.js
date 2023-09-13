@@ -1,1 +1,1 @@
-document.write("大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)")
+document.write("斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)")
