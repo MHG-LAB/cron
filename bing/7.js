@@ -1,1 +1,1 @@
-document.write("沙漠中的骆驼，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)")
+document.write("巴斯圆形广场，萨默塞特 ，英国 (© Gavin Hellier/Getty Images)")

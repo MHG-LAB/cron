@@ -1,1 +1,1 @@
-document.write("巴斯圆形广场，萨默塞特 ，英国 (© Gavin Hellier/Getty Images)")
+document.write("大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)")

@@ -1,1 +1,1 @@
-document.write('不要执着于唯一的方法。')
+document.write('不管别人怎么批评她，看到那个人她还是笑得出来。')
