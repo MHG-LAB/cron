@@ -1,1 +1,1 @@
-document.write("斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)")
+document.write("波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)")
