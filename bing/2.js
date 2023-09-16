@@ -1,1 +1,1 @@
-document.write("普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)")
+document.write("格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)")
