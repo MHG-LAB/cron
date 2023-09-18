@@ -1,1 +1,1 @@
-document.write("赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)")
+document.write("普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)")
