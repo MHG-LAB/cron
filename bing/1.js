@@ -1,1 +1,1 @@
-document.write("西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)")
+document.write("哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)")

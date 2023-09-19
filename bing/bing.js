@@ -1,1 +1,1 @@
-document.write("哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)")
+document.write("罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)")

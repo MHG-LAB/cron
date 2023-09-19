@@ -1,1 +1,1 @@
-document.write("北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)")
+document.write("赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)")

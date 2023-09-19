@@ -1,1 +1,1 @@
-document.write('苦到头未必是甜的，而甜到头一定是苦的 。')
+document.write('一过岁，不就是老女人了嘛！')
