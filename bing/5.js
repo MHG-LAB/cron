@@ -1,1 +1,1 @@
-document.write("格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)")
+document.write("施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)")
