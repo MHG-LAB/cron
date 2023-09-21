@@ -1,1 +1,1 @@
-document.write("罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)")
+document.write("诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)")
