@@ -1,1 +1,1 @@
-document.write("马尔萨拉盐田，意大利 (© javarman3/Getty Images)")
+document.write("郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州 (© Stephen Matera/Tandem Stills + Motion)")
