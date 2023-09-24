@@ -1,1 +1,1 @@
-document.write('有些事，想多了头疼，想通了心疼。')
+document.write('藏焉，修焉，息焉，游焉。')
