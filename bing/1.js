@@ -1,1 +1,1 @@
-document.write("日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)")
+document.write("克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)")

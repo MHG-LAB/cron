@@ -1,1 +1,1 @@
-document.write("克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)")
+document.write("泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)")
