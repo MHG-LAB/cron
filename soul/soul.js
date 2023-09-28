@@ -1,1 +1,1 @@
-document.write('虽然你学的慢，但是你，放弃的快呀。')
+document.write('你所有的忧伤，都来自于你的余额。')

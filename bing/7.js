@@ -1,1 +1,1 @@
-document.write("诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)")
+document.write("马尔萨拉盐田，意大利 (© javarman3/Getty Images)")
