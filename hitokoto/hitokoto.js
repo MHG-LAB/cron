@@ -1,1 +1,1 @@
-document.write('所以说，把你的身和心全部交给我吧！为了我，冰丽，把畏解放吧')
+document.write('I promise you，if I am still alive，I will wait for you，here。')

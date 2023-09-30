@@ -1,1 +1,1 @@
-document.write("满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)")
+document.write("仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)")
