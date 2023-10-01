@@ -1,1 +1,1 @@
-document.write("泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)")
+document.write("满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)")

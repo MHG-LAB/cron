@@ -1,1 +1,1 @@
-document.write("巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)")
+document.write("日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)")

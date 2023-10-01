@@ -1,1 +1,1 @@
-document.write("仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)")
+document.write("雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)")
