@@ -1,1 +1,1 @@
-document.write("巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)")
+document.write("杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)")

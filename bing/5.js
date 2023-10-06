@@ -1,1 +1,1 @@
-document.write("雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)")
+document.write("韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)")
