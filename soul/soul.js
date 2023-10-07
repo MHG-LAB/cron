@@ -1,1 +1,1 @@
-document.write('你拥有爱情，我拥有你老婆。')
+document.write('就算是Believe，中间也藏着一个lie。')

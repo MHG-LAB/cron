@@ -1,1 +1,1 @@
-document.write("韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)")
+document.write("白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)")

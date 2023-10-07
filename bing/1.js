@@ -1,1 +1,1 @@
-document.write("杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)")
+document.write("灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国 (© oksana.perkins/Shutterstock)")
