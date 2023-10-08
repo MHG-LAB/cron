@@ -1,1 +1,1 @@
-document.write('就算是Believe，中间也藏着一个lie。')
+document.write('有时候不努力一下，都不知道自己还有把事情搞砸的能力')

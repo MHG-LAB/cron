@@ -1,1 +1,1 @@
-document.write("杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)")
+document.write("Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)")
+document.write("Verdon Gorge, Provence-Alpes-Côte d'Azur, France (© luisapuccini/Getty Images)")

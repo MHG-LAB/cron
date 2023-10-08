@@ -1,1 +1,1 @@
-document.write("白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)")
+document.write("Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)")

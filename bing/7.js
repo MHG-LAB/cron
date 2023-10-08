@@ -1,1 +1,1 @@
-document.write("雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)")
+document.write("Lake Bled from Osojnica viewpoint at sunrise, Slovenia (© Rasica/Getty Images)")

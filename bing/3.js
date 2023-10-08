@@ -1,1 +1,1 @@
-document.write("巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)")
+document.write("Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)")
