@@ -1,1 +1,1 @@
-document.write("Lake Bled from Osojnica viewpoint at sunrise, Slovenia (© Rasica/Getty Images)")
+document.write("Verdon Gorge, Provence-Alpes-Côte d'Azur, France (© luisapuccini/Getty Images)")

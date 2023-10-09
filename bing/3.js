@@ -1,1 +1,1 @@
-document.write("Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)")
+document.write("Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)")
