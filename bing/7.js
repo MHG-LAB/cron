@@ -1,1 +1,1 @@
-document.write("Verdon Gorge, Provence-Alpes-Côte d'Azur, France (© luisapuccini/Getty Images)")
+document.write("Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)")

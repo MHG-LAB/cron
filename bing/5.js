@@ -1,1 +1,1 @@
-document.write("Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)")
+document.write("Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)")

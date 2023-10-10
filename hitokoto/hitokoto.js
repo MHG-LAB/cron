@@ -1,1 +1,1 @@
-document.write('看吧，星星只有在夜里才璀璨夺目啊。')
+document.write('为错误停驻是件可悲的事。')
