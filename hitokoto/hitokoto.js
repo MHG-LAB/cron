@@ -1,1 +1,1 @@
-document.write('为错误停驻是件可悲的事。')
+document.write('是我来决定我旁边坐谁。')

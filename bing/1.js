@@ -1,1 +1,1 @@
-document.write("Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)")
+document.write("Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)")
