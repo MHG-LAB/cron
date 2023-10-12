@@ -1,1 +1,1 @@
-document.write('是我来决定我旁边坐谁。')
+document.write('无法逃避的就是自我，无法挽回的就是过去。')
