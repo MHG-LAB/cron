@@ -1,1 +1,1 @@
-document.write('在面对这些强敌之前...一定要先将眼前敌人逐个打败吧。')
+document.write('Done is better than perfect.比完美更重要的是完成。')
