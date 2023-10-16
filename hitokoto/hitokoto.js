@@ -1,1 +1,1 @@
-document.write('Done is better than perfect.比完美更重要的是完成。')
+document.write('我们擦身而过，是为了相识或者遗忘。')
