@@ -1,1 +1,1 @@
-document.write("Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)")
+document.write("'Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)")

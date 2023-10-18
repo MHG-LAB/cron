@@ -1,1 +1,1 @@
-document.write("Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)")
+document.write("Vieste on the Gargano peninsula, Apulia, Italy (© Pilat666/Getty Images)")

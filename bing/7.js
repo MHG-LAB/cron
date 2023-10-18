@@ -1,1 +1,1 @@
-document.write("Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)")
+document.write("The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)")
