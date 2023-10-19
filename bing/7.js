@@ -1,1 +1,1 @@
-document.write("The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)")
+document.write("Old barn and canola field, Palouse region, Idaho (© Terry Eggers/Getty Images)")

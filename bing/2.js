@@ -1,1 +1,1 @@
-document.write("Golden larches and Prusik Peak, Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)")
+document.write("Genoese tower Torra di a Parata, Ajaccio, Corsica, France (© Jon Ingall/Alamy)")

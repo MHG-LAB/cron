@@ -1,1 +1,1 @@
-document.write("Genoese tower Torra di a Parata, Ajaccio, Corsica, France (© Jon Ingall/Alamy)")
+document.write("Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)")
