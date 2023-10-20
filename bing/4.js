@@ -1,1 +1,1 @@
-document.write("European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)")
+document.write("Golden larches and Prusik Peak, Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)")

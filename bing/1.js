@@ -1,1 +1,1 @@
-document.write("Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)")
+document.write("Castell y Gwynt, Snowdonia, Wales (© Alan Novelli/Alamy)")
