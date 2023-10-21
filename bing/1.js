@@ -1,1 +1,1 @@
-document.write("Castell y Gwynt, Snowdonia, Wales (© Alan Novelli/Alamy)")
+document.write("Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("Golden larches and Prusik Peak, Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)")
+document.write("Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)")
