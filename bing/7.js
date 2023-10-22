@@ -1,1 +1,1 @@
-document.write("'Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)")
+document.write("European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)")
+document.write("Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)")

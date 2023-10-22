@@ -1,1 +1,1 @@
-document.write("Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)")
+document.write("Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)")

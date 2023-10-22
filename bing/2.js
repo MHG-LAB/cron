@@ -1,1 +1,1 @@
-document.write("Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)")
+document.write("Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)")
