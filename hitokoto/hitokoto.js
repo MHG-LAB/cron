@@ -1,1 +1,1 @@
-document.write('现在回想起来，根本就没什么慌乱的必要。')
+document.write('受尽苦难而不厌，此乃阿修罗之道。')

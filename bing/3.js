@@ -1,1 +1,1 @@
-document.write("Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)")
+document.write("Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)")

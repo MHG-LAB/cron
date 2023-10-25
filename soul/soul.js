@@ -1,1 +1,1 @@
-document.write('每天用着6位数的密码守护着2位数的存款')
+document.write('今日复明日，明日何其多')
