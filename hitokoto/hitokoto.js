@@ -1,1 +1,1 @@
-document.write('受尽苦难而不厌，此乃阿修罗之道。')
+document.write('你重视的东西，我也会放在心上。')

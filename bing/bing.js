@@ -1,1 +1,1 @@
-document.write("Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)")
+document.write("Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)")

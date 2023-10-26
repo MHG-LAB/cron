@@ -1,1 +1,1 @@
-document.write('今日复明日，明日何其多')
+document.write('情商最低的一句话，你踢我干啥？')
