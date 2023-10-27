@@ -1,1 +1,1 @@
-document.write("Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)")
+document.write("Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)")

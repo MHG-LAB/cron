@@ -1,1 +1,1 @@
-document.write("Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)")
+document.write("Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)")
