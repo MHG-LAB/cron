@@ -1,1 +1,1 @@
-document.write('如果全世界都不要你了，你要记得还有我，我也不要你。')
+document.write('考试真是so easy，哪里不会考哪里！')
