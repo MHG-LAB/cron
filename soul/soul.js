@@ -1,1 +1,1 @@
-document.write('考试真是so easy，哪里不会考哪里！')
+document.write('骑白马的不一定是王子，也可能会是是唐僧！')
