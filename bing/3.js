@@ -1,1 +1,1 @@
-document.write("Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)")
+document.write("Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)")
