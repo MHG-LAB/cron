@@ -1,1 +1,1 @@
-document.write("Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)")
+document.write("Windmills in Castilla-La Mancha, Spain (© Getty Images)")

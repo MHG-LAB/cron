@@ -1,1 +1,1 @@
-document.write("Windmills in Castilla-La Mancha, Spain (© Getty Images)")
+document.write("Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)")
