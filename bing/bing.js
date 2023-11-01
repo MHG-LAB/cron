@@ -1,1 +1,1 @@
-document.write("Halloween jack-o'-lanterns on a porch (© Bing Image Creator)")
+document.write("Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)")

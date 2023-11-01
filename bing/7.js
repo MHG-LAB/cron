@@ -1,1 +1,1 @@
-document.write("Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)")
+document.write("Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)")
