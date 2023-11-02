@@ -1,1 +1,1 @@
-document.write('如果所有人都理解你，那你得普通成什么样')
+document.write('听君一席话，浪费十分钟。')
