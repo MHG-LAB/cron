@@ -1,1 +1,1 @@
-document.write("Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)")
+document.write("Common raven sitting on a branch (© WildMedia/Shutterstock)")

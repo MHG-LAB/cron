@@ -1,1 +1,1 @@
-document.write("Common raven sitting on a branch (© WildMedia/Shutterstock)")
+document.write("Halloween jack-o'-lanterns on a porch (© Bing Image Creator)")
