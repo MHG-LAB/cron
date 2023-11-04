@@ -1,1 +1,1 @@
-document.write("Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)")
+document.write("石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)")

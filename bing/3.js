@@ -1,1 +1,1 @@
-document.write("Halloween jack-o'-lanterns on a porch (© Bing Image Creator)")
+document.write("恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)")

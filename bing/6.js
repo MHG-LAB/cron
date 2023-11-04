@@ -1,1 +1,1 @@
-document.write("Windmills in Castilla-La Mancha, Spain (© Getty Images)")
+document.write("普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)")

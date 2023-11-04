@@ -1,1 +1,1 @@
-document.write("Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)")
+document.write("万圣节南瓜灯 (© Bing Image Creator)")

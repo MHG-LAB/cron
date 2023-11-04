@@ -1,1 +1,1 @@
-document.write("Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)")
+document.write("美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)")
