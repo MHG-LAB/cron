@@ -1,1 +1,1 @@
-document.write("博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)")
+document.write("普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)")

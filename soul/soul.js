@@ -1,1 +1,1 @@
-document.write('你以为现在已经很糟了？不，更糟的还在后面。')
+document.write('别妄想了，你就是差劲')

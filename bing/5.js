@@ -1,1 +1,1 @@
-document.write("万圣节南瓜灯 (© Bing Image Creator)")
+document.write("上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)")

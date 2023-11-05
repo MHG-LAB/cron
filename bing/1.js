@@ -1,1 +1,1 @@
-document.write("美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)")
+document.write("石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)")
