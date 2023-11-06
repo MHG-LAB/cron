@@ -1,1 +1,1 @@
-document.write("普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)")
+document.write("万圣节南瓜灯 (© Bing Image Creator)")

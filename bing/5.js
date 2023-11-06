@@ -1,1 +1,1 @@
-document.write("上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)")
+document.write("恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)")

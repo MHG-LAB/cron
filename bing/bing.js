@@ -1,1 +1,1 @@
-document.write("佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)")
+document.write("Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)")

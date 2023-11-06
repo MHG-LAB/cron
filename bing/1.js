@@ -1,1 +1,1 @@
-document.write("石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)")
+document.write("佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)")
