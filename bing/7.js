@@ -1,1 +1,1 @@
-document.write("万圣节南瓜灯 (© Bing Image Creator)")
+document.write("Halloween jack-o'-lanterns on a porch (© Bing Image Creator)")

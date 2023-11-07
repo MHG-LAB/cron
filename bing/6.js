@@ -1,1 +1,1 @@
-document.write("上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)")
+document.write("Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)")

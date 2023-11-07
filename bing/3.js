@@ -1,1 +1,1 @@
-document.write("美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)")
+document.write("American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)")
