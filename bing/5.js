@@ -1,1 +1,1 @@
-document.write("Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/Tandem Stills + Motion)")
+document.write("Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)")

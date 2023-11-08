@@ -1,1 +1,1 @@
-document.write('生命是买不到，给不了的。但是，却可以养育。')
+document.write('君子喻于义，小人喻于利')
