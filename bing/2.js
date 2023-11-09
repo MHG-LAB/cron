@@ -1,1 +1,1 @@
-document.write("Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)")
+document.write("Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)")

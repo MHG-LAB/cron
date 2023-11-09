@@ -1,1 +1,1 @@
-document.write('君子喻于义，小人喻于利')
+document.write('虽然人生不能reset，人际关系却可以reset。')
