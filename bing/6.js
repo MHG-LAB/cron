@@ -1,1 +1,1 @@
-document.write("Pacific sea nettles off the coast of Carmel, California (© Jim Patterson/Tandem Stills + Motion)")
+document.write("American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)")

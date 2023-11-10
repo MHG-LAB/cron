@@ -1,1 +1,1 @@
-document.write('虽然人生不能reset，人际关系却可以reset。')
+document.write('真正的神，这个时间是不存在的。')
