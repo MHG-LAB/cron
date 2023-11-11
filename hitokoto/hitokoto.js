@@ -1,1 +1,1 @@
-document.write('真正的神，这个时间是不存在的。')
+document.write('给我一个电话亭，我要拯救地球。')

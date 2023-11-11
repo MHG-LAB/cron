@@ -1,1 +1,1 @@
-document.write("Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)")
+document.write("Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)")
