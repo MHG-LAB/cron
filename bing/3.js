@@ -1,1 +1,1 @@
-document.write("West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)")
+document.write("Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)")
+document.write("Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)")

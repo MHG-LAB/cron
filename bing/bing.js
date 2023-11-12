@@ -1,1 +1,1 @@
-document.write("Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)")
+document.write("Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)")

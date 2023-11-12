@@ -1,1 +1,1 @@
-document.write("Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)")
+document.write("Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)")
