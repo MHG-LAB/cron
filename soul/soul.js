@@ -1,1 +1,1 @@
-document.write('只有多替领导背锅，领导才会把你，当成傻子啊。')
+document.write('吃得苦中苦 心里会更堵')
