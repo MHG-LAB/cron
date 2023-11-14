@@ -1,1 +1,1 @@
-document.write("Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)")
+document.write("萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)")

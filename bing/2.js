@@ -1,1 +1,1 @@
-document.write("Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)")
+document.write("特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙 (© cinoby/Getty Images)")

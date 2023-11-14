@@ -1,1 +1,1 @@
-document.write("Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)")
+document.write("秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)")

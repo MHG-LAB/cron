@@ -1,1 +1,1 @@
-document.write("Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)")
+document.write("秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)")

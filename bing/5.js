@@ -1,1 +1,1 @@
-document.write("West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)")
+document.write("恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)")

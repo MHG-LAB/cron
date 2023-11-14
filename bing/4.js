@@ -1,1 +1,1 @@
-document.write("Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)")
+document.write("富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)")
