@@ -1,1 +1,1 @@
-document.write("秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)")
+document.write("特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙 (© cinoby/Getty Images)")

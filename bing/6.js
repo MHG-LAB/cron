@@ -1,1 +1,1 @@
-document.write("秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)")
+document.write("恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)")
+document.write("雅典和卫城，希腊 (© Mlenny/Getty Images)")
