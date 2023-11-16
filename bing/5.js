@@ -1,1 +1,1 @@
-document.write("富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)")
+document.write("秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)")

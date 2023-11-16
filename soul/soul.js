@@ -1,1 +1,1 @@
-document.write('听说爱笑的女孩都容易长皱纹')
+document.write('上帝向人间洒满智慧，唯独你打了把伞。')
