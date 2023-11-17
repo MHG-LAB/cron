@@ -1,1 +1,1 @@
-document.write("恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)")
+document.write("富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)")
