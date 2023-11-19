@@ -1,1 +1,1 @@
-document.write("铜瀑布州立公园的巴德河，威斯康星州，美国 (© Big Joe/Getty Images)")
+document.write("北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)")
