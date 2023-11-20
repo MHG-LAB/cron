@@ -1,1 +1,1 @@
-document.write("雅典和卫城，希腊 (© Mlenny/Getty Images)")
+document.write("铜瀑布州立公园的巴德河，威斯康星州，美国 (© Big Joe/Getty Images)")
