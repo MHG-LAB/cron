@@ -1,1 +1,1 @@
-document.write("特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)")
+document.write("萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)")

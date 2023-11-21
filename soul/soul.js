@@ -1,1 +1,1 @@
-document.write('你从来就没成功过，还怕什么失败？')
+document.write('虽然我学得慢，但是我放弃的快啊！')
