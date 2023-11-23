@@ -1,1 +1,1 @@
-document.write("Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)")
+document.write("科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)")

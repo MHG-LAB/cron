@@ -1,1 +1,1 @@
-document.write("北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)")
+document.write("Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)")
