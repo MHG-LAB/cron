@@ -1,1 +1,1 @@
-document.write("科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)")
+document.write("英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)")
