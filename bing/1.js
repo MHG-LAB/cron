@@ -1,1 +1,1 @@
-document.write("托莱多，西班牙 (© Carlos Fernandez/Getty Images)")
+document.write("布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)")
