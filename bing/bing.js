@@ -1,1 +1,1 @@
-document.write("内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)")
+document.write("阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)")

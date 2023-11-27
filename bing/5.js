@@ -1,1 +1,1 @@
-document.write("大提顿国家公园，怀俄明州，美国 (© Westend61/Getty Images)")
+document.write("泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy)")

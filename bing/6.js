@@ -1,1 +1,1 @@
-document.write("英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)")
+document.write("大提顿国家公园，怀俄明州，美国 (© Westend61/Getty Images)")
