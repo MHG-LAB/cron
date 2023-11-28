@@ -1,1 +1,1 @@
-document.write("奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)")
+document.write("托莱多，西班牙 (© Carlos Fernandez/Getty Images)")
