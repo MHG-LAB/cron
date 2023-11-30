@@ -1,1 +1,1 @@
-document.write("斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)")
+document.write("罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)")
