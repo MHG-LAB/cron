@@ -1,1 +1,1 @@
-document.write("布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)")
+document.write("内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)")

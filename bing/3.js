@@ -1,1 +1,1 @@
-document.write("阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)")
+document.write("什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国 (© Hannes Wendt/Shutterstock)")
