@@ -1,1 +1,1 @@
-document.write('不抵抗就不会死，为什么就是不明白！？')
+document.write('学而时习之，不亦乐乎')
