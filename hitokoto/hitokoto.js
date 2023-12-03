@@ -1,1 +1,1 @@
-document.write('学而时习之，不亦乐乎')
+document.write('过去是过去，你就是你。')

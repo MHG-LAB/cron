@@ -1,1 +1,1 @@
-document.write("瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)")
+document.write("砂岩岩层，红悬崖国家保护区，亚利桑那州，美国 (© Yva Momatiuk and John Eastcott/Minden Pictures)")
