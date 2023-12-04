@@ -1,1 +1,1 @@
-document.write('过去是过去，你就是你。')
+document.write('让未来过去，让过去过去。')
