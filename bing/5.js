@@ -1,1 +1,1 @@
-document.write("罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)")
+document.write("瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)")

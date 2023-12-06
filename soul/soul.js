@@ -1,1 +1,1 @@
-document.write('你并不是一无所有，你还有病。')
+document.write('浆糊不在办公桌上，在你脑子里。')
