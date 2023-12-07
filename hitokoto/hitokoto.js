@@ -1,1 +1,1 @@
-document.write('羞耻心是所有品德的源泉')
+document.write('其实爱美的人，只是与自己谈恋爱罢了')
