@@ -1,1 +1,1 @@
-document.write("韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国 (© Hemis/Alamy)")
+document.write("拉罗克港，圣克莱门特，泽西岛 (© Reinhard Schmid/Huber/eStock Photo)")

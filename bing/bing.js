@@ -1,1 +1,1 @@
-document.write("拉罗克港，圣克莱门特，泽西岛 (© Reinhard Schmid/Huber/eStock Photo)")
+document.write("原驼，冰川国家公园，阿根廷 (© Yva Momatiuk and John Eastcott/Minden Pictures)")
