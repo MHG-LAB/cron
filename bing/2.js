@@ -1,1 +1,1 @@
-document.write("原驼，冰川国家公园，阿根廷 (© Yva Momatiuk and John Eastcott/Minden Pictures)")
+document.write("林帕达恩湖，斯诺登尼亚国家公园， 威尔士 (© Joe Daniel Price/Getty Images)")

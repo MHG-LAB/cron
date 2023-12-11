@@ -1,1 +1,1 @@
-document.write("达尔达尼亚瀑布，博洛尼亚，意大利 (© Alberto Ghizzi Panizza/Minden)")
+document.write("韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国 (© Hemis/Alamy)")

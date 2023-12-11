@@ -1,1 +1,1 @@
-document.write("林帕达恩湖，斯诺登尼亚国家公园， 威尔士 (© Joe Daniel Price/Getty Images)")
+document.write("黄山的冬天，中国 (© Hung Chung Chih/Shutterstock)")
