@@ -1,1 +1,1 @@
-document.write("一品红 (© Yarygin/Getty Images)")
+document.write("Poinsettias (© Yarygin/Getty Images)")

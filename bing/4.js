@@ -1,1 +1,1 @@
-document.write("拉罗克港，圣克莱门特，泽西岛 (© Reinhard Schmid/Huber/eStock Photo)")
+document.write("La Rocque Harbour, St. Clement, Island of Jersey (© Reinhard Schmid/Huber/eStock Photo)")

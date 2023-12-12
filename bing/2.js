@@ -1,1 +1,1 @@
-document.write("林帕达恩湖，斯诺登尼亚国家公园， 威尔士 (© Joe Daniel Price/Getty Images)")
+document.write("Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)")

@@ -1,1 +1,1 @@
-document.write("黄山的冬天，中国 (© Hung Chung Chih/Shutterstock)")
+document.write("Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)")

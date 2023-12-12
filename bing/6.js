@@ -1,1 +1,1 @@
-document.write("达尔达尼亚瀑布，博洛尼亚，意大利 (© Alberto Ghizzi Panizza/Minden)")
+document.write("The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)")
