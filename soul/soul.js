@@ -1,1 +1,1 @@
-document.write('做人如果没点追求，那么，该多轻松啊…')
+document.write('别说你一无所有，你还有一身债。')

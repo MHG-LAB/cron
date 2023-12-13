@@ -1,1 +1,1 @@
-document.write("Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany (© Harald Nachtmann/Getty Images)")
+document.write("The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)")
