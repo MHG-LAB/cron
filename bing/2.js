@@ -1,1 +1,1 @@
-document.write("Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)")
+document.write("Poinsettias (© Yarygin/Getty Images)")

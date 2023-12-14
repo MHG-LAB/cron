@@ -1,1 +1,1 @@
-document.write("Guanacos in Los Glaciares National Park, Patagonia, Argentina (© Yva Momatiuk and John Eastcott/Minden Pictures)")
+document.write("Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)")

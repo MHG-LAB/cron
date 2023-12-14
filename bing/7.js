@@ -1,1 +1,1 @@
-document.write("The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)")
+document.write("USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)")
