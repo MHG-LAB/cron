@@ -1,1 +1,1 @@
-document.write("Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)")
+document.write("Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)")
