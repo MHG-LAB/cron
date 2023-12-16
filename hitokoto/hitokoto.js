@@ -1,1 +1,1 @@
-document.write('私だって今日こそ... 遠野くんに告白するんだ。')
+document.write('时光再美，怎如初见。')
