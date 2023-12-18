@@ -1,1 +1,1 @@
-document.write('强扭的瓜不甜，但是，解渴啊')
+document.write('现在流的泪，都是当初脑子进的水。')
