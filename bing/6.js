@@ -1,1 +1,1 @@
-document.write("Poinsettias (© Yarygin/Getty Images)")
+document.write("Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)")

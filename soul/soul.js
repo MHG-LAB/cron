@@ -1,1 +1,1 @@
-document.write('现在流的泪，都是当初脑子进的水。')
+document.write('有钱人可以选择低调，而你，却只能低调。')

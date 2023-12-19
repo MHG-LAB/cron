@@ -1,1 +1,1 @@
-document.write("Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)")
+document.write("SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)")

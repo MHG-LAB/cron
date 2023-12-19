@@ -1,1 +1,1 @@
-document.write("Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)")
+document.write("Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)")
