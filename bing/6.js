@@ -1,1 +1,1 @@
-document.write("Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)")
+document.write("Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)")

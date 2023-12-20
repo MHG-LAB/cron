@@ -1,1 +1,1 @@
-document.write('有钱人可以选择低调，而你，却只能低调。')
+document.write('不要担心，一切都是最烂的安排。')
