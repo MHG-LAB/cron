@@ -1,1 +1,1 @@
-document.write("Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)")
+document.write("Bohemian waxwings perched on a branch, Canada (© Jim Cumming/Shutterstock)")
