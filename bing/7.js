@@ -1,1 +1,1 @@
-document.write("SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)")
+document.write("Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)")

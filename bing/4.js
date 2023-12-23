@@ -1,1 +1,1 @@
-document.write("Capitol Reef National Park, Utah (© Jeff Clay/Tandem Stills + Motion)")
+document.write("Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)")

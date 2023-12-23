@@ -1,1 +1,1 @@
-document.write("Christmas tree in Castle Square, Old Town, Warsaw, Poland (© Panther Media GmbH/Alamy)")
+document.write("Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)")
