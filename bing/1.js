@@ -1,1 +1,1 @@
-document.write("Ljubljana, Slovenia (© kasto80/Getty images)")
+document.write("Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)")
