@@ -1,1 +1,1 @@
-document.write("Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)")
+document.write("Ljubljana, Slovenia (© kasto80/Getty images)")
