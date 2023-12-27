@@ -1,1 +1,1 @@
-document.write('为什么单身，因为你不仅仅丑，而且还嫌别人丑')
+document.write('上帝七天创造世界，剩下的时间呢？ 补bug')

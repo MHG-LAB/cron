@@ -1,1 +1,1 @@
-document.write("Village in Val Gardena at Christmas, Dolomites, Italy (© Ingus Kruklitis/Getty Images)")
+document.write("Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany (© Reinhard Schmid/Huber/eStock Photo)")
