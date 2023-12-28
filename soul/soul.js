@@ -1,1 +1,1 @@
-document.write('上帝七天创造世界，剩下的时间呢？ 补bug')
+document.write('如果你放弃了今天的自己，你就战胜了明天的你。')

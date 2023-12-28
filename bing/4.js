@@ -1,1 +1,1 @@
-document.write("Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean (© Jan Vermeer/Minden Pictures)")
+document.write("Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)")

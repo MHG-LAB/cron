@@ -1,1 +1,1 @@
-document.write("Town Hall Square, Tartu, Estonia (© Westend61/Getty Images)")
+document.write("Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)")

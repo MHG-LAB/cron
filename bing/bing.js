@@ -1,1 +1,1 @@
-document.write("Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)")
+document.write("Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)")
