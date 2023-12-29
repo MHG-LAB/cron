@@ -1,1 +1,1 @@
-document.write('孤身一人的在那里徒劳，但结果却总是事与愿违')
+document.write('能够原谅女人的，才是男人。')

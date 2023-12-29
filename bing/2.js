@@ -1,1 +1,1 @@
-document.write("Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)")
+document.write("Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)")
