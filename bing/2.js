@@ -1,1 +1,1 @@
-document.write("Humpback whale, Disko Bay, Greenland (© Paul Souders/DanitaDelimont.com)")
+document.write("Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)")

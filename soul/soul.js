@@ -1,1 +1,1 @@
-document.write('困难像弹簧，你弱它就强，你强它更强。')
+document.write('扎心？不存在的！心都没有扎哪里？')
