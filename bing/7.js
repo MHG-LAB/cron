@@ -1,1 +1,1 @@
-document.write("Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)")
+document.write("Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)")

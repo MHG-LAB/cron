@@ -1,1 +1,1 @@
-document.write("Oud-West, Amsterdam, Netherlands (© George Pachantouris/Getty Images)")
+document.write("Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)")
