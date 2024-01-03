@@ -1,1 +1,1 @@
-document.write("Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)")
+document.write("Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)")

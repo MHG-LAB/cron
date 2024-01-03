@@ -1,1 +1,1 @@
-document.write('如果自己不想积极认真地生活，不管得到什么样的回答都没有用。')
+document.write('No game No life')
