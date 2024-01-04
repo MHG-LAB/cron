@@ -1,1 +1,1 @@
-document.write('No game No life')
+document.write('当时总觉得再过两三年，自己就会变成一个很厉害的人物呢。')
