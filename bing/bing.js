@@ -1,1 +1,1 @@
-document.write("Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)")
+document.write("International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)")
