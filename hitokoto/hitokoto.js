@@ -1,1 +1,1 @@
-document.write('能力越大，责任就越大，你避不了的。')
+document.write('原来，你是货真价实的蠢货啊。')
