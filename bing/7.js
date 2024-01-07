@@ -1,1 +1,1 @@
-document.write("Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)")
+document.write("Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)")

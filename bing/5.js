@@ -1,1 +1,1 @@
-document.write("Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)")
+document.write("Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)")

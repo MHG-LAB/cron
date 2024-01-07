@@ -1,1 +1,1 @@
-document.write("Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)")
+document.write("Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)")

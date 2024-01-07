@@ -1,1 +1,1 @@
-document.write('原来，你是货真价实的蠢货啊。')
+document.write('我就是光，不必凭借谁发光。')
