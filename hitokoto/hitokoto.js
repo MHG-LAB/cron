@@ -1,1 +1,1 @@
-document.write('我就是光，不必凭借谁发光。')
+document.write('输给谁都可以，唯独不能输给自己。')
