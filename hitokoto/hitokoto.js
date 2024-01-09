@@ -1,1 +1,1 @@
-document.write('输给谁都可以，唯独不能输给自己。')
+document.write('不觉得残忍就没必要同情')
