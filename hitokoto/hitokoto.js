@@ -1,1 +1,1 @@
-document.write('不觉得残忍就没必要同情')
+document.write('我没有气馁，这都是因为你鼓励我的缘故吧。')

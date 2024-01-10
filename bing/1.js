@@ -1,1 +1,1 @@
-document.write("Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)")
+document.write("Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)")
+document.write("Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)")

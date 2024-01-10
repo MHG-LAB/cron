@@ -1,1 +1,1 @@
-document.write("Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)")
+document.write("Bodleian Library, University of Oxford, England (© Andrew Holt/Getty Images)")
