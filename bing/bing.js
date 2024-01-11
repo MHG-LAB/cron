@@ -1,1 +1,1 @@
-document.write("Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)")
+document.write("Eurasian lynx in the snow (© Jan Stria/Shutterstock)")
