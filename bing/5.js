@@ -1,1 +1,1 @@
-document.write("Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)")
+document.write("贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)")

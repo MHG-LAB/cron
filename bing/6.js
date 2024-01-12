@@ -1,1 +1,1 @@
-document.write("International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)")
+document.write("魔鬼大理石保护区，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)")

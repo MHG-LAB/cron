@@ -1,1 +1,1 @@
-document.write("Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)")
+document.write("冬天，雄性苍头燕雀栖息在海棠果树上 (© Mark Hamblin/2020VISION/Minden Pictures)")

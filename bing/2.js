@@ -1,1 +1,1 @@
-document.write("Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)")
+document.write("雪中的欧亚猞猁 (© Jan Stria/Shutterstock)")

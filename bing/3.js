@@ -1,1 +1,1 @@
-document.write("Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)")
+document.write("米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊 (© Orestis Zoumpos/Amazing Aerial Agency)")

@@ -1,1 +1,1 @@
-document.write("Eurasian lynx in the snow (© Jan Stria/Shutterstock)")
+document.write("哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)")
