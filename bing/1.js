@@ -1,1 +1,1 @@
-document.write("哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)")
+document.write("屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)")
