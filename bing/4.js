@@ -1,1 +1,1 @@
-document.write("北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)")
+document.write("哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)")

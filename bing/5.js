@@ -1,1 +1,1 @@
-document.write("雪中的欧亚猞猁 (© Jan Stria/Shutterstock)")
+document.write("北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)")
