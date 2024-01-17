@@ -1,1 +1,1 @@
-document.write('爱情就是，如果没有更好的选择了，我才陪你到天荒地老。')
+document.write('一鼓作气，再而卒。')
