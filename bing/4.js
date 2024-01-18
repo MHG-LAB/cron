@@ -1,1 +1,1 @@
-document.write("屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)")
+document.write("瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)")

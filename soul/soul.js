@@ -1,1 +1,1 @@
-document.write('一鼓作气，再而卒。')
+document.write('别太晚睡，熬夜很伤手机的。')
