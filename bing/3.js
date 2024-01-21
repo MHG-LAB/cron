@@ -1,1 +1,1 @@
-document.write("黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)")
+document.write("Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)")

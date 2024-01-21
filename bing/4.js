@@ -1,1 +1,1 @@
-document.write("巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)")
+document.write("Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)")

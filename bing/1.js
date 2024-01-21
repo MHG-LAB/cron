@@ -1,1 +1,1 @@
-document.write("马可罗尼企鹅，德雷克海峡，智利 (© Paul Souders/Getty Images)")
+document.write("欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)")

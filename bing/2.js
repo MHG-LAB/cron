@@ -1,1 +1,1 @@
-document.write("十六湖国家公园，克罗地亚 (© Massimo_S8/Getty Images)")
+document.write("马可罗尼企鹅，德雷克海峡，智利 (© Paul Souders/Getty Images)")
