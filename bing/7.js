@@ -1,1 +1,1 @@
-document.write("瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)")
+document.write("Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("Sleeping wolf in Bavarian Forest National Park, Germany (© Raimund Linke/Getty Images)")
+document.write("Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)")
