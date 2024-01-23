@@ -1,1 +1,1 @@
-document.write("印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)")
+document.write("Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)")

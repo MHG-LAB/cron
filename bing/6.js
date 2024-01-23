@@ -1,1 +1,1 @@
-document.write("巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)")
+document.write("黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)")

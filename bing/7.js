@@ -1,1 +1,1 @@
-document.write("Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)")
+document.write("巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)")
