@@ -1,1 +1,1 @@
-document.write("Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)")
+document.write("圣德温教堂的废墟，莫纳岛，威尔士，英国 (© Photos by R A Kearton/Getty Images)")

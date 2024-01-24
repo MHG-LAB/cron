@@ -1,1 +1,1 @@
-document.write("十六湖国家公园，克罗地亚 (© Massimo_S8/Getty Images)")
+document.write("Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)")
