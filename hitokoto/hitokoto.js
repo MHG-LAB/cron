@@ -1,1 +1,1 @@
-document.write('嘴勤不走冤枉路')
+document.write('精神方面充实了就一切都满足了这是不可能的。')
