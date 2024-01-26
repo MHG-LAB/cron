@@ -1,1 +1,1 @@
-document.write("圣德温教堂的废墟，莫纳岛，威尔士，英国 (© Photos by R A Kearton/Getty Images)")
+document.write("北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)")

@@ -1,1 +1,1 @@
-document.write("北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)")
+document.write("点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images)")

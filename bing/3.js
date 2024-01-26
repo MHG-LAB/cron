@@ -1,1 +1,1 @@
-document.write("印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)")
+document.write("钻石冰沙滩，冰岛 (© Rachid Dahnoun/Tandem Stills + Motion)")
