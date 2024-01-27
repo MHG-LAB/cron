@@ -1,1 +1,1 @@
-document.write("欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)")
+document.write("Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)")

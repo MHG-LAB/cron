@@ -1,1 +1,1 @@
-document.write("钻石冰沙滩，冰岛 (© Rachid Dahnoun/Tandem Stills + Motion)")
+document.write("Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)")

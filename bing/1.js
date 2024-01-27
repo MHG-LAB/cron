@@ -1,1 +1,1 @@
-document.write("北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)")
+document.write("Northern hawk-owl (© Remo Savisaar/Alamy)")

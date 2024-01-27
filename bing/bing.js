@@ -1,1 +1,1 @@
-document.write("点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images)")
+document.write("Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)")
