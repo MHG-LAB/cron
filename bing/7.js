@@ -1,1 +1,1 @@
-document.write("Macaroni penguins, Drake Passage, Chile (© Paul Souders/Getty Images)")
+document.write("Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)")

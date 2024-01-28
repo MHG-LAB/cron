@@ -1,1 +1,1 @@
-document.write("Northern hawk-owl (© Remo Savisaar/Alamy)")
+document.write("Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)")
