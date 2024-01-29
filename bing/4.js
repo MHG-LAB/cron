@@ -1,1 +1,1 @@
-document.write("Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)")
+document.write("Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)")

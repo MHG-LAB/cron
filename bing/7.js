@@ -1,1 +1,1 @@
-document.write("Eurasian red squirrel, Netherlands (© Ernst Dirksen/Minden Pictures)")
+document.write("Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)")

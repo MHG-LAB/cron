@@ -1,1 +1,1 @@
-document.write("Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)")
+document.write("Northern hawk-owl (© Remo Savisaar/Alamy)")
