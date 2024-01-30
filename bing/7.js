@@ -1,1 +1,1 @@
-document.write("Winter sunrise, Walton Lighthouse, Santa Cruz, California (© Jeff Lewis/Tandem Stills + Motion)")
+document.write("Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)")

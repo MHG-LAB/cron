@@ -1,1 +1,1 @@
-document.write("Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)")
+document.write("Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)")
