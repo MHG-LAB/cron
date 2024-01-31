@@ -1,1 +1,1 @@
-document.write("Atolls in Indian Ocean, Maldives (© Amazing Aerial Premium/Shutterstock)")
+document.write("Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write('我从没有后悔过。无论发生什么事，就只有「后悔」我绝对不会。')
+document.write('快并快乐着！')
