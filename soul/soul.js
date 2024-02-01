@@ -1,1 +1,1 @@
-document.write('不要期待明天，因为明天也不会好过。')
+document.write('相信自己没有什么事是搞不砸的')
