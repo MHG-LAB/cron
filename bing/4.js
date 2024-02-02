@@ -1,1 +1,1 @@
-document.write("Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)")
+document.write("Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)")

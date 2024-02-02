@@ -1,1 +1,1 @@
-document.write("Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)")
+document.write("Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)")
