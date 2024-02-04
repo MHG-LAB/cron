@@ -1,1 +1,1 @@
-document.write("Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)")
+document.write("Marmot peeking out of its burrow (© Scacciamosche/Getty Images)")
