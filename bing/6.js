@@ -1,1 +1,1 @@
-document.write("Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)")
+document.write("Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)")
