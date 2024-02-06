@@ -1,1 +1,1 @@
-document.write("Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)")
+document.write("Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)")

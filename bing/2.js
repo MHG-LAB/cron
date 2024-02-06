@@ -1,1 +1,1 @@
-document.write("Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)")
+document.write("Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)")
