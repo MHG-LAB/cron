@@ -1,1 +1,1 @@
-document.write("Marmot peeking out of its burrow (© Scacciamosche/Getty Images)")
+document.write("Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)")
+document.write("St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)")
