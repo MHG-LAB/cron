@@ -1,1 +1,1 @@
-document.write("St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)")
+document.write("Mount Hood, Oregon (© Inigo Cia/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)")
+document.write("Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)")
