@@ -1,1 +1,1 @@
-document.write("St. James Tidal Pool, Cape Town, South Africa (© AmazingAerialAgency/Adobe)")
+document.write("灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)")

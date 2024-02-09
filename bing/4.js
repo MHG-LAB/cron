@@ -1,1 +1,1 @@
-document.write("Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)")
+document.write("盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)")

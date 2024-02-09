@@ -1,1 +1,1 @@
-document.write("Marmot peeking out of its burrow (© Scacciamosche/Getty Images)")
+document.write("德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)")

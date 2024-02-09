@@ -1,1 +1,1 @@
-document.write("Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)")
+document.write("圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)")

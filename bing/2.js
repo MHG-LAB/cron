@@ -1,1 +1,1 @@
-document.write("Bonsai Rock, Lake Tahoe, Nevada (© Jim Patterson/Tandem Stills + Motion)")
+document.write("胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)")

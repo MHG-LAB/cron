@@ -1,1 +1,1 @@
-document.write("Mount Hood, Oregon (© Inigo Cia/Getty Images)")
+document.write("中国舞狮，大年初一 (© SENEZ/Getty Images)")

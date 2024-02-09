@@ -1,1 +1,1 @@
-document.write("Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)")
+document.write("大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)")
