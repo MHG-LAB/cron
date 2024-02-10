@@ -1,1 +1,1 @@
-document.write("大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)")
+document.write("德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)")

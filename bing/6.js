@@ -1,1 +1,1 @@
-document.write("德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)")
+document.write("从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)")
+document.write("盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)")
