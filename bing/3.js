@@ -1,1 +1,1 @@
-document.write("灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)")
+document.write("中国舞狮，大年初一 (© SENEZ/Getty Images)")

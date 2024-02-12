@@ -1,1 +1,1 @@
-document.write("中国舞狮，大年初一 (© SENEZ/Getty Images)")
+document.write("乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊 (© Francesco Riccardo Iacomino/Getty Images)")
