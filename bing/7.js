@@ -1,1 +1,1 @@
-document.write("盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)")
+document.write("圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)")

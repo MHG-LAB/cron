@@ -1,1 +1,1 @@
-document.write("胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)")
+document.write("灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)")
