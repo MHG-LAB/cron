@@ -1,1 +1,1 @@
-document.write('边学边问，才有学问')
+document.write('树大必有枯枝，人多必有白痴。')

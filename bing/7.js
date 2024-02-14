@@ -1,1 +1,1 @@
-document.write("圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)")
+document.write("胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)")

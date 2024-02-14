@@ -1,1 +1,1 @@
-document.write("马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)")
+document.write("丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)")
