@@ -1,1 +1,1 @@
-document.write("河马妈妈和小河马，南卢安瓜国家公园，赞比亚 (© Nature Picture Library/Alamy Stock Photo)")
+document.write("一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国 (© outtakes/Getty Images)")
