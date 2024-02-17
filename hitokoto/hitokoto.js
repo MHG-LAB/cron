@@ -1,1 +1,1 @@
-document.write('今天的失败将会化作明天的胜利。')
+document.write('就算只有一周的记忆，我也永远不会忘记你')
