@@ -1,1 +1,1 @@
-document.write("阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)")
+document.write("马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)")
