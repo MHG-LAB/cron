@@ -1,1 +1,1 @@
-document.write("多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)")
+document.write("抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)")
