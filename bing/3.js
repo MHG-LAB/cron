@@ -1,1 +1,1 @@
-document.write("抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)")
+document.write("鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)")

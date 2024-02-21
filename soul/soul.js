@@ -1,1 +1,1 @@
-document.write('有梦就要去追，待会儿醒了，就不容易再睡着了')
+document.write('有三分钟付出就有三分钟收获')

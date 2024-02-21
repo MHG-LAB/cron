@@ -1,1 +1,1 @@
-document.write('没有艰苦的学习，就没有最简单的发明')
+document.write('鹜然雪化，且静候，飞雪再临之时。')
