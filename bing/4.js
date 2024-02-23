@@ -1,1 +1,1 @@
-document.write("鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)")
+document.write("Kinder Scout，峰区国家公园，英国 (© john finney photography/Getty Images)")
