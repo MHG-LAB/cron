@@ -1,1 +1,1 @@
-document.write('总有那么一个人，藏在心底，消失在生活里。')
+document.write('每个凉宫都会遇到属于她的John Smith。')
