@@ -1,1 +1,1 @@
-document.write('每个凉宫都会遇到属于她的John Smith。')
+document.write('他喜欢她，无关爱情。她幸福了，于是他也幸福了。')

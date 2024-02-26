@@ -1,1 +1,1 @@
-document.write("大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)")
+document.write("玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)")

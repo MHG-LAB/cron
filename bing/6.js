@@ -1,1 +1,1 @@
-document.write("Kinder Scout，峰区国家公园，英国 (© john finney photography/Getty Images)")
+document.write("火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)")
