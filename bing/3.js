@@ -1,1 +1,1 @@
-document.write("考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省 (© Kevin Oke/Alamy)")
+document.write("大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)")
