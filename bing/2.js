@@ -1,1 +1,1 @@
-document.write("玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)")
+document.write("班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)")
