@@ -1,1 +1,1 @@
-document.write("树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)")
+document.write("从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)")

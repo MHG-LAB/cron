@@ -1,1 +1,1 @@
-document.write("欧亚红松鼠 (© Westend61/Getty Images)")
+document.write("德国草地上的蝴蝶 (© Albert Fertl/Getty Images)")
