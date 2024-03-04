@@ -1,1 +1,1 @@
-document.write("德国草地上的蝴蝶 (© Albert Fertl/Getty Images)")
+document.write("莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)")
