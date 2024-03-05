@@ -1,1 +1,1 @@
-document.write("班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)")
+document.write("欧亚红松鼠 (© Westend61/Getty Images)")
