@@ -1,1 +1,1 @@
-document.write("Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)")
+document.write("Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙 (© Sergi Boixader/Alamy Stock Photo)")
