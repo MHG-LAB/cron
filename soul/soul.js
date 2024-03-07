@@ -1,1 +1,1 @@
-document.write('世界上最好的词就是虚惊一场')
+document.write('你无法叫醒一个不回你消息的人，但是红包能。')
