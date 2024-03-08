@@ -1,1 +1,1 @@
-document.write("莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)")
+document.write("树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)")
+document.write("比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)")
