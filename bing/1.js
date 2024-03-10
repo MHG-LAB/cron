@@ -1,1 +1,1 @@
-document.write("比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)")
+document.write("圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)")

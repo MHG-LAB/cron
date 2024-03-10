@@ -1,1 +1,1 @@
-document.write("从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)")
+document.write("曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)")
