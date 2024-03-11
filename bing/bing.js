@@ -1,1 +1,1 @@
-document.write("Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利 (© Richard T. Nowitz/Getty Images)")
+document.write("布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙 (© Sergi Boixader/Alamy Stock Photo)")
+document.write("伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)")
