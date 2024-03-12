@@ -1,1 +1,1 @@
-document.write("布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)")
+document.write("小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")

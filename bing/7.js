@@ -1,1 +1,1 @@
-document.write("曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)")
+document.write("Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)")
