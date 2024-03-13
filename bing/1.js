@@ -1,1 +1,1 @@
-document.write("布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)")
+document.write("Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)")

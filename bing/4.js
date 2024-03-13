@@ -1,1 +1,1 @@
-document.write("比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)")
+document.write("Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)")

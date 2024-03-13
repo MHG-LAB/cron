@@ -1,1 +1,1 @@
-document.write("Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利 (© Richard T. Nowitz/Getty Images)")
+document.write("A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)")

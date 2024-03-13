@@ -1,1 +1,1 @@
-document.write('如果你跌倒了，那就，找个舒服的姿势趴着吧。')
+document.write('忍无可忍，就重新再忍。')

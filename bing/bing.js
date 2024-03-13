@@ -1,1 +1,1 @@
-document.write("小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
+document.write("Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")

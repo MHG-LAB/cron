@@ -1,1 +1,1 @@
-document.write("伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)")
+document.write("Aerial view of Iguazú Falls, Foz do Iguaçu, Brazil (© Nido Huebl/Shutterstock)")

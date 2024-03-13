@@ -1,1 +1,1 @@
-document.write("圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)")
+document.write("Prosecco Hills of Conegliano and Valdobbiadene, Veneto, Italy (© Olimpio Fantuz/eStock Photo)")
