@@ -1,1 +1,1 @@
-document.write("Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)")
+document.write("Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)")
