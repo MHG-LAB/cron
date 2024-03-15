@@ -1,1 +1,1 @@
-document.write("Aerial view of Iguazú Falls, Foz do Iguaçu, Brazil (© Nido Huebl/Shutterstock)")
+document.write("Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)")

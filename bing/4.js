@@ -1,1 +1,1 @@
-document.write("Prosecco Hills of Conegliano and Valdobbiadene, Veneto, Italy (© Olimpio Fantuz/eStock Photo)")
+document.write("A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)")

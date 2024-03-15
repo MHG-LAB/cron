@@ -1,1 +1,1 @@
-document.write("Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)")
+document.write("Aerial view of Iguazú Falls, Foz do Iguaçu, Brazil (© Nido Huebl/Shutterstock)")
