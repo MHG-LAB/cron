@@ -1,1 +1,1 @@
-document.write("Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)")
+document.write("Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)")
