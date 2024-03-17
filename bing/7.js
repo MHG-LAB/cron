@@ -1,1 +1,1 @@
-document.write("Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)")
+document.write("Prosecco Hills of Conegliano and Valdobbiadene, Veneto, Italy (© Olimpio Fantuz/eStock Photo)")

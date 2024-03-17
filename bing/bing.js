@@ -1,1 +1,1 @@
-document.write("Eurasian blue tit, United Kingdom (© Anne Coatesy/iStock/Getty Images)")
+document.write("St. Finian's Bay, County Kerry, Ireland (© Atlantide Phototravel/Getty Images)")
