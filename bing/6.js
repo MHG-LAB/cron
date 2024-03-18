@@ -1,1 +1,1 @@
-document.write("A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)")
+document.write("Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)")
