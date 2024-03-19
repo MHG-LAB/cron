@@ -1,1 +1,1 @@
-document.write("Bryce Canyon National Park, Utah (© Jim Patterson/Tandem Stills + Motion)")
+document.write("Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
