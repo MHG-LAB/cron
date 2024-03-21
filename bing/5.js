@@ -1,1 +1,1 @@
-document.write("Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)")
+document.write("Eurasian blue tit, United Kingdom (© Anne Coatesy/iStock/Getty Images)")
