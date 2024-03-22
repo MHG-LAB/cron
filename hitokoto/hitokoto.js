@@ -1,1 +1,1 @@
-document.write('我能遇到你真是太好了!')
+document.write('有些东西得不到才显得越发美丽 。')
