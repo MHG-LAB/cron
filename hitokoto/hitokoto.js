@@ -1,1 +1,1 @@
-document.write('有些东西得不到才显得越发美丽 。')
+document.write('那有一天，是不是我也会被你们忘记呢。')
