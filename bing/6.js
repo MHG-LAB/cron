@@ -1,1 +1,1 @@
-document.write("St. Finian's Bay, County Kerry, Ireland (© Atlantide Phototravel/Getty Images)")
+document.write("Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)")

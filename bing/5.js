@@ -1,1 +1,1 @@
-document.write("Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)")
+document.write("Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)")
