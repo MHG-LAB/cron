@@ -1,1 +1,1 @@
-document.write("Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)")
+document.write("Cave Dale and Peveril Castle in Castleton, Peak District National Park, Derbyshire, England (© James Osmond/Alamy)")
