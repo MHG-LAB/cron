@@ -1,1 +1,1 @@
-document.write("Bwindi Impenetrable Forest, Uganda (© Art Wolfe/DanitaDelimont.com)")
+document.write("Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)")
