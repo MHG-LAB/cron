@@ -1,1 +1,1 @@
-document.write("Cave Dale and Peveril Castle in Castleton, Peak District National Park, Derbyshire, England (© James Osmond/Alamy)")
+document.write("Bwindi Impenetrable Forest, Uganda (© Art Wolfe/DanitaDelimont.com)")

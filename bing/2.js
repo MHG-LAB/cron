@@ -1,1 +1,1 @@
-document.write("Tulip fields in Fraser Valley, Abbotsford, British Columbia, Canada (© LeonU/Getty Images)")
+document.write("Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)")
