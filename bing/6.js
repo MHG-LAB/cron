@@ -1,1 +1,1 @@
-document.write("Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)")
+document.write("Large anvil clouds above the Amazon in Brazil (© NASA)")

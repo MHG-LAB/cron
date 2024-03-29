@@ -1,1 +1,1 @@
-document.write('任何你失去的事物，价值自动倍增')
+document.write('读一书，增一智')
