@@ -1,1 +1,1 @@
-document.write("South Stack Lighthouse at sunset, Holyhead, Wales, UK (© mariotlr/Getty Images)")
+document.write("Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)")

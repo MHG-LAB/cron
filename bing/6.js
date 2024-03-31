@@ -1,1 +1,1 @@
-document.write("Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)")
+document.write("Tulip fields in Fraser Valley, Abbotsford, British Columbia, Canada (© LeonU/Getty Images)")

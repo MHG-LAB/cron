@@ -1,1 +1,1 @@
-document.write("Large anvil clouds above the Amazon in Brazil (© NASA)")
+document.write("Silvereyes on a cherry blossom branch, South Korea (© TigerSeo/Getty Images)")

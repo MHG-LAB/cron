@@ -1,1 +1,1 @@
-document.write("Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)")
+document.write("Tea plantation near Munnar, Kerala, India (© Peter Zelei Images/Getty Images)")
