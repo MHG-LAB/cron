@@ -1,1 +1,1 @@
-document.write("Great egret in the Pantanal, Brazil (© Geraldi Corsi/Getty Images)")
+document.write("Mer de Glace on the Mont Blanc massif, Chamonix, France (© Hagenmuller Jean-François/Hemis/Alamy)")

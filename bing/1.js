@@ -1,1 +1,1 @@
-document.write("Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)")
+document.write("Great egret in the Pantanal, Brazil (© Geraldi Corsi/Getty Images)")

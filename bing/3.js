@@ -1,1 +1,1 @@
-document.write("Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)")
+document.write("South Stack Lighthouse at sunset, Holyhead, Wales, UK (© mariotlr/Getty Images)")
