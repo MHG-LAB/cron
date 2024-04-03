@@ -1,1 +1,1 @@
-document.write('时间带着明显的恶意，缓缓在我的头顶流逝。')
+document.write('魔装少女就是本少爷！')
