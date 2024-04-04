@@ -1,1 +1,1 @@
-document.write('魔装少女就是本少爷！')
+document.write('仁者不忧，智者不惑，勇者不惧。')
