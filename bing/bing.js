@@ -1,1 +1,1 @@
-document.write("Lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)")
+document.write("The Bahamas photographed from the International Space Station (© NASA)")

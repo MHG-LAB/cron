@@ -1,1 +1,1 @@
-document.write("Mer de Glace on the Mont Blanc massif, Chamonix, France (© Hagenmuller Jean-François/Hemis/Alamy)")
+document.write("Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)")

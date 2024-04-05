@@ -1,1 +1,1 @@
-document.write('仁者不忧，智者不惑，勇者不惧。')
+document.write('我不会输给同一个对手第二次。')
