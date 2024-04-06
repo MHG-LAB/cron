@@ -1,1 +1,1 @@
-document.write("The Bahamas photographed from the International Space Station (© NASA)")
+document.write("Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)")

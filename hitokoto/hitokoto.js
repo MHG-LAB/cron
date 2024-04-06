@@ -1,1 +1,1 @@
-document.write('我不会输给同一个对手第二次。')
+document.write('不管你去哪，哪怕是天涯海角我都能把你找到的')
