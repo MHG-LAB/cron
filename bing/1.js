@@ -1,1 +1,1 @@
-document.write("North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)")
+document.write("European hedgehog in a garden with dandelions, Bad Driburg, Germany (© Oksana Schmidt/Getty Images)")

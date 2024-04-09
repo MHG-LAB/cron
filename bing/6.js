@@ -1,1 +1,1 @@
-document.write("Beech trees and wild anemones, Jutland, Denmark (© Nick Brundle Photography/Getty Images)")
+document.write("A rainbow in At-Bashy District, Kakshaal Too mountains, Naryn Region, Kyrgyzstan (© Emad aljumah/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("A rainbow in At-Bashy District, Kakshaal Too mountains, Naryn Region, Kyrgyzstan (© Emad aljumah/Getty Images)")
+document.write("Lechwe herd crossing marshy plain of Okavango Delta, Botswana (© Ibrahim Suha Derbent/Getty Images)")
