@@ -1,1 +1,1 @@
-document.write("Tulip fields in spring, Skagit Valley, Washington, USA (© Claudia Cooper/Getty Images)")
+document.write("Burrowing owl chicks near a burrow, Wyoming, USA (© Danita Delimont/Getty Images)")

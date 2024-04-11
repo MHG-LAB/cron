@@ -1,1 +1,1 @@
-document.write("Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)")
+document.write("North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)")

@@ -1,1 +1,1 @@
-document.write('不吃饭则饥，不读书则愚')
+document.write('现世为梦，夜梦为真。')
