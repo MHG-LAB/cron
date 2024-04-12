@@ -1,1 +1,1 @@
-document.write('人为什么叫人类，因为人活着就是累。')
+document.write('英雄一怒为红颜，红颜一怒，得花钱。')

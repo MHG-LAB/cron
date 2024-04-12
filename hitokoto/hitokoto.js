@@ -1,1 +1,1 @@
-document.write('现世为梦，夜梦为真。')
+document.write('正因为没有意义才有其存在的意义。')
