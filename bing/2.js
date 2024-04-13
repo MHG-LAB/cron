@@ -1,1 +1,1 @@
-document.write("Burrowing owl chicks near a burrow, Wyoming, USA (© Danita Delimont/Getty Images)")
+document.write("Aerial view of Churun-Meru (Dragon) waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)")
