@@ -1,1 +1,1 @@
-document.write("Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah, USA (© Anthony Heflin/Shutterstock)")
+document.write("Apple trees in spring, Germany (© Smileus/Getty Images)")
