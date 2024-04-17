@@ -1,1 +1,1 @@
-document.write("Sunset on Bowling Ball Beach, Mendocino County, California, USA (© Melo Qiao/Getty Images)")
+document.write("Château de Chambord, Centre-Val de Loire, France (© Susanne Kremer/eStock Photo)")

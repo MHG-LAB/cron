@@ -1,1 +1,1 @@
-document.write("Apple trees in spring, Germany (© Smileus/Getty Images)")
+document.write("Sunset on Bowling Ball Beach, Mendocino County, California, USA (© Melo Qiao/Getty Images)")
