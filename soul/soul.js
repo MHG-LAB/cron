@@ -1,1 +1,1 @@
-document.write('从哪里跌倒，就从哪里讹人')
+document.write('三观没用，你得靠五官！')
