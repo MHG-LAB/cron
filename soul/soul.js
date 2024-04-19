@@ -1,1 +1,1 @@
-document.write('三观没用，你得靠五官！')
+document.write('我超级超级喜欢小动物，怎么说呢，就是顿顿都有吧。')
