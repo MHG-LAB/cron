@@ -1,1 +1,1 @@
-document.write("American black bear cub in spring, Shenandoah National Park, Virginia, USA (© Scott Suriano/Getty Images)")
+document.write("Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)")

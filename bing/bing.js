@@ -1,1 +1,1 @@
-document.write("The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)")
+document.write("Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming, USA (© XIN WANG/Getty Images)")
