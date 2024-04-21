@@ -1,1 +1,1 @@
-document.write("Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming, USA (© XIN WANG/Getty Images)")
+document.write("Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee, USA (© Richard Bernabe/Shutterstock)")
