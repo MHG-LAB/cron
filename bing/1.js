@@ -1,1 +1,1 @@
-document.write("Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee, USA (© Richard Bernabe/Shutterstock)")
+document.write("Green sea turtle, San Diego, California, USA (© Ralph Pace/Minden Pictures)")

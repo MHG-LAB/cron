@@ -1,1 +1,1 @@
-document.write("Green sea turtle, San Diego, California, USA (© Ralph Pace/Minden Pictures)")
+document.write("Seiser Alm in the Dolomites, South Tyrol, Italy (© Achim Thomae/Getty Images)")

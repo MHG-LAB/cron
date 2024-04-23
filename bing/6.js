@@ -1,1 +1,1 @@
-document.write("Union Square in lower Manhattan at twilight, New York, USA (© Sean Pavone/Getty Images)")
+document.write("American black bear cub in spring, Shenandoah National Park, Virginia, USA (© Scott Suriano/Getty Images)")

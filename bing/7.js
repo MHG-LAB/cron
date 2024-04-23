@@ -1,1 +1,1 @@
-document.write("Château de Chambord, Centre-Val de Loire, France (© Susanne Kremer/eStock Photo)")
+document.write("Union Square in lower Manhattan at twilight, New York, USA (© Sean Pavone/Getty Images)")
