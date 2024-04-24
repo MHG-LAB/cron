@@ -1,1 +1,1 @@
-document.write("Green sea turtle, San Diego, California, USA (© Ralph Pace/Minden Pictures)")
+document.write("盛开的白延龄草，安大略省，加拿大 (© Jun Zhang/Getty Images)")

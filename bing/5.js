@@ -1,1 +1,1 @@
-document.write("Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)")
+document.write("日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)")

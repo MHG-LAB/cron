@@ -1,1 +1,1 @@
-document.write("Seiser Alm in the Dolomites, South Tyrol, Italy (© Achim Thomae/Getty Images)")
+document.write("南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)")

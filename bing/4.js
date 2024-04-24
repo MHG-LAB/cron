@@ -1,1 +1,1 @@
-document.write("The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)")
+document.write("Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)")

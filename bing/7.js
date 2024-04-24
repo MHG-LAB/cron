@@ -1,1 +1,1 @@
-document.write("Union Square in lower Manhattan at twilight, New York, USA (© Sean Pavone/Getty Images)")
+document.write("中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)")
