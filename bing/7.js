@@ -1,1 +1,1 @@
-document.write("中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)")
+document.write("布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("三一学院图书馆，都柏林，爱尔兰 (© Lukas Bischoff/Getty Images)")
+document.write("盛开的白延龄草，安大略省，加拿大 (© Jun Zhang/Getty Images)")
