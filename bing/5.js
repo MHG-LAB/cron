@@ -1,1 +1,1 @@
-document.write("Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)")
+document.write("绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)")
