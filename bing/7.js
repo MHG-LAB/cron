@@ -1,1 +1,1 @@
-document.write("日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)")
+document.write("Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)")

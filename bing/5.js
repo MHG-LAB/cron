@@ -1,1 +1,1 @@
-document.write("绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)")
+document.write("三一学院图书馆，都柏林，爱尔兰 (© Vincent Isore/Getty Images)")
