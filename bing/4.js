@@ -1,1 +1,1 @@
-document.write("盛开的白延龄草，安大略省，加拿大 (© Jun Zhang/Getty Images)")
+document.write("南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)")
