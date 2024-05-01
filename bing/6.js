@@ -1,1 +1,1 @@
-document.write("南极洲冰山上的阿德利企鹅 (© Patrick J. Endres/Getty Images)")
+document.write("卡拉洛奇树，又名生命之树，卡拉洛奇海滩，奥林匹克国家公园，华盛顿州，美国 (© Abbie Warnock-Matthews/Shutterstock)")
