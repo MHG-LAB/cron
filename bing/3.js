@@ -1,1 +1,1 @@
-document.write("福建土楼，福建省历史文化遗产建筑，中国 (© Hongjie Han/Getty Images)")
+document.write("清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚 (© Paul Souders/Getty Images)")
