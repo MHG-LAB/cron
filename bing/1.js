@@ -1,1 +1,1 @@
-document.write("蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国 (© Alan Majchrowicz/Getty Images)")
+document.write("春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州 (© Charles Harker/Getty Images)")

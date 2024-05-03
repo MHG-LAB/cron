@@ -1,1 +1,1 @@
-document.write('不要借太多钱给一个人，那会让你变得很穷')
+document.write('既已背影倾天下，何必转身乱芳华。')
