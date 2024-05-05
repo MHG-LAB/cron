@@ -1,1 +1,1 @@
-document.write("夏威夷花环 (© Jotika Pun/Shutterstock)")
+document.write("蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国 (© Alan Majchrowicz/Getty Images)")
