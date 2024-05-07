@@ -1,1 +1,1 @@
-document.write("清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚 (© Paul Souders/Getty Images)")
+document.write("夏威夷花环 (© Jotika Pun/Shutterstock)")
