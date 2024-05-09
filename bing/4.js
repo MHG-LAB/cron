@@ -1,1 +1,1 @@
-document.write("圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥 (© Mint Images/Getty Images)")
+document.write("罗奇斯山脊，英格兰峰区 (© George W Johnson/Getty Images)")
