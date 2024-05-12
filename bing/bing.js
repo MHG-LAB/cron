@@ -1,1 +1,1 @@
-document.write("潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷 (© Gabriel Rojo/Minden Pictures)")
+document.write("鱼河大峡谷，纳米比亚 (© R. M. Nunes/Getty Images)")

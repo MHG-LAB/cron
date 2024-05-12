@@ -1,1 +1,1 @@
-document.write("伊夫堡，马赛，法国 (© Sergii Figurnyi/Alamy)")
+document.write("埃米尔甘公园的郁金香，伊斯坦布尔，土耳其 (© Ozbalci/Getty Images)")
