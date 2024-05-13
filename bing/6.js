@@ -1,1 +1,1 @@
-document.write("一只小鸭子在水草地上游泳，萨福克郡，英国 (© Nick Hurst/Getty Images)")
+document.write("伊夫堡，马赛，法国 (© Sergii Figurnyi/Alamy)")
