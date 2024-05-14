@@ -1,1 +1,1 @@
-document.write("鱼河大峡谷，纳米比亚 (© R. M. Nunes/Getty Images)")
+document.write("通往大房间的走道，卡尔斯巴德洞穴国家公园，新墨西哥州 (© Doug Meek/Getty Images)")
