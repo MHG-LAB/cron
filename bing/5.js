@@ -1,1 +1,1 @@
-document.write("米苏尔岛，拉贾安帕群岛，印度尼西亚 (© Giordano Cipriani/Getty Images)")
+document.write("树枝上栖息的靛蓝彩鹀，德克萨斯州 (© Jeff R Clow/Getty Images)")
