@@ -1,1 +1,1 @@
-document.write("树枝上栖息的靛蓝彩鹀，德克萨斯州 (© Jeff R Clow/Getty Images)")
+document.write("潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷 (© Gabriel Rojo/Minden Pictures)")

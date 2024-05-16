@@ -1,1 +1,1 @@
-document.write("焦特布尔蓝色之城，印度 (© cinoby/Getty Images)")
+document.write("维戈的兰德大桥，西班牙 (© Julio Conde/Getty Images)")
