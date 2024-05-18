@@ -1,1 +1,1 @@
-document.write("塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
+document.write("破碎群岛，环太平洋国家公园保护区，不列颠哥伦比亚省温哥华岛，加拿大 (© Ron Watts/Design Pics/Getty Images)")

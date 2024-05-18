@@ -1,1 +1,1 @@
-document.write("通往大房间的走道，卡尔斯巴德洞穴国家公园，新墨西哥州 (© Doug Meek/Getty Images)")
+document.write("焦特布尔蓝色之城，印度 (© cinoby/Getty Images)")
