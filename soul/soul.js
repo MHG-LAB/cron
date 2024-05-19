@@ -1,1 +1,1 @@
-document.write('一个人最长的恋爱史，大概就是自恋了。')
+document.write('顺其自然只是无能为力的另一种说法')

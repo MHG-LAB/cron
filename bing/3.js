@@ -1,1 +1,1 @@
-document.write("维戈的兰德大桥，西班牙 (© Julio Conde/Getty Images)")
+document.write("塔兰吉雷国家公园的非洲象家族，坦桑尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
