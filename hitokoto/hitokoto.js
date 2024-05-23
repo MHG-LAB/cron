@@ -1,1 +1,1 @@
-document.write('All things are difficult before they are easy.')
+document.write('年青人求知欲很旺，而忍耐性不足。 ')
