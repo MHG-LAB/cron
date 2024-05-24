@@ -1,1 +1,1 @@
-document.write("韦尔纳扎村，五渔村，利古里亚，意大利 (© Roberto Moiola/Sysaworld/Getty Images)")
+document.write("蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)")

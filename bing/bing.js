@@ -1,1 +1,1 @@
-document.write("阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙 (© Marisa Estivill/Shutterstock)")
+document.write("阿伊特本哈杜，摩洛哥 (© Grant Faint/Getty Images)")
