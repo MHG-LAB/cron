@@ -1,1 +1,1 @@
-document.write("卡梅隆高地茶园，马来西亚 (© alex cheong/Getty Images)")
+document.write("塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚 (© Ignacio Palacios/Getty Images)")
