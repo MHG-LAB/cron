@@ -1,1 +1,1 @@
-document.write("塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚 (© Ignacio Palacios/Getty Images)")
+document.write("印度星龟，斯里兰卡 (© Robin Chittenden/Minden Pictures)")

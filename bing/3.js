@@ -1,1 +1,1 @@
-document.write("印度星龟，斯里兰卡 (© Robin Chittenden/Minden Pictures)")
+document.write("阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙 (© Marisa Estivill/Shutterstock)")
