@@ -1,1 +1,1 @@
-document.write("蜜蜂照料蜂巢 (© Simun Ascic/Alamy Stock Photo)")
+document.write("卡梅隆高地茶园，马来西亚 (© alex cheong/Getty Images)")
