@@ -1,1 +1,1 @@
-document.write("罗萨诺修道院，迈泰奥拉，色萨利 ，希腊 (© Marius Roman/Getty Images)")
+document.write("青春期的欧洲水獭，斯佩尔维湖，苏格兰姆尔斯岛 (© Neil Henderson/Alamy Stock Photo)")

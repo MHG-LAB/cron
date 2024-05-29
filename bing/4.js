@@ -1,1 +1,1 @@
-document.write("阿伊特本哈杜，摩洛哥 (© Grant Faint/Getty Images)")
+document.write("香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国 (© Alan Majchrowicz/Getty Images)")
