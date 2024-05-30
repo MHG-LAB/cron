@@ -1,1 +1,1 @@
-document.write('总有那么一个人，藏在心底，消失在生活里。')
+document.write('有些事情，可以理解但无法接受！')
