@@ -1,1 +1,1 @@
-document.write("香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国 (© Alan Majchrowicz/Getty Images)")
+document.write("塞斯特里莱万特的沉默湾，利古里亚大区，意大利 (© StevanZZ/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)")
+document.write("哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)")
