@@ -1,1 +1,1 @@
-document.write('春观夜樱，夏望繁星，秋赏明月，冻会初雪。')
+document.write('生死是自然规律。')
