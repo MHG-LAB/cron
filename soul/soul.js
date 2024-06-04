@@ -1,1 +1,1 @@
-document.write('你的颓废是我前进的理由')
+document.write('脑子是个很棒的东西，希望你有。')

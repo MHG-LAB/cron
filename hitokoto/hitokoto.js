@@ -1,1 +1,1 @@
-document.write('生死是自然规律。')
+document.write('人哪有好的 只是坏的程度不一样而已。')
