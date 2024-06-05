@@ -1,1 +1,1 @@
-document.write("青春期的欧洲水獭，斯佩尔维湖，苏格兰姆尔斯岛 (© Neil Henderson/Alamy Stock Photo)")
+document.write("一片斜纹松和锯齿草大沼泽地国家公园，佛罗里达州，美国 (© Jonathan Gewirtz/Tandem Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("帝王棕榈树，里约热内卢植物园，巴西 (© Marcia Silva de Mendonca/Getty Images)")
+document.write("普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)")
