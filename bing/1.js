@@ -1,1 +1,1 @@
-document.write("马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)")
+document.write("蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)")
