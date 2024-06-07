@@ -1,1 +1,1 @@
-document.write('最真实的感情，是没有打扮的自然。')
+document.write('今天的失败将会化作明天的胜利。')

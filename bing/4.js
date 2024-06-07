@@ -1,1 +1,1 @@
-document.write("哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)")
+document.write("黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)")

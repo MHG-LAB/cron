@@ -1,1 +1,1 @@
-document.write('为了变漂亮，你坚持了哪些好习惯？坚持开美颜。')
+document.write('心软不是病，回头才致命。')
