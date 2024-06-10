@@ -1,1 +1,1 @@
-document.write("黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)")
+document.write("马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)")
