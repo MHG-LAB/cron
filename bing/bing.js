@@ -1,1 +1,1 @@
-document.write("热带稀树草原上的南非剑羚，博茨瓦纳大草原 (© Karine Aigner/Tandem Stills + Motion)")
+document.write("大弯国家公园上空的银河，得克萨斯州，美国 (© wisanuboonrawd/Adobe Stock)")
