@@ -1,1 +1,1 @@
-document.write("蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)")
+document.write("座头鲸家族，荷兰港，阿拉斯加州 (© Jude Newkirk/Amazing Aerial Agency)")

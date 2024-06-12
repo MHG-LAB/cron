@@ -1,1 +1,1 @@
-document.write("龙舟池日出，集美区，厦门，中国 (© outcast85/Getty images)")
+document.write("热带稀树草原上的南非剑羚，博茨瓦纳大草原 (© Karine Aigner/Tandem Stills + Motion)")

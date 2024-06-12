@@ -1,1 +1,1 @@
-document.write("复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国 (© Patrick J. Endres/Getty Images)")
+document.write("巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)")

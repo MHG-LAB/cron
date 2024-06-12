@@ -1,1 +1,1 @@
-document.write('怀着梦想不放弃是实现梦想的第一步。')
+document.write('大地母亲在忽悠着你。')
