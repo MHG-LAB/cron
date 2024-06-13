@@ -1,1 +1,1 @@
-document.write('追不到那个人，说到底还是你没本事')
+document.write('你胖的贼可爱，只是没对象而已')

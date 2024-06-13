@@ -1,1 +1,1 @@
-document.write('大地母亲在忽悠着你。')
+document.write('如果提出的问题本身就有问题，那么答案又有什么用呢？')
