@@ -1,1 +1,1 @@
-document.write('你胖的贼可爱，只是没对象而已')
+document.write('承诺就像放屁，当时惊天动地，过后苍白无力。')
