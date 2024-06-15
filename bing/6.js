@@ -1,1 +1,1 @@
-document.write("巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)")
+document.write("龙舟池日出，集美区，厦门，中国 (© outcast85/Getty images)")

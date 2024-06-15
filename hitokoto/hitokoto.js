@@ -1,1 +1,1 @@
-document.write('悲哀的不是不能复仇，而是不能在仇恨中活出自己.')
+document.write('我也非常喜欢……烟火')
