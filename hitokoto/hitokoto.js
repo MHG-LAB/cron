@@ -1,1 +1,1 @@
-document.write('我也非常喜欢……烟火')
+document.write('人在步入社会之前，究竟在哪呢？')
