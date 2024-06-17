@@ -1,1 +1,1 @@
-document.write('你就是个黄焖鸡，又黄又闷又垃圾。')
+document.write('上帝不会亏待痴情的人，他都是往死里整。')

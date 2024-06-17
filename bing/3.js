@@ -1,1 +1,1 @@
-document.write("佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)")
+document.write("在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)")
