@@ -1,1 +1,1 @@
-document.write("库克斯港的水塔，德国 (© Andreas Vogel/Alamy)")
+document.write("科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)")

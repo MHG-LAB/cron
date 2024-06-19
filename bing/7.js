@@ -1,1 +1,1 @@
-document.write("大弯国家公园上空的银河，得克萨斯州，美国 (© wisanuboonrawd/Adobe Stock)")
+document.write("雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦 (© da-kuk/Getty Images)")
