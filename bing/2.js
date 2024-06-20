@@ -1,1 +1,1 @@
-document.write("日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images)")
+document.write("库克斯港的水塔，德国 (© Andreas Vogel/Alamy)")

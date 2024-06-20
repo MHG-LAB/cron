@@ -1,1 +1,1 @@
-document.write("雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦 (© da-kuk/Getty Images)")
+document.write("佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)")

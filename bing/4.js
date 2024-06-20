@@ -1,1 +1,1 @@
-document.write("赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)")
+document.write("绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)")
