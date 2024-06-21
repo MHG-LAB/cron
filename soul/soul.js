@@ -1,1 +1,1 @@
-document.write('生活和电影不一样，生活难多了')
+document.write('你敬人一寸，他将得寸进尺。')
