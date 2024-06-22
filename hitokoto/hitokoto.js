@@ -1,1 +1,1 @@
-document.write('努力过后，才知道许多事情，坚持坚持，就过来了。')
+document.write('每一秒的天空都不一样。')

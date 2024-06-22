@@ -1,1 +1,1 @@
-document.write("在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)")
+document.write("赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)")

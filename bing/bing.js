@@ -1,1 +1,1 @@
-document.write("亚马逊雨林，巴西 (© Claus Meyer/plainpicture)")
+document.write("达卡环形交叉路口的鸟瞰图，孟加拉国 (© Azim Khan Ronnie/Amazing Aerial Agency)")
