@@ -1,1 +1,1 @@
-document.write("科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)")
+document.write("蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)")

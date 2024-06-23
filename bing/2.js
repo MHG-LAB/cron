@@ -1,1 +1,1 @@
-document.write("蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)")
+document.write("亚马逊雨林，巴西 (© Claus Meyer/plainpicture)")

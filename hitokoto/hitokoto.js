@@ -1,1 +1,1 @@
-document.write('每一秒的天空都不一样。')
+document.write('无论谁的心中，都有自己的歌。')
