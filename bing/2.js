@@ -1,1 +1,1 @@
-document.write("诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)")
+document.write("宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国 (© Martin Ruegner/Getty Images)")
