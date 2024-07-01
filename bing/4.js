@@ -1,1 +1,1 @@
-document.write("黄昏时分的圣母百花大教堂，佛罗伦萨，意大利 (© Elena Pueyo/Getty Images)")
+document.write("诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)")
