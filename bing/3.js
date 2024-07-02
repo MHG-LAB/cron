@@ -1,1 +1,1 @@
-document.write("宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国 (© Martin Ruegner/Getty Images)")
+document.write("乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)")
