@@ -1,1 +1,1 @@
-document.write('与输赢没关系，这是愿望。')
+document.write('君子食无求饱，居无求安，敏于事而慎于言。')
