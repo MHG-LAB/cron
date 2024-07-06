@@ -1,1 +1,1 @@
-document.write("猫鼬家族 (© anetapics/Shutterstock)")
+document.write("扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)")

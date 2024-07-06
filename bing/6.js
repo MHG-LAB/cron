@@ -1,1 +1,1 @@
-document.write("乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)")
+document.write("菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)")
