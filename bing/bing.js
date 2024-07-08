@@ -1,1 +1,1 @@
-document.write("野生蓝莓 (© Baac3nes/Getty Images)")
+document.write("阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)")
