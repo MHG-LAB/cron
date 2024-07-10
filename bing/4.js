@@ -1,1 +1,1 @@
-document.write("从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)")
+document.write("越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)")

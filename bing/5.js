@@ -1,1 +1,1 @@
-document.write("丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)")
+document.write("从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)")

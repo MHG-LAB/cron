@@ -1,1 +1,1 @@
-document.write("扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)")
+document.write("丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)")
