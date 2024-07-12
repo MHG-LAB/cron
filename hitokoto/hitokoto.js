@@ -1,1 +1,1 @@
-document.write('杀了上帝，我就是神！')
+document.write('越是拼了命投入，失败时的反作用力越大。')

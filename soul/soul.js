@@ -1,1 +1,1 @@
-document.write('事情多不可怕，可怕的是你没能力解决。')
+document.write('女为知己者容，男为心上人穷！')

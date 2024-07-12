@@ -1,1 +1,1 @@
-document.write("领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)")
+document.write("甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)")
