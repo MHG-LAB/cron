@@ -1,1 +1,1 @@
-document.write('女为知己者容，男为心上人穷！')
+document.write('傻人有傻福，傻B没有。')

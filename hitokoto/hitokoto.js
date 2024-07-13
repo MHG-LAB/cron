@@ -1,1 +1,1 @@
-document.write('越是拼了命投入，失败时的反作用力越大。')
+document.write('我会回来，就算拼死也会回来！')

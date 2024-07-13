@@ -1,1 +1,1 @@
-document.write("阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)")
+document.write("领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)")
