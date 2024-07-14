@@ -1,1 +1,1 @@
-document.write('傻人有傻福，傻B没有。')
+document.write('先生，你这张卡上的钱也不够……')
