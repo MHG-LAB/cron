@@ -1,1 +1,1 @@
-document.write("甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)")
+document.write("雷尼尔山国家公园的野花，华盛顿州，美国 (© RomanKhomlyak/Getty Images)")

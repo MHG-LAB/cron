@@ -1,1 +1,1 @@
-document.write('先生，你这张卡上的钱也不够……')
+document.write('失败是成功之母，但成功它六亲不认。')
