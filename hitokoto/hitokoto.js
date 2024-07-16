@@ -1,1 +1,1 @@
-document.write('用我一生，换你十年天真无邪。')
+document.write('个人喜好之类，有时候只有自己才知道。')

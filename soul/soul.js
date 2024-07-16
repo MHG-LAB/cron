@@ -1,1 +1,1 @@
-document.write('失败是成功之母，但成功它六亲不认。')
+document.write('行而上学，实在不行就别上了吧')
