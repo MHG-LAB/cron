@@ -1,1 +1,1 @@
-document.write("德国中世纪城市罗滕堡 (© kanuman/Getty Images)")
+document.write("Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)")

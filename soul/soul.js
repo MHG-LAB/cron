@@ -1,1 +1,1 @@
-document.write('行而上学，实在不行就别上了吧')
+document.write('只要坚持不懈，嘲笑你的人，迟早会被你笑死。')
