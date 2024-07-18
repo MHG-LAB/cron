@@ -1,1 +1,1 @@
-document.write("德国中世纪城市罗滕堡 (© kanuman/Getty Images)")
+document.write("印度洋的珊瑚礁，马约特岛，法国 (© Gabriel Barathieu/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write('只要坚持不懈，嘲笑你的人，迟早会被你笑死。')
+document.write('爱笑的女孩收获的是鱼尾纹！')

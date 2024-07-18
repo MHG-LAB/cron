@@ -1,1 +1,1 @@
-document.write("雷尼尔山国家公园的野花，华盛顿州，美国 (© RomanKhomlyak/Getty Images)")
+document.write("卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)")
