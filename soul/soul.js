@@ -1,1 +1,1 @@
-document.write('爱笑的女孩收获的是鱼尾纹！')
+document.write('跌倒了，爬起来再哭')
