@@ -1,1 +1,1 @@
-document.write('做出一副温柔的样子来折磨人不是更令人难受吗？')
+document.write('君子忧道不忧贫')

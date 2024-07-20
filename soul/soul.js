@@ -1,1 +1,1 @@
-document.write('跌倒了，爬起来再哭')
+document.write('为什么你能像智障一样活着，而我却不可以。')

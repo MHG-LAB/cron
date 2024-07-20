@@ -1,1 +1,1 @@
-document.write("卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)")
+document.write("女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)")
