@@ -1,1 +1,1 @@
-document.write("女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)")
+document.write("立石公园，神奈川县，日本 (© blew_s/Shutterstock)")

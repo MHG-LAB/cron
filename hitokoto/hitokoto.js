@@ -1,1 +1,1 @@
-document.write('君子忧道不忧贫')
+document.write('戏言不能伤敌但能伤友')
