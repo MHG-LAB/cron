@@ -1,1 +1,1 @@
-document.write("斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰 (© Paul Williams - FunkyStock/Getty Images)")
+document.write("德国中世纪城市罗滕堡 (© kanuman/Getty Images)")
