@@ -1,1 +1,1 @@
-document.write("印度洋的珊瑚礁，马约特岛，法国 (© Gabriel Barathieu/Minden Pictures)")
+document.write("河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)")
