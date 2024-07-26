@@ -1,1 +1,1 @@
-document.write('学而不思则罔，思而不学则网贷')
+document.write('你就像仙女一样，但我讨厌仙女')

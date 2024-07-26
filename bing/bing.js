@@ -1,1 +1,1 @@
-document.write("塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)")
+document.write("摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)")
