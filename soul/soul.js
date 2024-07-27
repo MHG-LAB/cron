@@ -1,1 +1,1 @@
-document.write('你就像仙女一样，但我讨厌仙女')
+document.write('不要轻易放弃，反正明天会更糟')
