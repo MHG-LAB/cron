@@ -1,1 +1,1 @@
-document.write('不要轻易放弃，反正明天会更糟')
+document.write('一想到你，我的丑脸，就泛起微笑。')

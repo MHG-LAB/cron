@@ -1,1 +1,1 @@
-document.write("迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)")
+document.write("北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)")

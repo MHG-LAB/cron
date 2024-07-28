@@ -1,1 +1,1 @@
-document.write("北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)")
+document.write("大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)")
