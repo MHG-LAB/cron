@@ -1,1 +1,1 @@
-document.write("大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)")
+document.write("塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)")

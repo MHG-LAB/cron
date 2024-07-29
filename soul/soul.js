@@ -1,1 +1,1 @@
-document.write('一想到你，我的丑脸，就泛起微笑。')
+document.write('我爱你，你好，请问你是？')
