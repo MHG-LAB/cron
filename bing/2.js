@@ -1,1 +1,1 @@
-document.write("斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)")
+document.write("科贝国家公园的老虎兄弟，北阿坎德邦，印度 (© Sourabh Bharti/Getty Images)")
