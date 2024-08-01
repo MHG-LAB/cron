@@ -1,1 +1,1 @@
-document.write("摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)")
+document.write("斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)")
