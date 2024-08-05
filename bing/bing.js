@@ -1,1 +1,1 @@
-document.write("薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)")
+document.write("莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)")

@@ -1,1 +1,1 @@
-document.write('今天的执着，会造成明日的后悔')
+document.write('人的心声是绝对不能无视的。')
