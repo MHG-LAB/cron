@@ -1,1 +1,1 @@
-document.write("黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)")
+document.write("薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)")

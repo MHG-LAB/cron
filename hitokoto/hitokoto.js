@@ -1,1 +1,1 @@
-document.write('人的心声是绝对不能无视的。')
+document.write('放弃也是需要勇气的。')
