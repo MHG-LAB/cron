@@ -1,1 +1,1 @@
-document.write("卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)")
+document.write("象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)")
