@@ -1,1 +1,1 @@
-document.write('与其去怀疑别人，不如去相信别人。')
+document.write('年轻一代才能的创造力！！不要轻视！')

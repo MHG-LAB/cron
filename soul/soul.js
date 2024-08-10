@@ -1,1 +1,1 @@
-document.write('如果你特别迷恋一个人，那么你一定配不上他！')
+document.write('你们的女神只是有钱人的精盆')
