@@ -1,1 +1,1 @@
-document.write("横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)")
+document.write("库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)")
