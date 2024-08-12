@@ -1,1 +1,1 @@
-document.write("通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)")
+document.write("非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)")
