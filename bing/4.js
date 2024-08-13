@@ -1,1 +1,1 @@
-document.write("库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)")
+document.write("约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)")

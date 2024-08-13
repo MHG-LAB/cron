@@ -1,1 +1,1 @@
-document.write('与其去怀疑别人，不如去相信别人。')
+document.write('无论人生变得多么悲惨，都绝对不会放弃。')
