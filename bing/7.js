@@ -1,1 +1,1 @@
-document.write("圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)")
+document.write("横斑腹小鸮，曼谷，泰国 (© Tfilm/Getty Images)")

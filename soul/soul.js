@@ -1,1 +1,1 @@
-document.write('出来混，迟早是要胖的。')
+document.write('没人嘲笑你的梦想，他们只是，嘲笑你的实力。')
