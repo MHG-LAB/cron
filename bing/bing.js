@@ -1,1 +1,1 @@
-document.write("韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)")
+document.write("长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)")

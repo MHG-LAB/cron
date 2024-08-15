@@ -1,1 +1,1 @@
-document.write("非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)")
+document.write("特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)")
