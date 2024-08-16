@@ -1,1 +1,1 @@
-document.write("长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)")
+document.write("阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)")
