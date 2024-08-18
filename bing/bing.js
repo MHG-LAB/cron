@@ -1,1 +1,1 @@
-document.write("日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)")
+document.write("Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)")
