@@ -1,1 +1,1 @@
-document.write("Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)")
+document.write("大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)")
