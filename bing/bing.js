@@ -1,1 +1,1 @@
-document.write("大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)")
+document.write("Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)")

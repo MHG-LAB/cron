@@ -1,1 +1,1 @@
-document.write("Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)")
+document.write("Bufadero de la Garita, Gran Canaria, Spain (© Marco Bottigelli/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)")
+document.write("Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)")
