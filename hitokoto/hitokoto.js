@@ -1,1 +1,1 @@
-document.write('哪里会有在真正的战争中等待对方回合的蠢货啊。')
+document.write('读一书，增一智')
