@@ -1,1 +1,1 @@
-document.write('读一书，增一智')
+document.write('愿望要靠自己的双手去实现，所以也许会实现不了。')
