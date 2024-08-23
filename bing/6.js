@@ -1,1 +1,1 @@
-document.write("Roller coaster in Nagashima Spa Land, Mie prefecture, Japan (© Japanese amateur photographer/Getty Images)")
+document.write("Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)")
