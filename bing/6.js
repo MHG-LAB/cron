@@ -1,1 +1,1 @@
-document.write("Alfanzina lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)")
+document.write("Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)")

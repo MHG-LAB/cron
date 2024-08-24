@@ -1,1 +1,1 @@
-document.write("Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)")
+document.write("Bufadero de la Garita, Gran Canaria, Spain (© Marco Bottigelli/Getty Images)")

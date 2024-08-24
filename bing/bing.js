@@ -1,1 +1,1 @@
-document.write("Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)")
+document.write("Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)")
