@@ -1,1 +1,1 @@
-document.write("Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)")
+document.write("Aerial view of Ocean City, Maryland, USA (© Kevin Olson/Amazing Aerial Agency)")

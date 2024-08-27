@@ -1,1 +1,1 @@
-document.write("Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)")
+document.write("Swiftcurrent Lake, Glacier National Park, Montana, USA (© Jason Savage/Tandem Stills + Motion)")

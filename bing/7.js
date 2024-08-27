@@ -1,1 +1,1 @@
-document.write("Bufadero de la Garita, Gran Canaria, Spain (© Marco Bottigelli/Getty Images)")
+document.write("Grand Teton National Park, Wyoming, USA (© Kurt Budliger/TANDEM Stills + Motion)")
