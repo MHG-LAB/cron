@@ -1,1 +1,1 @@
-document.write("Swiftcurrent Lake, Glacier National Park, Montana, USA (© Jason Savage/Tandem Stills + Motion)")
+document.write("Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)")

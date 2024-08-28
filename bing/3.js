@@ -1,1 +1,1 @@
-document.write("Notting Hill Carnival on August 15, 2009, in London, England (© Dan Kitwood/Getty Images)")
+document.write("Swiftcurrent Lake, Glacier National Park, Montana, USA (© Jason Savage/Tandem Stills + Motion)")

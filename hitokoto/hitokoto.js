@@ -1,1 +1,1 @@
-document.write('不仅仅是太少，就算说没有也不为过。')
+document.write('Pain past is pleasure.')

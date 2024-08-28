@@ -1,1 +1,1 @@
-document.write("Aerial view of Ocean City, Maryland, USA (© Kevin Olson/Amazing Aerial Agency)")
+document.write("Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)")

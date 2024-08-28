@@ -1,1 +1,1 @@
-document.write("Grand Teton National Park, Wyoming, USA (© Kurt Budliger/TANDEM Stills + Motion)")
+document.write("Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)")

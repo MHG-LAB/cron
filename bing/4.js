@@ -1,1 +1,1 @@
-document.write("Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)")
+document.write("Notting Hill Carnival on August 15, 2009, in London, England (© Dan Kitwood/Getty Images)")
