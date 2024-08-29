@@ -1,1 +1,1 @@
-document.write('Pain past is pleasure.')
+document.write('心存善意，定能途遇天使。')
