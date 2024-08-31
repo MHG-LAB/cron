@@ -1,1 +1,1 @@
-document.write("Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)")
+document.write("Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)")
