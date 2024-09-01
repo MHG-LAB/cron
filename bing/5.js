@@ -1,1 +1,1 @@
-document.write("Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean (© Ian Shive/Tandem Stills + Motion)")
+document.write("Young black caiman, Tambopata National Reserve, Peru (© Maxime Aliaga/Minden Pictures)")
