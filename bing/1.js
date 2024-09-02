@@ -1,1 +1,1 @@
-document.write("Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)")
+document.write("River Thames, London, England (© Puthipong Worasaran/Getty Images)")
