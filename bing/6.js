@@ -1,1 +1,1 @@
-document.write("Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)")
+document.write("A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)")

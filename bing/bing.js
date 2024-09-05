@@ -1,1 +1,1 @@
-document.write("Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)")
+document.write("Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)")

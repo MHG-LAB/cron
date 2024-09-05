@@ -1,1 +1,1 @@
-document.write("Katahdin Woods and Waters National Monument, Penobscot County, Maine, USA (© Cavan Images/Alamy Stock Photo)")
+document.write("Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington, USA (© Mitch Pittman/Tandem Stills + Motion)")

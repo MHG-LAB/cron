@@ -1,1 +1,1 @@
-document.write("Montmartre and Sacre Cœur, Paris, France (© Tuul & Bruno Morandi/Getty Images)")
+document.write("Castellfollit de la Roca, Catalonia, Spain (© Eloi_Omella/Getty Images)")
