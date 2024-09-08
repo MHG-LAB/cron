@@ -1,1 +1,1 @@
-document.write("Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington, USA (© Mitch Pittman/Tandem Stills + Motion)")
+document.write("Dusky eagle-owls, Pakistan (© zahoor salmi/Getty Images)")

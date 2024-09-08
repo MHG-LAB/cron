@@ -1,1 +1,1 @@
-document.write("River Thames, London, England (© Puthipong Worasaran/Getty Images)")
+document.write("Katahdin Woods and Waters National Monument, Penobscot County, Maine, USA (© Cavan Images/Alamy Stock Photo)")

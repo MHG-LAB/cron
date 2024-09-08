@@ -1,1 +1,1 @@
-document.write('网球，不是用来制造仇恨的工具。')
+document.write('自知不自见，自爱不自贵')
