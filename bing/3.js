@@ -1,1 +1,1 @@
-document.write("Toronto city skyline seen from Lake Ontario, Canada (© Roberto Machado Noa/Getty Images)")
+document.write("Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)")

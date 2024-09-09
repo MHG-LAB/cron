@@ -1,1 +1,1 @@
-document.write('自知不自见，自爱不自贵')
+document.write('宝剑不磨要生锈；人不学习要落后')
