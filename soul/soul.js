@@ -1,1 +1,1 @@
-document.write('世界上脑残那么多，你却成了佼佼者。')
+document.write('你的美别人看不到，你的丑一目了然。')
