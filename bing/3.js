@@ -1,1 +1,1 @@
-document.write("Anna's hummingbird, Santa Cruz, California, USA (© yhelfman/Getty Images)")
+document.write("Tyne Bridge, England (© Glenn Gibson/iStock/Getty Images)")

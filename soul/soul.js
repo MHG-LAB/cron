@@ -1,1 +1,1 @@
-document.write('你的美别人看不到，你的丑一目了然。')
+document.write('我擅长做空A股，只要我一买，立刻跌。')
