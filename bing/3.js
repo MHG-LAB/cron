@@ -1,1 +1,1 @@
-document.write("Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)")
+document.write("Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)")

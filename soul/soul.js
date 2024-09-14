@@ -1,1 +1,1 @@
-document.write('垃圾还有大爷大妈捡走，你呢？')
+document.write('不喜欢你的人总有很多理由拒绝你')
