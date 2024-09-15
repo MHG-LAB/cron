@@ -1,1 +1,1 @@
-document.write("Tyne Bridge, England (© Glenn Gibson/iStock/Getty Images)")
+document.write("Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)")

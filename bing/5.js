@@ -1,1 +1,1 @@
-document.write("Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)")
+document.write("Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)")
