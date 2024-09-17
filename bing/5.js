@@ -1,1 +1,1 @@
-document.write("Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)")
+document.write("Dolphin pod near Réunion island, Indian Ocean, overseas department of France (©  Joost van Uffelen/Shutterstock)")

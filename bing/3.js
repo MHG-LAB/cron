@@ -1,1 +1,1 @@
-document.write("Dolphin pod near Réunion island, Indian Ocean, overseas department of France (©  Joost van Uffelen/Shutterstock)")
+document.write("Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)")

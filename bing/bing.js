@@ -1,1 +1,1 @@
-document.write("Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)")
+document.write("Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)")

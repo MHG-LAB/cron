@@ -1,1 +1,1 @@
-document.write("Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)")
+document.write("Point Reyes National Seashore Lighthouse, California, USA (©  RMB Images/Photography by Robert Bowman/Getty Images)")

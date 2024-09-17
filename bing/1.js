@@ -1,1 +1,1 @@
-document.write("Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)")
+document.write("Wallabies, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)")

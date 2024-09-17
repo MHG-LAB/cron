@@ -1,1 +1,1 @@
-document.write("Tyne Bridge, England (© Glenn Gibson/iStock/Getty Images)")
+document.write("Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)")

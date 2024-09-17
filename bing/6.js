@@ -1,1 +1,1 @@
-document.write("Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)")
+document.write("Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)")
