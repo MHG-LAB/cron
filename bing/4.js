@@ -1,1 +1,1 @@
-document.write("Point Reyes National Seashore Lighthouse, California, USA (©  RMB Images/Photography by Robert Bowman/Getty Images)")
+document.write("Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)")

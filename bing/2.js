@@ -1,1 +1,1 @@
-document.write("Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)")
+document.write("Wallabies, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)")
