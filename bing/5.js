@@ -1,1 +1,1 @@
-document.write("Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)")
+document.write("Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy Stock Photo)")

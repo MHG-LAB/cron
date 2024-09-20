@@ -1,1 +1,1 @@
-document.write("Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy Stock Photo)")
+document.write("Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)")
