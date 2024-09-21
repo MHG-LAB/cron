@@ -1,1 +1,1 @@
-document.write("Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)")
+document.write("Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)")
