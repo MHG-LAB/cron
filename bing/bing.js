@@ -1,1 +1,1 @@
-document.write("Buttermere, Lake District National Park, England (© Alan Novelli/Alamy Stock Photo)")
+document.write("Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)")

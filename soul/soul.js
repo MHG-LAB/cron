@@ -1,1 +1,1 @@
-document.write('机会，永远留给，有胸有颜的人。')
+document.write('我要没点自我安慰的本事，还真活不到现在。')
