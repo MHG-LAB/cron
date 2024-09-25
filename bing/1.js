@@ -1,1 +1,1 @@
-document.write("Sea otter, Prince William Sound, Alaska, USA (© Gerald Corsi/Getty Images)")
+document.write("Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)")
