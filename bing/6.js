@@ -1,1 +1,1 @@
-document.write("Oktoberfest in Munich from a high view at sunset (© AllesSuper21/iStock/Getty Images)")
+document.write("Buttermere, Lake District National Park, England (© Alan Novelli/Alamy Stock Photo)")
