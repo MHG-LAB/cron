@@ -1,1 +1,1 @@
-document.write('误解是解不开的。')
+document.write('生而为人，活已为人，卒以为人者，于此长眠。')
