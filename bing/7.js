@@ -1,1 +1,1 @@
-document.write("Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)")
+document.write("Giant sequoias, Sequoia National Park, California, USA (© Galyna Andrushko/Shutterstock)")

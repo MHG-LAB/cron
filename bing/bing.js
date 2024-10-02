@@ -1,1 +1,1 @@
-document.write("Statue of Mary Seacole, London, England (© Charles Bowman/Alamy Stock Photo)")
+document.write("Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)")
