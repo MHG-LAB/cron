@@ -1,1 +1,1 @@
-document.write("Loch Morlich, Cairngorms National Park, Scotland (© Arterra/Universal Images Group/Getty Images)")
+document.write("Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)")

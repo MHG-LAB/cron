@@ -1,1 +1,1 @@
-document.write("Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)")
+document.write("Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)")
