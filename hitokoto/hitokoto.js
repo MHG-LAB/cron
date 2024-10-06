@@ -1,1 +1,1 @@
-document.write('钻石很硬，但越硬就越脆。')
+document.write('有一天遇上过去的自己，我一定一巴掌扇上去。')

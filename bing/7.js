@@ -1,1 +1,1 @@
-document.write("Taj Mahal in Agra, Uttar Pradesh, India (© Tanarch/Getty Images)")
+document.write("West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)")

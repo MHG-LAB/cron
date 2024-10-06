@@ -1,1 +1,1 @@
-document.write("Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska, USA (© Design Pics/DanitaDelimont)")
+document.write("Loch Morlich, Cairngorms National Park, Scotland (© Arterra/Universal Images Group/Getty Images)")
