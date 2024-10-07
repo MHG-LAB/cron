@@ -1,1 +1,1 @@
-document.write("Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)")
+document.write("Statue of Mary Seacole, London, England (© Charles Bowman/Alamy Stock Photo)")

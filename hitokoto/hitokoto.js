@@ -1,1 +1,1 @@
-document.write('有一天遇上过去的自己，我一定一巴掌扇上去。')
+document.write('我马上去，我会用跑的！')
