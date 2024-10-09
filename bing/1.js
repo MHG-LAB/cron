@@ -1,1 +1,1 @@
-document.write("The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)")
+document.write("Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy Stock Photo)")
