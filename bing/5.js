@@ -1,1 +1,1 @@
-document.write("African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)")
+document.write("Cottonwoods through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah, USA (© Stephen Matera/TANDEM Stills + Motion)")

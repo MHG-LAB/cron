@@ -1,1 +1,1 @@
-document.write("Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)")
+document.write("African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)")

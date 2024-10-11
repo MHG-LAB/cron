@@ -1,1 +1,1 @@
-document.write("Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)")
+document.write("Grasmere, Lake District, Cumbria, England (© joe daniel price/Moment/Getty Images)")
