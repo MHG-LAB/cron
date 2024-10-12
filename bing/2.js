@@ -1,1 +1,1 @@
-document.write("Aspens near Marble, Colorado, USA (© Jason Hatfield/TANDEM Stills + Motion)")
+document.write("Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)")
