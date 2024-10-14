@@ -1,1 +1,1 @@
-document.write("Cottonwoods through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah, USA (© Stephen Matera/TANDEM Stills + Motion)")
+document.write("The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)")
