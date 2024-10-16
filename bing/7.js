@@ -1,1 +1,1 @@
-document.write("Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy Stock Photo)")
+document.write("Aspens near Marble, Colorado, USA (© Jason Hatfield/TANDEM Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)")
+document.write("Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)")
