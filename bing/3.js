@@ -1,1 +1,1 @@
-document.write("Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)")
+document.write("Coco Beach, Goa, India (© Abhinav Sah/Shutterstock)")
