@@ -1,1 +1,1 @@
-document.write("Grasmere, Lake District, Cumbria, England (© joe daniel price/Moment/Getty Images)")
+document.write("Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)")
