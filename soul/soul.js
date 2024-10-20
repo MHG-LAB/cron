@@ -1,1 +1,1 @@
-document.write('他没那么爱你，只是睡你比嫖来得便宜。')
+document.write('都说累成狗，其实狗没你那么累。')

@@ -1,1 +1,1 @@
-document.write("Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England (© Nature Picture Library/Alamy Stock Photo)")
+document.write("Kochia, Ibaraki Prefecture, Japan (© DigiPub/Getty Images)")
