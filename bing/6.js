@@ -1,1 +1,1 @@
-document.write("Coco Beach, Goa, India (© Abhinav Sah/Shutterstock)")
+document.write("Great wildebeest migration at Mara River, Kenya (© Ayzenstayn/Getty Images)")

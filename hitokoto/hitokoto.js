@@ -1,1 +1,1 @@
-document.write('我不要没有未来的未来！')
+document.write('人的眼睛为什么要长在前面，是为了要向前看。')
