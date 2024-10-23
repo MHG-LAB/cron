@@ -1,1 +1,1 @@
-document.write("Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)")
+document.write("Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)")
