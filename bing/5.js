@@ -1,1 +1,1 @@
-document.write("Autumn in Central Park, Manhattan, New York, USA (© mapman/Shutterstock)")
+document.write("Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)")
