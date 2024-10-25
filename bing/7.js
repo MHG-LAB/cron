@@ -1,1 +1,1 @@
-document.write("Kochia, Ibaraki Prefecture, Japan (© DigiPub/Getty Images)")
+document.write("Autumn in Central Park, Manhattan, New York, USA (© mapman/Shutterstock)")

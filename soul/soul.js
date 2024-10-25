@@ -1,1 +1,1 @@
-document.write('是金子总会发光，但你只是块肥肉。')
+document.write('喜欢一个人就去表白，万一，成备胎了呢？')
