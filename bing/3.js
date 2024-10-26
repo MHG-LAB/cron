@@ -1,1 +1,1 @@
-document.write("Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)")
+document.write("Madame Sherri Forest and the remnant of an old castle, New Hampshire, USA (© yggdrasill/Shutterstock)")
