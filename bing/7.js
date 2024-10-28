@@ -1,1 +1,1 @@
-document.write("Three-toed sloth in Costa Rica (© Harry Collins/Getty Images)")
+document.write("Cypress trees in George L Smith State Park, Georgia, USA (© Chris Moore/TANDEM Stills + Motion)")

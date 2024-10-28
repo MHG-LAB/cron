@@ -1,1 +1,1 @@
-document.write("Bodie State Historic Park, Mono County, California, USA (© Julien McRoberts/Tetra Images, LLC/Alamy Stock Photo)")
+document.write("Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)")
