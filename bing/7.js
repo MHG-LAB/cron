@@ -1,1 +1,1 @@
-document.write("Cypress trees in George L Smith State Park, Georgia, USA (© Chris Moore/TANDEM Stills + Motion)")
+document.write("Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)")
