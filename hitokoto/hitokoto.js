@@ -1,1 +1,1 @@
-document.write('一分耕耘，一分收获')
+document.write('善于发问的人，知识丰富')

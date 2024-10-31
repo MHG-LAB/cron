@@ -1,1 +1,1 @@
-document.write("View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy Stock Photo)")
+document.write("Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Mont Blanc in Chamonix, France (© Simon Schöpf/Getty Images)")
+document.write("Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)")
