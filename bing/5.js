@@ -1,1 +1,1 @@
-document.write("Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany (© mauritius images GmbH/Alamy Stock Photo)")
+document.write("The Balmoral Clocktower, Edinburgh (© Puthipong Worasaran/Moment/Getty Images)")
