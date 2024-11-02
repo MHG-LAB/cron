@@ -1,1 +1,1 @@
-document.write("Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy Stock Photo)")
+document.write("Great horned owl (© Mark Newman/Getty Images)")

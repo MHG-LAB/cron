@@ -1,1 +1,1 @@
-document.write("Great horned owl (© Mark Newman/Getty Images)")
+document.write("View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy Stock Photo)")
