@@ -1,1 +1,1 @@
-document.write("The Balmoral Clocktower, Edinburgh (© Puthipong Worasaran/Moment/Getty Images)")
+document.write("Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy Stock Photo)")
