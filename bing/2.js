@@ -1,1 +1,1 @@
-document.write("American bison in Yellowstone National Park, Wyoming, USA (© Ian Shive/TANDEM Stills + Motion)")
+document.write("Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)")
