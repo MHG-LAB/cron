@@ -1,1 +1,1 @@
-document.write("Fireworks at Bolton Priory, North Yorkshire on Guy Fawkes Night 2015 (© Thomas Holmes/Alamy Stock Photo)")
+document.write("Shi Shi Beach in Olympic National Park, Washington, USA (© T.M. Schultze/TANDEM Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("Aerial view of vineyards in autumn, Varnhalt, Black Forest, Germany (© Sabine Gerold/Amazing Aerial Agency)")
+document.write("American bison in Yellowstone National Park, Wyoming, USA (© Ian Shive/TANDEM Stills + Motion)")

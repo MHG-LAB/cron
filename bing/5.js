@@ -1,1 +1,1 @@
-document.write("Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)")
+document.write("Aerial view of vineyards in autumn, Varnhalt, Black Forest, Germany (© Sabine Gerold/Amazing Aerial Agency)")
