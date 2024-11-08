@@ -1,1 +1,1 @@
-document.write('只是，想要做些什么而已。 觉得不做些什么就会死掉而已。')
+document.write('Yes,my lord.')
