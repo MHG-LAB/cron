@@ -1,1 +1,1 @@
-document.write("Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)")
+document.write("Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Shi Shi Beach in Olympic National Park, Washington, USA (© T.M. Schultze/TANDEM Stills + Motion)")
+document.write("Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy Stock Photo)")
