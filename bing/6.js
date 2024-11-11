@@ -1,1 +1,1 @@
-document.write("Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)")
+document.write("Fireworks at Bolton Priory, North Yorkshire on Guy Fawkes Night 2015 (© Thomas Holmes/Alamy Stock Photo)")
