@@ -1,1 +1,1 @@
-document.write("Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada (© Nick Garbutt/Alamy Stock Photo)")
+document.write("Aerial view of glacial rivers in Iceland (© rybarmarekk/Shutterstock)")
