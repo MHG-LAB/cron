@@ -1,1 +1,1 @@
-document.write("Double Arch seen through Cove Arch, Arches National Park, Utah, USA (© Jeff Foott/Minden Pictures)")
+document.write("California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)")
