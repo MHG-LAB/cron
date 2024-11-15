@@ -1,1 +1,1 @@
-document.write("Aberystwyth war memorial, Wales (© ffotocymru/Alamy Stock Photo)")
+document.write("Banff National Park, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)")

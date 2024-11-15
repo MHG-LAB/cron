@@ -1,1 +1,1 @@
-document.write('树大必有枯枝，人多必有白痴。')
+document.write('不相信自己的人，连努力的价值都没有。')

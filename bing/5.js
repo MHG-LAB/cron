@@ -1,1 +1,1 @@
-document.write("Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)")
+document.write("Aberystwyth war memorial, Wales (© ffotocymru/Alamy Stock Photo)")
