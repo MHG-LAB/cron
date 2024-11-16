@@ -1,1 +1,1 @@
-document.write("Aberystwyth war memorial, Wales (© ffotocymru/Alamy Stock Photo)")
+document.write("Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)")

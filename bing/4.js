@@ -1,1 +1,1 @@
-document.write("Banff National Park, Alberta, Canada (© fywPhoto 云卷云舒/Getty Images)")
+document.write("Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)")
