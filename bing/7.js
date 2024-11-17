@@ -1,1 +1,1 @@
-document.write("Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)")
+document.write("Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write('脑子是个很棒的东西，希望你有。')
+document.write('我们都在努力地奔跑着，像狗一样')

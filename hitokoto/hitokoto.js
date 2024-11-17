@@ -1,1 +1,1 @@
-document.write('失去只是一瞬，一瞬的疏忽')
+document.write('第二，审判者无法经历死亡，因为会变得像人类。')
