@@ -1,1 +1,1 @@
-document.write("Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)")
+document.write("Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)")

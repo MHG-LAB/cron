@@ -1,1 +1,1 @@
-document.write("Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)")
+document.write("Double Arch seen through Cove Arch, Arches National Park, Utah (© Jeff Foott/Minden Pictures)")

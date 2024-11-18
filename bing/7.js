@@ -1,1 +1,1 @@
-document.write("Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)")
+document.write("Mural Wall, Korean War Veterans Memorial, Washington, DC (© Steve Tulley/Alamy)")
