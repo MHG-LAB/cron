@@ -1,1 +1,1 @@
-document.write("California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)")
+document.write("Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)")
