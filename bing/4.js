@@ -1,1 +1,1 @@
-document.write("Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)")
+document.write("Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)")

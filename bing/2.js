@@ -1,1 +1,1 @@
-document.write("Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)")
+document.write("Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)")
