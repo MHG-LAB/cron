@@ -1,1 +1,1 @@
-document.write("Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)")
+document.write("Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)")

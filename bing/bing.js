@@ -1,1 +1,1 @@
-document.write("Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)")
+document.write("Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)")
