@@ -1,1 +1,1 @@
-document.write('要不得谦词是废话')
+document.write('只要活着，哪里都是天堂')
