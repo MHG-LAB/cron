@@ -1,1 +1,1 @@
-document.write("Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)")
+document.write("Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)")

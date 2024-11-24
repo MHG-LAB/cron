@@ -1,1 +1,1 @@
-document.write("Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)")
+document.write("Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)")

@@ -1,1 +1,1 @@
-document.write('只要活着，哪里都是天堂')
+document.write('妹妹哟，我们总是把世界看做是游戏，这次终于出bug了。')
