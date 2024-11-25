@@ -1,1 +1,1 @@
-document.write("Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)")
+document.write("Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)")
