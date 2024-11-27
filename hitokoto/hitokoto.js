@@ -1,1 +1,1 @@
-document.write('一去不复返，一生仅此一次的真正告别。')
+document.write('请教别人不折本，舌头打个滚')

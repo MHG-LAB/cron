@@ -1,1 +1,1 @@
-document.write("Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)")
+document.write("Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)")

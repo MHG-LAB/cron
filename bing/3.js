@@ -1,1 +1,1 @@
-document.write("Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)")
+document.write("Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)")
