@@ -1,1 +1,1 @@
-document.write("Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)")
+document.write("Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)")
