@@ -1,1 +1,1 @@
-document.write("Tombeau du Géant (Giant's Tomb) in autumn, Bouillon, Belgium (© David Briard/Getty)")
+document.write("Wild turkeys, New York (© John Cancalosi/Alamy)")

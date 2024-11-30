@@ -1,1 +1,1 @@
-document.write('我不要没有未来的未来！')
+document.write('原谅别人，就是给自己心中留下空间，以便回旋')
