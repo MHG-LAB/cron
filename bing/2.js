@@ -1,1 +1,1 @@
-document.write("Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)")
+document.write("Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)")

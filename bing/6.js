@@ -1,1 +1,1 @@
-document.write("Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)")
+document.write("Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)")
