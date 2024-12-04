@@ -1,1 +1,1 @@
-document.write("Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)")
+document.write("Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)")

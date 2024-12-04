@@ -1,1 +1,1 @@
-document.write("Wild turkeys, New York (© John Cancalosi/Alamy)")
+document.write("Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)")
