@@ -1,1 +1,1 @@
-document.write("Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)")
+document.write("Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)")

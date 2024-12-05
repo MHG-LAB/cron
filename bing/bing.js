@@ -1,1 +1,1 @@
-document.write("Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)")
+document.write("Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)")
