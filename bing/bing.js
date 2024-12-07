@@ -1,1 +1,1 @@
-document.write("Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)")
+document.write("Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)")
