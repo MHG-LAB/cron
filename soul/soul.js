@@ -1,1 +1,1 @@
-document.write('想要逼死一个强迫症，那实在是太简了。')
+document.write('你们的女神只是有钱人的精盆')
