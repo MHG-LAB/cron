@@ -1,1 +1,1 @@
-document.write("Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)")
+document.write("Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)")
