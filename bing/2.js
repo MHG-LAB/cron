@@ -1,1 +1,1 @@
-document.write("Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)")
+document.write("Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)")

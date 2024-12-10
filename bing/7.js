@@ -1,1 +1,1 @@
-document.write("Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)")
+document.write("Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)")
