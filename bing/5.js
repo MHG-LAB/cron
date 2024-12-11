@@ -1,1 +1,1 @@
-document.write("Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)")
+document.write("Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)")
