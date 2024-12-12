@@ -1,1 +1,1 @@
-document.write('选择比努力更重要，所以我选择不努力')
+document.write('快去努力吧，以证明自己，智商低。')

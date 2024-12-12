@@ -1,1 +1,1 @@
-document.write('我们仰望著同一片天空却看著不同的地方')
+document.write('真正重要的东西，肉眼是看不到的。')
