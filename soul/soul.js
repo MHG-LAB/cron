@@ -1,1 +1,1 @@
-document.write('我的原则，只有三个字，看心情。')
+document.write('世界上脑残那么多，你却成了佼佼者。')

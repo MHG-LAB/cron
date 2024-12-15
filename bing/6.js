@@ -1,1 +1,1 @@
-document.write("Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)")
+document.write("Guanacos, Torres del Paine National Park, Chile (© Floris van Breugel/NPL/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("The Cornish Coast Path covered in snow, Land's End, Cornwall, England (© Josef FitzGerald-Patrick/Getty Images)")
+document.write("Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)")
