@@ -1,1 +1,1 @@
-document.write("Tre Cime di Lavaredo, Sexten Dolomites, Italy (© Daniel Maran/Getty Images)")
+document.write("Wild poinsettia (aka Christmas flower) (© David Hosking/NPL/Minden Pictures)")
