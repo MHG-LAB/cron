@@ -1,1 +1,1 @@
-document.write("Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)")
+document.write("Northern hawk-owl, Canada (© pchoui/Getty Images)")

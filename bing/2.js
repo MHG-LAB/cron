@@ -1,1 +1,1 @@
-document.write("Northern hawk-owl, Canada (© pchoui/Getty Images)")
+document.write("Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)")
