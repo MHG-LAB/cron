@@ -1,1 +1,1 @@
-document.write('还想过五四青年节，六一儿童节？属于你的只剩下三八节了。')
+document.write('相由薪生')
