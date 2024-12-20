@@ -1,1 +1,1 @@
-document.write("Salzburg, Austria (© bluejayphoto/Getty Images)")
+document.write("Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)")

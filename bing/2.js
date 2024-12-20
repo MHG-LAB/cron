@@ -1,1 +1,1 @@
-document.write("Traditional red fishermen's cabins on the shore of Reinefjorden, Norway (© Pilat666/Getty Images)")
+document.write("English National Ballet performing 'The Nutcracker' (© Caroline Holden/Alamy)")

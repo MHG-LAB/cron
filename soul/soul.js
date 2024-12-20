@@ -1,1 +1,1 @@
-document.write('相由薪生')
+document.write('人的眼光要放长远一点，你看看前路，是不是更加绝望了')

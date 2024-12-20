@@ -1,1 +1,1 @@
-document.write("Christmas market in Sibiu, Romania (© Calin Stan/Alamy)")
+document.write("Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)")

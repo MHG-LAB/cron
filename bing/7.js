@@ -1,1 +1,1 @@
-document.write("Wild poinsettia (aka Christmas flower) (© David Hosking/Minden Pictures)")
+document.write("Christmas market, St. Stephen's Basilica, Budapest, Hungary (© Calin Stan/Shutterstock)")
