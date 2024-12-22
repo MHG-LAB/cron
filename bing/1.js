@@ -1,1 +1,1 @@
-document.write("Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)")
+document.write("Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)")
