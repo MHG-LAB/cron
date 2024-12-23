@@ -1,1 +1,1 @@
-document.write("Lake Misurina, Dolomites, Italy (© Marco Bottigelli/Getty Images)")
+document.write("Salzburg, Austria (© bluejayphoto/Getty Images)")
