@@ -1,1 +1,1 @@
-document.write("Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)")
+document.write("Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)")
