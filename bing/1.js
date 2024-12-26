@@ -1,1 +1,1 @@
-document.write("Christmas market scene in Germany (© Cyril Gosselin/Getty Images)")
+document.write("Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Red-crowned cranes in Kushiro, Hokkaido, Japan (© Wirestock, Inc./Alamy)")
+document.write("Christmas market scene in Germany (© Cyril Gosselin/Getty Images)")

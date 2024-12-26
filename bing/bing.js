@@ -1,1 +1,1 @@
-document.write("Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)")
+document.write("Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)")
