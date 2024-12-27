@@ -1,1 +1,1 @@
-document.write("Loisach River at Lake Kochelsee, Bavaria, Germany (© Christian Back/eStock Photo)")
+document.write("Christmas tree at Crystal Pier, Pacific Beach, San Diego, California (© SamAntonioPhotography/Getty Images)")

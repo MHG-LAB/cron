@@ -1,1 +1,1 @@
-document.write("Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)")
+document.write("Lake Bled, Slovenia (© Kesu01/Getty Images)")
