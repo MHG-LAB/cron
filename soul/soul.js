@@ -1,1 +1,1 @@
-document.write('别低头，王冠会掉。摔坏了你可赔不起。')
+document.write('暑假定了一个PLAN，但我因为LAN，一个P都没完成')
