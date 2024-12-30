@@ -1,1 +1,1 @@
-document.write('暑假定了一个PLAN，但我因为LAN，一个P都没完成')
+document.write('他给你的爱会消逝，他给你的金钱却不会贬值。')
