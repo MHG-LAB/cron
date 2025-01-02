@@ -1,1 +1,1 @@
-document.write("Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)")
+document.write("Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)")

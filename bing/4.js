@@ -1,1 +1,1 @@
-document.write("A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)")
+document.write("Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)")
