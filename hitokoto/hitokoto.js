@@ -1,1 +1,1 @@
-document.write('雨为什么要下呢？如果是晴天就好了。')
+document.write('成长就是你将哭声调成静音的过程。')

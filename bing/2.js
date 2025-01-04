@@ -1,1 +1,1 @@
-document.write("Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)")
+document.write("Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)")
