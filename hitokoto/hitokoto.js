@@ -1,1 +1,1 @@
-document.write('成长就是你将哭声调成静音的过程。')
+document.write('日日行，不怕千万里；时时学，不怕千万卷')

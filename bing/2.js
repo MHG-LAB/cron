@@ -1,1 +1,1 @@
-document.write("Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)")
+document.write("The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)")
