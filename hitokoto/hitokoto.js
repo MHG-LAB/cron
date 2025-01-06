@@ -1,1 +1,1 @@
-document.write('日日行，不怕千万里；时时学，不怕千万卷')
+document.write('Yesterday you said tomorrow.')
