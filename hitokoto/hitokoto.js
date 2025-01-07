@@ -1,1 +1,1 @@
-document.write('Yesterday you said tomorrow.')
+document.write('比起已经实现梦想的人，正在追求梦想的人有时更能发挥实力啦！')
