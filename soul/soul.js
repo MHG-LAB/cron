@@ -1,1 +1,1 @@
-document.write('单身至今的原因是，熟人不好下手，生人不好开口。')
+document.write('别伤心了 没什么用')

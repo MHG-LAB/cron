@@ -1,1 +1,1 @@
-document.write("New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)")
+document.write("Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)")
