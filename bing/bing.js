@@ -1,1 +1,1 @@
-document.write("The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)")
+document.write("Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)")

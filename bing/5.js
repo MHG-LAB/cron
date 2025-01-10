@@ -1,1 +1,1 @@
-document.write("Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)")
+document.write("Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)")

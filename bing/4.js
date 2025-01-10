@@ -1,1 +1,1 @@
-document.write("Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)")
+document.write("Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)")
