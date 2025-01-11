@@ -1,1 +1,1 @@
-document.write("Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)")
+document.write("Snow on the Great Wall of China (© View Stock/Alamy)")

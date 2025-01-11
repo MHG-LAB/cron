@@ -1,1 +1,1 @@
-document.write("The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)")
+document.write("Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam (© Shane P. White/Minden Pictures)")
