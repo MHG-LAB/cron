@@ -1,1 +1,1 @@
-document.write("Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)")
+document.write("Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)")
