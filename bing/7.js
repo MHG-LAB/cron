@@ -1,1 +1,1 @@
-document.write("Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)")
+document.write("Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)")
