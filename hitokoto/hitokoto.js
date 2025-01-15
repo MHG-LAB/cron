@@ -1,1 +1,1 @@
-document.write('光说漂亮话，是无法改变世界的。')
+document.write('从小好女色的男人的想像力比不上狗。')
