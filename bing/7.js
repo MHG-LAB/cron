@@ -1,1 +1,1 @@
-document.write("Snow on the Great Wall of China (© View Stock/Alamy)")
+document.write("The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)")

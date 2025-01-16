@@ -1,1 +1,1 @@
-document.write('从小好女色的男人的想像力比不上狗。')
+document.write('怕问路，要迷路')
