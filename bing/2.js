@@ -1,1 +1,1 @@
-document.write("Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)")
+document.write("The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)")
