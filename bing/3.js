@@ -1,1 +1,1 @@
-document.write("The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)")
+document.write("High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)")

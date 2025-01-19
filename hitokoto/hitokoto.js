@@ -1,1 +1,1 @@
-document.write('我有在反省，但我不后悔。')
+document.write('Across the Great Wall, we can reach every corner in the world.')
