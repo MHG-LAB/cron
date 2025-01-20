@@ -1,1 +1,1 @@
-document.write('Across the Great Wall, we can reach every corner in the world.')
+document.write('即使与世界为敌,我也会保护她和她所在的世界。')

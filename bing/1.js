@@ -1,1 +1,1 @@
-document.write("Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)")
+document.write("Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)")

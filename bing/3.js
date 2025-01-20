@@ -1,1 +1,1 @@
-document.write("High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)")
+document.write("Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)")
