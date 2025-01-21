@@ -1,1 +1,1 @@
-document.write('即使与世界为敌,我也会保护她和她所在的世界。')
+document.write('来，让叔叔检查一下身体。')
