@@ -1,1 +1,1 @@
-document.write('每次想省钱的时候，就是你智商到达顶峰之时！')
+document.write('我不配')

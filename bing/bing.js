@@ -1,1 +1,1 @@
-document.write("Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)")
+document.write("Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)")
