@@ -1,1 +1,1 @@
-document.write("Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)")
+document.write("Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)")
