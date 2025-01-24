@@ -1,1 +1,1 @@
-document.write("Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)")
+document.write("Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)")
