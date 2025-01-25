@@ -1,1 +1,1 @@
-document.write("Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)")
+document.write("Porto, Portugal (© Starcevic/Getty Images)")
