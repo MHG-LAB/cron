@@ -1,1 +1,1 @@
-document.write("Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)")
+document.write("Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)")

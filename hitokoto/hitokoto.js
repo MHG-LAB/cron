@@ -1,1 +1,1 @@
-document.write('国者，无民不立，无王不兴。')
+document.write('语言是误解的源泉。')
