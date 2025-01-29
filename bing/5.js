@@ -1,1 +1,1 @@
-document.write("Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)")
+document.write("Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)")
