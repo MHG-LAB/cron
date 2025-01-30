@@ -1,1 +1,1 @@
-document.write("Porto, Portugal (© Starcevic/Getty Images)")
+document.write("European beech forest in Belgium (© Philippe Moes/Minden Pictures)")
