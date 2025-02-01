@@ -1,1 +1,1 @@
-document.write("Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)")
+document.write("National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)")

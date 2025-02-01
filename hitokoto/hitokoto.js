@@ -1,1 +1,1 @@
-document.write('不疯不魔不成活')
+document.write('痛苦的回忆会成为明天的粮食，使我们变得坚强。')

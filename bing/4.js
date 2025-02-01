@@ -1,1 +1,1 @@
-document.write("Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)")
+document.write("Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)")
