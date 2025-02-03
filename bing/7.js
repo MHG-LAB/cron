@@ -1,1 +1,1 @@
-document.write("European beech forest in Belgium (© Philippe Moes/Minden Pictures)")
+document.write("Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)")
+document.write("Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)")

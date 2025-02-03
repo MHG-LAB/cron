@@ -1,1 +1,1 @@
-document.write("Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)")
+document.write("Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England (© AWL Images/DanitaDelimont.com)")
