@@ -1,1 +1,1 @@
-document.write("La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)")
+document.write("Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)")
