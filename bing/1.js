@@ -1,1 +1,1 @@
-document.write("Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)")
+document.write("Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)")
