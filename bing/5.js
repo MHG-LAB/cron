@@ -1,1 +1,1 @@
-document.write("National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)")
+document.write("Young alpine marmot (© Jonas Fichtner-Pflaum/Getty Images)")
