@@ -1,1 +1,1 @@
-document.write("Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)")
+document.write("Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)")
