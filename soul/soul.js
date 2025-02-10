@@ -1,1 +1,1 @@
-document.write('比你优秀的人还在努力，你努力有什么用')
+document.write('今日复明日，明日何其多')
