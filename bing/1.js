@@ -1,1 +1,1 @@
-document.write("Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)")
+document.write("Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)")

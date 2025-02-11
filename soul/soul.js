@@ -1,1 +1,1 @@
-document.write('今日复明日，明日何其多')
+document.write('间歇性洗心革面，持续性混吃等死。')
