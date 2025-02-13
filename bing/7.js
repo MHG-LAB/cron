@@ -1,1 +1,1 @@
-document.write("Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)")
+document.write("Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)")

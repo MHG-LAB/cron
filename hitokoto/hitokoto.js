@@ -1,1 +1,1 @@
-document.write('我们不能让这次冒险之旅没有意义没有收获')
+document.write('不经过琢磨，宝石也不会发光')

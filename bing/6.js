@@ -1,1 +1,1 @@
-document.write("Archway Islands, Wharariki Beach, South Island, New Zealand (© Francesco Vaninetti/AWL/plainpicture)")
+document.write("Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)")
