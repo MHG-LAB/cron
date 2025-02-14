@@ -1,1 +1,1 @@
-document.write("Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)")
+document.write("Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)")

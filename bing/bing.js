@@ -1,1 +1,1 @@
-document.write("Lake Tyrrell, Victoria, Australia (© Monica Bertolazzi/Getty Images)")
+document.write("Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")

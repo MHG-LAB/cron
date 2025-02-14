@@ -1,1 +1,1 @@
-document.write("Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)")
+document.write("Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)")
