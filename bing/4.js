@@ -1,1 +1,1 @@
-document.write("Art installation of umbrellas at Borough Market in London, England (© Malcolm P Chapman/Getty Images)")
+document.write("Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)")
