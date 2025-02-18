@@ -1,1 +1,1 @@
-document.write("Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)")
+document.write("Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)")

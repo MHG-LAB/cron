@@ -1,1 +1,1 @@
-document.write("Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)")
+document.write("Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)")
