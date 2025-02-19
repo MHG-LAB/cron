@@ -1,1 +1,1 @@
-document.write("Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
+document.write("Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)")
