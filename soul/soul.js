@@ -1,1 +1,1 @@
-document.write('比三观更重要的是五官。')
+document.write('有些人一旦错过了，真特么谢天谢地。')
