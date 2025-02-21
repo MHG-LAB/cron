@@ -1,1 +1,1 @@
-document.write("Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)")
+document.write("European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)")

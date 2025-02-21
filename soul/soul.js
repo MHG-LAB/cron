@@ -1,1 +1,1 @@
-document.write('有些人一旦错过了，真特么谢天谢地。')
+document.write('攒了一年头皮屑，只为给你下场雪。')

@@ -1,1 +1,1 @@
-document.write('山吹花开千百重，堪怜竟无籽一粒。')
+document.write('不要欺骗自己最喜欢的东西。')
