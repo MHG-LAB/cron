@@ -1,1 +1,1 @@
-document.write('攒了一年头皮屑，只为给你下场雪。')
+document.write('行而上学，实在不行就别上了吧')

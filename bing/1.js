@@ -1,1 +1,1 @@
-document.write("Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)")
+document.write("Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)")

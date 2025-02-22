@@ -1,1 +1,1 @@
-document.write("Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)")
+document.write("The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)")
