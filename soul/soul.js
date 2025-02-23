@@ -1,1 +1,1 @@
-document.write('行而上学，实在不行就别上了吧')
+document.write('跟你谈钱的老板才是好人，跟你谈理想的，都TM不想给你钱！')

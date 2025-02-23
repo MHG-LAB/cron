@@ -1,1 +1,1 @@
-document.write("European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)")
+document.write("Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)")

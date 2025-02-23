@@ -1,1 +1,1 @@
-document.write("Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)")
+document.write("The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)")
