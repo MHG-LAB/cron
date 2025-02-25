@@ -1,1 +1,1 @@
-document.write("The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)")
+document.write("Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)")
