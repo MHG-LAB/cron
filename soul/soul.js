@@ -1,1 +1,1 @@
-document.write('不要放弃你的梦，继续睡！')
+document.write('你从来就没成功过，还怕什么失败？')
