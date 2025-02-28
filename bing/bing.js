@@ -1,1 +1,1 @@
-document.write("Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)")
+document.write("Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)")

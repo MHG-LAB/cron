@@ -1,1 +1,1 @@
-document.write('少罗嗦，你还不如虫子呢！')
+document.write('造烛求明，读书求理')
