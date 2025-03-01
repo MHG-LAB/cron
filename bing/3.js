@@ -1,1 +1,1 @@
-document.write("Sandstone hoodoos, Bryce Canyon National Park, Utah (© Stephen Matera/TANDEM Stills + Motion)")
+document.write("Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)")

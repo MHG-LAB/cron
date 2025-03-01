@@ -1,1 +1,1 @@
-document.write("The Gateway Arch in St. Louis, Missouri (© f11photo/Getty Images)")
+document.write("Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)")

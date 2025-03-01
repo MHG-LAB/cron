@@ -1,1 +1,1 @@
-document.write('造烛求明，读书求理')
+document.write('不相信自己的人，连努力的价值都没有。')

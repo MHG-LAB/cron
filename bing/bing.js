@@ -1,1 +1,1 @@
-document.write("Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)")
+document.write("Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)")
