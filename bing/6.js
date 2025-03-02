@@ -1,1 +1,1 @@
-document.write("Mount Fuji at sunrise, Lake Kawaguchi, Japan (© Twenty47studio/Getty Images)")
+document.write("Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia (© Gary Bell/Minden Pictures)")

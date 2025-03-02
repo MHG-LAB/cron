@@ -1,1 +1,1 @@
-document.write('不相信自己的人，连努力的价值都没有。')
+document.write('何人懂我心中寒？何人看穿我无言？')
