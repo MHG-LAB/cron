@@ -1,1 +1,1 @@
-document.write("Southern yellow-billed hornbills in Kruger National Park, South Africa (© Richard Du Toit/Minden Pictures)")
+document.write("Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)")
