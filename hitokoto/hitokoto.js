@@ -1,1 +1,1 @@
-document.write('博学而笃志，切问而近思')
+document.write('突然之间，我还想再在这个世上多活几天。')
