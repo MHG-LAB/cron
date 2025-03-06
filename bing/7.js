@@ -1,1 +1,1 @@
-document.write("Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)")
+document.write("Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)")

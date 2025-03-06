@@ -1,1 +1,1 @@
-document.write("Jackson Square, New Orleans, Louisiana (© SeanPavonePhoto/Getty Images)")
+document.write("Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)")
