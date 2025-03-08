@@ -1,1 +1,1 @@
-document.write("Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City (© Bettmann/Getty Images)")
+document.write("Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia (© Andrew Peacock/TANDEM Stills + Motion)")
