@@ -1,1 +1,1 @@
-document.write('做好人没希望，做坏人不擅长。')
+document.write('常在河边走，谁还会穿鞋。')
