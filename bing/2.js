@@ -1,1 +1,1 @@
-document.write("Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)")
+document.write("St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)")
