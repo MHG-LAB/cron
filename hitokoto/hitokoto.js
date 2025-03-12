@@ -1,1 +1,1 @@
-document.write('不管有多痛多受伤，真正受伤的人一定不是你自己。')
+document.write('钻石很硬，但越硬就越脆。')

@@ -1,1 +1,1 @@
-document.write("Plum blossoms in China (© zhikun sun/Getty Images)")
+document.write("Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)")
