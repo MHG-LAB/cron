@@ -1,1 +1,1 @@
-document.write("St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)")
+document.write("A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)")

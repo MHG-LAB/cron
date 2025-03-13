@@ -1,1 +1,1 @@
-document.write("Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)")
+document.write("Plum blossoms in China (© zhikun sun/Getty Images)")
