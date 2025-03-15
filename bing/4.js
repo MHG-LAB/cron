@@ -1,1 +1,1 @@
-document.write("A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda (© Gunter Nuyts/Getty Images)")
+document.write("Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)")

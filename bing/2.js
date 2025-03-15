@@ -1,1 +1,1 @@
-document.write("Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)")
+document.write("Holi celebration in Jaipur, India (© powerofforever/Getty Images)")
