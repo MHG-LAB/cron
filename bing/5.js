@@ -1,1 +1,1 @@
-document.write("Broken Beach in Nusa Penida, Bali, Indonesia (© joakimbkk/Getty Images)")
+document.write("Château de Sully-sur-Loire, Center-Val de Loire, France (© StockPhotoAstur/Shutterstock)")

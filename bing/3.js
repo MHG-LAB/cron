@@ -1,1 +1,1 @@
-document.write("Holi celebration in Jaipur, India (© powerofforever/Getty Images)")
+document.write("Dolmen of Sorginetxe, Basque Country, Álava, Spain (© David Herraez Calzada/plainpicture)")

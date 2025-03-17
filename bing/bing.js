@@ -1,1 +1,1 @@
-document.write("Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)")
+document.write("Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)")
