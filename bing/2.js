@@ -1,1 +1,1 @@
-document.write("The Temple of Saturn in the Roman Forum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)")
+document.write("Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)")
