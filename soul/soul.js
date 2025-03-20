@@ -1,1 +1,1 @@
-document.write('人生不如意，十之有十')
+document.write('王子拿着留下的43码水晶鞋陷入沉思')

@@ -1,1 +1,1 @@
-document.write("Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)")
+document.write("A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)")
