@@ -1,1 +1,1 @@
-document.write('纵使喝醉酒满嘴胡话，也有一句好想你发自肺腑')
+document.write('胜者为王 就这么简单')
