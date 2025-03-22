@@ -1,1 +1,1 @@
-document.write('胜者为王 就这么简单')
+document.write('毫无保护的地面，将会被风化，总有一天会被人遗忘的吧。')
