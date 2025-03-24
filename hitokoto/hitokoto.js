@@ -1,1 +1,1 @@
-document.write('志当存高远')
+document.write('既然无论怎样都会痛苦的话，我宁可选择守护它而痛苦。')

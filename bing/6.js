@@ -1,1 +1,1 @@
-document.write("Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)")
+document.write("Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)")
