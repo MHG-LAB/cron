@@ -1,1 +1,1 @@
-document.write("A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)")
+document.write("Spring daffodils glowing in morning light (© LedyX/Shutterstock)")
