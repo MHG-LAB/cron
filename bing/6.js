@@ -1,1 +1,1 @@
-document.write("Spring daffodils glowing in morning light (© LedyX/Shutterstock)")
+document.write("Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia (© Nick Garbutt/Alamy)")
