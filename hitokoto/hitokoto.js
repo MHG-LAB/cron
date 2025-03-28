@@ -1,1 +1,1 @@
-document.write('这份悲伤，总有一天会连接到坚强的彼方。')
+document.write('没有期盼就不会出现奇迹。')
