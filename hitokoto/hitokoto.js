@@ -1,1 +1,1 @@
-document.write('没有期盼就不会出现奇迹。')
+document.write('最艰苦之时，便是胜利将到之日')
