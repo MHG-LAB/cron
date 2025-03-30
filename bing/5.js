@@ -1,1 +1,1 @@
-document.write("Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)")
+document.write("Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)")

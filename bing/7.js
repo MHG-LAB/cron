@@ -1,1 +1,1 @@
-document.write("Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)")
+document.write("Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)")

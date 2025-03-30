@@ -1,1 +1,1 @@
-document.write("Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand (© Kim Petersen/Alamy)")
+document.write("Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)")
