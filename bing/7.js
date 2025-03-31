@@ -1,1 +1,1 @@
-document.write("Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)")
+document.write("Desert elephant with calf feeding on tall grass, Namibia (© Christophe Courteau/Minden Pictures)")

@@ -1,1 +1,1 @@
-document.write("Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)")
+document.write("Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)")

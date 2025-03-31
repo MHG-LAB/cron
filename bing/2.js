@@ -1,1 +1,1 @@
-document.write("Female black-naped monarch nesting (© komkrit tonusin/Alamy)")
+document.write("Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)")
