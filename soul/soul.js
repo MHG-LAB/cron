@@ -1,1 +1,1 @@
-document.write('间歇性踌躇满志，持续性混吃等死。')
+document.write('男人的嘴，骗人的鬼，全部都是大猪蹄子')

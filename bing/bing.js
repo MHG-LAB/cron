@@ -1,1 +1,1 @@
-document.write("Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)")
+document.write("Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)")
