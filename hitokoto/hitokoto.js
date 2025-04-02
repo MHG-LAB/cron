@@ -1,1 +1,1 @@
-document.write('以星星和睿智之名，吾等只追求真实。')
+document.write('少罗嗦，你还不如虫子呢！')

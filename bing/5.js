@@ -1,1 +1,1 @@
-document.write("Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)")
+document.write("Female black-naped monarch nesting (© komkrit tonusin/Alamy)")
