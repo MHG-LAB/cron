@@ -1,1 +1,1 @@
-document.write('少罗嗦，你还不如虫子呢！')
+document.write('就算记忆被消除了，还是请你和我做朋友吧。')

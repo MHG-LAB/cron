@@ -1,1 +1,1 @@
-document.write("Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)")
+document.write("Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)")
