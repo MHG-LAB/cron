@@ -1,1 +1,1 @@
-document.write("Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)")
+document.write("Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)")
