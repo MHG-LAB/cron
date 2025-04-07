@@ -1,1 +1,1 @@
-document.write("George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)")
+document.write("North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)")

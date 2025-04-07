@@ -1,1 +1,1 @@
-document.write("Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)")
+document.write("The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)")
