@@ -1,1 +1,1 @@
-document.write("North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)")
+document.write("Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)")

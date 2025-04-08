@@ -1,1 +1,1 @@
-document.write("Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)")
+document.write("Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)")
