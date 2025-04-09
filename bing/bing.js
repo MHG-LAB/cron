@@ -1,1 +1,1 @@
-document.write("Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)")
+document.write("Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)")

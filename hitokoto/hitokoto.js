@@ -1,1 +1,1 @@
-document.write('他偷走了非常贵重的东西，那就是你的心。')
+document.write('天下哪有真情在？只要够萌咱都爱！')
