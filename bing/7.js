@@ -1,1 +1,1 @@
-document.write("Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)")
+document.write("Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)")

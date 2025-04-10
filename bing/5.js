@@ -1,1 +1,1 @@
-document.write("The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)")
+document.write("Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)")
