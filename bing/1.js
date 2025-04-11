@@ -1,1 +1,1 @@
-document.write("Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)")
+document.write("Red fox cubs near their den (© WildMedia/Shutterstock)")
