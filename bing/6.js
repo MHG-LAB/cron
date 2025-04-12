@@ -1,1 +1,1 @@
-document.write("Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)")
+document.write("George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)")
