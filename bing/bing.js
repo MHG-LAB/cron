@@ -1,1 +1,1 @@
-document.write("View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)")
+document.write("Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)")

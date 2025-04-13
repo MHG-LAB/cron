@@ -1,1 +1,1 @@
-document.write("Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)")
+document.write("View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)")

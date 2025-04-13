@@ -1,1 +1,1 @@
-document.write("Benagil Cave, Algarve, Portugal (© Westend61/Getty Images)")
+document.write("Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)")
