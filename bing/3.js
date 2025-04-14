@@ -1,1 +1,1 @@
-document.write("Red fox cubs near their den (© WildMedia/Shutterstock)")
+document.write("Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)")

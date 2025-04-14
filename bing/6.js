@@ -1,1 +1,1 @@
-document.write("North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)")
+document.write("Benagil Cave, Algarve, Portugal (© Westend61/Getty Images)")
