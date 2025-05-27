@@ -9,7 +9,7 @@ on:
 jobs:
   download:
     if: github.repository == 'MHG-LAB/cron'
-    runs-on: Ubuntu-20.04
+    runs-on: Ubuntu-latest
     steps:
     - name: Download
       env:
