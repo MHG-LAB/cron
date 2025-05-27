@@ -1,1 +1,1 @@
-document.write("Red fox cubs near their den (© WildMedia/Shutterstock)")
+document.write("A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)")

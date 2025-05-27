@@ -1,1 +1,1 @@
-document.write("Tulip fields in Netherlands (© 1111IESPDJ/Getty Images)")
+document.write("Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)")

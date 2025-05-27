@@ -1,1 +1,1 @@
-document.write("View from the cupola of the International Space Station above the South Pacific Ocean (© NASA)")
+document.write("Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)")

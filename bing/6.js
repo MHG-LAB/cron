@@ -1,1 +1,1 @@
-document.write("Benagil Cave, Algarve, Portugal (© Westend61/Getty Images)")
+document.write("Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)")

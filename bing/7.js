@@ -1,1 +1,1 @@
-document.write("North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)")
+document.write("Honey bee on lavender flowers (© Anthony Brown/Alamy)")

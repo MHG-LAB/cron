@@ -1,1 +1,1 @@
-document.write("Wat Tang Sai Temple in Ban Krut, Thailand (© Ratnakorn Piyasirisorost/Getty Images)")
+document.write("Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)")
