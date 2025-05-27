@@ -51,10 +51,7 @@ jobs:
         cd ./hitokoto
         curl  -H "$HEAD" https://api.mhuig.top/hitokoto -o hitokoto.json
         curl  -H "$HEAD" https://api.mhuig.top/hitokoto/w -o hitokoto.js
-        cd ..
-        mkdir ./unsplash
-        cd ./unsplash
-        curl  -H "$HEAD" https://api.mhuig.top/unsplash -o unsplash.jpg
+
 
 
     - name: Deploy
@@ -93,6 +90,6 @@ jobs:
         curl https://purge.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/soul/soul.js
         curl https://purge.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/hitokoto/hitokoto.js
         curl https://purge.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/hitokoto/hitokoto.js
-        curl https://purge.jsdelivr.net/gh/MHG-LAB/cron@gh-pages/unsplash/unsplash.jpg
+        
 
 
