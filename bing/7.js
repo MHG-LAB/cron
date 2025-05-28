@@ -1,1 +1,1 @@
-document.write("Honey bee on lavender flowers (© Anthony Brown/Alamy)")
+document.write("Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)")

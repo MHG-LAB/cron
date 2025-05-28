@@ -1,1 +1,1 @@
-document.write("Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)")
+document.write("Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)")

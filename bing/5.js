@@ -1,1 +1,1 @@
-document.write("Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)")
+document.write("A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)")
