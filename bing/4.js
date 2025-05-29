@@ -1,1 +1,1 @@
-document.write("Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)")
+document.write("Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)")

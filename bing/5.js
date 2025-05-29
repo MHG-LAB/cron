@@ -1,1 +1,1 @@
-document.write("A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)")
+document.write("Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)")

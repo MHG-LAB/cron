@@ -1,1 +1,1 @@
-document.write("Tea garden at Yangjiatang Village, Songyang County, China (© feng xu/Getty Images)")
+document.write("Baobab trees at sunset, Avenue of the Baobabs, Madagascar (© Framalicious/Shutterstock)")
