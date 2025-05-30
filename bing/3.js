@@ -1,1 +1,1 @@
-document.write("Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)")
+document.write("Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)")

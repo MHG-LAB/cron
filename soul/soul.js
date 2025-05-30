@@ -1,1 +1,1 @@
-document.write('听君一席话，浪费十分钟。')
+document.write('做一天的好人并不难，难的是做一辈子有钱人。')
