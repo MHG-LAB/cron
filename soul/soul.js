@@ -1,1 +1,1 @@
-document.write('做一天的好人并不难，难的是做一辈子有钱人。')
+document.write('不要放弃你的梦，继续睡！')
