@@ -1,1 +1,1 @@
-document.write("Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)")
+document.write("Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)")
