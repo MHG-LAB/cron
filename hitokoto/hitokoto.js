@@ -1,1 +1,1 @@
-document.write('喜欢上一个人是没有理由的！')
+document.write('你的那双手呢，是为了紧紧抓住什么而存在的哦。')
