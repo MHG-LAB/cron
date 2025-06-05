@@ -1,1 +1,1 @@
-document.write("Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)")
+document.write("Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)")

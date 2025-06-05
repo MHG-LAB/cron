@@ -1,1 +1,1 @@
-document.write("Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York (© Marianne A. Campolongo/Alamy)")
+document.write("Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)")

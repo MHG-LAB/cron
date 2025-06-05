@@ -1,1 +1,1 @@
-document.write("Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)")
+document.write("Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)")
