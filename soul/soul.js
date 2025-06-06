@@ -1,1 +1,1 @@
-document.write('有时你会觉得自己就是个SB，别灰心，至少感觉是对的。')
+document.write('有些事，不说是个结，说了是个疤。')
