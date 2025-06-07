@@ -1,1 +1,1 @@
-document.write("The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)")
+document.write("Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)")

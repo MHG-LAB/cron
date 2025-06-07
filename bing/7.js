@@ -1,1 +1,1 @@
-document.write("Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)")
+document.write("Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)")

@@ -1,1 +1,1 @@
-document.write('有些事，不说是个结，说了是个疤。')
+document.write('别伤心了 没什么用')
