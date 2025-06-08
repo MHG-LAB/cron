@@ -1,1 +1,1 @@
-document.write("Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)")
+document.write("The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)")

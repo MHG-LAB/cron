@@ -1,1 +1,1 @@
-document.write('别伤心了 没什么用')
+document.write('如果一个人秒回了你，那只能说明，他刚好在玩手机。')

@@ -1,1 +1,1 @@
-document.write('你的谦逊会使别人感到高兴')
+document.write('所谓组织，人才济济的话是长久不了的。')
