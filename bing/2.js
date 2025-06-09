@@ -1,1 +1,1 @@
-document.write("Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)")
+document.write("Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)")
