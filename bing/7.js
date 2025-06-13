@@ -1,1 +1,1 @@
-document.write("Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)")
+document.write("Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)")

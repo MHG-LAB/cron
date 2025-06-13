@@ -1,1 +1,1 @@
-document.write("Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)")
+document.write("Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)")
