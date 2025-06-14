@@ -1,1 +1,1 @@
-document.write("Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)")
+document.write("Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)")

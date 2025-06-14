@@ -1,1 +1,1 @@
-document.write("Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)")
+document.write("Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)")

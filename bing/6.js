@@ -1,1 +1,1 @@
-document.write("Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)")
+document.write("Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)")
