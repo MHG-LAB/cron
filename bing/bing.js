@@ -1,1 +1,1 @@
-document.write("Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)")
+document.write("Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)")
