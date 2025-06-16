@@ -1,1 +1,1 @@
-document.write("Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)")
+document.write("Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)")
