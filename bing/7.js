@@ -1,1 +1,1 @@
-document.write("Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)")
+document.write("Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)")
