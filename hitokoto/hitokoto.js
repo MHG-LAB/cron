@@ -1,1 +1,1 @@
-document.write('智者千虑，必有一失；愚者千虑，必有一得')
+document.write('任何人都会有其所爱')

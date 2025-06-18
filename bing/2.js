@@ -1,1 +1,1 @@
-document.write("Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)")
+document.write("Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)")
