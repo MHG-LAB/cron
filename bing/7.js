@@ -1,1 +1,1 @@
-document.write("Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)")
+document.write("Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)")

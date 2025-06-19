@@ -1,1 +1,1 @@
-document.write('任何人都会有其所爱')
+document.write('你制定的计划是.txt还是.exe?')
