@@ -1,1 +1,1 @@
-document.write("Texas State Capitol in Austin (© joe daniel price/Getty Images)")
+document.write("Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)")
