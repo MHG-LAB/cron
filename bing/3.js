@@ -1,1 +1,1 @@
-document.write("Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)")
+document.write("Texas State Capitol in Austin (© joe daniel price/Getty Images)")

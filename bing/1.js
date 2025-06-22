@@ -1,1 +1,1 @@
-document.write("Seljalandsfoss waterfall at sunset, Iceland (© Tom Mackie/AWL/plainpicture)")
+document.write("Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)")
