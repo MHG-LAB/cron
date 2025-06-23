@@ -1,1 +1,1 @@
-document.write('什么都无法舍弃的人，什么都无法改变 。')
+document.write('心怀定见，六辔在手。')

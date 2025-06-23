@@ -1,1 +1,1 @@
-document.write("Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)")
+document.write("Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)")
