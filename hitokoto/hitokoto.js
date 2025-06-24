@@ -1,1 +1,1 @@
-document.write('心怀定见，六辔在手。')
+document.write('嗯，我的愿望是每天吃饱了睡睡饱了吃，啥事也不用干。')

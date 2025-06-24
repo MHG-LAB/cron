@@ -1,1 +1,1 @@
-document.write("Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)")
+document.write("Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)")
