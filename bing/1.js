@@ -1,1 +1,1 @@
-document.write("The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)")
+document.write("Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)")
