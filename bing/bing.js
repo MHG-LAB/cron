@@ -1,1 +1,1 @@
-document.write("St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)")
+document.write("The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Masai giraffe mother grooming her calf in the Serengeti, Tanzania (© Alberto Cassani/Getty Images)")
+document.write("Amazon rainforest, Ecuador (© Mark Fox/Getty Images)")
