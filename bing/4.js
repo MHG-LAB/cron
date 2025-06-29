@@ -1,1 +1,1 @@
-document.write("Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)")
+document.write("St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)")
