@@ -1,1 +1,1 @@
-document.write("Amazon rainforest, Ecuador (© Mark Fox/Getty Images)")
+document.write("The Elbe in Dresden, Germany (© Sean Pavone/Getty Images)")

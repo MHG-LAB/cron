@@ -1,1 +1,1 @@
-document.write("The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)")
+document.write("Splendid leaf frog (© Jan Stria/Shutterstock)")
