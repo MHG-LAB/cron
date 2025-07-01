@@ -1,1 +1,1 @@
-document.write("Rainbow flags at New York Pride (© Alan Schein/Getty Images)")
+document.write("Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)")
