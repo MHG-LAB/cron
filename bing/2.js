@@ -1,1 +1,1 @@
-document.write("Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)")
+document.write("Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)")
