@@ -1,1 +1,1 @@
-document.write("Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea (© Fred Bavendam/Nature Picture Library)")
+document.write("Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)")
