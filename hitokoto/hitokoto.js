@@ -1,1 +1,1 @@
-document.write('何人懂我心中寒？何人看穿我无言？')
+document.write('花开花落，再灿烂的星光也会消失。')

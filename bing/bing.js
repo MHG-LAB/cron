@@ -1,1 +1,1 @@
-document.write("Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)")
+document.write("Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)")

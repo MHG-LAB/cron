@@ -1,1 +1,1 @@
-document.write("Rainbow River in Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)")
+document.write("Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)")

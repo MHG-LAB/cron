@@ -1,1 +1,1 @@
-document.write("Splendid leaf frog (© Jan Stria/Shutterstock)")
+document.write("Rainbow flags at New York Pride (© Alan Schein/Getty Images)")
