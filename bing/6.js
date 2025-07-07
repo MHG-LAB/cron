@@ -1,1 +1,1 @@
-document.write("Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)")
+document.write("Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)")
