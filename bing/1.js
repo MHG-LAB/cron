@@ -1,1 +1,1 @@
-document.write("Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)")
+document.write("Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)")
