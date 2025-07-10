@@ -1,1 +1,1 @@
-document.write("Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)")
+document.write("Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)")
