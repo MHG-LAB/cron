@@ -1,1 +1,1 @@
-document.write('贞操是从丰富的爱情中生出来的资产。')
+document.write('只要是有益的话，小孩的话也要听')
