@@ -1,1 +1,1 @@
-document.write("Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)")
+document.write("Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)")
