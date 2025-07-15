@@ -1,1 +1,1 @@
-document.write("Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)")
+document.write("Tokyo at sunrise (© pongnathee kluaythong/Getty Images)")

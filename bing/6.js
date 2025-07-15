@@ -1,1 +1,1 @@
-document.write("Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)")
+document.write("Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)")
