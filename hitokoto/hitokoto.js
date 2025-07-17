@@ -1,1 +1,1 @@
-document.write('原来，你是货真价实的蠢货啊。')
+document.write('能实现梦想的只有你自己啊。')
