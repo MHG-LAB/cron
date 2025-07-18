@@ -1,1 +1,1 @@
-document.write('能实现梦想的只有你自己啊。')
+document.write('我经常怀念童年，它经久耐用，质量良好。')

@@ -1,1 +1,1 @@
-document.write("Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)")
+document.write("Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)")
