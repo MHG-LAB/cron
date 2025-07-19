@@ -1,1 +1,1 @@
-document.write("Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)")
+document.write("Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)")

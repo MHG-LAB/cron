@@ -1,1 +1,1 @@
-document.write("Tokyo at sunrise (© pongnathee kluaythong/Getty Images)")
+document.write("Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)")
