@@ -1,1 +1,1 @@
-document.write("Young blue shark swimming off the coast of Galicia, Spain (© Damocean/Getty Images)")
+document.write("Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)")
