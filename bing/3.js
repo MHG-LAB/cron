@@ -1,1 +1,1 @@
-document.write("Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)")
+document.write("The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)")
