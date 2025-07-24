@@ -1,1 +1,1 @@
-document.write("Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)")
+document.write("Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)")

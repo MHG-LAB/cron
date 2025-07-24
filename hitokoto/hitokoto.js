@@ -1,1 +1,1 @@
-document.write('坚强不是结果，是朝某个目标努力的过程！')
+document.write('志当存高远')
