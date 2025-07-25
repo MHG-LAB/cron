@@ -1,1 +1,1 @@
-document.write('志当存高远')
+document.write('不断的寻找希望，这才是真正的希望。')
