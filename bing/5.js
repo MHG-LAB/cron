@@ -1,1 +1,1 @@
-document.write("The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)")
+document.write("Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)")
