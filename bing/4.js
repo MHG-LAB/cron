@@ -1,1 +1,1 @@
-document.write("Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)")
+document.write("Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)")
