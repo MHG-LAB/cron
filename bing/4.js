@@ -1,1 +1,1 @@
-document.write("Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)")
+document.write("Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)")
