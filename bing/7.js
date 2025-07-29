@@ -1,1 +1,1 @@
-document.write("Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)")
+document.write("Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)")

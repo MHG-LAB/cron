@@ -1,1 +1,1 @@
-document.write("Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)")
+document.write("Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)")
