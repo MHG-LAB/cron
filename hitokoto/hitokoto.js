@@ -1,1 +1,1 @@
-document.write('一个人的生活方式决定一切，甚至人的思维')
+document.write('无论谁的心中，都有自己的歌。')

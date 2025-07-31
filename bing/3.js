@@ -1,1 +1,1 @@
-document.write("School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt (© Alex Mustard/Nature Picture Library)")
+document.write("Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)")
