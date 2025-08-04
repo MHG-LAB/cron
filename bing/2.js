@@ -1,1 +1,1 @@
-document.write("Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)")
+document.write("Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)")

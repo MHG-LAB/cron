@@ -1,1 +1,1 @@
-document.write("'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)")
+document.write("Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)")

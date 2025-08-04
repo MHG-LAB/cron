@@ -1,1 +1,1 @@
-document.write("Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)")
+document.write("Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Yurts in the grasslands of Mongolia (© Michel Arnault/Shutterstock)")
+document.write("Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)")
