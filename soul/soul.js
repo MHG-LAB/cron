@@ -1,1 +1,1 @@
-document.write('谁说你没有真爱，烦恼与你同在。')
+document.write('你以为事实有回应 实际叫天天不应')

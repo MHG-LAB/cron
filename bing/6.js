@@ -1,1 +1,1 @@
-document.write("Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)")
+document.write("'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)")
