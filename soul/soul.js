@@ -1,1 +1,1 @@
-document.write('你以为事实有回应 实际叫天天不应')
+document.write('突破瓶颈之后，发现还有瓶盖。')
