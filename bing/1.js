@@ -1,1 +1,1 @@
-document.write("Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)")
+document.write("Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)")

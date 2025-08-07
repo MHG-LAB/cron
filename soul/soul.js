@@ -1,1 +1,1 @@
-document.write('突破瓶颈之后，发现还有瓶盖。')
+document.write('失败是成功之母，但是成功六情不认。')
