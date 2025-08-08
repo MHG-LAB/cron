@@ -1,1 +1,1 @@
-document.write("Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)")
+document.write("Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)")
