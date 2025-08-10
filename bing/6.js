@@ -1,1 +1,1 @@
-document.write("Sunflowers in a field in summer (© Arsgera/Shutterstock)")
+document.write("Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)")

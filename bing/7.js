@@ -1,1 +1,1 @@
-document.write("Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)")
+document.write("Sunflowers in a field in summer (© Arsgera/Shutterstock)")
