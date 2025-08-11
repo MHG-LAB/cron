@@ -1,1 +1,1 @@
-document.write("Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)")
+document.write("Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)")
