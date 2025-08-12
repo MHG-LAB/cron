@@ -1,1 +1,1 @@
-document.write("Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)")
+document.write("Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)")
