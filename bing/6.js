@@ -1,1 +1,1 @@
-document.write("Gasparilla Island Rear Range Light, Boca Grande, Florida (© Wiltser/Getty Images)")
+document.write("Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)")

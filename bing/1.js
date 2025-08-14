@@ -1,1 +1,1 @@
-document.write("African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)")
+document.write("A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)")
