@@ -1,1 +1,1 @@
-document.write("Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)")
+document.write("Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)")

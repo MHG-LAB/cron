@@ -1,1 +1,1 @@
-document.write("Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)")
+document.write("African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)")

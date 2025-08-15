@@ -1,1 +1,1 @@
-document.write("A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)")
+document.write("Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)")

@@ -1,1 +1,1 @@
-document.write("Three Musketeers Falls at Iguazú Falls, Argentina (© Mark Meredith/Getty Images)")
+document.write("Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand (© Joppi/Getty Images)")
