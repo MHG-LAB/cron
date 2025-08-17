@@ -1,1 +1,1 @@
-document.write("Colorful beehives in Italy (© Roberto Caucino/Shutterstock)")
+document.write("Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)")

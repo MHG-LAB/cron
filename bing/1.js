@@ -1,1 +1,1 @@
-document.write("Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)")
+document.write("Colorful beehives in Italy (© Roberto Caucino/Shutterstock)")

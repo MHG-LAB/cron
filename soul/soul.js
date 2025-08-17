@@ -1,1 +1,1 @@
-document.write('钱不是万能的，但有钱真的可以为所欲为。')
+document.write('我爱你，你好，请问你是？')
