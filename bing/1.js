@@ -1,1 +1,1 @@
-document.write("Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)")
+document.write("Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)")

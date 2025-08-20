@@ -1,1 +1,1 @@
-document.write("African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)")
+document.write("Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)")

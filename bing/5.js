@@ -1,1 +1,1 @@
-document.write("A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)")
+document.write("Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)")

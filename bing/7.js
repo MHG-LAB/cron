@@ -1,1 +1,1 @@
-document.write("Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)")
+document.write("A man rappels off Corona Arch near Moab, Utah (© Grant Ordelheide/TANDEM Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write("Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)")
+document.write("Colorful beehives in Italy (© Roberto Caucino/Shutterstock)")

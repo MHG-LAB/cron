@@ -1,1 +1,1 @@
-document.write("Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)")
+document.write("The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)")

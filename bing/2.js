@@ -1,1 +1,1 @@
-document.write("Colorful beehives in Italy (© Roberto Caucino/Shutterstock)")
+document.write("Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)")

@@ -1,1 +1,1 @@
-document.write('一个不想蹚过小河的人，自然不想远涉重洋')
+document.write('我们只是活着，然后堕落而已')
