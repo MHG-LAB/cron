@@ -1,1 +1,1 @@
-document.write('现在流的泪，都是当初脑子进的水。')
+document.write('别伤心了 没什么用')
