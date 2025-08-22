@@ -1,1 +1,1 @@
-document.write('别伤心了 没什么用')
+document.write('我不需要性生活，生活每天都在强奸我。')

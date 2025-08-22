@@ -1,1 +1,1 @@
-document.write("Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)")
+document.write("Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)")
