@@ -1,1 +1,1 @@
-document.write('不断奔跑才是人生。')
+document.write('所谓世界，是指活着的人们。')
