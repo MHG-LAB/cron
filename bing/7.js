@@ -1,1 +1,1 @@
-document.write("Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)")
+document.write("Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)")
