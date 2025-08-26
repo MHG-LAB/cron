@@ -1,1 +1,1 @@
-document.write("Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)")
+document.write("Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)")

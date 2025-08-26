@@ -1,1 +1,1 @@
-document.write("Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)")
+document.write("Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)")

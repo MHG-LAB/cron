@@ -1,1 +1,1 @@
-document.write("Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)")
+document.write("The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)")
