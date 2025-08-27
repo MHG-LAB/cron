@@ -1,1 +1,1 @@
-document.write("The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)")
+document.write("Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)")
