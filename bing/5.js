@@ -1,1 +1,1 @@
-document.write("Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)")
+document.write("St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)")
