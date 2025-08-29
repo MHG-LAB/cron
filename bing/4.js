@@ -1,1 +1,1 @@
-document.write("European fallow deer, England (© Enrique Aguirre Aves/Getty Images)")
+document.write("Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)")

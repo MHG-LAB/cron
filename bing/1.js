@@ -1,1 +1,1 @@
-document.write("Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)")
+document.write("Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)")
