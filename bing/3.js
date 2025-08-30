@@ -1,1 +1,1 @@
-document.write("Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)")
+document.write("Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)")
