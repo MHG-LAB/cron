@@ -1,1 +1,1 @@
-document.write("Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)")
+document.write("Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)")

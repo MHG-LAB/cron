@@ -1,1 +1,1 @@
-document.write("St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)")
+document.write("European fallow deer, England (© Enrique Aguirre Aves/Getty Images)")
