@@ -1,1 +1,1 @@
-document.write("Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)")
+document.write("Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)")
