@@ -1,1 +1,1 @@
-document.write('我是一个经常笑的人，可我不是经常开心的人。')
+document.write('你愿意陪我走到地狱的底端吗？')
