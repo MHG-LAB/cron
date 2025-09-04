@@ -1,1 +1,1 @@
-document.write("Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)")
+document.write("Grizzly bears wrestling, Katmai National Park and Preserve, Alaska (© Cavan Images/Adobe Stock)")
