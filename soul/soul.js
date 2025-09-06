@@ -1,1 +1,1 @@
-document.write('一想到你，我的丑脸，就泛起微笑。')
+document.write('虽然你丑，但是你想得美啊！')
