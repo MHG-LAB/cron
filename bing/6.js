@@ -1,1 +1,1 @@
-document.write("Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)")
+document.write("Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)")
