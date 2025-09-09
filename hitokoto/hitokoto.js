@@ -1,1 +1,1 @@
-document.write('事情在还没开始做之前，千万不要放弃。')
+document.write('我很好奇！')
