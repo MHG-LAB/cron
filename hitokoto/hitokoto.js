@@ -1,1 +1,1 @@
-document.write('我很好奇！')
+document.write('不仅仅是太少，就算说没有也不为过。')

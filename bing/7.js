@@ -1,1 +1,1 @@
-document.write("Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)")
+document.write("Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)")
