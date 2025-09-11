@@ -1,1 +1,1 @@
-document.write("Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)")
+document.write("Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Library@orchard, Singapore (© Darwin Fan/Getty Images)")
+document.write("A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)")

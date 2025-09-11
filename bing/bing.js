@@ -1,1 +1,1 @@
-document.write("Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)")
+document.write("Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)")
