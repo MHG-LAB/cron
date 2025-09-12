@@ -1,1 +1,1 @@
-document.write('做事一定要考虑别人的感受，千万不能让他们太开心了。')
+document.write('我不配')

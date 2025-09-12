@@ -1,1 +1,1 @@
-document.write("Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)")
+document.write("Library@orchard, Singapore (© Darwin Fan/Getty Images)")

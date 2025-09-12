@@ -1,1 +1,1 @@
-document.write("Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)")
+document.write("Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)")
