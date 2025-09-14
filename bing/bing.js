@@ -1,1 +1,1 @@
-document.write("Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)")
+document.write("A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)")
