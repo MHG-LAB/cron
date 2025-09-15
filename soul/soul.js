@@ -1,1 +1,1 @@
-document.write('你不奋斗一下？怎么知道自己有多无能。')
+document.write('暑假定了一个PLAN，但我因为LAN，一个P都没完成')

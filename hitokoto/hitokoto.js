@@ -1,1 +1,1 @@
-document.write('不吃饭则饥，不读书则愚')
+document.write('因为太痛苦，害怕看清事实，所以不愿去面对。')
