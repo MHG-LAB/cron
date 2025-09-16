@@ -1,1 +1,1 @@
-document.write('暑假定了一个PLAN，但我因为LAN，一个P都没完成')
+document.write('不用在意别人怎么看你，你在意了，别人也看不上你。')
