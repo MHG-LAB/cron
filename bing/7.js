@@ -1,1 +1,1 @@
-document.write("A female Eurasian red squirrel carrying moss, Switzerland (© Jean-Luc and Francoise Ziegler/Minden Pictures)")
+document.write("Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)")

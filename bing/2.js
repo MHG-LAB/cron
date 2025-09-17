@@ -1,1 +1,1 @@
-document.write("A waterfall in Olympic National Park, Washington (© Chris Moore/TANDEM Stills + Motion)")
+document.write("Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)")
