@@ -1,1 +1,1 @@
-document.write("Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)")
+document.write("Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)")
