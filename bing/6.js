@@ -1,1 +1,1 @@
-document.write("Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt (© Franco Banfi/Nature Picture Library)")
+document.write("Chimney Rock, Point Reyes National Seashore, California (© Enrique Aguirre Aves/Getty Images)")
