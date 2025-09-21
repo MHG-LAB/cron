@@ -1,1 +1,1 @@
-document.write('逆境中不自弃，顺境中不张扬')
+document.write('有时失败的一瞬，也许是最真实的一刻。')
