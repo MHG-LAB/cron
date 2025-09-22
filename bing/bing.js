@@ -1,1 +1,1 @@
-document.write("Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)")
+document.write("Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)")

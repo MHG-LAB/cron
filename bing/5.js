@@ -1,1 +1,1 @@
-document.write("Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)")
+document.write("Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)")

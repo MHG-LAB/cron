@@ -1,1 +1,1 @@
-document.write("Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas (© Ken Hurst/Alamy)")
+document.write("Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)")
