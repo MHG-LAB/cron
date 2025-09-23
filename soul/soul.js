@@ -1,1 +1,1 @@
-document.write('自古情深留不住，总是套路得人心。')
+document.write('再不疯狂就老了，疯狂过后发现老的更快。')

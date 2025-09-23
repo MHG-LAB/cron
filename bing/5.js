@@ -1,1 +1,1 @@
-document.write("Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)")
+document.write("Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)")
