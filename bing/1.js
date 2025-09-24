@@ -1,1 +1,1 @@
-document.write("Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)")
+document.write("Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)")
