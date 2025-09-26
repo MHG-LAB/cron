@@ -1,1 +1,1 @@
-document.write('生尽欢，死无憾。')
+document.write('不是已经告别这个世界，不再回头了吗？')

@@ -1,1 +1,1 @@
-document.write("Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)")
+document.write("Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)")

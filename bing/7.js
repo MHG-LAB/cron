@@ -1,1 +1,1 @@
-document.write("Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)")
+document.write("Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)")
