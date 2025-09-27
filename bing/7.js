@@ -1,1 +1,1 @@
-document.write("Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)")
+document.write("Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)")

@@ -1,1 +1,1 @@
-document.write('不是已经告别这个世界，不再回头了吗？')
+document.write('我相信雨是云的尸体，埋葬人间。')

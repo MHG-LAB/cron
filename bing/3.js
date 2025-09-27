@@ -1,1 +1,1 @@
-document.write("Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)")
+document.write("Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)")
