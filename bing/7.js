@@ -1,1 +1,1 @@
-document.write("Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)")
+document.write("Sea otters, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)")
