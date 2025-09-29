@@ -1,1 +1,1 @@
-document.write("Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)")
+document.write("Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)")
