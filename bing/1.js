@@ -1,1 +1,1 @@
-document.write("The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)")
+document.write("Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)")
