@@ -1,1 +1,1 @@
-document.write("Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)")
+document.write("Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)")
