@@ -1,1 +1,1 @@
-document.write("Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)")
+document.write("Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)")

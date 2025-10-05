@@ -1,1 +1,1 @@
-document.write("Heather growing in Glen Brittle, Isle of Skye, Scotland (© Adam Mowery/TANDEM Stills + Motion)")
+document.write("ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)")

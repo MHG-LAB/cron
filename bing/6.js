@@ -1,1 +1,1 @@
-document.write("Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)")
+document.write("The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)")
