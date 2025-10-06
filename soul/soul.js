@@ -1,1 +1,1 @@
-document.write('你敬人一寸，他将得寸进尺。')
+document.write('没有人瞧不起你，因为根本就没有人瞧你。')
