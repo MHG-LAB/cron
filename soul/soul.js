@@ -1,1 +1,1 @@
-document.write('没有人瞧不起你，因为根本就没有人瞧你。')
+document.write('有缘千里来相会，无缘倒也省话费')
