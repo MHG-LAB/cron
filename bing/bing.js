@@ -1,1 +1,1 @@
-document.write("The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)")
+document.write("Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)")
