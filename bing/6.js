@@ -1,1 +1,1 @@
-document.write("ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)")
+document.write("Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)")
