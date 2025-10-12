@@ -1,1 +1,1 @@
-document.write("Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)")
+document.write("Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)")

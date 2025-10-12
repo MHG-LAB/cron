@@ -1,1 +1,1 @@
-document.write("Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)")
+document.write("The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)")

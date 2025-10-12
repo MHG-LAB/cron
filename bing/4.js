@@ -1,1 +1,1 @@
-document.write("Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)")
+document.write("Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)")

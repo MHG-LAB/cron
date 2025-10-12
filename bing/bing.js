@@ -1,1 +1,1 @@
-document.write("Wood duck hen (© ps50ace/iStock/Getty Images)")
+document.write("Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)")
