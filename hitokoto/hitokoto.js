@@ -1,1 +1,1 @@
-document.write('让朋友低估你的优点，让敌人高估你的缺点')
+document.write('我在人生道路上迷失了方向。')
