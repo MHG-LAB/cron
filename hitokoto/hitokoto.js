@@ -1,1 +1,1 @@
-document.write('我在人生道路上迷失了方向。')
+document.write('只要有想见的人，就不再是孤身一人了')
