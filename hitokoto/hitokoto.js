@@ -1,1 +1,1 @@
-document.write('无论是网络还是手机，能用来的只是联络而不是交流。')
+document.write('隔壁薯片半价！')

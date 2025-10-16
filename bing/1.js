@@ -1,1 +1,1 @@
-document.write("Village of Oia, Santorini, Greece (© f9photos/Getty Images)")
+document.write("Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)")
