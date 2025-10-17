@@ -1,1 +1,1 @@
-document.write("Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)")
+document.write("House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)")

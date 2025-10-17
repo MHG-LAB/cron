@@ -1,1 +1,1 @@
-document.write('隔壁薯片半价！')
+document.write('你还是老样子啊，事情总是往坏处想。')

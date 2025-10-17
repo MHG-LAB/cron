@@ -1,1 +1,1 @@
-document.write("House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)")
+document.write("Village of Oia, Santorini, Greece (© f9photos/Getty Images)")
