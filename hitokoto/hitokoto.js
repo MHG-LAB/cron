@@ -1,1 +1,1 @@
-document.write('你还是老样子啊，事情总是往坏处想。')
+document.write('信念，是会化不可能为可能的')

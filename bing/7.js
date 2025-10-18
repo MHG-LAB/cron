@@ -1,1 +1,1 @@
-document.write("Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)")
+document.write("Wood duck hen (© ps50ace/iStock/Getty Images)")
