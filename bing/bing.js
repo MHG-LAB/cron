@@ -1,1 +1,1 @@
-document.write("Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)")
+document.write("Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)")

@@ -1,1 +1,1 @@
-document.write('信念，是会化不可能为可能的')
+document.write('惊喜是个双黄蛋，绝望就是个双黄连。')

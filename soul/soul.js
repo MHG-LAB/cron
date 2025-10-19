@@ -1,1 +1,1 @@
-document.write('聽說七月鬼門快開了，你總算不是孤家寡人了。')
+document.write('一懒众衫小，薪尽自然凉。')
