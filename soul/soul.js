@@ -1,1 +1,1 @@
-document.write('一懒众衫小，薪尽自然凉。')
+document.write('别人有成就才说平凡可贵，你那是碌碌无为')
