@@ -1,1 +1,1 @@
-document.write("Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)")
+document.write("Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)")

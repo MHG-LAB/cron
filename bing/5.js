@@ -1,1 +1,1 @@
-document.write("Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)")
+document.write("Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)")
