@@ -1,1 +1,1 @@
-document.write("A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)")
+document.write("Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)")
