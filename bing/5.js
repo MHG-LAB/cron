@@ -1,1 +1,1 @@
-document.write("Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)")
+document.write("Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)")
