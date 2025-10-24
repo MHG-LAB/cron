@@ -1,1 +1,1 @@
-document.write('别说你一无所有，你还有一身债。')
+document.write('你妹是个好姑娘，替你妈分担了很多。')

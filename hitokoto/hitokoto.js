@@ -1,1 +1,1 @@
-document.write('即使想放弃，也没法放弃最想要的东西，这就是人')
+document.write('自己的归宿自己来决定')
