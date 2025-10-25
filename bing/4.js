@@ -1,1 +1,1 @@
-document.write("A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)")
+document.write("A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)")

@@ -1,1 +1,1 @@
-document.write('自己的归宿自己来决定')
+document.write('少年终将为王。')

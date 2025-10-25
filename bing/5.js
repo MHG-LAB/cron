@@ -1,1 +1,1 @@
-document.write("Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)")
+document.write("A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)")
