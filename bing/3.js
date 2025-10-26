@@ -1,1 +1,1 @@
-document.write("Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)")
+document.write("Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)")
