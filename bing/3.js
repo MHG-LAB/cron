@@ -1,1 +1,1 @@
-document.write("Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)")
+document.write("Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)")

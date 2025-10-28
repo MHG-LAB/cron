@@ -1,1 +1,1 @@
-document.write('少年征战，终将为王。')
+document.write('只要是有益的话，小孩的话也要听')
