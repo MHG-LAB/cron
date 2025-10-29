@@ -1,1 +1,1 @@
-document.write("Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)")
+document.write("Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)")

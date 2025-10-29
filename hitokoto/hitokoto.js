@@ -1,1 +1,1 @@
-document.write('只要是有益的话，小孩的话也要听')
+document.write('我要亲手击杀这乱世，并狠狠地还上一刀。')

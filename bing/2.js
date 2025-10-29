@@ -1,1 +1,1 @@
-document.write("Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)")
+document.write("Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)")
