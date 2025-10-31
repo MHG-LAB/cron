@@ -1,1 +1,1 @@
-document.write("Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)")
+document.write("Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)")

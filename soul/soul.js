@@ -1,1 +1,1 @@
-document.write('人生会遇到不少苦涩的事。可是等你成功跨过去了，就能遇到更苦的了。')
+document.write('考试真是so easy，哪里不会考哪里！')
