@@ -1,1 +1,1 @@
-document.write('考试真是so easy，哪里不会考哪里！')
+document.write('做人要谦虚，多听听他人的意见，然后认真记下他们的名字。')
