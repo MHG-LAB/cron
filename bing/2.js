@@ -1,1 +1,1 @@
-document.write("Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)")
+document.write("Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)")
