@@ -1,1 +1,1 @@
-document.write('爱人者，人恒爱之。敬人者，人恒敬之')
+document.write('被留到最后的，可不一定是希望啊。')
