@@ -1,1 +1,1 @@
-document.write("Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)")
+document.write("Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)")
