@@ -1,1 +1,1 @@
-document.write("Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)")
+document.write("Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)")

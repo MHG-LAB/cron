@@ -1,1 +1,1 @@
-document.write('世上无难事 只要肯放弃')
+document.write('最近一个月，总有那么三十天很不顺。')

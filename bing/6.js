@@ -1,1 +1,1 @@
-document.write("Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)")
+document.write("Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)")
