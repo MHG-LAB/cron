@@ -1,1 +1,1 @@
-document.write("Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)")
+document.write("Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)")

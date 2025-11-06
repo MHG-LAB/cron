@@ -1,1 +1,1 @@
-document.write('最近一个月，总有那么三十天很不顺。')
+document.write('可以不劳而获的，只有年纪和脂肪。')
