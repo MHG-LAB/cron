@@ -1,1 +1,1 @@
-document.write('纵然如斯，亦候永世。')
+document.write('知识是智慧的火炬')

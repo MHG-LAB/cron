@@ -1,1 +1,1 @@
-document.write('可以不劳而获的，只有年纪和脂肪。')
+document.write('你努力做到最好，还不如别人随便搞搞。')
