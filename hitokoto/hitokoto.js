@@ -1,1 +1,1 @@
-document.write('知识是智慧的火炬')
+document.write('过分的神圣，往往比恶魔更加恶质。')
