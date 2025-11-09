@@ -1,1 +1,1 @@
-document.write("Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)")
+document.write("Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)")
