@@ -1,1 +1,1 @@
-document.write("Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)")
+document.write("Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)")
