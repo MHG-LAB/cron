@@ -1,1 +1,1 @@
-document.write("Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)")
+document.write("Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)")

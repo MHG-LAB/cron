@@ -1,1 +1,1 @@
-document.write("Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)")
+document.write("Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)")
