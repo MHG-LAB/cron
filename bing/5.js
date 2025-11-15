@@ -1,1 +1,1 @@
-document.write("Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)")
+document.write("Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)")
