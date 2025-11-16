@@ -1,1 +1,1 @@
-document.write("Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)")
+document.write("Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)")
