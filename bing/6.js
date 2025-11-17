@@ -1,1 +1,1 @@
-document.write("Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)")
+document.write("Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)")

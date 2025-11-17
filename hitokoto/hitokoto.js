@@ -1,1 +1,1 @@
-document.write('世上本没男神，装的人多了，也就有了。')
+document.write('一生一念·一念一人')
