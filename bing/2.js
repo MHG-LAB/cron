@@ -1,1 +1,1 @@
-document.write("Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)")
+document.write("Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)")

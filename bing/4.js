@@ -1,1 +1,1 @@
-document.write("Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)")
+document.write("Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)")

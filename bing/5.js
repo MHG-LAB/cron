@@ -1,1 +1,1 @@
-document.write("Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)")
+document.write("Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)")

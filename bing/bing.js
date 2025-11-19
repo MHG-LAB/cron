@@ -1,1 +1,1 @@
-document.write("Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)")
+document.write("Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)")

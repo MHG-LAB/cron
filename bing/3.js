@@ -1,1 +1,1 @@
-document.write("Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)")
+document.write("A traboule in Lyon, France (© TPopova/Getty Images)")

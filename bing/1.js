@@ -1,1 +1,1 @@
-document.write("A traboule in Lyon, France (© TPopova/Getty Images)")
+document.write("Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)")

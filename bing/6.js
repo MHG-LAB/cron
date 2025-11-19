@@ -1,1 +1,1 @@
-document.write("Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)")
+document.write("Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)")
