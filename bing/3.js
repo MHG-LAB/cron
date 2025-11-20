@@ -1,1 +1,1 @@
-document.write("A traboule in Lyon, France (© TPopova/Getty Images)")
+document.write("Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)")

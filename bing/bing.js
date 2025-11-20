@@ -1,1 +1,1 @@
-document.write("Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)")
+document.write("Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)")
