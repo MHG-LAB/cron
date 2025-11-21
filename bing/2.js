@@ -1,1 +1,1 @@
-document.write("Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)")
+document.write("Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)")
+document.write("Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)")
