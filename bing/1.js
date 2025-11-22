@@ -1,1 +1,1 @@
-document.write("Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)")
+document.write("Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
