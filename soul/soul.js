@@ -1,1 +1,1 @@
-document.write('我以为我们能一起走到最后，谁知道，你走了两步就要打车。')
+document.write('有钱者，事竟成')

@@ -1,1 +1,1 @@
-document.write('呐，你曾说过想要妹妹对吧？')
+document.write('当太阳到达最高点，影子就会消失。')

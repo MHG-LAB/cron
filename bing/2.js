@@ -1,1 +1,1 @@
-document.write("Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)")
+document.write("Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)")
