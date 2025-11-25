@@ -1,1 +1,1 @@
-document.write('有钱者，事竟成')
+document.write('失败也是成功的一部分，在哪里跌倒，就在哪里讹人。')

@@ -1,1 +1,1 @@
-document.write('当太阳到达最高点，影子就会消失。')
+document.write('创造未来的不是命运。')
