@@ -1,1 +1,1 @@
-document.write('人类最强烈的感情就是憎恨！')
+document.write('最艰苦之时，便是胜利将到之日')
