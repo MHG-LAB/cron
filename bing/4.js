@@ -1,1 +1,1 @@
-document.write("Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)")
+document.write("The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)")
