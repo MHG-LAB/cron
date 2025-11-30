@@ -1,1 +1,1 @@
-document.write("Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)")
+document.write("Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)")
