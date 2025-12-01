@@ -1,1 +1,1 @@
-document.write("Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)")
+document.write("Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)")

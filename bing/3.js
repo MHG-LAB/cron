@@ -1,1 +1,1 @@
-document.write("Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)")
+document.write("Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)")

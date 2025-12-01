@@ -1,1 +1,1 @@
-document.write("Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)")
+document.write("Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)")
