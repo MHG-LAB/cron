@@ -1,1 +1,1 @@
-document.write("The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)")
+document.write("Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)")

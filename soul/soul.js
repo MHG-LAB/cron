@@ -1,1 +1,1 @@
-document.write('有些事，不说是个结，说了是个疤。')
+document.write('人生就像一个茶几，上面摆满了杯具。')
