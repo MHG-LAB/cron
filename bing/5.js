@@ -1,1 +1,1 @@
-document.write("Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)")
+document.write("Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)")

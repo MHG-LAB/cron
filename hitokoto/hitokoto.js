@@ -1,1 +1,1 @@
-document.write('无他，凭心而行，后果自负而已')
+document.write('她走了，一位风一般的佳人。')
