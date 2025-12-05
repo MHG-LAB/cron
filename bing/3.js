@@ -1,1 +1,1 @@
-document.write("Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)")
+document.write("Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)")

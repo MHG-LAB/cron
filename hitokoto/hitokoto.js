@@ -1,1 +1,1 @@
-document.write('她走了，一位风一般的佳人。')
+document.write('我一如既往，怎么会变呢')
