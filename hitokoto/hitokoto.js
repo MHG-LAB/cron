@@ -1,1 +1,1 @@
-document.write('我一如既往，怎么会变呢')
+document.write('不问的人永远和愚昧在一起')
