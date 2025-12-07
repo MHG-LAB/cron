@@ -1,1 +1,1 @@
-document.write('不问的人永远和愚昧在一起')
+document.write('我除了投三分，就什么都没有了⋯⋯')
