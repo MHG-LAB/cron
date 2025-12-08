@@ -1,1 +1,1 @@
-document.write("Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)")
+document.write("Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)")

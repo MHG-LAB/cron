@@ -1,1 +1,1 @@
-document.write("Maya site of Copán, Honduras (© diegograndi/Getty Images)")
+document.write("Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)")
