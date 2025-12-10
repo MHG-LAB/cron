@@ -1,1 +1,1 @@
-document.write("Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)")
+document.write("Maya site of Copán, Honduras (© diegograndi/Getty Images)")

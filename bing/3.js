@@ -1,1 +1,1 @@
-document.write("Spider webs in Everglades National Park, Florida (© Troy Harrison/Getty Images)")
+document.write("USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)")

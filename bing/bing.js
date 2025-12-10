@@ -1,1 +1,1 @@
-document.write("Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)")
+document.write("Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)")
