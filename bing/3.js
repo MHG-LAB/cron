@@ -1,1 +1,1 @@
-document.write("USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii (© Jessica O. Blackwell/APFootage/Alamy)")
+document.write("Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)")

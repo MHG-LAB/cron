@@ -1,1 +1,1 @@
-document.write("Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)")
+document.write("Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)")

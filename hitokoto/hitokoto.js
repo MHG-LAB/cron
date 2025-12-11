@@ -1,1 +1,1 @@
-document.write('常胜之王在此高深唱响手中所持奇迹的真名。其名曰： 誓约胜利之剑excalibur')
+document.write('不认输，不逃避，世上没有不停的雨')

@@ -1,1 +1,1 @@
-document.write("Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)")
+document.write("Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)")
