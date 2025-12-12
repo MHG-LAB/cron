@@ -1,1 +1,1 @@
-document.write('不认输，不逃避，世上没有不停的雨')
+document.write('世界不是天才创造的')
