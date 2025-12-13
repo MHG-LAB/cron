@@ -1,1 +1,1 @@
-document.write('世界不是天才创造的')
+document.write('像平常的你一样引发奇迹吧-')
