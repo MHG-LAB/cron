@@ -1,1 +1,1 @@
-document.write("Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)")
+document.write("Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)")
