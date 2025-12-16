@@ -1,1 +1,1 @@
-document.write("Spotted poinsettia (© DigiPub/Getty Images)")
+document.write("Merced River, Yosemite National Park, California (© Ron and Patty Thomas/Getty Images)")
