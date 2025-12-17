@@ -1,1 +1,1 @@
-document.write("Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)")
+document.write("Spotted poinsettia (© DigiPub/Getty Images)")

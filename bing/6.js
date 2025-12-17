@@ -1,1 +1,1 @@
-document.write("Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)")
+document.write("Summit of Mount Everest at sunset, seen from Renjo La, Nepal (© shoults/Alamy)")
