@@ -1,1 +1,1 @@
-document.write('人生总是大起大落落落落落落落落落的')
+document.write('玩游戏，输赢不重要，重要的是要赢。')

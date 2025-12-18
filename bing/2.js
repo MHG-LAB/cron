@@ -1,1 +1,1 @@
-document.write("Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)")
+document.write("Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)")
