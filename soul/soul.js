@@ -1,1 +1,1 @@
-document.write('玩游戏，输赢不重要，重要的是要赢。')
+document.write('输入法忘不了的东西，清除数据就好了')

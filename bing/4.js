@@ -1,1 +1,1 @@
-document.write("Tufted titmouse perched on pine boughs, Massachusetts (© Tim Laman/NPL/Minden Pictures)")
+document.write("Lights on Spiegelgracht canal, Amsterdam, Netherlands (© Amith Nag Photography/Getty Images)")
