@@ -1,1 +1,1 @@
-document.write("Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)")
+document.write("Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)")
