@@ -1,1 +1,1 @@
-document.write("Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)")
+document.write("Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)")

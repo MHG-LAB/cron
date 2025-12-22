@@ -1,1 +1,1 @@
-document.write("Christmas star lanterns, Germany (© artas/Getty Images)")
+document.write("Dawn light through frosty trees, Sweden (© Schon/Getty Images)")
