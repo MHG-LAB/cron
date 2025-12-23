@@ -1,1 +1,1 @@
-document.write("Dawn light through frosty trees, Sweden (© Schon/Getty Images)")
+document.write("'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)")
