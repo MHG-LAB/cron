@@ -1,1 +1,1 @@
-document.write("Handmade gnomes at a Christmas market (© Veronika Seppanen/Shutterstock)")
+document.write("Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)")

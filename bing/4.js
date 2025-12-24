@@ -1,1 +1,1 @@
-document.write("Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)")
+document.write("Christmas star lanterns, Germany (© artas/Getty Images)")

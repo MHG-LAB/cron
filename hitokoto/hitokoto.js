@@ -1,1 +1,1 @@
-document.write('好，支持，威武，有希望了！（）#(滑稽)')
+document.write('彼此相互推卸不幸是没有结果的。')
