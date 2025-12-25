@@ -1,1 +1,1 @@
-document.write("Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)")
+document.write("Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)")
