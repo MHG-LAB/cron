@@ -1,1 +1,1 @@
-document.write("Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)")
+document.write("Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)")
