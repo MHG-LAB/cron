@@ -1,1 +1,1 @@
-document.write("St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)")
+document.write("Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)")

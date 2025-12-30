@@ -1,1 +1,1 @@
-document.write("Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)")
+document.write("Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)")
