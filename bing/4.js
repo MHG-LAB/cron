@@ -1,1 +1,1 @@
-document.write("Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)")
+document.write("Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)")

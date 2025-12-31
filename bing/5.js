@@ -1,1 +1,1 @@
-document.write("Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)")
+document.write("Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)")

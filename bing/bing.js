@@ -1,1 +1,1 @@
-document.write("Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)")
+document.write("New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)")
