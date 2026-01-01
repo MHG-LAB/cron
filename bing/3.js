@@ -1,1 +1,1 @@
-document.write("Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)")
+document.write("St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)")
