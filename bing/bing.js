@@ -1,1 +1,1 @@
-document.write("Arctic fox sleeping (© Chansak Joe/Getty Images)")
+document.write("Aerial view of Venice, Italy (© Clement Leonard/Getty Images)")
