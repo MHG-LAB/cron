@@ -1,1 +1,1 @@
-document.write("New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)")
+document.write("Arctic fox sleeping (© Chansak Joe/Getty Images)")
