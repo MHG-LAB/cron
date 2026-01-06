@@ -1,1 +1,1 @@
-document.write("Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)")
+document.write("A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)")
