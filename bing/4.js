@@ -1,1 +1,1 @@
-document.write("Aerial view of Venice, Italy (© Clement Leonard/Getty Images)")
+document.write("Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland (© pongnathee kluaythong/Getty Images)")
