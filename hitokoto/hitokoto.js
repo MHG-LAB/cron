@@ -1,1 +1,1 @@
-document.write('既然认准这条路，何必去打听要走多久。')
+document.write('时间冲淡的，是存在感，而不是存在。')
