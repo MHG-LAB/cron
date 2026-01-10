@@ -1,1 +1,1 @@
-document.write("Nuuk, Greenland (© nevereverro/Getty Images)")
+document.write("Turret Arch framed by North Window in Arches National Park, Utah (© Jim Patterson/TANDEM Stills + Motion)")

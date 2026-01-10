@@ -1,1 +1,1 @@
-document.write('时间冲淡的，是存在感，而不是存在。')
+document.write('有些事情，可以理解但无法接受！')
