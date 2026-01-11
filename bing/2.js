@@ -1,1 +1,1 @@
-document.write("Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)")
+document.write("Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)")

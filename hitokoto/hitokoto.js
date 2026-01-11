@@ -1,1 +1,1 @@
-document.write('有些事情，可以理解但无法接受！')
+document.write('我经常怀念童年，它经久耐用，质量良好。')
