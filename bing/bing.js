@@ -1,1 +1,1 @@
-document.write("Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)")
+document.write("Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)")

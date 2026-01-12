@@ -1,1 +1,1 @@
-document.write("A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)")
+document.write("Nuuk, Greenland (© nevereverro/Getty Images)")
