@@ -1,1 +1,1 @@
-document.write("Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)")
+document.write("The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)")

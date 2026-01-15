@@ -1,1 +1,1 @@
-document.write("Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)")
+document.write("Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)")
