@@ -1,1 +1,1 @@
-document.write("Giant redwood trees in Muir Woods National Monument, California (© photo by canderson/Getty Images)")
+document.write("The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)")
