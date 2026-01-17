@@ -1,1 +1,1 @@
-document.write('当你注视着黑暗的时候,黑暗也在注视着你.')
+document.write('木叶飞舞之处，火亦生生不息.')

@@ -1,1 +1,1 @@
-document.write("The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)")
+document.write("The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)")

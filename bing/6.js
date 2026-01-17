@@ -1,1 +1,1 @@
-document.write("The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland (© Andy Trowbridge/naturepl.com)")
+document.write("Blue walls of Chefchaouen, Morocco (© AnetteAndersen/Getty Images)")
