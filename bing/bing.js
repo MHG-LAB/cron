@@ -1,1 +1,1 @@
-document.write("Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)")
+document.write("White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)")
