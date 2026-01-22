@@ -1,1 +1,1 @@
-document.write("The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)")
+document.write("Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)")
