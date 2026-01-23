@@ -1,1 +1,1 @@
-document.write("White Sands National Park, New Mexico (© Francesco Carucci/Getty Images)")
+document.write("Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)")

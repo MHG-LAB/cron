@@ -1,1 +1,1 @@
-document.write("Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)")
+document.write("Basilica of San Francesco di Paola, Naples, Italy (© javarman3/Getty Images)")

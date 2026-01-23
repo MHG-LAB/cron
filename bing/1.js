@@ -1,1 +1,1 @@
-document.write("Eurasian red squirrel (© Galina Jacyna/Getty Images)")
+document.write("Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)")
