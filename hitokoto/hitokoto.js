@@ -1,1 +1,1 @@
-document.write('食物有很强大的治愈力量。')
+document.write('学习如赶路，不能慢一步')

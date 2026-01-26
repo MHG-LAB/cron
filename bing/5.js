@@ -1,1 +1,1 @@
-document.write("Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)")
+document.write("Eurasian red squirrel (© Galina Jacyna/Getty Images)")

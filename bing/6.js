@@ -1,1 +1,1 @@
-document.write("Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)")
+document.write("Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)")
