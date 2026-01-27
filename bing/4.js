@@ -1,1 +1,1 @@
-document.write("Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)")
+document.write("Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)")

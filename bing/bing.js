@@ -1,1 +1,1 @@
-document.write("Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)")
+document.write("Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)")

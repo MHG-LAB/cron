@@ -1,1 +1,1 @@
-document.write('学习如赶路，不能慢一步')
+document.write('那些关于烦恼的事，我们呆到忘掉吧。')
