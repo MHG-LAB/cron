@@ -1,1 +1,1 @@
-document.write("Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)")
+document.write("Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)")
