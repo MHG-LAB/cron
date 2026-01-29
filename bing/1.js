@@ -1,1 +1,1 @@
-document.write("Dalmatian pelicans, Lake Kerkini, Greece (© Guy Edwardes/naturepl.com)")
+document.write("Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)")
