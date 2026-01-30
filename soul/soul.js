@@ -1,1 +1,1 @@
-document.write('我这辈子没求过谁，只求过阴影部分面积。')
+document.write('生活和电影不一样，生活难多了')
