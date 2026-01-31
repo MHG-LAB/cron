@@ -1,1 +1,1 @@
-document.write('那孩子在多种意义上都是天然纪念物。')
+document.write('我是要成为海贼王的男人！')

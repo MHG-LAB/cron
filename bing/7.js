@@ -1,1 +1,1 @@
-document.write("Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)")
+document.write("Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)")

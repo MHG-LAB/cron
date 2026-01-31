@@ -1,1 +1,1 @@
-document.write('生活和电影不一样，生活难多了')
+document.write('早起的鸟儿有虫吃，早起的虫子被鸟吃')
