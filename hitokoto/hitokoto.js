@@ -1,1 +1,1 @@
-document.write('我是要成为海贼王的男人！')
+document.write('生生生生暗生始，死死死死冥死终。')

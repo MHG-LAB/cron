@@ -1,1 +1,1 @@
-document.write("Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)")
+document.write("The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)")
