@@ -1,1 +1,1 @@
-document.write("Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)")
+document.write("Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)")

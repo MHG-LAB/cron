@@ -1,1 +1,1 @@
-document.write('生生生生暗生始，死死死死冥死终。')
+document.write('不是别人，是我，承认了你的价值。')
