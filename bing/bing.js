@@ -1,1 +1,1 @@
-document.write("Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)")
+document.write("Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)")

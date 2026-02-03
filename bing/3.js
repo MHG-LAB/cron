@@ -1,1 +1,1 @@
-document.write("St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)")
+document.write("Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)")
