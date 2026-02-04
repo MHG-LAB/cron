@@ -1,1 +1,1 @@
-document.write("Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)")
+document.write("US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)")

@@ -1,1 +1,1 @@
-document.write("The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)")
+document.write("St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)")
