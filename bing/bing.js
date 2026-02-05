@@ -1,1 +1,1 @@
-document.write("Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)")
+document.write("Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)")
