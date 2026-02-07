@@ -1,1 +1,1 @@
-document.write("US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)")
+document.write("Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)")
