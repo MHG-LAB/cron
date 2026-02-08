@@ -1,1 +1,1 @@
-document.write("Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)")
+document.write("Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)")
