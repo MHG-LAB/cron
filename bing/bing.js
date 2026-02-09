@@ -1,1 +1,1 @@
-document.write("Corfu at night, Greece (© whitewizzard/Getty Images)")
+document.write("Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)")

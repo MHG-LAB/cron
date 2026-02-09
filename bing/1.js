@@ -1,1 +1,1 @@
-document.write("Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)")
+document.write("Corfu at night, Greece (© whitewizzard/Getty Images)")
