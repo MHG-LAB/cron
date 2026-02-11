@@ -1,1 +1,1 @@
-document.write("Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)")
+document.write("Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver (© Cyrus McCrimmon/The Denver Post via Getty Images)")

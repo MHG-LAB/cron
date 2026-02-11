@@ -1,1 +1,1 @@
-document.write("Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)")
+document.write("Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)")
