@@ -1,1 +1,1 @@
-document.write("Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)")
+document.write("Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)")

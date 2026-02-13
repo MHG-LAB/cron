@@ -1,1 +1,1 @@
-document.write("Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)")
+document.write("Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)")
