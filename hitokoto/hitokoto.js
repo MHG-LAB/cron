@@ -1,1 +1,1 @@
-document.write('哈，所谓愿望能靠法宝就实现，也太廉价了吧？')
+document.write('沒有永远下不停的雨。')
