@@ -1,1 +1,1 @@
-document.write('沒有永远下不停的雨。')
+document.write('就好像看透了我的心思一般，你总是突然出现。')
