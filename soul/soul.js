@@ -1,1 +1,1 @@
-document.write('物以类聚人以穷分，有钱人终成眷属。')
+document.write('不努力怎么死心呢？')

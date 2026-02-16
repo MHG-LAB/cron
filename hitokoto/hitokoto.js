@@ -1,1 +1,1 @@
-document.write('就好像看透了我的心思一般，你总是突然出现。')
+document.write('喜欢上一个人是没有理由的！')
