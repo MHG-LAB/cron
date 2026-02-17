@@ -1,1 +1,1 @@
-document.write('不努力怎么死心呢？')
+document.write('国庆你堵在哪呢?')

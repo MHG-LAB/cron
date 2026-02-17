@@ -1,1 +1,1 @@
-document.write('喜欢上一个人是没有理由的！')
+document.write('我死之后，管它洪水滔天！')
