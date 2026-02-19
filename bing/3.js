@@ -1,1 +1,1 @@
-document.write("Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)")
+document.write("Lincoln Memorial, Washington, DC (© Westend61/Getty Images)")
