@@ -1,1 +1,1 @@
-document.write("Third Thai-Lao Friendship Bridge connecting Laos and Thailand (© chaiyut samsuk/Getty Images)")
+document.write("Bleeding hearts (© Dorene Hookey/Cavan Images)")

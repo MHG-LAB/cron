@@ -1,1 +1,1 @@
-document.write("Bleeding hearts (© Dorene Hookey/Cavan Images)")
+document.write("Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)")

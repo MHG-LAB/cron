@@ -1,1 +1,1 @@
-document.write('学校并不比社会简单，人闲事就多')
+document.write('2018年，88喽。')
