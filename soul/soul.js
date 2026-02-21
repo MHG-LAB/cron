@@ -1,1 +1,1 @@
-document.write('2018年，88喽。')
+document.write('减肥这件事情吧，减的快反弹的快，减的慢放弃的快。')
