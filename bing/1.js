@@ -1,1 +1,1 @@
-document.write("Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)")
+document.write("Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)")
