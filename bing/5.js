@@ -1,1 +1,1 @@
-document.write("Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)")
+document.write("Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)")

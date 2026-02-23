@@ -1,1 +1,1 @@
-document.write('吾日三省吾身，吾没钱 吾没车 吾没房。')
+document.write('你连自己都睡不好，还想去睡别人？')

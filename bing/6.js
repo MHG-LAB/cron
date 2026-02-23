@@ -1,1 +1,1 @@
-document.write("Lincoln Memorial, Washington, DC (© Westend61/Getty Images)")
+document.write("Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)")

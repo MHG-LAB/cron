@@ -1,1 +1,1 @@
-document.write("Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)")
+document.write("The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)")

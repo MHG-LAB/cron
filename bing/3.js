@@ -1,1 +1,1 @@
-document.write("The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)")
+document.write("Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)")
