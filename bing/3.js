@@ -1,1 +1,1 @@
-document.write("Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)")
+document.write("The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)")
