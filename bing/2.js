@@ -1,1 +1,1 @@
-document.write("Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)")
+document.write("Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)")

@@ -1,1 +1,1 @@
-document.write('一边嘲笑着，一边欺骗着自己。')
+document.write('不懂装懂，永世饭桶')

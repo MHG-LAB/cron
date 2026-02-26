@@ -1,1 +1,1 @@
-document.write("The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)")
+document.write("Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)")
