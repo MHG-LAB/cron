@@ -1,1 +1,1 @@
-document.write("Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)")
+document.write("Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)")

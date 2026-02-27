@@ -1,1 +1,1 @@
-document.write('不懂装懂，永世饭桶')
+document.write('事到如今装成受害者才更卑劣')
