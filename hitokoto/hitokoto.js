@@ -1,1 +1,1 @@
-document.write('事到如今装成受害者才更卑劣')
+document.write('归根到底人类啊，是不会回报你们纯粹的心灵的。')
