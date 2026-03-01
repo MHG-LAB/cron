@@ -1,1 +1,1 @@
-document.write("Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)")
+document.write("Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)")
