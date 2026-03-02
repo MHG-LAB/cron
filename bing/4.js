@@ -1,1 +1,1 @@
-document.write("Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)")
+document.write("Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)")
