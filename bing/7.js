@@ -1,1 +1,1 @@
-document.write("Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)")
+document.write("Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)")
