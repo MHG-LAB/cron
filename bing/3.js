@@ -1,1 +1,1 @@
-document.write("Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)")
+document.write("Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)")
