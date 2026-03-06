@@ -1,1 +1,1 @@
-document.write("Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)")
+document.write("African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)")
