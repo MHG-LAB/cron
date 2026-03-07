@@ -1,1 +1,1 @@
-document.write("Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)")
+document.write("Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)")

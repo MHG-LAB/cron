@@ -1,1 +1,1 @@
-document.write("African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)")
+document.write("Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)")
