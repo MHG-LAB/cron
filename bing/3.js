@@ -1,1 +1,1 @@
-document.write("Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)")
+document.write("Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)")
