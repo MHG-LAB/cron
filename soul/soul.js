@@ -1,1 +1,1 @@
-document.write('这辈子这么苦，别太拼，下辈子还会更苦的。')
+document.write('Follow your heart，翻译成中文就一个字，怂。')
