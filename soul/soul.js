@@ -1,1 +1,1 @@
-document.write('Follow your heart，翻译成中文就一个字，怂。')
+document.write('喜欢一个人就去表白，万一，成备胎了呢？')

@@ -1,1 +1,1 @@
-document.write("Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)")
+document.write("Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)")

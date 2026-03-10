@@ -1,1 +1,1 @@
-document.write("Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)")
+document.write("Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)")
