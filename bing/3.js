@@ -1,1 +1,1 @@
-document.write("Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)")
+document.write("Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)")
