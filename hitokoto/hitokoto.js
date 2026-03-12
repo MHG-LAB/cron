@@ -1,1 +1,1 @@
-document.write('救救我啊奥特曼，哪怕你只能撑三分钟⋯⋯')
+document.write('目标愈高，志向愈可贵')

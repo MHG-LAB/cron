@@ -1,1 +1,1 @@
-document.write("Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)")
+document.write("The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)")

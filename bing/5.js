@@ -1,1 +1,1 @@
-document.write("The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)")
+document.write("Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)")
