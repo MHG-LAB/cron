@@ -1,1 +1,1 @@
-document.write('目标愈高，志向愈可贵')
+document.write('如果我不会飞，那我就只是一只普通的猪。')
