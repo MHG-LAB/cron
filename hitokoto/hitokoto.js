@@ -1,1 +1,1 @@
-document.write('如果我不会飞，那我就只是一只普通的猪。')
+document.write('人并不逃避别人，人逃避他自己')

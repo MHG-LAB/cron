@@ -1,1 +1,1 @@
-document.write("Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)")
+document.write("Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)")
