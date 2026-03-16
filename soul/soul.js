@@ -1,1 +1,1 @@
-document.write('强扭的瓜不甜，但是有瓜吃呀。')
+document.write('如果你变成了备胎，请忘记你也是千斤顶。')
