@@ -1,1 +1,1 @@
-document.write("Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)")
+document.write("Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)")
