@@ -1,1 +1,1 @@
-document.write("Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)")
+document.write("Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)")

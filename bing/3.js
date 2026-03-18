@@ -1,1 +1,1 @@
-document.write("Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)")
+document.write("Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)")
