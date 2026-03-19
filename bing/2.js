@@ -1,1 +1,1 @@
-document.write("Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)")
+document.write("Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)")
