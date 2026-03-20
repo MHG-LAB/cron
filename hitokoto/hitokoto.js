@@ -1,1 +1,1 @@
-document.write('人世间 酸甜苦辣 若长良川。')
+document.write('你才是⑨！你全家都是⑨！')
