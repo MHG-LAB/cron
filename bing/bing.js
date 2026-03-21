@@ -1,1 +1,1 @@
-document.write("Snowdrops in spring (© klagyivik/Getty Images)")
+document.write("Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)")

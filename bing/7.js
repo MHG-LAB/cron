@@ -1,1 +1,1 @@
-document.write("Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)")
+document.write("Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)")
