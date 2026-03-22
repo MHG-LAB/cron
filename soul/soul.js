@@ -1,1 +1,1 @@
-document.write('很多人不是心理疾病，而是心理残疾，治不好的。')
+document.write('破罐子不能破摔，得使劲摔！')

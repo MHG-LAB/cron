@@ -1,1 +1,1 @@
-document.write('人生最精彩的不是实现梦想的瞬间，而是坚持梦想的过程。')
+document.write('Pain past is pleasure.')
