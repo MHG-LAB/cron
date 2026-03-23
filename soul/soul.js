@@ -1,1 +1,1 @@
-document.write('破罐子不能破摔，得使劲摔！')
+document.write('你努力做到最好，还不如别人随便搞搞。')

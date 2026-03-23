@@ -1,1 +1,1 @@
-document.write("Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)")
+document.write("Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)")

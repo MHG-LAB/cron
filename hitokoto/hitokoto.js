@@ -1,1 +1,1 @@
-document.write('Pain past is pleasure.')
+document.write('仁者不忧，智者不惑，勇者不惧。')
