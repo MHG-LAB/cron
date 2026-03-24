@@ -1,1 +1,1 @@
-document.write("Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)")
+document.write("Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)")
