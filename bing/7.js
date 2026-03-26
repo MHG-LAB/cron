@@ -1,1 +1,1 @@
-document.write("Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)")
+document.write("Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)")
