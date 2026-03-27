@@ -1,1 +1,1 @@
-document.write("Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)")
+document.write("Snowdrops in spring (© klagyivik/Getty Images)")
