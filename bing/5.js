@@ -1,1 +1,1 @@
-document.write("Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)")
+document.write("Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)")
