@@ -1,1 +1,1 @@
-document.write("Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)")
+document.write("Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)")

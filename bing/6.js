@@ -1,1 +1,1 @@
-document.write("Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)")
+document.write("Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)")

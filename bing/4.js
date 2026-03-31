@@ -1,1 +1,1 @@
-document.write("Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)")
+document.write("Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)")
