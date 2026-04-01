@@ -1,1 +1,1 @@
-document.write("Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)")
+document.write("Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)")
