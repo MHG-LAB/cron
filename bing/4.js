@@ -1,1 +1,1 @@
-document.write("Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)")
+document.write("Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)")

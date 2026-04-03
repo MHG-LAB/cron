@@ -1,1 +1,1 @@
-document.write("African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)")
+document.write("Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)")

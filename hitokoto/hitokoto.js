@@ -1,1 +1,1 @@
-document.write('人的成长，就是战胜自己不成熟的过去。')
+document.write('每个凉宫都会遇到属于她的John Smith。')
