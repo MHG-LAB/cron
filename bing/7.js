@@ -1,1 +1,1 @@
-document.write("Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)")
+document.write("African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)")

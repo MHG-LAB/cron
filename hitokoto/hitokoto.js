@@ -1,1 +1,1 @@
-document.write('每个凉宫都会遇到属于她的John Smith。')
+document.write('心专才能绣得花，心静才能织得麻')
