@@ -1,1 +1,1 @@
-document.write('心专才能绣得花，心静才能织得麻')
+document.write('越是美好的梦境越是能将你撕碎。')
