@@ -1,1 +1,1 @@
-document.write("Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)")
+document.write("Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)")

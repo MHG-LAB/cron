@@ -1,1 +1,1 @@
-document.write('越是美好的梦境越是能将你撕碎。')
+document.write('你制定的计划是.txt还是.exe?')
