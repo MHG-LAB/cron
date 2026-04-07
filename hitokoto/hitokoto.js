@@ -1,1 +1,1 @@
-document.write('你制定的计划是.txt还是.exe?')
+document.write('也许，思念可以超越时间与距离。')

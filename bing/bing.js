@@ -1,1 +1,1 @@
-document.write("Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)")
+document.write("Beaver, Germany (© Andyworks/Getty Images)")
