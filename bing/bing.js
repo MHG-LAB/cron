@@ -1,1 +1,1 @@
-document.write("Beaver, Germany (© Andyworks/Getty Images)")
+document.write("Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)")
