@@ -1,1 +1,1 @@
-document.write("Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)")
+document.write("Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)")

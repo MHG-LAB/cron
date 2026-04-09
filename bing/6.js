@@ -1,1 +1,1 @@
-document.write("Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)")
+document.write("Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)")

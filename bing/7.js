@@ -1,1 +1,1 @@
-document.write("Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)")
+document.write("Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)")
