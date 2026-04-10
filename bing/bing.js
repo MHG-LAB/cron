@@ -1,1 +1,1 @@
-document.write("Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)")
+document.write("Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)")
