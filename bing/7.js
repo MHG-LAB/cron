@@ -1,1 +1,1 @@
-document.write("Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)")
+document.write("Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)")
