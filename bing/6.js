@@ -1,1 +1,1 @@
-document.write("Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)")
+document.write("Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)")

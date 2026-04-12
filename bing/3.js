@@ -1,1 +1,1 @@
-document.write("Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)")
+document.write("Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)")
