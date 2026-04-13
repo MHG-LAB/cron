@@ -1,1 +1,1 @@
-document.write('人不能低下高贵的头，但捡钱时例外。')
+document.write('人人都想拯救世界，却没人帮妈妈洗碗。')

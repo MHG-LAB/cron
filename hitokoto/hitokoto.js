@@ -1,1 +1,1 @@
-document.write('在悲剧性的不合理世界，故事开始了。')
+document.write('去死两次！')
