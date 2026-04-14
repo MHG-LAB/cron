@@ -1,1 +1,1 @@
-document.write("Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)")
+document.write("City lights streak below, taken from the International Space Station (© NASA)")
