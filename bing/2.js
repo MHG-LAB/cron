@@ -1,1 +1,1 @@
-document.write("City lights streak below, taken from the International Space Station (© NASA)")
+document.write("Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)")

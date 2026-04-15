@@ -1,1 +1,1 @@
-document.write('时间冲淡的，是存在感，而不是存在。')
+document.write('这下子就有戏看了。')

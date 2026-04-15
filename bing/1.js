@@ -1,1 +1,1 @@
-document.write("Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)")
+document.write("Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)")

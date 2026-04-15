@@ -1,1 +1,1 @@
-document.write("Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)")
+document.write("Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)")
