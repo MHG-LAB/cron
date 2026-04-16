@@ -1,1 +1,1 @@
-document.write('这下子就有戏看了。')
+document.write('原来，你是货真价实的蠢货啊。')
