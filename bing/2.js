@@ -1,1 +1,1 @@
-document.write("Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)")
+document.write("Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)")
