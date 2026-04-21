@@ -1,1 +1,1 @@
-document.write("Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)")
+document.write("Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)")

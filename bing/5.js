@@ -1,1 +1,1 @@
-document.write("The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France (© Patrick Aventurier/Getty Images)")
+document.write("Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)")

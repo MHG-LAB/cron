@@ -1,1 +1,1 @@
-document.write("Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)")
+document.write("Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)")
