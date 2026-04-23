@@ -1,1 +1,1 @@
-document.write("Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)")
+document.write("Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)")

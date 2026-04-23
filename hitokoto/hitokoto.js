@@ -1,1 +1,1 @@
-document.write('不断的寻找希望，这才是真正的希望。')
+document.write('她希望自己永远都是女人。')
