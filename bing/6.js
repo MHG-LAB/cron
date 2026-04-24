@@ -1,1 +1,1 @@
-document.write("Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)")
+document.write("Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)")

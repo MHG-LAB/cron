@@ -1,1 +1,1 @@
-document.write('她希望自己永远都是女人。')
+document.write('窃人者，自失其宝。')

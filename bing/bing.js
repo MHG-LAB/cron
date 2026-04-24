@@ -1,1 +1,1 @@
-document.write("Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)")
+document.write("Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)")
