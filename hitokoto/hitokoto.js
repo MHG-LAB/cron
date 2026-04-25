@@ -1,1 +1,1 @@
-document.write('窃人者，自失其宝。')
+document.write('当你无法再拥有时，你唯一能做的就是不要再忘记')
