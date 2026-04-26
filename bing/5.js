@@ -1,1 +1,1 @@
-document.write("Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)")
+document.write("European hedgehog, France (© Klein & Hubert/Nature Picture Library)")
