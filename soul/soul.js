@@ -1,1 +1,1 @@
-document.write('红颜何曾真知己，人生无聊才读书。')
+document.write('别人的flag是用来立的 你的是用来吃的.怪不得你长这么胖')
