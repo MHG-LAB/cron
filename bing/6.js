@@ -1,1 +1,1 @@
-document.write("European hedgehog, France (© Klein & Hubert/Nature Picture Library)")
+document.write("Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)")

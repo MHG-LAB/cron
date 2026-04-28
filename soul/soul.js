@@ -1,1 +1,1 @@
-document.write('别人的flag是用来立的 你的是用来吃的.怪不得你长这么胖')
+document.write('咸鱼翻身，还是咸鱼')
