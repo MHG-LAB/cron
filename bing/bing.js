@@ -1,1 +1,1 @@
-document.write("Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)")
+document.write("Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)")

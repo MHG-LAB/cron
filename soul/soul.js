@@ -1,1 +1,1 @@
-document.write('咸鱼翻身，还是咸鱼')
+document.write('听说你过的不好，我蹲在门口，笑了一整天。')

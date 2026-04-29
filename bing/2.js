@@ -1,1 +1,1 @@
-document.write("Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)")
+document.write("The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)")
