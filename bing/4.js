@@ -1,1 +1,1 @@
-document.write("Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)")
+document.write("Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)")
