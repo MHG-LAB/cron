@@ -1,1 +1,1 @@
-document.write('利己主义，自我中心，有什么不对？')
+document.write('她冷酷，无情！我蛋疼，菊紧！')
