@@ -1,1 +1,1 @@
-document.write("Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)")
+document.write("Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)")
