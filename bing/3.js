@@ -1,1 +1,1 @@
-document.write("Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)")
+document.write("Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)")

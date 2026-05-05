@@ -1,1 +1,1 @@
-document.write("The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)")
+document.write("Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)")
