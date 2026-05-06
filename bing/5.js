@@ -1,1 +1,1 @@
-document.write("Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)")
+document.write("Koi fish, Lan Su Chinese Garden, Portland, Oregon (© Greg Vaughn/Getty Images)")
