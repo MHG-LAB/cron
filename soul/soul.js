@@ -1,1 +1,1 @@
-document.write('心是伟大的诗人，而嘴是蹩脚的编辑。')
+document.write('既不是壹也不是零，我叫蔡壹零')
