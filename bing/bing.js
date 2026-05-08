@@ -1,1 +1,1 @@
-document.write("Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)")
+document.write("Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)")

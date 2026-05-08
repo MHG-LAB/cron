@@ -1,1 +1,1 @@
-document.write("Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)")
+document.write("Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)")
