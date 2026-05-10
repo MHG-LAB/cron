@@ -1,1 +1,1 @@
-document.write("Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)")
+document.write("Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)")
