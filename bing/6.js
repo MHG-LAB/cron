@@ -1,1 +1,1 @@
-document.write("Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)")
+document.write("Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)")
