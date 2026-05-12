@@ -1,1 +1,1 @@
-document.write("Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)")
+document.write("Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)")
