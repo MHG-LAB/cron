@@ -1,1 +1,1 @@
-document.write("Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)")
+document.write("Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)")

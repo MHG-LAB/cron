@@ -1,1 +1,1 @@
-document.write("Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)")
+document.write("Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)")

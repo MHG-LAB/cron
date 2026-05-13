@@ -21,7 +21,7 @@
   }
 	</style>
 </head>
-<body><a href="https://api.mhuig.top/cdn-cgi/content?id=NJySC_PPVnOg3urLuzciapYLFFp2YvCNs8XCzupjBrU-1778624016.436371-1.0.1.1-FF6bCOeDl6iyMrBUFmujLM1MPiFDP_DSQkiKWpvtRA8" aria-hidden="true" rel="nofollow noopener" style="display: none !important; visibility: hidden !important"></a>
+<body><a href="https://api.mhuig.top/cdn-cgi/content?id=AJ3K20usVQ02TtgtbN3NX_5Dgu2rQXtmh.HZ0wjqw.g-1778710542.233115-1.0.1.1-KoSpEA75M.KEyEcXZH8j9weIZSlzQdkcePgCiveHwKc" aria-hidden="true" rel="nofollow noopener" style="display: none !important; visibility: hidden !important"></a>
     <div class="card">
         <div class="products">
         <div product-id="1" product-color="#d81e06" class="product active">

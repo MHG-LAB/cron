@@ -1,1 +1,1 @@
-document.write('人的价值高低并不取决于他的力量大小，只要好好的自食其力，力量大小有什么关系，为什么要羡慕他人，又为什么要蔑视他人。')
+document.write('Failed to fetch sy-records/hitokoto@master from GitHub.')
