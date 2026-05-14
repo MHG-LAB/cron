@@ -1,1 +1,1 @@
-document.write('Failed to fetch sy-records/hitokoto@master from GitHub.')
+document.write('最初就不期待，中途也不会期待，直到最后也不会期待。')
