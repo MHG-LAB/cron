@@ -1,1 +1,1 @@
-document.write("Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)")
+document.write("A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)")

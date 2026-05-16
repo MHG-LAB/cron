@@ -1,1 +1,1 @@
-document.write("Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)")
+document.write("Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)")
