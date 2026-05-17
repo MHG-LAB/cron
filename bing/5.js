@@ -1,1 +1,1 @@
-document.write("Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)")
+document.write("Atlantic puffins, Wales (© FLPA/Alamy)")
