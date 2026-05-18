@@ -1,1 +1,1 @@
-document.write("Atlantic puffins, Wales (© FLPA/Alamy)")
+document.write("Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)")
