@@ -1,1 +1,1 @@
-document.write("Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)")
+document.write("Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)")

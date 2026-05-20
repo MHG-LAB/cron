@@ -1,1 +1,1 @@
-document.write("Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)")
+document.write("Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)")
