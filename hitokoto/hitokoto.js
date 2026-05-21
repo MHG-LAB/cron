@@ -1,1 +1,1 @@
-document.write('不管雪怎么覆盖 恋爱的花朵开放的春天都是会来的。')
+document.write('事业常成于坚忍，毁于急躁')

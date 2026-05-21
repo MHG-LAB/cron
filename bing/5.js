@@ -1,1 +1,1 @@
-document.write("A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)")
+document.write("Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)")

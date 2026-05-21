@@ -1,1 +1,1 @@
-document.write("Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)")
+document.write("Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)")
