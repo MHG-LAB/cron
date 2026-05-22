@@ -1,1 +1,1 @@
-document.write("Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)")
+document.write("Tea terraces in Sichuan Province, China (© lzf/Shutterstock)")

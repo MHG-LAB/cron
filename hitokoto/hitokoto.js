@@ -1,1 +1,1 @@
-document.write('事业常成于坚忍，毁于急躁')
+document.write('从那里落下了一轮红色的花瓣。那是，抚子花……')
