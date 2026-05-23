@@ -1,1 +1,1 @@
-document.write('失败是成功之母，我他妈是不孕不育。')
+document.write('学校并不比社会简单，人闲事就多')
