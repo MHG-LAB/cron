@@ -1,1 +1,1 @@
-document.write("Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)")
+document.write("Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)")
