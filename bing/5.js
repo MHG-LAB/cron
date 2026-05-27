@@ -1,1 +1,1 @@
-document.write("Tea terraces in Sichuan Province, China (© lzf/Shutterstock)")
+document.write("Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)")
