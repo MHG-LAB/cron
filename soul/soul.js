@@ -1,1 +1,1 @@
-document.write('有钱者，事竟成')
+document.write('就算你充电五分钟，那也没有人愿意和你通话两小时啊～')
