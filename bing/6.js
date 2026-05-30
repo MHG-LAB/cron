@@ -1,1 +1,1 @@
-document.write("Turtles with butterflies (© Patrick Gallet/Getty Images)")
+document.write("Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)")

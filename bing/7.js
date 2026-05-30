@@ -1,1 +1,1 @@
-document.write("Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)")
+document.write("Turtles with butterflies (© Patrick Gallet/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)")
+document.write("Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)")
