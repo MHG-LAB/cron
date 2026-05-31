@@ -1,1 +1,1 @@
-document.write("Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)")
+document.write("Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)")
