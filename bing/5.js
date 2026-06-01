@@ -1,1 +1,1 @@
-document.write("Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)")
+document.write("Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)")
