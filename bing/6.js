@@ -1,1 +1,1 @@
-document.write("Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)")
+document.write("Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)")
