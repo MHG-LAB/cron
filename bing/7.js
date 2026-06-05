@@ -1,1 +1,1 @@
-document.write("Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)")
+document.write("Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)")

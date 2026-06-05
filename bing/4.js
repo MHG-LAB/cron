@@ -1,1 +1,1 @@
-document.write("Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)")
+document.write("Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)")

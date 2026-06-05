@@ -1,1 +1,1 @@
-document.write("Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)")
+document.write("Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)")
