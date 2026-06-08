@@ -1,1 +1,1 @@
-document.write("Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)")
+document.write("View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)")
