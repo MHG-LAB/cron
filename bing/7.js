@@ -1,1 +1,1 @@
-document.write("Rainbow flags at Rockefeller Center on June 28, 2020, New York City (© Noam Galai/Getty Images)")
+document.write("Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)")
