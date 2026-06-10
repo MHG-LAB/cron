@@ -1,1 +1,1 @@
-document.write("Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)")
+document.write("Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)")

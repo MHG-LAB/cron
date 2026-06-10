@@ -1,1 +1,1 @@
-document.write('别人手机里的你才是最真实的你')
+document.write('生活不止眼前的苟且，还有长远的凑合')
