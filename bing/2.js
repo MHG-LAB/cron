@@ -1,1 +1,1 @@
-document.write("Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)")
+document.write("Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)")

@@ -1,1 +1,1 @@
-document.write("Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)")
+document.write("Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)")
