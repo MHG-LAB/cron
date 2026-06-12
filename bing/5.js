@@ -1,1 +1,1 @@
-document.write("Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)")
+document.write("Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)")
