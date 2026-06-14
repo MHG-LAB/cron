@@ -1,1 +1,1 @@
-document.write("Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)")
+document.write("Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)")
