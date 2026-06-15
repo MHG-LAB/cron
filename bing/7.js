@@ -1,1 +1,1 @@
-document.write("Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)")
+document.write("Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)")
