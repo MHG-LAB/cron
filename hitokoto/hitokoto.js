@@ -1,1 +1,1 @@
-document.write('神话之战，由此重现。')
+document.write('只要活在世上，就免不了会遇上分离。')
