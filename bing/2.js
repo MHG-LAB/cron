@@ -1,1 +1,1 @@
-document.write("US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)")
+document.write("Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)")
