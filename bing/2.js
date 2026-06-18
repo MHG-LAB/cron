@@ -1,1 +1,1 @@
-document.write("Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)")
+document.write("Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)")
