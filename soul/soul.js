@@ -1,1 +1,1 @@
-document.write('梦想和理想其实你也就是想想。')
+document.write('只要坚持下去，总会有失败的一天。')
