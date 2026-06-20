@@ -1,1 +1,1 @@
-document.write("European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)")
+document.write("Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)")
