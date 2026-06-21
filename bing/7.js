@@ -1,1 +1,1 @@
-document.write("Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)")
+document.write("US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)")
