@@ -1,1 +1,1 @@
-document.write("National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)")
+document.write("Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)")

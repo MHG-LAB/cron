@@ -1,1 +1,1 @@
-document.write("Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)")
+document.write("National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)")

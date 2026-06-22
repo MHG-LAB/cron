@@ -1,1 +1,1 @@
-document.write('你死不放手的样子特别丑')
+document.write('有三分钟付出就有三分钟收获')
