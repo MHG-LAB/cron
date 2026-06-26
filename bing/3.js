@@ -1,1 +1,1 @@
-document.write("Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)")
+document.write("Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)")
