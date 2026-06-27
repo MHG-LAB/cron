@@ -1,1 +1,1 @@
-document.write("King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)")
+document.write("Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)")
