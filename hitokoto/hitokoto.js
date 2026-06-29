@@ -1,1 +1,1 @@
-document.write('你为了你的正义，我为了我的正义。')
+document.write('你不被认同，就无法存在了么？')

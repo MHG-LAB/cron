@@ -1,1 +1,1 @@
-document.write("Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)")
+document.write("Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)")
