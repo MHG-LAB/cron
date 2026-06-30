@@ -1,1 +1,1 @@
-document.write('你不被认同，就无法存在了么？')
+document.write('用我一生，换你十年天真无邪。')

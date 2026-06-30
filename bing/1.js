@@ -1,1 +1,1 @@
-document.write("Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)")
+document.write("Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)")

@@ -1,1 +1,1 @@
-document.write("Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)")
+document.write("Butterfly pollinating on yellow flower (© lzh/Getty Images)")
