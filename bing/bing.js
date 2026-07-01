@@ -1,1 +1,1 @@
-document.write("Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)")
+document.write("Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)")

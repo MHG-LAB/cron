@@ -1,1 +1,1 @@
-document.write("Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)")
+document.write("Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)")
