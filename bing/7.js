@@ -1,1 +1,1 @@
-document.write("Butterfly pollinating on yellow flower (© lzh/Getty Images)")
+document.write("Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)")

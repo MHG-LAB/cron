@@ -1,1 +1,1 @@
-document.write("Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)")
+document.write("The River Thames, London, England (© Daniel Lange/Getty Images)")
