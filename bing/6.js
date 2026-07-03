@@ -1,1 +1,1 @@
-document.write("The River Thames, London, England (© Daniel Lange/Getty Images)")
+document.write("Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)")
