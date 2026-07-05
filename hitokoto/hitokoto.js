@@ -1,1 +1,1 @@
-document.write('站起来，站起来啊，给我站起来啊！')
+document.write('我不知道将去何方，但我已在路上。')
