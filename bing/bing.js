@@ -1,1 +1,1 @@
-document.write("Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)")
+document.write("Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)")

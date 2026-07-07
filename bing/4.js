@@ -1,1 +1,1 @@
-document.write("Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)")
+document.write("Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)")
