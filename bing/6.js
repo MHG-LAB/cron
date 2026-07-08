@@ -1,1 +1,1 @@
-document.write("Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)")
+document.write("Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)")
