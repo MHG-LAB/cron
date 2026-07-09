@@ -1,1 +1,1 @@
-document.write("Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)")
+document.write("Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)")
