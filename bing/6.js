@@ -1,1 +1,1 @@
-document.write("Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)")
+document.write("Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)")

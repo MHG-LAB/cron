@@ -1,1 +1,1 @@
-document.write("Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)")
+document.write("Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)")
