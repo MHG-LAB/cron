@@ -1,1 +1,1 @@
-document.write('不要浪费你的生命在你一定会后悔的地方上')
+document.write('我不会让任何人看到我软弱的一面。')

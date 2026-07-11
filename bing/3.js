@@ -1,1 +1,1 @@
-document.write("Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)")
+document.write("Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)")
