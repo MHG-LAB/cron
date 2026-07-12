@@ -1,1 +1,1 @@
-document.write('我不会让任何人看到我软弱的一面。')
+document.write('只要有人肯相信我,我就会继续保护自己。')

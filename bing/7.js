@@ -1,1 +1,1 @@
-document.write("Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)")
+document.write("Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)")
