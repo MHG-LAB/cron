@@ -1,1 +1,1 @@
-document.write('如果约会的人迟到了，会跑着去迎接吧。')
+document.write('即便大学不是名牌，我也是名牌！')

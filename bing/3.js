@@ -1,1 +1,1 @@
-document.write("Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)")
+document.write("Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)")
