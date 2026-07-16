@@ -1,1 +1,1 @@
-document.write("Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)")
+document.write("Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)")

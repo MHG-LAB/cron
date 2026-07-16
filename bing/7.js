@@ -1,1 +1,1 @@
-document.write("Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)")
+document.write("Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)")

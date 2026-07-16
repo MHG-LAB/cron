@@ -1,1 +1,1 @@
-document.write('即便大学不是名牌，我也是名牌！')
+document.write('长风破浪会有时，直挂云帆济沧海')

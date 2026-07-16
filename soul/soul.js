@@ -1,1 +1,1 @@
-document.write('喜欢一个人就去表白，万一成备胎了呢。')
+document.write('这世上如果有什么真理，那就是活该！')
