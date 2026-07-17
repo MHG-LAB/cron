@@ -1,1 +1,1 @@
-document.write('长风破浪会有时，直挂云帆济沧海')
+document.write('在这鸦雀无声的地方集中精力学习吧。')

@@ -1,1 +1,1 @@
-document.write("Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)")
+document.write("Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)")

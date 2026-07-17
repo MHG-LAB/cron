@@ -1,1 +1,1 @@
-document.write('这世上如果有什么真理，那就是活该！')
+document.write('比你帅的人比你还努力！你还奋斗干嘛')
