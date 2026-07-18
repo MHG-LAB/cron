@@ -1,1 +1,1 @@
-document.write('比你帅的人比你还努力！你还奋斗干嘛')
+document.write('如果再见不用红着脸，是否还能借点钱。')

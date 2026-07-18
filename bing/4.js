@@ -1,1 +1,1 @@
-document.write("Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)")
+document.write("Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)")

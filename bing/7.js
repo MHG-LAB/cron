@@ -1,1 +1,1 @@
-document.write("Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)")
+document.write("Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)")
