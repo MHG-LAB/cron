@@ -1,1 +1,1 @@
-document.write('如果再见不用红着脸，是否还能借点钱。')
+document.write('我觉得失恋不可怕，眼瞎才可怕。')
