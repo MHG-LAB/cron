@@ -1,1 +1,1 @@
-document.write('一过岁，不就是老女人了嘛！')
+document.write('我为了不受将来的侮辱，所以要拒绝今天的尊敬。 ')

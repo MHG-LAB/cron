@@ -1,1 +1,1 @@
-document.write("Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)")
+document.write("Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)")
