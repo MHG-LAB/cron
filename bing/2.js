@@ -1,1 +1,1 @@
-document.write("Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)")
+document.write("Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)")

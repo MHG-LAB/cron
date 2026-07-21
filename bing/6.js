@@ -1,1 +1,1 @@
-document.write("Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)")
+document.write("Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)")
