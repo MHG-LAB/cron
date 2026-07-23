@@ -1,1 +1,1 @@
-document.write("Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)")
+document.write("Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)")

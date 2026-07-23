@@ -1,1 +1,1 @@
-document.write("Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)")
+document.write("Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)")

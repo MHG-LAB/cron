@@ -1,1 +1,1 @@
-document.write('等来年，秋风起。')
+document.write('胸不平何以平天下，乳不巨何以聚人心。')
