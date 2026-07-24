@@ -1,1 +1,1 @@
-document.write("Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)")
+document.write("Moon and Earth captured by the Artemis II crew (© NASA)")
