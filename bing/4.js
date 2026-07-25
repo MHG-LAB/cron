@@ -1,1 +1,1 @@
-document.write("Moon and Earth captured by the Artemis II crew (© NASA)")
+document.write("Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)")

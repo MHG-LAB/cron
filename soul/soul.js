@@ -1,1 +1,1 @@
-document.write('我没有去过你的城市，但我刷过你那的题。')
+document.write('忍受孤独比忍受傻逼简单多了')
