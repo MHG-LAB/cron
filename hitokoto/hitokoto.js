@@ -1,1 +1,1 @@
-document.write('我的眼睛，就是为了寻找你而存在的。')
+document.write('啊啊，还真是，干不下去了啊。')
