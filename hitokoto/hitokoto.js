@@ -1,1 +1,1 @@
-document.write('啊啊，还真是，干不下去了啊。')
+document.write('最后的最后，竟然超越了自己的神话。')
