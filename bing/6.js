@@ -1,1 +1,1 @@
-document.write("Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)")
+document.write("Pink dahlia flower (© Harald Biebel/Getty Images)")

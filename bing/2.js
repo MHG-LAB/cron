@@ -1,1 +1,1 @@
-document.write("Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)")
+document.write("Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)")
