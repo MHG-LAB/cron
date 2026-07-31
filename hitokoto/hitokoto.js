@@ -1,1 +1,1 @@
-document.write('活着的时候要尽欢，死的时候才没有遗憾。')
+document.write('世界上没有偶然，有的只是必然。')

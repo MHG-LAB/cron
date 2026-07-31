@@ -1,1 +1,1 @@
-document.write("Pink dahlia flower (© Harald Biebel/Getty Images)")
+document.write("Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)")
