@@ -1,1 +1,1 @@
-document.write("Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)")
+document.write("Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)")
