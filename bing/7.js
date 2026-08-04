@@ -1,1 +1,1 @@
-document.write("Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)")
+document.write("A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)")
