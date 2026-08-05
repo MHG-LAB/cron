@@ -1,1 +1,1 @@
-document.write("A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)")
+document.write("Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)")

@@ -1,1 +1,1 @@
-document.write("Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)")
+document.write("Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)")
