@@ -1,1 +1,1 @@
-document.write("Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)")
+document.write("Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)")

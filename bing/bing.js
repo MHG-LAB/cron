@@ -1,1 +1,1 @@
-document.write("Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)")
+document.write("Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)")

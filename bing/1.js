@@ -1,1 +1,1 @@
-document.write("Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)")
+document.write("Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)")
