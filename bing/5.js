@@ -1,1 +1,1 @@
-document.write("Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)")
+document.write("Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)")

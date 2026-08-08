@@ -1,1 +1,1 @@
-document.write("Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)")
+document.write("A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)")
