@@ -1,1 +1,1 @@
-document.write("A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)")
+document.write("Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)")
