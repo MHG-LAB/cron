@@ -1,1 +1,1 @@
-document.write("Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)")
+document.write("Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)")
