@@ -1,1 +1,1 @@
-document.write("Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)")
+document.write("A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)")

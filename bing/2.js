@@ -1,1 +1,1 @@
-document.write("Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)")
+document.write("Joshua Tree National Park, California (© JJ Landscapes/Getty Images)")
