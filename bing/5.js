@@ -1,1 +1,1 @@
-document.write("Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)")
+document.write("Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)")

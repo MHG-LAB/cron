@@ -1,1 +1,1 @@
-document.write("Joshua Tree National Park, California (© JJ Landscapes/Getty Images)")
+document.write("Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)")
