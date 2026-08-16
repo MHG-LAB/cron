@@ -1,1 +1,1 @@
-document.write('即使你失败，也有比你更失败的')
+document.write('你就像仙女一样，但我讨厌仙女')

@@ -1,1 +1,1 @@
-document.write('唯一不变的是变化本身!')
+document.write('有些事就是无可奈何的，没错，就是这样！')
