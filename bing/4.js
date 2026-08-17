@@ -1,1 +1,1 @@
-document.write("A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)")
+document.write("Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)")
