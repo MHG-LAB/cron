@@ -1,1 +1,1 @@
-document.write("Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)")
+document.write("Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)")

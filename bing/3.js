@@ -1,1 +1,1 @@
-document.write("Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)")
+document.write("Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)")
