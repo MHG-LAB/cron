@@ -1,1 +1,1 @@
-document.write("Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)")
+document.write("Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)")
