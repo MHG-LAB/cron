@@ -1,1 +1,1 @@
-document.write("Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)")
+document.write("Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)")
