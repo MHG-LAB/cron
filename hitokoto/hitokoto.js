@@ -1,1 +1,1 @@
-document.write('胸不平何以平天下，乳不巨何以聚人心。')
+document.write('我的小伙伴们都惊呆了！')

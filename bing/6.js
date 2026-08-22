@@ -1,1 +1,1 @@
-document.write("Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)")
+document.write("Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)")

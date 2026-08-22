@@ -1,1 +1,1 @@
-document.write("Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)")
+document.write("Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)")
