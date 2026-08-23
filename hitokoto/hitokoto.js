@@ -1,1 +1,1 @@
-document.write('我的小伙伴们都惊呆了！')
+document.write('只有感到害怕，人才会开始变得坚强。')

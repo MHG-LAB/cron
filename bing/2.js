@@ -1,1 +1,1 @@
-document.write("An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)")
+document.write("Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)")
