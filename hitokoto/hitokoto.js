@@ -1,1 +1,1 @@
-document.write('只有感到害怕，人才会开始变得坚强。')
+document.write('控兄是我的个性的同时，也是勋章！')
