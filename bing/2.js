@@ -1,1 +1,1 @@
-document.write("Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)")
+document.write("Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)")
