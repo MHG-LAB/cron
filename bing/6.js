@@ -1,1 +1,1 @@
-document.write("NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)")
+document.write("An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)")
