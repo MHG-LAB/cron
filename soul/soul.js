@@ -1,1 +1,1 @@
-document.write('比你优秀的人还在努力，你努力有什么用')
+document.write('别太晚睡，熬夜很伤手机的。')
