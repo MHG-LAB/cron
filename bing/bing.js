@@ -1,1 +1,1 @@
-document.write("Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)")
+document.write("Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)")

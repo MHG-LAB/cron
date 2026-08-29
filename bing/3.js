@@ -1,1 +1,1 @@
-document.write("Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)")
+document.write("Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)")
