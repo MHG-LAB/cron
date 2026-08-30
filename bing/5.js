@@ -1,1 +1,1 @@
-document.write("Brooklyn Bridge, New York City (© shayes17/Getty Images)")
+document.write("Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)")
