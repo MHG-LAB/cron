@@ -1,1 +1,1 @@
-document.write("Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)")
+document.write("Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)")
