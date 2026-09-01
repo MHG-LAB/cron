@@ -1,1 +1,1 @@
-document.write("Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)")
+document.write("Brooklyn Bridge, New York City (© shayes17/Getty Images)")
