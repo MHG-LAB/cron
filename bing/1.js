@@ -1,1 +1,1 @@
-document.write("Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)")
+document.write("Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)")

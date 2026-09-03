@@ -1,1 +1,1 @@
-document.write("Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)")
+document.write("Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)")

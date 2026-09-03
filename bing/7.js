@@ -1,1 +1,1 @@
-document.write("Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)")
+document.write("Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)")
