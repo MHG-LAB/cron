@@ -1,1 +1,1 @@
-document.write("Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)")
+document.write("Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)")
