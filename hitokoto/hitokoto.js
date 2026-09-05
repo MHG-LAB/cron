@@ -1,1 +1,1 @@
-document.write('一支穿云箭，千军万马来相见。')
+document.write('不怕学问浅，就怕志气短')
