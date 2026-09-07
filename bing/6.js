@@ -1,1 +1,1 @@
-document.write("Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)")
+document.write("Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)")
