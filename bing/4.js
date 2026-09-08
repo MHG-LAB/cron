@@ -1,1 +1,1 @@
-document.write("Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)")
+document.write("Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)")
