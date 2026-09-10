@@ -1,1 +1,1 @@
-document.write("Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)")
+document.write("Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)")

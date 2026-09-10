@@ -1,1 +1,1 @@
-document.write("Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)")
+document.write("Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)")
