@@ -1,1 +1,1 @@
-document.write("Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)")
+document.write("Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)")

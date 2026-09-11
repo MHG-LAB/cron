@@ -1,1 +1,1 @@
-document.write('借走的糖，还回的心。你的世界是我最勇敢的一次冒险。')
+document.write('天予不取，必遭天谴。')

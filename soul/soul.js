@@ -1,1 +1,1 @@
-document.write('不是别人瞧不起你，只是别人瞧不见你。')
+document.write('横溢的不是才华，是你腰间的赘肉')
