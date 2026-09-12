@@ -1,1 +1,1 @@
-document.write('横溢的不是才华，是你腰间的赘肉')
+document.write('爱是一道光，绿到你发慌。')

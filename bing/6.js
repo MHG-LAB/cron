@@ -1,1 +1,1 @@
-document.write("Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)")
+document.write("Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)")

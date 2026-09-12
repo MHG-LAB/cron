@@ -1,1 +1,1 @@
-document.write('天予不取，必遭天谴。')
+document.write('人生是没有正确答案的，也就是说，人生只有错误。')
