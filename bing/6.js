@@ -1,1 +1,1 @@
-document.write("Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)")
+document.write("'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)")
