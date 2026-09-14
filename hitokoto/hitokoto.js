@@ -1,1 +1,1 @@
-document.write('所谓组织，人才济济的话是长久不了的。')
+document.write('我相信，因为是你啊！')

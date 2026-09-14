@@ -1,1 +1,1 @@
-document.write("California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)")
+document.write("Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)")
