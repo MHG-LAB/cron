@@ -1,1 +1,1 @@
-document.write("Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)")
+document.write("Field of kochia plants, China (© lingqi xie/Getty Images)")

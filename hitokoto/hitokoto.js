@@ -1,1 +1,1 @@
-document.write('我相信，因为是你啊！')
+document.write('既然认准这条路，何必去打听要走多久。')
