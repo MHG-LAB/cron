@@ -1,1 +1,1 @@
-document.write("Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)")
+document.write("The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)")
