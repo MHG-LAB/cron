@@ -1,1 +1,1 @@
-document.write("Field of kochia plants, China (© lingqi xie/Getty Images)")
+document.write("Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)")

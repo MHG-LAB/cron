@@ -1,1 +1,1 @@
-document.write("Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)")
+document.write("Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)")
