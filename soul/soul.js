@@ -1,1 +1,1 @@
-document.write('你不奋斗一下？怎么知道自己有多无能。')
+document.write('别人努力会成功，你努力会有饭吃。')
