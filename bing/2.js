@@ -1,1 +1,1 @@
-document.write("Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)")
+document.write("Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)")
