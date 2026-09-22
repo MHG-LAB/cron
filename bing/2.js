@@ -1,1 +1,1 @@
-document.write("Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)")
+document.write("Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)")

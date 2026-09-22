@@ -1,1 +1,1 @@
-document.write("Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)")
+document.write("Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)")
