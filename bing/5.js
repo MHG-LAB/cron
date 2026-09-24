@@ -1,1 +1,1 @@
-document.write("Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)")
+document.write("Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)")
