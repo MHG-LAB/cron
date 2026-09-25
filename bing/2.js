@@ -1,1 +1,1 @@
-document.write("Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)")
+document.write("Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)")

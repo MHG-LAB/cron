@@ -1,1 +1,1 @@
-document.write("Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)")
+document.write("Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)")
