@@ -1,1 +1,1 @@
-document.write("Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)")
+document.write("Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)")

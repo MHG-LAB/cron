@@ -1,1 +1,1 @@
-document.write("Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)")
+document.write("Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)")
