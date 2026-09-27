@@ -1,1 +1,1 @@
-document.write('俗话说人无远虑，必定很有钱。')
+document.write('什么都在涨价，就是人越来越贱。')

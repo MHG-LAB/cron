@@ -1,1 +1,1 @@
-document.write("Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)")
+document.write("Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)")
