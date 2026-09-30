@@ -1,1 +1,1 @@
-document.write("Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)")
+document.write("Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)")
