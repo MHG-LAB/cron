@@ -1,1 +1,1 @@
-document.write("Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)")
+document.write("Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)")

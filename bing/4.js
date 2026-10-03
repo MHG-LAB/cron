@@ -1,1 +1,1 @@
-document.write("Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)")
+document.write("The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)")

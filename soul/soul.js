@@ -1,1 +1,1 @@
-document.write('你的努力程度，还远远谈不上拼天赋。')
+document.write('假期定了个Plan，半个暑假结束了只完成了P，因为lan。')
