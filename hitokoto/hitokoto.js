@@ -1,1 +1,1 @@
-document.write('你TM感动了我')
+document.write('我一直想听哦，你为我所演奏的那首月光。')
