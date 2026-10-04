@@ -1,1 +1,1 @@
-document.write("The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)")
+document.write("Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)")

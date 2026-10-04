@@ -1,1 +1,1 @@
-document.write('假期定了个Plan，半个暑假结束了只完成了P，因为lan。')
+document.write('吃完苦中苦，我终于成为了人下人。')
