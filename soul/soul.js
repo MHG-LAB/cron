@@ -1,1 +1,1 @@
-document.write('单身是个很好的借口，说得好像妹子们会看上你似的。')
+document.write('世上无难事，只要肯放弃')
