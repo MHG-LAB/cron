@@ -1,1 +1,1 @@
-document.write("Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)")
+document.write("Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)")
