@@ -1,1 +1,1 @@
-document.write("Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)")
+document.write("Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)")

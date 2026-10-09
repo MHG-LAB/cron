@@ -1,1 +1,1 @@
-document.write("Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)")
+document.write("Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)")
