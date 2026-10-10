@@ -1,1 +1,1 @@
-document.write("Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)")
+document.write("Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)")
