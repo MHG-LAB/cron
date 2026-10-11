@@ -1,1 +1,1 @@
-document.write("Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)")
+document.write("View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)")

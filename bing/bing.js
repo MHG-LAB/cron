@@ -1,1 +1,1 @@
-document.write("View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)")
+document.write("Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)")
