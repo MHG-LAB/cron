@@ -1,1 +1,1 @@
-document.write("Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)")
+document.write("White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)")

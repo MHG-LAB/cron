@@ -1,1 +1,1 @@
-document.write("Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)")
+document.write("Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)")
