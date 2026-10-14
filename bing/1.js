@@ -1,1 +1,1 @@
-document.write("White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)")
+document.write("Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)")
