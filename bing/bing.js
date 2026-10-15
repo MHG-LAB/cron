@@ -1,1 +1,1 @@
-document.write("Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)")
+document.write("View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)")
