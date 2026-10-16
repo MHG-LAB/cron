@@ -1,1 +1,1 @@
-document.write("Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)")
+document.write("Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)")
