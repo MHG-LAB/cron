@@ -1,1 +1,1 @@
-document.write("Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)")
+document.write("Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)")

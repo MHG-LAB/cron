@@ -1,1 +1,1 @@
-document.write("Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)")
+document.write("Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)")
