@@ -1,1 +1,1 @@
-document.write("View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)")
+document.write("Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)")
