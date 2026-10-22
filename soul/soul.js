@@ -1,1 +1,1 @@
-document.write('先生，你这张卡上的钱也不够……')
+document.write('行而上学，实在不行就别上了吧')
