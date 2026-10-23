@@ -1,1 +1,1 @@
-document.write("Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)")
+document.write("Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)")
