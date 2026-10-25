@@ -1,1 +1,1 @@
-document.write('上帝七天创造世界，剩下的时间呢？ 补bug')
+document.write('人丑就要多读书，反正，其他什么事也与你无关。')
