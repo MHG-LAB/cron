@@ -1,1 +1,1 @@
-document.write("Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)")
+document.write("Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)")
