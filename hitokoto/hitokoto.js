@@ -1,1 +1,1 @@
-document.write('修行就是修正自己错误的观念')
+document.write('No game No life')
