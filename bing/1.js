@@ -1,1 +1,1 @@
-document.write("A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)")
+document.write("Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)")
