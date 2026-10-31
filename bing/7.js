@@ -1,1 +1,1 @@
-document.write("Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)")
+document.write("Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)")
