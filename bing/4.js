@@ -1,1 +1,1 @@
-document.write("Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)")
+document.write("A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)")

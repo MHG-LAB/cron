@@ -1,1 +1,1 @@
-document.write("Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)")
+document.write("Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)")
