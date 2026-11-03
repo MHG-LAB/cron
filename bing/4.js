@@ -1,1 +1,1 @@
-document.write("Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)")
+document.write("Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)")

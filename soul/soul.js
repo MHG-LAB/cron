@@ -1,1 +1,1 @@
-document.write('失败乃成功之母，然而成功却六亲不认')
+document.write('猪猪那么可爱你们能不能炖香一点')
