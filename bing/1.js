@@ -1,1 +1,1 @@
-document.write("Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)")
+document.write("Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)")
