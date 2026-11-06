@@ -1,1 +1,1 @@
-document.write("St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)")
+document.write("Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)")
