@@ -1,1 +1,1 @@
-document.write("Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)")
+document.write("Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)")
