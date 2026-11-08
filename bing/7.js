@@ -1,1 +1,1 @@
-document.write("Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)")
+document.write("St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)")
