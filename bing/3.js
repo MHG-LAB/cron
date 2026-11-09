@@ -1,1 +1,1 @@
-document.write("People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)")
+document.write("Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)")

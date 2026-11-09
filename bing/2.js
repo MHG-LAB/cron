@@ -1,1 +1,1 @@
-document.write("Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)")
+document.write("Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)")
