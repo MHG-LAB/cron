@@ -1,1 +1,1 @@
-document.write('学无前后，达者为师')
+document.write('以智者之名，为愚者代辩。')
