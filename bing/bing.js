@@ -1,1 +1,1 @@
-document.write("Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)")
+document.write("Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)")

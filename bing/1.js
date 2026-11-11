@@ -1,1 +1,1 @@
-document.write("Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)")
+document.write("Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)")

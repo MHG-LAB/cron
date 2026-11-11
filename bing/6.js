@@ -1,1 +1,1 @@
-document.write("Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)")
+document.write("People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)")
