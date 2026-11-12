@@ -1,1 +1,1 @@
-document.write("A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)")
+document.write("Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)")
