@@ -1,1 +1,1 @@
-document.write('追求又失去，多少往昔的梦。 一边嘲笑自己 一边继续向前。')
+document.write('Too many requests. Please refer to https://www.jsdelivr.com/terms/acceptable-use-policy-jsdelivr-net for more information or contact d@jsdelivr.com.')
