@@ -1,1 +1,1 @@
-document.write('Too many requests. Please refer to https://www.jsdelivr.com/terms/acceptable-use-policy-jsdelivr-net for more information or contact d@jsdelivr.com.')
+document.write('怎么可能有令人痛苦，悲伤的正义呢。')
