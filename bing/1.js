@@ -1,1 +1,1 @@
-document.write("North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)")
+document.write("Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)")
