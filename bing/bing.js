@@ -1,1 +1,1 @@
-document.write("Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)")
+document.write("Frozen azalea with red leaves (© avoferten/Shutterstock)")
