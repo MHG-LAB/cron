@@ -1,1 +1,1 @@
-document.write('我们要忠于自己的信仰啊。')
+document.write('春风十里，那就是五千米。')
