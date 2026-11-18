@@ -1,1 +1,1 @@
-document.write('早起的鸟儿有虫吃，可惜你是那条虫。')
+document.write('如果你特别迷恋一个人，那你肯定配不上ta。')
