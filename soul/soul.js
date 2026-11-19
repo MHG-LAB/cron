@@ -1,1 +1,1 @@
-document.write('如果你特别迷恋一个人，那你肯定配不上ta。')
+document.write('当初有多感天动地，以后就有多万劫不复。')

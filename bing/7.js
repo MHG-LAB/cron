@@ -1,1 +1,1 @@
-document.write("Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)")
+document.write("American flags in a public park in upstate New York (© Matt Champlin/Getty Images)")
