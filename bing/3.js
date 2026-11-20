@@ -1,1 +1,1 @@
-document.write("Frozen azalea with red leaves (© avoferten/Shutterstock)")
+document.write("Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)")

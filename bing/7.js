@@ -1,1 +1,1 @@
-document.write("American flags in a public park in upstate New York (© Matt Champlin/Getty Images)")
+document.write("North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)")

@@ -1,1 +1,1 @@
-document.write('当初有多感天动地，以后就有多万劫不复。')
+document.write('就算是Believe，中间也藏着一个lie。')
