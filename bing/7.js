@@ -1,1 +1,1 @@
-document.write("Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)")
+document.write("Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)")

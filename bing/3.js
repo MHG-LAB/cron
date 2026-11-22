@@ -1,1 +1,1 @@
-document.write("Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)")
+document.write("Pair of barn owls (© Zahoor Salmi/Getty Images)")
