@@ -1,1 +1,1 @@
-document.write("Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)")
+document.write("Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)")

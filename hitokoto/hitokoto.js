@@ -1,1 +1,1 @@
-document.write('无论你有多强，也别想着独自背负所有，因为那样一来，你必然失败。')
+document.write('简单即是美 - Simple is beautiful')

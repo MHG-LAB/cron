@@ -1,1 +1,1 @@
-document.write("Pair of barn owls (© Zahoor Salmi/Getty Images)")
+document.write("The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)")
