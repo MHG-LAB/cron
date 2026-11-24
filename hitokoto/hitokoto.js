@@ -1,1 +1,1 @@
-document.write('简单即是美 - Simple is beautiful')
+document.write('人如其名，小巧玲珑，娇蛮可爱。')
