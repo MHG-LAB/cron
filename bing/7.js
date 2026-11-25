@@ -1,1 +1,1 @@
-document.write("Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)")
+document.write("Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)")
