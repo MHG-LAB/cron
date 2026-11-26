@@ -1,1 +1,1 @@
-document.write("The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)")
+document.write("Fiddlehead fern (© Reza Saputra/Getty Images)")
