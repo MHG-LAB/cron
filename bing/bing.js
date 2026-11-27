@@ -1,1 +1,1 @@
-document.write("Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)")
+document.write("Two wild tom turkeys (© davidsdodd/Getty Images)")

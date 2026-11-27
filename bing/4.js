@@ -1,1 +1,1 @@
-document.write("Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)")
+document.write("The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)")
