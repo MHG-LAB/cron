@@ -1,1 +1,1 @@
-document.write("Fiddlehead fern (© Reza Saputra/Getty Images)")
+document.write("Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)")

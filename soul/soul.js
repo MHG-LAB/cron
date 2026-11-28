@@ -1,1 +1,1 @@
-document.write('有一段情，叫自作多情。')
+document.write('偷一个人的主意是剽窃，偷很多人的主意是研究。')

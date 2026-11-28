@@ -1,1 +1,1 @@
-document.write("Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)")
+document.write("Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)")

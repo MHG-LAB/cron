@@ -1,1 +1,1 @@
-document.write("Two wild tom turkeys (© davidsdodd/Getty Images)")
+document.write("Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)")
